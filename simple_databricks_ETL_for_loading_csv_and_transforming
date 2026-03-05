@@ -1,0 +1,20 @@
+source_dir = "abfss://target@takeodatafactory.dfs.core.windows.net/imdb_top_1000.csv"
+df = spark.read.option("inferSchema",True).option("header",True).option("sep",",").csv(source_dir)
+#display(df)
+#df.printSchema()
+#df.count()
+
+# 1) remove columns starting with 'star' in their column name
+star_cols = [c for c in df.columns if c.startswith("Star")]
+
+# 2) remove No_of_Votes, Gross column
+drop_cols = star_cols + [c for c in ["No_of_Votes", "Gross"] if c in df.columns]
+
+df_clean = df.drop(*drop_cols)
+
+#display(df_clean)
+#df_clean.printSchema()
+target_dir = "abfss://target@takeodatafactory.dfs.core.windows.net/imdb_clean_csv"
+
+df_clean.write.mode("overwrite").option("header", True).csv(target_dir)
+dbutils.fs.ls(target_dir)
