@@ -1,0 +1,36 @@
+container_path = "abfss://target@takeodatafactory.dfs.core.windows.net/"
+
+files = dbutils.fs.ls(container_path)
+
+found = False
+
+for f in files:
+    if f.path.endswith(".csv"):
+
+        df = spark.read.option("inferSchema", True)\
+                       .option("header", True)\
+                       .option("sep", ",")\
+                       .csv(f.path)
+
+        # finding columns that begin with 'Star'
+        star_cols = [c for c in df.columns if c.startswith("Star")]
+
+        # check schema requirement
+        if star_cols or "No_of_Votes" in df.columns or "Gross" in df.columns:
+
+            found = True
+
+            drop_cols = star_cols + [c for c in ["No_of_Votes", "Gross"] if c in df.columns]
+
+            df_clean = df.drop(*drop_cols)
+
+            target_dir = container_path + "clean_" + f.name.replace(".csv","")
+
+            df_clean.write.mode("overwrite")\
+                          .option("header", True)\
+                          .csv(target_dir)
+
+            print(f"Cleaned file: {f.name}")
+
+if not found:
+    print("No file with the required schema was found in the container.")
