@@ -1,4 +1,4 @@
-source_dir = "abfss://target@takeodatafactory.dfs.core.windows.net/imdb_top_1000.csv"
+source_dir = "abfss://source@takeodatafactory.dfs.core.windows.net/imdb_top_1000.csv"
 df = spark.read.option("inferSchema",True).option("header",True).option("sep",",").csv(source_dir)
 #display(df)
 #df.printSchema()
