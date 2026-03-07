@@ -1,4 +1,4 @@
-container_path = "abfss://target@takeodatafactory.dfs.core.windows.net/"
+container_path = "abfss://source@takeodatafactory.dfs.core.windows.net/"
 
 files = dbutils.fs.ls(container_path)
 
