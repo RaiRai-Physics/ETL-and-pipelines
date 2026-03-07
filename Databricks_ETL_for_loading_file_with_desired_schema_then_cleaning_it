@@ -12,7 +12,7 @@ for f in files:
                        .option("sep", ",")\
                        .csv(f.path)
 
-        # finding columns that begin with 'Star'
+        # find star columns
         star_cols = [c for c in df.columns if c.startswith("Star")]
 
         # check schema requirement
@@ -24,11 +24,9 @@ for f in files:
 
             df_clean = df.drop(*drop_cols)
 
-            target_dir = container_path + "clean_" + f.name.replace(".csv","")
+            target_dir = "abfss://target@takeodatafactory.dfs.core.windows.net/imdb_clean_csv"
 
-            df_clean.write.mode("overwrite")\
-                          .option("header", True)\
-                          .csv(target_dir)
+            df_clean.write.mode("overwrite").option("header", True).csv(target_dir) dbutils.fs.ls(target_dir)
 
             print(f"Cleaned file: {f.name}")
 
