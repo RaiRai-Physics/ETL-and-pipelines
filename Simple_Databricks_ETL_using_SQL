@@ -1,0 +1,47 @@
+# ============================================
+# Simple ETL Pipeline with SQL Transformations
+# ============================================
+
+source_path = "abfss://source@takeodatafactory.dfs.core.windows.net/input_csv"
+target_path = "abfss://target@takeodatafactory.dfs.core.windows.net/output_sql_csv"
+
+# 1) Extract
+df = (
+    spark.read
+         .option("header", True)
+         .option("inferSchema", True)
+         .csv(source_path)
+)
+
+df.createOrReplaceTempView("raw_movies")
+
+# 2) Transform using SQL
+transformed_df = spark.sql("""
+    SELECT
+        UPPER(TRIM(Series_Title)) AS Series_Title,
+        CAST(Released_Year AS INT) AS Released_Year,
+        Genre,
+        IMDB_Rating,
+        Director,
+        CASE
+            WHEN IMDB_Rating >= 8.5 THEN 'Top Rated'
+            WHEN IMDB_Rating >= 7.0 THEN 'Good'
+            ELSE 'Average'
+        END AS Rating_Category,
+        current_timestamp() AS etl_loaded_time
+    FROM raw_movies
+    WHERE Series_Title IS NOT NULL
+      AND IMDB_Rating IS NOT NULL
+""")
+
+# 3) Load
+(
+    transformed_df.write
+                  .mode("overwrite")
+                  .option("header", True)
+                  .csv(target_path)
+)
+
+print(f"SQL ETL pipeline completed. Output written to: {target_path}")
+display(transformed_df)
+display(dbutils.fs.ls(target_path))
