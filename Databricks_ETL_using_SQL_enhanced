@@ -1,0 +1,83 @@
+from pyspark.sql.functions import current_timestamp
+
+source_path = "abfss://source@takeodatafactory.dfs.core.windows.net/input_csv"
+target_path = "abfss://target@takeodatafactory.dfs.core.windows.net/output_sql_csv"
+
+# 1) Extract
+df = (
+    spark.read
+         .option("header", True)
+         .option("inferSchema", True)
+         .csv(source_path)
+)
+
+df.createOrReplaceTempView("raw_movies")
+
+# 2) Transform using SQL
+transformed_df = spark.sql("""
+    WITH cleaned_movies AS (
+        SELECT
+            TRIM(Series_Title) AS Series_Title,
+            CAST(Released_Year AS INT) AS Released_Year,
+            INITCAP(TRIM(Genre)) AS Genre,
+            CAST(IMDB_Rating AS DOUBLE) AS IMDB_Rating,
+            INITCAP(TRIM(Director)) AS Director
+        FROM raw_movies
+        WHERE Series_Title IS NOT NULL
+          AND TRIM(Series_Title) <> ''
+          AND IMDB_Rating IS NOT NULL
+          AND CAST(IMDB_Rating AS DOUBLE) BETWEEN 0 AND 10
+          AND CAST(Released_Year AS INT) BETWEEN 1900 AND YEAR(current_date())
+    )
+
+    SELECT DISTINCT
+        UPPER(Series_Title) AS Series_Title,
+        Released_Year,
+        Genre,
+        IMDB_Rating,
+        Director,
+
+        CASE
+            WHEN IMDB_Rating >= 8.5 THEN 'Top Rated'
+            WHEN IMDB_Rating >= 7.0 THEN 'Good'
+            ELSE 'Average'
+        END AS Rating_Category,
+
+        CASE
+            WHEN Released_Year >= 2020 THEN '2020s'
+            WHEN Released_Year >= 2010 THEN '2010s'
+            WHEN Released_Year >= 2000 THEN '2000s'
+            WHEN Released_Year >= 1990 THEN '1990s'
+            ELSE 'Before 1990'
+        END AS Release_Decade,
+
+        YEAR(current_date()) - Released_Year AS Movie_Age,
+
+        CASE
+            WHEN Genre LIKE '%Drama%' THEN 'Drama'
+            WHEN Genre LIKE '%Action%' THEN 'Action'
+            WHEN Genre LIKE '%Comedy%' THEN 'Comedy'
+            WHEN Genre LIKE '%Crime%' THEN 'Crime'
+            ELSE 'Other'
+        END AS Genre_Group,
+
+        CASE
+            WHEN Director IS NULL OR Director = '' THEN 'Unknown Director'
+            ELSE Director
+        END AS Director_Cleaned,
+
+        current_timestamp() AS etl_loaded_time
+    FROM cleaned_movies
+""")
+
+# 3) Load
+(
+    transformed_df.write
+                  .mode("overwrite")
+                  .option("header", True)
+                  .csv(target_path)
+)
+
+print(f"Enhanced SQL ETL pipeline completed. Output written to: {target_path}")
+display(transformed_df)
+display(dbutils.fs.ls(target_path))
