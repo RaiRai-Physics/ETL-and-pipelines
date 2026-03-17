@@ -1,0 +1,204 @@
+-- =========================
+-- 0) Admin role (needed for STORAGE INTEGRATION)
+-- =========================
+USE ROLE ACCOUNTADMIN;
+
+-- =========================
+-- 1) Warehouse
+-- =========================
+CREATE OR REPLACE WAREHOUSE snowflake_pipeline_wh
+  WAREHOUSE_SIZE = 'XSMALL'
+  AUTO_SUSPEND = 300
+  AUTO_RESUME = TRUE
+  INITIALLY_SUSPENDED = TRUE;
+
+USE WAREHOUSE snowflake_pipeline_wh;
+
+-- =========================
+-- 2) Database + Schema
+-- =========================
+CREATE OR REPLACE DATABASE snowflake_pipeline_db;
+CREATE OR REPLACE SCHEMA snowflake_pipeline;
+
+USE DATABASE snowflake_pipeline_db;
+USE SCHEMA snowflake_pipeline;
+
+-- =========================
+-- 3) Table 
+-- =========================
+CREATE OR REPLACE TABLE Employee (
+    EMPLOYEE_ID INT,
+    NAME VARCHAR(100),
+    SALARY DECIMAL(10,2),
+    DEPARTMENT_ID INT,
+    JOINING_DATE DATE
+);
+
+-- =========================
+-- 4) CSV file format 
+-- =========================
+CREATE OR REPLACE FILE FORMAT csv_format
+TYPE = 'CSV'
+FIELD_DELIMITER = ','
+SKIP_HEADER = 1
+FIELD_OPTIONALLY_ENCLOSED_BY = '"'
+TRIM_SPACE = TRUE
+ERROR_ON_COLUMN_COUNT_MISMATCH = FALSE
+EMPTY_FIELD_AS_NULL = TRUE;
+
+-- =========================
+-- 5) Stage Creation and Checking 
+-- =========================
+CREATE OR REPLACE STAGE employee_stage;
+
+SELECT $1, $2, $3, $4, $5
+FROM @employee_stage/Employee.csv
+(FILE_FORMAT => csv_format);
+
+-- =========================
+-- 6) Load file into the table and verifying
+-- =========================
+COPY INTO Employee
+FROM @employee_stage/Employee.csv
+FILE_FORMAT = (FORMAT_NAME = csv_format)
+ON_ERROR = 'CONTINUE';
+
+SELECT * FROM Employee;
+
+SELECT COUNT(*) FROM Employee;
+
+-- =========================
+-- 7) Create Storage Integration
+-- =========================
+CREATE STORAGE INTEGRATION s3_integration
+TYPE = EXTERNAL_STAGE
+STORAGE_PROVIDER = 'S3'
+ENABLED = TRUE
+STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::account_id:role/iam_role'
+STORAGE_ALLOWED_LOCATIONS = ('s3://your_bucket_name/employee-output/');
+
+DESC STORAGE INTEGRATION s3_integration;
+
+-- =========================
+-- 8) Create S3 Stage
+-- =========================
+CREATE OR REPLACE STAGE s3_output_stage
+URL = 's3://your_bucket_name/employee-output/'
+STORAGE_INTEGRATION = s3_integration
+FILE_FORMAT = (TYPE = 'CSV' FIELD_OPTIONALLY_ENCLOSED_BY = '"');
+
+-- =========================
+-- 9) Export data to S3 and Verify
+-- =========================
+COPY INTO @s3_output_stage
+FROM Employee
+HEADER = TRUE
+OVERWRITE = TRUE;
+
+LIST @s3_output_stage;
+
+USE ROLE ACCOUNTADMIN;
+
+-- =========================
+-- 10) Storage Integration for Parquet
+-- =========================
+USE ROLE ACCOUNTADMIN;
+
+ALTER STORAGE INTEGRATION s3_integration
+SET STORAGE_ALLOWED_LOCATIONS = (
+  's3://your_bucket_name/employee-output/',
+  's3://your_bucket_name/listing_data/'
+);
+
+-- =========================
+-- 11) S3 Stage for Parquet
+-- =========================
+CREATE OR REPLACE STAGE listing_stage
+URL = 's3://your_bucket_name/listing_data/'
+STORAGE_INTEGRATION = s3_integration;
+
+DESC STAGE listing_stage;
+
+-- =========================
+-- 12) Create source table for Parquet demo
+-- =========================
+CREATE OR REPLACE TABLE employee_parquet_source (
+    EMPLOYEE_ID INT,
+    NAME VARCHAR(100),
+    SALARY DECIMAL(10,2),
+    DEPARTMENT_ID INT,
+    JOINING_DATE DATE
+);
+
+INSERT INTO employee_parquet_source VALUES
+(100, 'Jennifer', 4400.10, 10, '2017-01-05'),
+(101, 'Michael', 13000.10, 10, '2018-08-24'),
+(102, 'Pat', 6000.10, 20, '2018-12-10'),
+(103, 'Den', 11000.20, 30, '2019-02-17'),
+(104, 'Alexander', 3100.20, 40, '2019-07-01'),
+(105, 'Shelli', 2900.20, 50, '2020-04-22'),
+(106, 'Sigal', 2800.30, 60, '2020-09-05'),
+(107, 'Guy', 2600.30, 70, '2021-05-25'),
+(108, 'Karen', 2500.30, 80, '2021-12-21');
+
+-- =========================
+-- 13) Export employee data as Parquet to S3
+-- =========================
+COPY INTO @listing_stage/employee_parquet_
+FROM (
+    SELECT
+        EMPLOYEE_ID,
+        NAME,
+        SALARY,
+        DEPARTMENT_ID,
+        JOINING_DATE
+    FROM employee_parquet_source
+)
+FILE_FORMAT = (TYPE = 'PARQUET')
+HEADER = TRUE
+OVERWRITE = TRUE;
+
+-- =========================
+-- 14) Verify Parquet file exists in S3 stage
+-- =========================
+LIST @listing_stage;
+
+-- =========================
+-- 15) Create Parquet file format
+-- =========================
+CREATE OR REPLACE FILE FORMAT parquet_format
+TYPE = 'PARQUET';
+
+-- =========================
+-- 16) Preview Parquet data
+-- =========================
+SELECT $1
+FROM @listing_stage
+(FILE_FORMAT => parquet_format)
+LIMIT 10;
+
+-- =========================
+-- 17) Create destination table
+-- =========================
+CREATE OR REPLACE TABLE Employee_Parquet_Loaded (
+    EMPLOYEE_ID INT,
+    NAME VARCHAR(100),
+    SALARY DECIMAL(10,2),
+    DEPARTMENT_ID INT,
+    JOINING_DATE DATE
+);
+
+-- =========================
+-- 18) Load Parquet into destination table
+-- =========================
+COPY INTO Employee_Parquet_Loaded
+FROM @listing_stage
+FILE_FORMAT = (FORMAT_NAME = parquet_format)
+MATCH_BY_COLUMN_NAME = CASE_INSENSITIVE;
+
+-- =========================
+-- 19) Verify loaded data
+-- =========================
+SELECT * FROM Employee_Parquet_Loaded;
+
+SELECT COUNT(*) FROM Employee_Parquet_Loaded;
