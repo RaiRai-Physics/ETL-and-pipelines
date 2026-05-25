@@ -1,20 +1,9 @@
-# Databricks notebook source
-# MAGIC %md
-# MAGIC # Healthcare Insurance Claims ETL Pipeline
-# MAGIC
-# MAGIC This Databricks notebook builds a small but realistic healthcare insurance ETL pipeline using synthetic data only.
-# MAGIC
-# MAGIC ## Pipeline layers
-# MAGIC
-# MAGIC - **Raw files**: synthetic CSV source data written to DBFS
-# MAGIC - **Bronze**: raw ingested Delta tables with ingestion metadata
-# MAGIC - **Silver**: cleaned and validated patient, policy, provider, and claim tables
-# MAGIC - **Rejects**: invalid claim records with clear rejection reasons
-# MAGIC - **Gold**: analytics-ready fact table and insurance metrics
-# MAGIC
-# MAGIC No real PHI is used.
-
-# COMMAND ----------
+#This Databricks notebook builds a small but realistic healthcare insurance ETL pipeline using synthetic data only.
+#**Raw files**: synthetic CSV source data written to DBFS
+# **Bronze**: raw ingested Delta tables with ingestion metadata
+#**Silver**: cleaned and validated patient, policy, provider, and claim tables
+# **Rejects**: invalid claim records with clear rejection reasons
+#**Gold**: analytics-ready fact table and insurance metrics
 
 from pyspark.sql import functions as F
 from pyspark.sql import types as T
@@ -22,12 +11,7 @@ from pyspark.sql.window import Window
 from datetime import datetime
 import uuid
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 1. Configuration
-
-# COMMAND ----------
+# 1. Configuration
 
 dbutils.widgets.text("database_name", "healthcare_insurance_demo")
 dbutils.widgets.text("base_path", "dbfs:/tmp/healthcare_insurance_databricks_etl")
@@ -51,10 +35,7 @@ print(f"Database: {DATABASE_NAME}")
 print(f"Base path: {BASE_PATH}")
 print(f"Pipeline run id: {PIPELINE_RUN_ID}")
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 2. Reset demo environment
+#2. Reset demo environment
 
 # COMMAND ----------
 
@@ -65,14 +46,7 @@ if RESET_DEMO:
 spark.sql(f"CREATE DATABASE IF NOT EXISTS {DATABASE_NAME}")
 spark.sql(f"USE {DATABASE_NAME}")
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 3. Create synthetic raw source data
-# MAGIC
-# MAGIC These are fake records for a portfolio/demo pipeline.
-
-# COMMAND ----------
+# 3. Create synthetic raw source data
 
 patients_data = [
     (1, "Asha Patel", 29, "F", "Dallas", "TX"),
@@ -158,12 +132,7 @@ for source_name, source_df in raw_sources.items():
     source_df.coalesce(1).write.mode("overwrite").option("header", True).csv(source_path)
     print(f"Wrote raw source: {source_path}")
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 4. Ingest raw CSV files into Bronze Delta tables
-
-# COMMAND ----------
+# 4. Ingest raw CSV files into Bronze Delta tables
 
 source_configs = [
     {
@@ -227,12 +196,7 @@ for config in source_configs:
     bronze_audit_rows.append((config["name"], table_name, row_count, PIPELINE_RUN_ID))
     print(f"Ingested {row_count} rows into {table_name}")
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 5. Build Silver dimension tables
-
-# COMMAND ----------
+# 5. Build Silver dimension tables
 
 silver_patients = (
     spark.table(f"{DATABASE_NAME}.bronze_patients")
@@ -299,17 +263,7 @@ for table_name, df in silver_tables.items():
 
     print(f"Created {table_name}: {df.count()} rows")
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 6. Clean and validate claims
-# MAGIC
-# MAGIC This step creates:
-# MAGIC
-# MAGIC - `silver_claims_clean`
-# MAGIC - `silver_claims_rejected`
-
-# COMMAND ----------
+# 6. Clean and validate claims
 
 claims_window = Window.partitionBy("claim_id")
 
@@ -440,12 +394,7 @@ for table_name, df in claims_outputs.items():
 
     print(f"Created {table_name}: {df.count()} rows")
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 7. Build Gold fact table
-
-# COMMAND ----------
+# 7. Build Gold fact table
 
 fact_claims = (
     spark.table(f"{DATABASE_NAME}.silver_claims_clean").alias("c")
@@ -496,12 +445,7 @@ spark.sql(f"""
 
 print(f"Created gold_fact_claims: {fact_claims.count()} rows")
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 8. Create Gold insurance analytics metrics
-
-# COMMAND ----------
+# 8. Create Gold insurance analytics metrics
 
 gold_fact_claims = spark.table(f"{DATABASE_NAME}.gold_fact_claims")
 silver_claims_rejected = spark.table(f"{DATABASE_NAME}.silver_claims_rejected")
@@ -613,12 +557,7 @@ for table_name, df in metric_tables.items():
 
     print(f"Created {table_name}: {df.count()} rows")
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 9. Create pipeline audit table
-
-# COMMAND ----------
+# 9. Create pipeline audit table
 
 audit_rows = [
     ("bronze_patients", spark.table(f"{DATABASE_NAME}.bronze_patients").count()),
@@ -672,12 +611,7 @@ spark.sql(f"""
 
 display(audit_df)
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 10. Preview final outputs
-
-# COMMAND ----------
+# 10. Preview final outputs
 
 print("Gold fact claims")
 display(spark.table(f"{DATABASE_NAME}.gold_fact_claims"))
@@ -691,21 +625,9 @@ display(spark.table(f"{DATABASE_NAME}.gold_top_diagnoses"))
 print("Rejected claims summary")
 display(spark.table(f"{DATABASE_NAME}.gold_rejected_claims_summary"))
 
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC ## 11. Useful SQL queries
-# MAGIC
-# MAGIC After running the notebook, try these in a Databricks SQL cell:
-# MAGIC
-# MAGIC ```sql
-# MAGIC SELECT * FROM healthcare_insurance_demo.gold_fact_claims;
-# MAGIC
-# MAGIC SELECT * FROM healthcare_insurance_demo.gold_claims_by_policy_type;
-# MAGIC
-# MAGIC SELECT * FROM healthcare_insurance_demo.gold_top_diagnoses;
-# MAGIC
-# MAGIC SELECT * FROM healthcare_insurance_demo.gold_rejected_claims_summary;
-# MAGIC
-# MAGIC SELECT * FROM healthcare_insurance_demo.pipeline_audit;
-# MAGIC ```
+# 11. Useful SQL queries
+SELECT * FROM healthcare_insurance_demo.gold_fact_claims;
+SELECT * FROM healthcare_insurance_demo.gold_claims_by_policy_type;
+SELECT * FROM healthcare_insurance_demo.gold_top_diagnoses;
+ SELECT * FROM healthcare_insurance_demo.gold_rejected_claims_summary;
+ SELECT * FROM healthcare_insurance_demo.pipeline_audit;
