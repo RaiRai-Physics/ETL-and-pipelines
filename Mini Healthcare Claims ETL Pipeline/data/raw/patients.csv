@@ -1,0 +1,8 @@
+patient_id,name,age,gender,city,disease
+P001,Anita Sharma,34,F,Chicago,Diabetes
+P002,Robert Miles,45,M,Dallas,Cancer
+P003,,29,F,Austin,Asthma
+P004,Sara Khan,,Female,Chicago,Flu
+P005,John Lee,17,Male,Dallas,Cancer
+P005,John Lee,17,Male,Dallas,Cancer
+P006,Maya Patel,41,,Houston,Diabetes
