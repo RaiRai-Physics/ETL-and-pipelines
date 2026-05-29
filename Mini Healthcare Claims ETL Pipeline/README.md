@@ -24,7 +24,7 @@ The project currently uses one raw file:
 ## Folder Structure
 
 ```text
-etl-pyspark-refresher/
+etl-pyspark-pipeline/
 ├── data/
 │   ├── raw/
 │   ├── clean/
