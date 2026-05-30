@@ -1,0 +1,6 @@
+promo_code,campaign_name,discount_type,discount_value,start_date,end_date
+WELCOME10,New Customer Welcome,percent,10,2024-01-01,2024-12-31
+SPRING15,Spring Sale,percent,15,2024-03-01,2024-05-31
+FREESHIP,Free Shipping Campaign,shipping,0,2024-01-01,2024-12-31
+VIP20,VIP Loyalty Sale,percent,20,2024-06-01,2024-09-30
+BADCODE,Expired Test Campaign,percent,25,2023-01-01,2023-12-31

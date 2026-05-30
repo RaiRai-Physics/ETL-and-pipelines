@@ -1,0 +1,14 @@
+product_id,product_name,category,subcategory,cost_price,list_price,supplier,active_flag,launch_date
+P001,Wireless Mouse,Electronics,Accessories,12.50,24.99,NorthStar Supplies,Y,2023-11-01
+P002,Mechanical Keyboard,Electronics,Accessories,39.00,89.99,KeyForge,Y,2023-12-12
+P003,USB-C Hub,Electronics,Adapters,18.75,44.99,NorthStar Supplies,Yes,2024-01-18
+P004,Desk Lamp,Home,Lighting,14.10,34.99,BrightNest,Y,2024-02-02
+P005,Notebook Set,Office,Stationery,4.20,12.99,PaperTrail,Y,2023-10-20
+P006,Water Bottle,Home,Kitchen,6.00,19.99,HydroWorks,Y,2024-03-15
+P007,Running Socks,Apparel,Fitness,3.50,9.99,FitThread,Y,2024-01-05
+P008,Yoga Mat,Fitness,Equipment,11.00,29.99,FitThread,Y,2023-09-09
+P009,Coffee Mug,Home,Kitchen,2.25,8.99,BrightNest,N,2022-05-11
+P010,Laptop Stand,Office,Desk Setup,16.30,42.99,NorthStar Supplies,Y,2024-04-10
+P011,Planner 2025,Office,Stationery,,18.99,PaperTrail,Y,2024-08-01
+P012,Bluetooth Speaker,electronics,Audio,22.00,59.99,SoundPeak,True,2024/04/18
+P004,Desk Lamp,home,Lighting,14.10,34.99,BrightNest,Y,2024-02-02

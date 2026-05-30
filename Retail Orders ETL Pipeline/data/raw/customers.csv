@@ -1,0 +1,14 @@
+customer_id,full_name,email,phone,city,state,signup_date,loyalty_tier,is_active
+C001,Anita Sharma,anita.sharma@example.com,312-555-0181,Chicago,IL,2024-01-12,Gold,Y
+C002,Robert Miles,robert.miles@example.com,214-555-0112,Dallas,TX,2024/02/03,silver,Yes
+C003,Sara Khan,sara.khan@example.com,,Austin,TX,03-18-2024,Bronze,Y
+C004,John Lee,john.lee@example.com,713-555-0122,Houston,TX,2024-04-01,,N
+C005,Maya Patel,maya.patel@example.com,773-555-0177,Chicago,IL,2024-04-21,GOLD,True
+C006,Luis Garcia,luis.garcia@example.com,602-555-0199,Phoenix,AZ,2024-05-09,Silver,1
+C007,Emily Chen,emily.chen@example.com,415-555-0149,San Francisco,CA,2024-05-15,Bronze,Y
+C008,Noah Wilson,noah.wilson@example.com,206-555-0108,Seattle,WA,2024-06-01,Silver ,Y
+C009,Ava Johnson,ava.johnson@example.com,303-555-0144,Denver,CO,,Bronze,Y
+C010,Daniel Brown,daniel.brown@example.com,404-555-0166,Atlanta,GA,2024-06-20,Gold,No
+C011,Nora Davis,nora.davis@example.com,617-555-0133,Boston,MA,2024-07-04,Platinum,Y
+C012,Omar Ali,omar.ali@example.com,305-555-0188,Miami,FL,2024-07-22,gold,Y
+C006, Luis Garcia ,LUIS.GARCIA@example.com,602-555-0199,phoenix,az,2024-05-09,silver,Y

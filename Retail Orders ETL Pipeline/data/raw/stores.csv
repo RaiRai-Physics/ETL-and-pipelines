@@ -1,0 +1,6 @@
+store_id,store_name,city,state,region,open_date
+S001,Chicago Downtown,Chicago,IL,Midwest,2021-05-01
+S002,Dallas North,Dallas,TX,South,2020-08-15
+S003,Austin Central,Austin,TX,South,2022-03-20
+S004,Phoenix West,Phoenix,AZ,West,2023-01-10
+S005,Online Store,NA,NA,Digital,2019-01-01
