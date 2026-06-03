@@ -1,0 +1,110 @@
+Financial_ETL_Project
+├── README.md
+├── config/
+│   ├── pipeline_config.json
+├── dags/
+│   ├── financial_etl_dag.py
+├── data/
+│   ├── clean/
+│   │   ├── python/
+│   │   │   ├── account_daily_balances.csv
+│   │   │   ├── accounts.csv
+│   │   │   ├── branches.csv
+│   │   │   ├── cards.csv
+│   │   │   ├── chargebacks.csv
+│   │   │   ├── credit_scores.csv
+│   │   │   ├── customer_profile_updates.csv
+│   │   │   ├── customers.csv
+│   │   │   ├── exchange_rates.csv
+│   │   │   ├── fraud_alerts.csv
+│   │   │   ├── loan_payments.csv
+│   │   │   ├── loans.csv
+│   │   │   ├── merchants.csv
+│   │   │   ├── transactions.csv
+│   ├── marts/
+│   │   ├── python/
+│   │   │   ├── account_balance_reconciliation.csv
+│   │   │   ├── card_utilization_report.csv
+│   │   │   ├── chargeback_summary.csv
+│   │   │   ├── customer_360.csv
+│   │   │   ├── daily_transaction_summary.csv
+│   │   │   ├── dim_account.csv
+│   │   │   ├── dim_branch.csv
+│   │   │   ├── dim_card.csv
+│   │   │   ├── dim_customer_current.csv
+│   │   │   ├── dim_customer_scd2.csv
+│   │   │   ├── dim_loan.csv
+│   │   │   ├── dim_merchant.csv
+│   │   │   ├── fact_chargebacks.csv
+│   │   │   ├── fact_loan_payments.csv
+│   │   │   ├── fact_transactions.csv
+│   │   │   ├── loan_delinquency_report.csv
+│   │   │   ├── merchant_risk_summary.csv
+│   │   │   ├── suspicious_activity_report.csv
+│   ├── quarantine/
+│   │   ├── python/
+│   │   │   ├── accounts_invalid_branch_id.csv
+│   │   │   ├── accounts_invalid_customer_id.csv
+│   │   │   ├── balances_invalid_account_id.csv
+│   │   │   ├── cards_invalid_account_id.csv
+│   │   │   ├── chargebacks_invalid_transaction_id.csv
+│   │   │   ├── fraud_alerts_invalid_transaction_id.csv
+│   │   │   ├── loan_payments_invalid_loan_id.csv
+│   │   │   ├── loans_invalid_customer_id.csv
+│   │   │   ├── transactions_bad_amount_or_date.csv
+│   │   │   ├── transactions_invalid_account_id.csv
+│   │   │   ├── transactions_invalid_card_id.csv
+│   │   │   ├── transactions_invalid_merchant_id.csv
+│   │   │   ├── transactions_missing_exchange_rate.csv
+│   ├── raw/
+│   │   ├── account_daily_balances.csv
+│   │   ├── accounts.csv
+│   │   ├── branches.csv
+│   │   ├── cards.csv
+│   │   ├── chargebacks.csv
+│   │   ├── credit_scores.csv
+│   │   ├── customer_profile_updates.csv
+│   │   ├── customers.csv
+│   │   ├── exchange_rates.csv
+│   │   ├── fraud_alerts.csv
+│   │   ├── loan_payments.csv
+│   │   ├── loans.csv
+│   │   ├── merchants.csv
+│   │   ├── transactions.csv
+│   ├── stage/
+│   │   ├── python/
+├── docs/
+│   ├── architecture_notes.md
+│   ├── data_dictionary.md
+│   ├── data_quality_rules.md
+├── logs/
+│   ├── run_metadata.json
+├── reports/
+│   ├── python/
+│   │   ├── data_quality_report.csv
+│   │   ├── pipeline_audit_log.csv
+│   │   ├── raw_column_profile.csv
+│   │   ├── raw_table_profile.csv
+├── requirements.txt
+├── run_pyspark_pipeline.sh
+├── run_python_pipeline.sh
+├── sql/
+│   ├── analytics_queries.sql
+│   ├── warehouse_schema.sql
+├── src/
+│   ├── __init__.py
+│   ├── __pycache__/
+│   │   ├── __init__.cpython-313.pyc
+│   ├── common/
+│   │   ├── __init__.py
+│   │   ├── __pycache__/
+│   │   │   ├── __init__.cpython-313.pyc
+│   │   │   ├── utils.cpython-313.pyc
+│   │   ├── utils.py
+│   ├── pyspark_etl/
+│   │   ├── 01_run_financial_pyspark_etl.py
+│   ├── python_etl/
+│   │   ├── 00_profile_raw_data.py
+│   │   ├── 01_run_financial_python_etl.py
+├── tests/
+│   ├── test_transform_utils.py
