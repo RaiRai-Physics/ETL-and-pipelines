@@ -85,7 +85,6 @@ Financial_ETL_Project
 │   │   ├── pipeline_audit_log.csv
 │   │   ├── raw_column_profile.csv
 │   │   ├── raw_table_profile.csv
-├── requirements.txt
 ├── run_pyspark_pipeline.sh
 ├── run_python_pipeline.sh
 ├── sql/
