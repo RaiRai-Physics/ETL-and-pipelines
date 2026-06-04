@@ -1,0 +1,16 @@
+{
+  "project_name": "advanced_financial_etl_project",
+  "run_mode": "local",
+  "bronze_path": "data/raw",
+  "stage_path": "data/stage/python",
+  "clean_path": "data/clean/python",
+  "quarantine_path": "data/quarantine/python",
+  "mart_path": "data/marts/python",
+  "report_path": "reports/python",
+  "base_currency": "USD",
+  "watermark_column": "transaction_ts",
+  "default_watermark": "1900-01-01 00:00:00",
+  "late_payment_days": 10,
+  "large_transaction_usd_threshold": 1000,
+  "late_shipment_style_quarantine_enabled": true
+}
