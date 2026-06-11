@@ -1,0 +1,81 @@
+merchant_id,merchant_name,merchant_category,category_group,country,high_risk_flag,onboard_date
+M0001,Restaurant Merchant 1,Restaurant,Dining,USA,0,2021-05-04
+M0002,Gaming Merchant 2,Gaming,Entertainment,USA,N,2023-02-11
+M0003,Gaming Merchant 3,GAMING,Entertainment,CAN,Yes,2018-04-03
+M0004,Travel Agency Merchant 4,TRAVEL AGENCY,Travel,CAN,0,2022-10-06
+M0005,Pharmacy Merchant 5,Pharmacy,Health,USA,0,2025-07-06
+M0006,Rent Merchant 6,Rent,Housing,CAN,N,2024-03-01
+M0007,Gas Merchant 7,Gas,Travel,IND,0,2018-11-30
+M0008,Gaming Merchant 8,Gaming,Entertainment,CAN,Y,2022-01-17
+M0009,Gas Merchant 9,Gas,Travel,GBR,0,2022-05-24
+M0010,Travel Agency Merchant 10,Travel Agency,Travel,GBR,0,2021-03-13
+M0011,Grocery Merchant 11,Grocery,Essential,GBR,No,2018-01-02
+M0012,Pharmacy Merchant 12,Pharmacy,Health,CAN,N,2023-01-18
+M0013,Gaming Merchant 13,Gaming,Entertainment,GBR,No,2021-07-13
+M0014,ATM Merchant 14,ATM,Cash,CAN,N,2018-04-04
+M0015,Travel Agency Merchant 15,Travel Agency,Travel,DEU,No,2018-10-21
+M0016,Travel Agency Merchant 16,Travel Agency,Travel,USA,N,2022-10-01
+M0017,Payroll Merchant 17,Payroll,Income,GBR,0,2022-02-01
+M0018,Online Marketplace Merchant 18,Online Marketplace,Retail,GBR,0,2021-04-25
+M0019,Online Marketplace Merchant 19,Online Marketplace,Retail,USA,No,2025-04-01
+M0020,Restaurant Merchant 20,Restaurant,Dining,IND,N,2021-08-18
+M0021,Payroll Merchant 21,Payroll,Income,DEU,No,2024-12-14
+M0022,Electronics Merchant 22,Electronics,Retail,CAN,No,2025-08-02
+M0023,ATM Merchant 23,ATM,Cash,USA,N,2025-08-24
+M0024,Gas Merchant 24,Gas,Travel,GBR,No,2024-05-12
+M0025,Utility Merchant 25,Utility,Bills,USA,N,2020-11-14
+M0026,Utility Merchant 26,Utility,Bills,USA,0,2025-12-25
+M0027,Payroll Merchant 27,Payroll,Income,USA,No,2020-09-13
+M0028,Rent Merchant 28,Rent,Housing,USA,N,2025-11-28
+M0029,Restaurant Merchant 29,Restaurant,Dining,USA,N,2020-03-19
+M0030,Utility Merchant 30,Utility,Bills,USA,0,2025-05-11
+M0031,Rent Merchant 31,RENT,Housing,CAN,0,2021-01-18
+M0032,Gaming Merchant 32,Gaming,Entertainment,USA,Y,2021-10-26
+M0033,Rent Merchant 33,Rent,Housing,CAN,No,2022-10-07
+M0034,Crypto Exchange Merchant 34,Crypto Exchange,Financial,DEU,Y,2020-04-24
+M0035,Crypto Exchange Merchant 35,Crypto Exchange,Financial,GBR,Y,2021-11-28
+M0036,Travel Agency Merchant 36,Travel Agency,Travel,USA,0,2019-05-27
+M0037,Electronics Merchant 37,Electronics,Retail,CAN,No,2020-08-22
+M0038,Restaurant Merchant 38,Restaurant,Dining,CAN,No,2022-11-19
+M0039,Electronics Merchant 39,Electronics,Retail,IND,N,2025-07-18
+M0040,Payroll Merchant 40,Payroll,Income,USA,N,2018-10-03
+M0041,Gaming Merchant 41,Gaming,Entertainment,USA,Y,2022-09-09
+M0042,Rent Merchant 42,Rent,Housing,CAN,0,2018-10-11
+M0043,Gas Merchant 43,Gas,Travel,USA,No,2022-11-26
+M0044,Crypto Exchange Merchant 44,Crypto Exchange,Financial,GBR,Y,2020-08-04
+M0045,Travel Agency Merchant 45,Travel Agency,Travel,CAN,N,2023-09-13
+M0046,Pharmacy Merchant 46,Pharmacy,Health,GBR,No,2024-03-14
+M0047,Restaurant Merchant 47,Restaurant,Dining,GBR,N,2021-01-21
+M0048,Gaming Merchant 48,Gaming,Entertainment,USA,N,2019-04-17
+M0049,Travel Agency Merchant 49,Travel Agency,Travel,USA,N,2018-08-01
+M0050,Gas Merchant 50,Gas,Travel,USA,0,2025-10-27
+M0051,Travel Agency Merchant 51,Travel Agency,Travel,USA,No,2019-12-14
+M0052,Online Marketplace Merchant 52,Online Marketplace,Retail,GBR,No,2020-05-07
+M0053,Utility Merchant 53,Utility,Bills,USA,No,2020-05-08
+M0054,Utility Merchant 54,Utility,Bills,DEU,N,2021-10-01
+M0055,Travel Agency Merchant 55,Travel Agency,Travel,USA,N,2025-07-03
+M0056,Travel Agency Merchant 56,Travel Agency,Travel,IND,0,2019-03-22
+M0057,Gas Merchant 57,Gas,Travel,GBR,0,2020-05-11
+M0058,Gas Merchant 58,Gas,Travel,USA,No,2019-10-09
+M0059,Payroll Merchant 59,Payroll,Income,CAN,0,2018-09-28
+M0060,Travel Agency Merchant 60,Travel Agency,Travel,USA,0,2019-03-07
+M0061,Gas Merchant 61,Gas,Travel,GBR,No,2019-12-06
+M0062,Electronics Merchant 62,Electronics,Retail,IND,No,2024-07-26
+M0063,ATM Merchant 63,ATM,Cash,USA,No,2021-11-20
+M0064,Gas Merchant 64,Gas,Travel,DEU,N,2024-09-24
+M0065,Restaurant Merchant 65,Restaurant,Dining,GBR,N,2022-11-01
+M0066,Gas Merchant 66,Gas,Travel,CAN,N,2025-11-21
+M0067,Grocery Merchant 67,Grocery,Essential,USA,0,2024-01-28
+M0068,Travel Agency Merchant 68,Travel Agency,Travel,USA,N,2020-07-05
+M0069,Rent Merchant 69,Rent,Housing,USA,0,2019-01-22
+M0070,Electronics Merchant 70,Electronics,Retail,IND,0,2021-05-28
+M0071,Pharmacy Merchant 71,Pharmacy,Health,IND,0,2022-04-04
+M0072,Utility Merchant 72,Utility,Bills,USA,N,2018-01-23
+M0073,Electronics Merchant 73,Electronics,Retail,USA,0,2020-12-24
+M0074,Utility Merchant 74,Utility,Bills,USA,N,2021-02-08
+M0075,Online Marketplace Merchant 75,Online Marketplace,Retail,DEU,N,2019-06-06
+M0076,Online Marketplace Merchant 76,Online Marketplace,Retail,GBR,No,2024-10-13
+M0077,ATM Merchant 77,ATM,Cash,CAN,0,2024-04-22
+M0078,Gas Merchant 78,GAS,Travel,USA,0,2022-09-10
+M0079,Utility Merchant 79,Utility,Bills,USA,0,2023-12-28
+M0080,Grocery Merchant 80,Grocery,Essential,DEU,0,2018-09-29

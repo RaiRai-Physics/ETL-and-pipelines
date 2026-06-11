@@ -1,0 +1,153 @@
+customer_id,full_name,email,phone,date_of_birth,signup_date,customer_segment,kyc_status,risk_rating,city,state,country,is_active
+C00001,Hannah Young,hannah.young1@example.com,828-555-2322,1991-02-10,2024-01-27,Small Business,Verified,low ,Phoenix,AZ,USA,No
+C00002,Ava Johnson,ava.johnson2@example.com,548-555-2469,1977-09-18,01/01/2023,Student,verified ,Medium,Denver,CO,United States,1
+C00003,Ivy Thompson,ivy.thompson3@example.com,799-555-9166,1974-02-14,2021/02/20,Premium,verified ,low ,Seattle,WA,US,No
+C00004,Ivy Thompson,ivy.thompson4@example.com,250-555-9572,1985-11-04,2023/11/17,Premium,verified ,low ,Miami,FL,USA,Y
+C00005,Ravi Mehta,ravi.mehta5@example.com,457-555-7587,1999-11-10,2023/07/25,,PENDING,low ,Phoenix,AZ,US,No
+C00006, Emily Chen ,emily.chen6@example.com,669-555-9567,1973-08-12,2025-08-31,Student,verified ,low ,Boston,MA,US,No
+C00007,Victor Lopez,victor.lopez7@example.com,905-555-9440,1997-05-15,2021-03-10,Small Business,verified ,Low,Boston,MA,US,Yes
+C00008,John Lee,john.lee8@example.com,662-555-9955,1967-02-20,2025-03-11,Affluent,Verified,MEDIUM,Denver,co,United States,Yes
+C00009,Julia Stone,julia.stone9@example.com,987-555-9060,2003-12-24,2024-07-25,Premium,Pending,low ,Seattle,WA,United States,1
+C00010,Fatima Hassan,fatima.hassan10@example.com,800-555-6013,1973-09-14,06/22/2021,Affluent,PENDING,Medium,Denver,CO,USA,No
+C00011,Ben Carter,ben.carter11@example.com,226-555-9362,1959-08-11,2021/04/16,Student,verified ,High,Seattle,WA,US,No
+C00012,Ivy Thompson,ivy.thompson12@example.com,544-555-8517,1994-10-08,2025/07/07,,Verified,MEDIUM,Austin,TX,USA,1
+C00013,Mei Lin,mei.lin13@example.com,856-555-4088,1966-08-23,2021/04/03,Mass,Pending,MEDIUM,Miami,FL,United States,N
+C00014,Luis Garcia,luis.garcia14@example.com,280-555-7278,1997-05-06,09/26/2025,Affluent,Rejected,low ,Austin,TX,US,Yes
+C00015,Lina Park,lina.park15@example.com,480-555-2549,1966-04-08,2022-10-30,Mass,verified ,High,Miami,FL,United States,N
+C00016,Anita Sharma,anita.sharma16@example.com,421-555-2797,1977-10-23,09/30/2025,Premium,PENDING,Medium,Austin,TX,United States,Yes
+C00017,Julia Stone,julia.stone17@example.com,308-555-1990,1990-06-24,2021-09-29,,Verified,MEDIUM,Dallas,TX,United States,Y
+C00018,Daniel Brown,,995-555-5211,1975-07-01,2021-11-27,Mass,Pending,Low,Boston,MA,USA,1
+C00019,Victor Lopez,victor.lopez19@example.com,931-555-1622,1991-07-11,2025/10/23,Affluent,PENDING,low ,Seattle,WA,United States,Y
+C00020,Julia Stone,julia.stone20@example.com,564-555-1944,1978-12-23,10/30/2025,Mass,Rejected,High,Miami,FL,USA,Yes
+C00021,Mateo Rivera,mateo.rivera21@example.com,774-555-1919,1981-12-04,2022-10-16,Premium,Verified,Low,San Francisco,ca,United States,Yes
+C00022, Grace Kim ,grace.kim22@example.com,593-555-7179,1996-04-25,09/05/2024,,Pending,Medium,Boston,MA,USA,1
+C00023,Aiden Clark,aiden.clark23@example.com,223-555-1271,1989-05-18,11/01/2024,Small Business,Rejected,High,Miami,FL,United States,True
+C00024,Sara Khan,sara.khan24@example.com,471-555-6582,1966-11-17,2024/02/07,Student,Verified,Low,Chicago,IL,USA,No
+C00025,Robert Miles,robert.miles25@example.com,608-555-6897,1969-04-18,10/22/2024,Student,Pending,High,Miami,FL,United States,No
+C00026,Victor Lopez,victor.lopez26@example.com,696-555-1087,1985-06-27,2025/06/04,,verified ,Low,San Francisco,CA,USA,Yes
+C00027,Omar Ali,omar.ali27@example.com,218-555-9739,1989-04-28,2025/02/06,Premium,Rejected,MEDIUM,Boston,ma,US,No
+C00028,Victor Lopez,victor.lopez28@example.com,598-555-6465,1988-09-09,07/22/2025,Mass,PENDING,Medium,Austin,TX,US,Yes
+C00029,Victor Lopez,victor.lopez29@example.com,209-555-8864,1973-07-12,2023/01/02,Affluent,PENDING,Low,Austin,TX,United States,N
+C00030,Luis Garcia,luis.garcia30@example.com,202-555-7136,1956-02-12,12/22/2025,Affluent,PENDING,Medium,Dallas,TX,USA,N
+C00031,John Lee,john.lee31@example.com,831-555-5939,1975-11-04,09/20/2023,Small Business,verified ,Low,Dallas,TX,USA,Yes
+C00032,Julia Stone,julia.stone32@example.com,706-555-6112,1984-05-25,2024/04/13,Affluent,Pending,High,Seattle,WA,United States,Yes
+C00033,Nora Davis,nora.davis33@example.com,425-555-6710,2001-06-14,2024/09/07,Small Business,Pending,Medium,Phoenix,AZ,United States,1
+C00034,Sophia Adams,sophia.adams34@example.com,655-555-5319,1963-03-18,2023/06/03,Student,Pending,High,Boston,MA,United States,Y
+C00035,Ava Johnson,ava.johnson35@example.com,537-555-7711,1973-06-04,2024/03/22,Small Business,PENDING,MEDIUM,Phoenix,AZ,US,1
+C00036, Nora Davis ,nora.davis36@example.com,542-555-7793,1958-08-28,03/30/2023,Student,Verified,Low,Austin,TX,United States,Y
+C00037,Julia Stone,julia.stone37@example.com,837-555-7052,1972-02-18,2022/10/31,Affluent,PENDING,Low,Chicago,IL,USA,Yes
+C00038,Noah Wilson,noah.wilson38@example.com,627-555-9549,1984-11-19,2022/02/27,Affluent,Verified,Low,San Francisco,CA,US,Y
+C00039,Luis Garcia,luis.garcia39@example.com,873-555-6591,1990-06-12,02/12/2025,Premium,verified ,High,Miami,FL,US,Yes
+C00040, Robert Miles ,robert.miles40@example.com,973-555-8636,1996-04-12,10/01/2023,Premium,verified ,High,Austin,TX,USA,No
+C00041,Zara Ahmed,zara.ahmed41@example.com,694-555-2486,1959-09-17,2025/01/26,Student,verified ,High,Miami,FL,US,N
+C00042,Sara Khan,sara.khan42@example.com,740-555-9528,1990-07-21,2025-11-04,Premium,Pending,Low,Austin,TX,USA,No
+C00043,Fatima Hassan,fatima.hassan43@example.com,933-555-9004,1988-03-18,2021/09/17,Student,Rejected,low ,Miami,FL,United States,True
+C00044,Emily Chen,emily.chen44@example.com,872-555-2000,1964-11-28,2024-05-27,Student,Rejected,Medium,Miami,FL,United States,1
+C00045,Omar Ali,omar.ali45@example.com,357-555-7781,1963-11-20,07/26/2023,Premium,Verified,High,Austin,TX,US,True
+C00046,Sara Khan,sara.khan46@example.com,241-555-8714,1984-01-02,2024-10-25,Student,PENDING,High,Denver,CO,USA,N
+C00047,Fatima Hassan,fatima.hassan47@example.com,374-555-4950,1967-04-22,11/15/2025,Affluent,Rejected,Medium,Dallas,TX,US,1
+C00048,Ethan Miller,ethan.miller48@example.com,651-555-8893,1984-02-07,2025/10/20,Affluent,Verified,Low,Seattle,WA,United States,True
+C00049,Aiden Clark,aiden.clark49@example.com,638-555-1499,1965-09-05,2021/08/24,,Rejected,High,Austin,TX,US,Y
+C00050,Marcus Reed,marcus.reed50@example.com,347-555-4646,1988-06-15,08/01/2023,Premium,PENDING,Low,Boston,MA,United States,True
+C00051,Nora Davis,nora.davis51@example.com,738-555-9688,2003-02-27,06/06/2022,Student,Verified,Low,Dallas,TX,USA,True
+C00052,Mei Lin,mei.lin52@example.com,667-555-8841,1983-09-01,2024-03-01,Student,Pending,Low,Dallas,TX,USA,N
+C00053,Victor Lopez,victor.lopez53@example.com,322-555-6487,1971-12-05,02/07/2021,Small Business,Pending,High,Chicago,IL,US,1
+C00054,Noah Wilson,noah.wilson54@example.com,455-555-4019,1980-08-07,2022-05-04,Premium,verified ,MEDIUM,Miami,FL,United States,Y
+C00055,Marcus Reed,marcus.reed55@example.com,733-555-6142,1968-05-25,02/27/2023,,PENDING,Low,Chicago,IL,United States,N
+C00056,Fatima Hassan,fatima.hassan56@example.com,668-555-7642,1962-02-26,2024-02-27,Small Business,verified ,Low,Seattle,WA,USA,Yes
+C00057,Mateo Rivera,mateo.rivera57@example.com,237-555-4580,1965-12-27,2023/12/11,,PENDING,Low,Boston,MA,United States,1
+C00058,Robert Miles,robert.miles58@example.com,394-555-8888,1977-01-10,2025-12-13,Affluent,Verified,High,Phoenix,AZ,US,True
+C00059,Ravi Mehta,ravi.mehta59@example.com,760-555-9465,1957-10-18,2023-08-24,Small Business,Verified,MEDIUM,Boston,MA,United States,No
+C00060, Lina Park ,lina.park60@example.com,891-555-3924,1960-03-08,2022-05-12,Premium,Pending,MEDIUM,Chicago,IL,US,Yes
+C00061,Ravi Mehta,ravi.mehta61@example.com,333-555-9467,1996-04-27,12/12/2021,,Pending,High,Phoenix,AZ,United States,Y
+C00062,Maya Patel,maya.patel62@example.com,886-555-6547,1955-09-12,2025-07-26,,PENDING,Low,Denver,CO,USA,Y
+C00063,Priya Nair,priya.nair63@example.com,514-555-9704,1970-01-01,09/15/2022,,Pending,low ,San Francisco,CA,USA,1
+C00064,Marcus Reed,marcus.reed64@example.com,269-555-3083,2003-01-20,2021/11/22,Student,Pending,low ,San Francisco,CA,USA,No
+C00065,Grace Kim,,298-555-4726,1973-06-15,2021-11-05,Small Business,Rejected,low ,Denver,CO,United States,Yes
+C00066,Ava Johnson,ava.johnson66@example.com,372-555-2665,1983-10-18,2025-02-23,Affluent,Pending,High,San Francisco,CA,US,N
+C00067,Zara Ahmed,zara.ahmed67@example.com,815-555-6492,1999-11-18,09/23/2024,Affluent,PENDING,MEDIUM,Seattle,WA,United States,True
+C00068,Priya Nair,priya.nair68@example.com,509-555-1613,1999-12-20,2022-06-24,Student,Pending,low ,Seattle,WA,USA,No
+C00069,Priya Nair,priya.nair69@example.com,726-555-6528,1995-09-10,10/15/2023,Affluent,PENDING,MEDIUM,Chicago,IL,United States,True
+C00070,Fatima Hassan,fatima.hassan70@example.com,,1977-09-14,08/31/2025,Premium,Rejected,Medium,Seattle,WA,US,Yes
+C00071,Zara Ahmed,zara.ahmed71@example.com,603-555-8747,2002-03-14,2025/11/07,Affluent,Rejected,Low,Chicago,IL,USA,Y
+C00072,Emily Chen,emily.chen72@example.com,841-555-2613,1980-07-08,09/10/2021,Student,Verified,Low,Phoenix,AZ,US,1
+C00073,Maya Patel,maya.patel73@example.com,767-555-8957,1984-06-20,2024-07-08,Mass,Verified,High,Denver,CO,US,No
+C00074,Zara Ahmed,zara.ahmed74@example.com,,1961-08-14,2024-02-02,Small Business,verified ,Low,Denver,CO,US,1
+C00075,John Lee,john.lee75@example.com,736-555-5064,1958-07-04,04/15/2023,Affluent,Verified,Medium,Austin,TX,US,Yes
+C00076,Mateo Rivera,mateo.rivera76@example.com,620-555-2356,1982-10-25,2025/05/29,Student,Rejected,low ,Dallas,TX,United States,Yes
+C00077,Noah Wilson,noah.wilson77@example.com,768-555-5124,2002-09-15,08/17/2025,Small Business,Rejected,Medium,San Francisco,CA,United States,True
+C00078,Lina Park,lina.park78@example.com,820-555-5043,1965-01-07,2023/01/03,Premium,Rejected,High,Miami,FL,United States,Y
+C00079,Julia Stone,julia.stone79@example.com,581-555-8054,1976-11-15,2023/04/12,Student,PENDING,low ,Denver,CO,US,No
+C00080,Sophia Adams,,245-555-1379,1977-12-10,2025/06/11,Premium,Verified,Low,Boston,MA,US,Yes
+C00081, Priya Nair ,priya.nair81@example.com,380-555-1814,1974-12-12,2025/11/07,Premium,verified ,Low,Boston,MA,United States,True
+C00082,Ravi Mehta,ravi.mehta82@example.com,911-555-2094,1994-02-26,2021-04-22,Premium,verified ,Low,Boston,MA,United States,1
+C00083,Anita Sharma,anita.sharma83@example.com,651-555-4115,2003-01-14,04/27/2025,Affluent,Rejected,MEDIUM,Boston,MA,US,1
+C00084,Robert Miles,robert.miles84@example.com,350-555-1013,1959-05-25,2023-07-18,Affluent,verified ,Medium,San Francisco,CA,United States,No
+C00085,Fatima Hassan,fatima.hassan85@example.com,231-555-2688,1994-04-15,11/05/2021,Mass,Rejected,low ,Atlanta,GA,USA,Yes
+C00086,Ivy Thompson,ivy.thompson86@example.com,510-555-9831,1997-09-04,2021/07/09,Mass,Pending,low ,Boston,MA,USA,N
+C00087,Maya Patel,maya.patel87@example.com,682-555-6949,1967-04-07,2024-02-06,Student,verified ,Low,Boston,MA,United States,N
+C00088,Grace Kim,grace.kim88@example.com,431-555-5522,1973-08-21,2025-06-23,Student,Pending,High,Miami,FL,United States,Y
+C00089,Emily Chen,emily.chen89@example.com,523-555-5652,1974-05-05,2021/09/11,Mass,Verified,High,Boston,MA,USA,N
+C00090,Ravi Mehta,ravi.mehta90@example.com,,1967-06-04,01/12/2024,Small Business,PENDING,low ,Chicago,IL,United States,1
+C00091,Grace Kim,grace.kim91@example.com,901-555-9005,1969-12-14,2021-03-29,,Rejected,High,Seattle,WA,US,True
+C00092,Ravi Mehta,ravi.mehta92@example.com,976-555-1340,1988-07-15,2022/12/07,Mass,PENDING,Low,Denver,CO,United States,No
+C00093,Priya Nair,priya.nair93@example.com,430-555-4401,1962-05-07,01/01/2025,,Verified,Low,Seattle,wa,United States,No
+C00094,Omar Ali,omar.ali94@example.com,515-555-8058,1966-05-14,03/18/2023,Premium,verified ,Medium,Austin,TX,US,Yes
+C00095,Zara Ahmed,zara.ahmed95@example.com,701-555-5289,1968-06-23,2024-05-30,,Rejected,MEDIUM,Miami,FL,USA,1
+C00096,Ava Johnson,ava.johnson96@example.com,516-555-7656,1966-08-27,06/12/2021,Mass,Rejected,High,Phoenix,AZ,United States,Y
+C00097,Ava Johnson,ava.johnson97@example.com,737-555-9373,2004-07-24,08/10/2023,Small Business,Verified,Low,Seattle,WA,US,Y
+C00098,Aiden Clark,aiden.clark98@example.com,525-555-4700,1958-05-20,2023/12/05,Student,Verified,High,Austin,TX,United States,Yes
+C00099,Mateo Rivera,mateo.rivera99@example.com,276-555-3111,1985-05-26,07/25/2022,Small Business,Verified,Medium,Phoenix,AZ,USA,True
+C00100,Omar Ali,omar.ali100@example.com,,1980-01-01,2025/03/27,Mass,Rejected,Medium,Miami,fl,US,Y
+C00101,Mateo Rivera,mateo.rivera101@example.com,808-555-3553,1956-08-07,2024-04-30,Mass,Rejected,low ,Dallas,tx,USA,Yes
+C00102,Fatima Hassan,fatima.hassan102@example.com,630-555-7550,1987-02-04,09/05/2023,Small Business,Pending,High,Phoenix,AZ,USA,N
+C00103,Anita Sharma,anita.sharma103@example.com,844-555-4377,1970-01-01,11/14/2023,Affluent,verified ,Medium,Atlanta,GA,USA,No
+C00104,Marcus Reed,marcus.reed104@example.com,283-555-3265,1961-07-15,2022-11-22,Premium,Verified,Medium,Seattle,WA,US,No
+C00105,Anita Sharma,anita.sharma105@example.com,373-555-4338,1976-10-28,2025/05/31,Mass,Pending,Medium,Phoenix,AZ,USA,No
+C00106,Julia Stone,julia.stone106@example.com,797-555-2739,1961-05-16,2023-11-15,,verified ,low ,Denver,CO,US,Yes
+C00107,Victor Lopez,victor.lopez107@example.com,298-555-7466,1975-08-14,2021/04/26,Affluent,Rejected,MEDIUM,Denver,CO,US,True
+C00108,Sophia Adams,sophia.adams108@example.com,897-555-3638,1960-07-09,2021-10-10,,verified ,low ,Boston,MA,United States,N
+C00109,Ivy Thompson,ivy.thompson109@example.com,932-555-3197,1956-12-24,09/11/2024,Affluent,Pending,Low,San Francisco,CA,USA,No
+C00110,Luis Garcia,luis.garcia110@example.com,808-555-6977,1988-01-13,2022-04-04,,Verified,MEDIUM,Phoenix,AZ,United States,1
+C00111,Victor Lopez,victor.lopez111@example.com,255-555-2724,1983-04-08,2021/01/23,,Pending,High,Boston,MA,US,True
+C00112,Omar Ali,omar.ali112@example.com,343-555-8664,2002-07-23,2023-06-15,,PENDING,Medium,Atlanta,GA,United States,No
+C00113,Ravi Mehta,ravi.mehta113@example.com,666-555-1685,1961-01-06,2021-12-25,Affluent,PENDING,low ,Dallas,TX,United States,True
+C00114,Priya Nair,priya.nair114@example.com,604-555-6218,1993-06-02,2022-11-16,Affluent,Rejected,Low,Atlanta,GA,United States,Y
+C00115,Ethan Miller,ethan.miller115@example.com,982-555-8774,1967-02-21,2025-12-03,Affluent,Rejected,Medium,Phoenix,AZ,US,Y
+C00116,Ethan Miller,ethan.miller116@example.com,758-555-1261,1976-02-11,02/09/2024,Affluent,Verified,low ,Seattle,WA,USA,1
+C00117,Mei Lin,mei.lin117@example.com,362-555-1030,1956-06-23,2021-10-24,Mass,Rejected,MEDIUM,Austin,TX,United States,1
+C00118,Ava Johnson,ava.johnson118@example.com,741-555-3183,1962-04-17,07/13/2025,,Verified,Medium,Miami,FL,USA,1
+C00119,John Lee,john.lee119@example.com,734-555-7185,2001-04-16,2021/09/25,Small Business,verified ,low ,Austin,tx,United States,Y
+C00120,Omar Ali,omar.ali120@example.com,895-555-3495,1974-05-05,12/17/2021,Small Business,Rejected,Low,Boston,MA,USA,True
+C00121,Hannah Young,hannah.young121@example.com,610-555-1647,1995-05-27,2025/12/19,Small Business,Verified,Medium,Phoenix,AZ,US,1
+C00122, Robert Miles ,robert.miles122@example.com,664-555-1176,1997-10-14,2023-01-11,Student,verified ,High,Seattle,WA,USA,N
+C00123,Fatima Hassan,fatima.hassan123@example.com,311-555-1166,1984-10-25,2025/06/02,Small Business,Rejected,High,San Francisco,CA,United States,Yes
+C00124,Hannah Young,hannah.young124@example.com,450-555-3088,1957-07-13,2025/12/03,Mass,verified ,High,Atlanta,GA,United States,No
+C00125,Omar Ali,omar.ali125@example.com,245-555-5077,1960-10-14,2023-04-18,Affluent,Verified,MEDIUM,Boston,MA,US,No
+C00126,Ivy Thompson,ivy.thompson126@example.com,,1976-10-17,2022/05/24,Small Business,verified ,Low,San Francisco,ca,United States,N
+C00127, Luis Garcia ,luis.garcia127@example.com,634-555-3372,1955-10-17,10/13/2025,Student,Pending,low ,Phoenix,AZ,USA,1
+C00128,Priya Nair,priya.nair128@example.com,678-555-8193,2001-05-14,07/20/2025,Student,Pending,Medium,Austin,TX,USA,No
+C00129,Aiden Clark,aiden.clark129@example.com,581-555-4536,1985-05-10,06/20/2023,,PENDING,low ,Phoenix,AZ,United States,Yes
+C00130,Zara Ahmed,zara.ahmed130@example.com,421-555-3757,1966-02-05,2021/05/10,Small Business,verified ,MEDIUM,Miami,FL,United States,N
+C00131,Ben Carter,ben.carter131@example.com,376-555-5474,1965-12-16,2023-08-12,Student,Verified,Medium,Dallas,TX,United States,Yes
+C00132,Maya Patel,maya.patel132@example.com,528-555-9124,1994-10-17,2022-01-06,Small Business,Verified,low ,Chicago,IL,USA,Yes
+C00133,Nora Davis,nora.davis133@example.com,203-555-2158,1964-02-10,05/31/2023,Premium,Rejected,low ,Chicago,il,United States,No
+C00134,Omar Ali,omar.ali134@example.com,669-555-5397,1995-12-17,12/28/2023,Mass,Rejected,MEDIUM,Boston,MA,USA,Y
+C00135,Emily Chen,emily.chen135@example.com,767-555-4247,1970-08-17,2021/05/12,Mass,PENDING,High,Seattle,WA,United States,True
+C00136,Ethan Miller,ethan.miller136@example.com,545-555-5681,1959-05-10,02/01/2021,Mass,Rejected,Low,Dallas,TX,US,Yes
+C00137,Sophia Adams,sophia.adams137@example.com,884-555-3814,1997-06-10,2022/05/22,,Verified,MEDIUM,San Francisco,CA,USA,1
+C00138,Leo Scott,leo.scott138@example.com,799-555-6425,1959-04-03,02/01/2024,Affluent,Pending,low ,Miami,FL,USA,1
+C00139,Priya Nair,priya.nair139@example.com,737-555-6348,1996-05-05,03/05/2024,Small Business,Rejected,High,Phoenix,AZ,United States,Y
+C00140,Nora Davis,nora.davis140@example.com,734-555-6796,1992-07-24,2022-07-01,Student,Pending,MEDIUM,San Francisco,CA,US,Y
+C00141,Fatima Hassan,fatima.hassan141@example.com,421-555-7082,1981-08-26,12/15/2024,Mass,verified ,MEDIUM,Atlanta,GA,USA,No
+C00142,Ravi Mehta,ravi.mehta142@example.com,414-555-5032,1979-02-15,2024/08/14,Mass,Rejected,Medium,San Francisco,CA,US,Yes
+C00143,Lina Park,lina.park143@example.com,858-555-7622,1983-11-19,2023-06-28,Premium,Verified,High,Denver,CO,United States,Yes
+C00144,Sara Khan,sara.khan144@example.com,458-555-1751,1988-07-20,2023/06/02,Student,verified ,Medium,Dallas,TX,US,N
+C00145,Leo Scott,leo.scott145@example.com,313-555-9374,1992-01-24,11/05/2024,Student,verified ,low ,Seattle,WA,US,N
+C00146,Aiden Clark,aiden.clark146@example.com,213-555-4038,1972-09-27,11/29/2024,Premium,Rejected,Medium,Denver,CO,US,True
+C00147,Anita Sharma,anita.sharma147@example.com,892-555-8274,1965-09-03,10/13/2024,Small Business,PENDING,MEDIUM,Seattle,WA,US,True
+C00148,Ivy Thompson,ivy.thompson148@example.com,863-555-6652,1992-06-16,04/05/2023,Small Business,verified ,Low,Dallas,TX,US,Yes
+C00149,Ravi Mehta,ravi.mehta149@example.com,714-555-6552,1988-04-03,01/27/2022,Affluent,Rejected,High,Denver,CO,US,Y
+C00150,Marcus Reed,marcus.reed150@example.com,243-555-4274,1983-03-01,2022-06-18,Premium,Verified,low ,Miami,FL,USA,True
+C00021,Mateo Rivera,MATEO.RIVERA21@EXAMPLE.COM,774-555-1919,1981-12-04,2022-10-16,Premium,Verified,Low,San Francisco,ca,United States,Yes
+C99999,,bad.email.example.com,,not-a-date,,,Unknownish,,,,USA,maybe
