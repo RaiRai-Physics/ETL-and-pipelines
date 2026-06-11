@@ -1,0 +1,152 @@
+customer_id,full_name,date_of_birth,signup_date,customer_segment,kyc_status,risk_rating,city,state,country,is_active,email_raw,email_masked,phone_masked,customer_hash_key
+C00001,Hannah Young,1991-02-10,2024-01-27,Small Business,Verified,Low,Phoenix,AZ,USA,False,hannah.young1@example.com,ha***@example.com,***-***-2322,d7ca7d5dc67b6e13
+C00002,Ava Johnson,1977-09-18,,Student,Verified,Medium,Denver,CO,USA,True,ava.johnson2@example.com,av***@example.com,***-***-2469,98c3fb1c81a49991
+C00003,Ivy Thompson,1974-02-14,,Premium,Verified,Low,Seattle,WA,USA,False,ivy.thompson3@example.com,iv***@example.com,***-***-9166,8e5e4d190df33560
+C00004,Ivy Thompson,1985-11-04,,Premium,Verified,Low,Miami,FL,USA,True,ivy.thompson4@example.com,iv***@example.com,***-***-9572,73a90d6cd76e7ed1
+C00005,Ravi Mehta,1999-11-10,,Unknown,Pending,Low,Phoenix,AZ,USA,False,ravi.mehta5@example.com,ra***@example.com,***-***-7587,be0659e1dfccef8b
+C00006,Emily Chen,1973-08-12,2025-08-31,Student,Verified,Low,Boston,MA,USA,False,emily.chen6@example.com,em***@example.com,***-***-9567,b81a1989027eb851
+C00007,Victor Lopez,1997-05-15,2021-03-10,Small Business,Verified,Low,Boston,MA,USA,True,victor.lopez7@example.com,vi***@example.com,***-***-9440,51da700e77f03232
+C00008,John Lee,1967-02-20,2025-03-11,Affluent,Verified,Medium,Denver,CO,USA,True,john.lee8@example.com,jo***@example.com,***-***-9955,38affa8675c40ab4
+C00009,Julia Stone,2003-12-24,2024-07-25,Premium,Pending,Low,Seattle,WA,USA,True,julia.stone9@example.com,ju***@example.com,***-***-9060,d7877421f99e46af
+C00010,Fatima Hassan,1973-09-14,,Affluent,Pending,Medium,Denver,CO,USA,False,fatima.hassan10@example.com,fa***@example.com,***-***-6013,e26f71d954274e6a
+C00011,Ben Carter,1959-08-11,,Student,Verified,High,Seattle,WA,USA,False,ben.carter11@example.com,be***@example.com,***-***-9362,ac6a38204c92cd47
+C00012,Ivy Thompson,1994-10-08,,Unknown,Verified,Medium,Austin,TX,USA,True,ivy.thompson12@example.com,iv***@example.com,***-***-8517,02c46fa69436d08d
+C00013,Mei Lin,1966-08-23,,Mass,Pending,Medium,Miami,FL,USA,False,mei.lin13@example.com,me***@example.com,***-***-4088,fbba13fadd9b6b02
+C00014,Luis Garcia,1997-05-06,,Affluent,Rejected,Low,Austin,TX,USA,True,luis.garcia14@example.com,lu***@example.com,***-***-7278,2c47f10222224e4c
+C00015,Lina Park,1966-04-08,2022-10-30,Mass,Verified,High,Miami,FL,USA,False,lina.park15@example.com,li***@example.com,***-***-2549,7eadf6d77f7cb431
+C00016,Anita Sharma,1977-10-23,,Premium,Pending,Medium,Austin,TX,USA,True,anita.sharma16@example.com,an***@example.com,***-***-2797,e7ee379a3be96c33
+C00017,Julia Stone,1990-06-24,2021-09-29,Unknown,Verified,Medium,Dallas,TX,USA,True,julia.stone17@example.com,ju***@example.com,***-***-1990,2d4a83b58ed020a1
+C00018,Daniel Brown,1975-07-01,2021-11-27,Mass,Pending,Low,Boston,MA,USA,True,unknown@example.com,un***@example.com,***-***-5211,cf0eb5e7a51ee42e
+C00019,Victor Lopez,1991-07-11,,Affluent,Pending,Low,Seattle,WA,USA,True,victor.lopez19@example.com,vi***@example.com,***-***-1622,05c0ccaddd30892a
+C00020,Julia Stone,1978-12-23,,Mass,Rejected,High,Miami,FL,USA,True,julia.stone20@example.com,ju***@example.com,***-***-1944,57453007bcc7a112
+C00021,Mateo Rivera,1981-12-04,2022-10-16,Premium,Verified,Low,San Francisco,CA,USA,True,mateo.rivera21@example.com,ma***@example.com,***-***-1919,6f967ac077a20b46
+C00022,Grace Kim,1996-04-25,,Unknown,Pending,Medium,Boston,MA,USA,True,grace.kim22@example.com,gr***@example.com,***-***-7179,e328292fa861f895
+C00023,Aiden Clark,1989-05-18,,Small Business,Rejected,High,Miami,FL,USA,True,aiden.clark23@example.com,ai***@example.com,***-***-1271,b94d08b712318f7b
+C00024,Sara Khan,1966-11-17,,Student,Verified,Low,Chicago,IL,USA,False,sara.khan24@example.com,sa***@example.com,***-***-6582,033edeb611107bcf
+C00025,Robert Miles,1969-04-18,,Student,Pending,High,Miami,FL,USA,False,robert.miles25@example.com,ro***@example.com,***-***-6897,06d5c82257b46ffb
+C00026,Victor Lopez,1985-06-27,,Unknown,Verified,Low,San Francisco,CA,USA,True,victor.lopez26@example.com,vi***@example.com,***-***-1087,73867f58291f388f
+C00027,Omar Ali,1989-04-28,,Premium,Rejected,Medium,Boston,MA,USA,False,omar.ali27@example.com,om***@example.com,***-***-9739,165bffe5ca88d506
+C00028,Victor Lopez,1988-09-09,,Mass,Pending,Medium,Austin,TX,USA,True,victor.lopez28@example.com,vi***@example.com,***-***-6465,c17f1bba6f8c6ce1
+C00029,Victor Lopez,1973-07-12,,Affluent,Pending,Low,Austin,TX,USA,False,victor.lopez29@example.com,vi***@example.com,***-***-8864,a379a9182cb0eab3
+C00030,Luis Garcia,1956-02-12,,Affluent,Pending,Medium,Dallas,TX,USA,False,luis.garcia30@example.com,lu***@example.com,***-***-7136,140919cdefc2a306
+C00031,John Lee,1975-11-04,,Small Business,Verified,Low,Dallas,TX,USA,True,john.lee31@example.com,jo***@example.com,***-***-5939,94c330856eeafb99
+C00032,Julia Stone,1984-05-25,,Affluent,Pending,High,Seattle,WA,USA,True,julia.stone32@example.com,ju***@example.com,***-***-6112,4f9c88c2c7089213
+C00033,Nora Davis,2001-06-14,,Small Business,Pending,Medium,Phoenix,AZ,USA,True,nora.davis33@example.com,no***@example.com,***-***-6710,5b69f160de8f764b
+C00034,Sophia Adams,1963-03-18,,Student,Pending,High,Boston,MA,USA,True,sophia.adams34@example.com,so***@example.com,***-***-5319,89aa034621fcc336
+C00035,Ava Johnson,1973-06-04,,Small Business,Pending,Medium,Phoenix,AZ,USA,True,ava.johnson35@example.com,av***@example.com,***-***-7711,3282eccd210ffb9a
+C00036,Nora Davis,1958-08-28,,Student,Verified,Low,Austin,TX,USA,True,nora.davis36@example.com,no***@example.com,***-***-7793,c3f9acf67df9fdc2
+C00037,Julia Stone,1972-02-18,,Affluent,Pending,Low,Chicago,IL,USA,True,julia.stone37@example.com,ju***@example.com,***-***-7052,9de238a53dffa59c
+C00038,Noah Wilson,1984-11-19,,Affluent,Verified,Low,San Francisco,CA,USA,True,noah.wilson38@example.com,no***@example.com,***-***-9549,197ad533dc3fb451
+C00039,Luis Garcia,1990-06-12,,Premium,Verified,High,Miami,FL,USA,True,luis.garcia39@example.com,lu***@example.com,***-***-6591,46f45d1887665fbe
+C00040,Robert Miles,1996-04-12,,Premium,Verified,High,Austin,TX,USA,False,robert.miles40@example.com,ro***@example.com,***-***-8636,37b15748216d4d15
+C00041,Zara Ahmed,1959-09-17,,Student,Verified,High,Miami,FL,USA,False,zara.ahmed41@example.com,za***@example.com,***-***-2486,467a60c7929bba8f
+C00042,Sara Khan,1990-07-21,2025-11-04,Premium,Pending,Low,Austin,TX,USA,False,sara.khan42@example.com,sa***@example.com,***-***-9528,98dd183f07b396d3
+C00043,Fatima Hassan,1988-03-18,,Student,Rejected,Low,Miami,FL,USA,True,fatima.hassan43@example.com,fa***@example.com,***-***-9004,01fab0cad64e780d
+C00044,Emily Chen,1964-11-28,2024-05-27,Student,Rejected,Medium,Miami,FL,USA,True,emily.chen44@example.com,em***@example.com,***-***-2000,b6d069442d9c6034
+C00045,Omar Ali,1963-11-20,,Premium,Verified,High,Austin,TX,USA,True,omar.ali45@example.com,om***@example.com,***-***-7781,3b1413e897e4f983
+C00046,Sara Khan,1984-01-02,2024-10-25,Student,Pending,High,Denver,CO,USA,False,sara.khan46@example.com,sa***@example.com,***-***-8714,5d86057c60d039b4
+C00047,Fatima Hassan,1967-04-22,,Affluent,Rejected,Medium,Dallas,TX,USA,True,fatima.hassan47@example.com,fa***@example.com,***-***-4950,d43fb89689aad7d5
+C00048,Ethan Miller,1984-02-07,,Affluent,Verified,Low,Seattle,WA,USA,True,ethan.miller48@example.com,et***@example.com,***-***-8893,a2f25486a534c7c2
+C00049,Aiden Clark,1965-09-05,,Unknown,Rejected,High,Austin,TX,USA,True,aiden.clark49@example.com,ai***@example.com,***-***-1499,8a7d8914ad2965d5
+C00050,Marcus Reed,1988-06-15,,Premium,Pending,Low,Boston,MA,USA,True,marcus.reed50@example.com,ma***@example.com,***-***-4646,567a8551d4a31acb
+C00051,Nora Davis,2003-02-27,,Student,Verified,Low,Dallas,TX,USA,True,nora.davis51@example.com,no***@example.com,***-***-9688,876e1ca46ebc1e41
+C00052,Mei Lin,1983-09-01,2024-03-01,Student,Pending,Low,Dallas,TX,USA,False,mei.lin52@example.com,me***@example.com,***-***-8841,d616368e63841aea
+C00053,Victor Lopez,1971-12-05,,Small Business,Pending,High,Chicago,IL,USA,True,victor.lopez53@example.com,vi***@example.com,***-***-6487,30fa1dd41d7fa8d9
+C00054,Noah Wilson,1980-08-07,2022-05-04,Premium,Verified,Medium,Miami,FL,USA,True,noah.wilson54@example.com,no***@example.com,***-***-4019,dc04065e2a720ea0
+C00055,Marcus Reed,1968-05-25,,Unknown,Pending,Low,Chicago,IL,USA,False,marcus.reed55@example.com,ma***@example.com,***-***-6142,95d15c6c9b8978f4
+C00056,Fatima Hassan,1962-02-26,2024-02-27,Small Business,Verified,Low,Seattle,WA,USA,True,fatima.hassan56@example.com,fa***@example.com,***-***-7642,619705f799b6301f
+C00057,Mateo Rivera,1965-12-27,,Unknown,Pending,Low,Boston,MA,USA,True,mateo.rivera57@example.com,ma***@example.com,***-***-4580,d478fcca78ecb460
+C00058,Robert Miles,1977-01-10,2025-12-13,Affluent,Verified,High,Phoenix,AZ,USA,True,robert.miles58@example.com,ro***@example.com,***-***-8888,302eaa8f0030acaf
+C00059,Ravi Mehta,1957-10-18,2023-08-24,Small Business,Verified,Medium,Boston,MA,USA,False,ravi.mehta59@example.com,ra***@example.com,***-***-9465,ab98171d0e883385
+C00060,Lina Park,1960-03-08,2022-05-12,Premium,Pending,Medium,Chicago,IL,USA,True,lina.park60@example.com,li***@example.com,***-***-3924,3c99cc747bf6831b
+C00061,Ravi Mehta,1996-04-27,,Unknown,Pending,High,Phoenix,AZ,USA,True,ravi.mehta61@example.com,ra***@example.com,***-***-9467,d9dc7883358e5f3b
+C00062,Maya Patel,1955-09-12,2025-07-26,Unknown,Pending,Low,Denver,CO,USA,True,maya.patel62@example.com,ma***@example.com,***-***-6547,9df43fc70a39b8bc
+C00063,Priya Nair,1970-01-01,,Unknown,Pending,Low,San Francisco,CA,USA,True,priya.nair63@example.com,pr***@example.com,***-***-9704,954a99a7743021e8
+C00064,Marcus Reed,2003-01-20,,Student,Pending,Low,San Francisco,CA,USA,False,marcus.reed64@example.com,ma***@example.com,***-***-3083,7e469118afe94df6
+C00065,Grace Kim,1973-06-15,2021-11-05,Small Business,Rejected,Low,Denver,CO,USA,True,unknown@example.com,un***@example.com,***-***-4726,d8dcf77e5f0c7f8d
+C00066,Ava Johnson,1983-10-18,2025-02-23,Affluent,Pending,High,San Francisco,CA,USA,False,ava.johnson66@example.com,av***@example.com,***-***-2665,742aef615dfbb0f6
+C00067,Zara Ahmed,1999-11-18,,Affluent,Pending,Medium,Seattle,WA,USA,True,zara.ahmed67@example.com,za***@example.com,***-***-6492,cd6b65c95e3e1874
+C00068,Priya Nair,1999-12-20,2022-06-24,Student,Pending,Low,Seattle,WA,USA,False,priya.nair68@example.com,pr***@example.com,***-***-1613,9decf6bf2dfc1ddb
+C00069,Priya Nair,1995-09-10,,Affluent,Pending,Medium,Chicago,IL,USA,True,priya.nair69@example.com,pr***@example.com,***-***-6528,ebc71e601b0dffc7
+C00070,Fatima Hassan,1977-09-14,,Premium,Rejected,Medium,Seattle,WA,USA,True,fatima.hassan70@example.com,fa***@example.com,Unknown,e84eb50086e8444c
+C00071,Zara Ahmed,2002-03-14,,Affluent,Rejected,Low,Chicago,IL,USA,True,zara.ahmed71@example.com,za***@example.com,***-***-8747,ffa5e4cd17a1f124
+C00072,Emily Chen,1980-07-08,,Student,Verified,Low,Phoenix,AZ,USA,True,emily.chen72@example.com,em***@example.com,***-***-2613,67db317712a227e5
+C00073,Maya Patel,1984-06-20,2024-07-08,Mass,Verified,High,Denver,CO,USA,False,maya.patel73@example.com,ma***@example.com,***-***-8957,0a3933bbc4a9afca
+C00074,Zara Ahmed,1961-08-14,2024-02-02,Small Business,Verified,Low,Denver,CO,USA,True,zara.ahmed74@example.com,za***@example.com,Unknown,05921b64c54c5936
+C00075,John Lee,1958-07-04,,Affluent,Verified,Medium,Austin,TX,USA,True,john.lee75@example.com,jo***@example.com,***-***-5064,d39898d3e213ae79
+C00076,Mateo Rivera,1982-10-25,,Student,Rejected,Low,Dallas,TX,USA,True,mateo.rivera76@example.com,ma***@example.com,***-***-2356,d3ce673f53c20d38
+C00077,Noah Wilson,2002-09-15,,Small Business,Rejected,Medium,San Francisco,CA,USA,True,noah.wilson77@example.com,no***@example.com,***-***-5124,b1ea60f018822c3d
+C00078,Lina Park,1965-01-07,,Premium,Rejected,High,Miami,FL,USA,True,lina.park78@example.com,li***@example.com,***-***-5043,76fce5713e357360
+C00079,Julia Stone,1976-11-15,,Student,Pending,Low,Denver,CO,USA,False,julia.stone79@example.com,ju***@example.com,***-***-8054,9a639a4f752b711e
+C00080,Sophia Adams,1977-12-10,,Premium,Verified,Low,Boston,MA,USA,True,unknown@example.com,un***@example.com,***-***-1379,98a38563612c571d
+C00081,Priya Nair,1974-12-12,,Premium,Verified,Low,Boston,MA,USA,True,priya.nair81@example.com,pr***@example.com,***-***-1814,6ad2c350590df43e
+C00082,Ravi Mehta,1994-02-26,2021-04-22,Premium,Verified,Low,Boston,MA,USA,True,ravi.mehta82@example.com,ra***@example.com,***-***-2094,cfc62f0afd109d5c
+C00083,Anita Sharma,2003-01-14,,Affluent,Rejected,Medium,Boston,MA,USA,True,anita.sharma83@example.com,an***@example.com,***-***-4115,f1971918f8587165
+C00084,Robert Miles,1959-05-25,2023-07-18,Affluent,Verified,Medium,San Francisco,CA,USA,False,robert.miles84@example.com,ro***@example.com,***-***-1013,cd0b4ba48ea74541
+C00085,Fatima Hassan,1994-04-15,,Mass,Rejected,Low,Atlanta,GA,USA,True,fatima.hassan85@example.com,fa***@example.com,***-***-2688,a30d817c6950ade0
+C00086,Ivy Thompson,1997-09-04,,Mass,Pending,Low,Boston,MA,USA,False,ivy.thompson86@example.com,iv***@example.com,***-***-9831,d1750f4c02cb7f54
+C00087,Maya Patel,1967-04-07,2024-02-06,Student,Verified,Low,Boston,MA,USA,False,maya.patel87@example.com,ma***@example.com,***-***-6949,1a127fbec85812d1
+C00088,Grace Kim,1973-08-21,2025-06-23,Student,Pending,High,Miami,FL,USA,True,grace.kim88@example.com,gr***@example.com,***-***-5522,8fa10b6aa2d18164
+C00089,Emily Chen,1974-05-05,,Mass,Verified,High,Boston,MA,USA,False,emily.chen89@example.com,em***@example.com,***-***-5652,0374d8515196c58c
+C00090,Ravi Mehta,1967-06-04,,Small Business,Pending,Low,Chicago,IL,USA,True,ravi.mehta90@example.com,ra***@example.com,Unknown,12f84ac5b2d4eb2f
+C00091,Grace Kim,1969-12-14,2021-03-29,Unknown,Rejected,High,Seattle,WA,USA,True,grace.kim91@example.com,gr***@example.com,***-***-9005,cc60206de6c8dec5
+C00092,Ravi Mehta,1988-07-15,,Mass,Pending,Low,Denver,CO,USA,False,ravi.mehta92@example.com,ra***@example.com,***-***-1340,aaa1c77026a14e59
+C00093,Priya Nair,1962-05-07,,Unknown,Verified,Low,Seattle,WA,USA,False,priya.nair93@example.com,pr***@example.com,***-***-4401,37bf61811994c191
+C00094,Omar Ali,1966-05-14,,Premium,Verified,Medium,Austin,TX,USA,True,omar.ali94@example.com,om***@example.com,***-***-8058,12b9fdf546f07794
+C00095,Zara Ahmed,1968-06-23,2024-05-30,Unknown,Rejected,Medium,Miami,FL,USA,True,zara.ahmed95@example.com,za***@example.com,***-***-5289,7b4e51eaf44b52bc
+C00096,Ava Johnson,1966-08-27,,Mass,Rejected,High,Phoenix,AZ,USA,True,ava.johnson96@example.com,av***@example.com,***-***-7656,c99452701c41d27d
+C00097,Ava Johnson,2004-07-24,,Small Business,Verified,Low,Seattle,WA,USA,True,ava.johnson97@example.com,av***@example.com,***-***-9373,225e79057de37162
+C00098,Aiden Clark,1958-05-20,,Student,Verified,High,Austin,TX,USA,True,aiden.clark98@example.com,ai***@example.com,***-***-4700,2f337742c5b115e2
+C00099,Mateo Rivera,1985-05-26,,Small Business,Verified,Medium,Phoenix,AZ,USA,True,mateo.rivera99@example.com,ma***@example.com,***-***-3111,07cfcb12d9a27be9
+C00100,Omar Ali,1980-01-01,,Mass,Rejected,Medium,Miami,FL,USA,True,omar.ali100@example.com,om***@example.com,Unknown,083a54cde823af61
+C00101,Mateo Rivera,1956-08-07,2024-04-30,Mass,Rejected,Low,Dallas,TX,USA,True,mateo.rivera101@example.com,ma***@example.com,***-***-3553,9b5c1930b8aa9780
+C00102,Fatima Hassan,1987-02-04,,Small Business,Pending,High,Phoenix,AZ,USA,False,fatima.hassan102@example.com,fa***@example.com,***-***-7550,0935894c96de72b8
+C00103,Anita Sharma,1970-01-01,,Affluent,Verified,Medium,Atlanta,GA,USA,False,anita.sharma103@example.com,an***@example.com,***-***-4377,90554204f04cc7d6
+C00104,Marcus Reed,1961-07-15,2022-11-22,Premium,Verified,Medium,Seattle,WA,USA,False,marcus.reed104@example.com,ma***@example.com,***-***-3265,dfd52e3606883d0c
+C00105,Anita Sharma,1976-10-28,,Mass,Pending,Medium,Phoenix,AZ,USA,False,anita.sharma105@example.com,an***@example.com,***-***-4338,56c888be7f98b933
+C00106,Julia Stone,1961-05-16,2023-11-15,Unknown,Verified,Low,Denver,CO,USA,True,julia.stone106@example.com,ju***@example.com,***-***-2739,e6a1c64981c69c23
+C00107,Victor Lopez,1975-08-14,,Affluent,Rejected,Medium,Denver,CO,USA,True,victor.lopez107@example.com,vi***@example.com,***-***-7466,8bcc14773aa90660
+C00108,Sophia Adams,1960-07-09,2021-10-10,Unknown,Verified,Low,Boston,MA,USA,False,sophia.adams108@example.com,so***@example.com,***-***-3638,a3ce77b8ef8bbd72
+C00109,Ivy Thompson,1956-12-24,,Affluent,Pending,Low,San Francisco,CA,USA,False,ivy.thompson109@example.com,iv***@example.com,***-***-3197,9420fd7fae82cad6
+C00110,Luis Garcia,1988-01-13,2022-04-04,Unknown,Verified,Medium,Phoenix,AZ,USA,True,luis.garcia110@example.com,lu***@example.com,***-***-6977,42f6c83616e97c09
+C00111,Victor Lopez,1983-04-08,,Unknown,Pending,High,Boston,MA,USA,True,victor.lopez111@example.com,vi***@example.com,***-***-2724,b38cb4ba9cb69875
+C00112,Omar Ali,2002-07-23,2023-06-15,Unknown,Pending,Medium,Atlanta,GA,USA,False,omar.ali112@example.com,om***@example.com,***-***-8664,ee798046d126ff4e
+C00113,Ravi Mehta,1961-01-06,2021-12-25,Affluent,Pending,Low,Dallas,TX,USA,True,ravi.mehta113@example.com,ra***@example.com,***-***-1685,740750353cb0584b
+C00114,Priya Nair,1993-06-02,2022-11-16,Affluent,Rejected,Low,Atlanta,GA,USA,True,priya.nair114@example.com,pr***@example.com,***-***-6218,fd05db34b47ad51c
+C00115,Ethan Miller,1967-02-21,2025-12-03,Affluent,Rejected,Medium,Phoenix,AZ,USA,True,ethan.miller115@example.com,et***@example.com,***-***-8774,d34a7a2b7c016683
+C00116,Ethan Miller,1976-02-11,,Affluent,Verified,Low,Seattle,WA,USA,True,ethan.miller116@example.com,et***@example.com,***-***-1261,604d783fd56c8a29
+C00117,Mei Lin,1956-06-23,2021-10-24,Mass,Rejected,Medium,Austin,TX,USA,True,mei.lin117@example.com,me***@example.com,***-***-1030,7d3aa778fff00dd2
+C00118,Ava Johnson,1962-04-17,,Unknown,Verified,Medium,Miami,FL,USA,True,ava.johnson118@example.com,av***@example.com,***-***-3183,5eb9bb404a49b97b
+C00119,John Lee,2001-04-16,,Small Business,Verified,Low,Austin,TX,USA,True,john.lee119@example.com,jo***@example.com,***-***-7185,cbdcd3875e09752c
+C00120,Omar Ali,1974-05-05,,Small Business,Rejected,Low,Boston,MA,USA,True,omar.ali120@example.com,om***@example.com,***-***-3495,3c0ab1c37b22be87
+C00121,Hannah Young,1995-05-27,,Small Business,Verified,Medium,Phoenix,AZ,USA,True,hannah.young121@example.com,ha***@example.com,***-***-1647,f705ed140f9818ee
+C00122,Robert Miles,1997-10-14,2023-01-11,Student,Verified,High,Seattle,WA,USA,False,robert.miles122@example.com,ro***@example.com,***-***-1176,4e5eb391025a0881
+C00123,Fatima Hassan,1984-10-25,,Small Business,Rejected,High,San Francisco,CA,USA,True,fatima.hassan123@example.com,fa***@example.com,***-***-1166,20d3af0ff6082b1c
+C00124,Hannah Young,1957-07-13,,Mass,Verified,High,Atlanta,GA,USA,False,hannah.young124@example.com,ha***@example.com,***-***-3088,c77d75a4b8948735
+C00125,Omar Ali,1960-10-14,2023-04-18,Affluent,Verified,Medium,Boston,MA,USA,False,omar.ali125@example.com,om***@example.com,***-***-5077,4aad0e71c2d8129d
+C00126,Ivy Thompson,1976-10-17,,Small Business,Verified,Low,San Francisco,CA,USA,False,ivy.thompson126@example.com,iv***@example.com,Unknown,56a3bc985433a5e8
+C00127,Luis Garcia,1955-10-17,,Student,Pending,Low,Phoenix,AZ,USA,True,luis.garcia127@example.com,lu***@example.com,***-***-3372,d63598fa40588e9a
+C00128,Priya Nair,2001-05-14,,Student,Pending,Medium,Austin,TX,USA,False,priya.nair128@example.com,pr***@example.com,***-***-8193,9a7b5974e9d5563d
+C00129,Aiden Clark,1985-05-10,,Unknown,Pending,Low,Phoenix,AZ,USA,True,aiden.clark129@example.com,ai***@example.com,***-***-4536,7017d4b9cbf67516
+C00130,Zara Ahmed,1966-02-05,,Small Business,Verified,Medium,Miami,FL,USA,False,zara.ahmed130@example.com,za***@example.com,***-***-3757,343b435f8b444156
+C00131,Ben Carter,1965-12-16,2023-08-12,Student,Verified,Medium,Dallas,TX,USA,True,ben.carter131@example.com,be***@example.com,***-***-5474,1bfdab421eece119
+C00132,Maya Patel,1994-10-17,2022-01-06,Small Business,Verified,Low,Chicago,IL,USA,True,maya.patel132@example.com,ma***@example.com,***-***-9124,c969a27be79a116a
+C00133,Nora Davis,1964-02-10,,Premium,Rejected,Low,Chicago,IL,USA,False,nora.davis133@example.com,no***@example.com,***-***-2158,ab4e7041dc90f30b
+C00134,Omar Ali,1995-12-17,,Mass,Rejected,Medium,Boston,MA,USA,True,omar.ali134@example.com,om***@example.com,***-***-5397,49bfbed4750444ba
+C00135,Emily Chen,1970-08-17,,Mass,Pending,High,Seattle,WA,USA,True,emily.chen135@example.com,em***@example.com,***-***-4247,eb9902813f4fdc09
+C00136,Ethan Miller,1959-05-10,,Mass,Rejected,Low,Dallas,TX,USA,True,ethan.miller136@example.com,et***@example.com,***-***-5681,77c6fedf2443bda5
+C00137,Sophia Adams,1997-06-10,,Unknown,Verified,Medium,San Francisco,CA,USA,True,sophia.adams137@example.com,so***@example.com,***-***-3814,294e8077fa03c37a
+C00138,Leo Scott,1959-04-03,,Affluent,Pending,Low,Miami,FL,USA,True,leo.scott138@example.com,le***@example.com,***-***-6425,c1e48741382f1b79
+C00139,Priya Nair,1996-05-05,,Small Business,Rejected,High,Phoenix,AZ,USA,True,priya.nair139@example.com,pr***@example.com,***-***-6348,0bbc71092a122b07
+C00140,Nora Davis,1992-07-24,2022-07-01,Student,Pending,Medium,San Francisco,CA,USA,True,nora.davis140@example.com,no***@example.com,***-***-6796,0a1fc01b5037132d
+C00141,Fatima Hassan,1981-08-26,,Mass,Verified,Medium,Atlanta,GA,USA,False,fatima.hassan141@example.com,fa***@example.com,***-***-7082,eefc8c17be46b70c
+C00142,Ravi Mehta,1979-02-15,,Mass,Rejected,Medium,San Francisco,CA,USA,True,ravi.mehta142@example.com,ra***@example.com,***-***-5032,afc4caff87bb761b
+C00143,Lina Park,1983-11-19,2023-06-28,Premium,Verified,High,Denver,CO,USA,True,lina.park143@example.com,li***@example.com,***-***-7622,c98f5631c8e31509
+C00144,Sara Khan,1988-07-20,,Student,Verified,Medium,Dallas,TX,USA,False,sara.khan144@example.com,sa***@example.com,***-***-1751,8cba40448f7bf87e
+C00145,Leo Scott,1992-01-24,,Student,Verified,Low,Seattle,WA,USA,False,leo.scott145@example.com,le***@example.com,***-***-9374,bca15f7df150aba2
+C00146,Aiden Clark,1972-09-27,,Premium,Rejected,Medium,Denver,CO,USA,True,aiden.clark146@example.com,ai***@example.com,***-***-4038,5999a46bf8e502d1
+C00147,Anita Sharma,1965-09-03,,Small Business,Pending,Medium,Seattle,WA,USA,True,anita.sharma147@example.com,an***@example.com,***-***-8274,8699e50efe5fcd0d
+C00148,Ivy Thompson,1992-06-16,,Small Business,Verified,Low,Dallas,TX,USA,True,ivy.thompson148@example.com,iv***@example.com,***-***-6652,9a81ab80875a5da3
+C00149,Ravi Mehta,1988-04-03,,Affluent,Rejected,High,Denver,CO,USA,True,ravi.mehta149@example.com,ra***@example.com,***-***-6552,ff56cde61367f6c1
+C00150,Marcus Reed,1983-03-01,2022-06-18,Premium,Verified,Low,Miami,FL,USA,True,marcus.reed150@example.com,ma***@example.com,***-***-4274,462a58885198907d
+C99999,Unknown,,,Unknown,Unknownish,Unknown,Unknown,UNKNOWN,USA,,bad.email.example.com,unknown@example.com,Unknown,a9024223c87c3073

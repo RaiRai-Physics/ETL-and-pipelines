@@ -1,0 +1,11 @@
+branch_id,branch_name,city,state,region,open_date,manager_name
+B001,Chicago Main,Chicago,IL,Midwest,2015-06-30,Nora Davis
+B002,Dallas Main,Dallas,TX,Southwest,2015-12-27,Maya Patel
+B003,Austin Main,Austin,TX,Southwest,2016-06-24,Emily Chen
+B004,Atlanta Main,Atlanta,GA,Southeast,2016-12-21,Emily Chen
+B005,Boston Main,Boston,MA,Northeast,2017-06-19,Nora Davis
+B006,Seattle Main,Seattle,WA,West,2017-12-16,Luis Garcia
+B007,Denver Main,Denver,CO,West,2018-06-14,Emily Chen
+B008,Phoenix Main,Phoenix,AZ,Southwest,2018-12-11,Emily Chen
+B009,Miami Main,Miami,FL,Southeast,2019-06-09,Emily Chen
+B010,San Francisco Main,San Francisco,CA,West,2019-12-06,Omar Ali

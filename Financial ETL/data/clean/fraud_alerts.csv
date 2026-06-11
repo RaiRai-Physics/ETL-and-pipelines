@@ -1,0 +1,181 @@
+alert_id,transaction_id,alert_ts,rule_name,alert_severity,review_status,analyst_id
+FA000001,T00004164,2026-02-28 03:00:00,card_not_present,High,Escalated,AN001
+FA000002,T00001661,2026-03-13 12:54:00,foreign_merchant,Low,Escalated,UNASSIGNED
+FA000003,T00003925,,velocity,Medium,False Positive,UNASSIGNED
+FA000004,T00002394,,velocity,High,False Positive,AN003
+FA000005,T00004687,,foreign_merchant,Medium,Escalated,AN001
+FA000006,T00000089,,velocity,Low,False Positive,UNASSIGNED
+FA000007,T00003881,2026-02-10 16:00:00,foreign_merchant,High,False Positive,UNASSIGNED
+FA000008,T00002699,2026-02-10 10:15:00,high_amount,Critical,Open,AN002
+FA000009,T00004297,2026-01-19 09:54:00,card_not_present,High,False Positive,AN001
+FA000010,T00004933,2026-01-04 21:08:00,card_not_present,Medium,False Positive,AN002
+FA000011,T00001811,2026-01-21 12:37:00,velocity,Medium,Closed,AN003
+FA000012,T00002560,,foreign_merchant,High,Open,AN001
+FA000013,T00000384,,card_not_present,Critical,Escalated,AN002
+FA000014,T00003343,,foreign_merchant,High,Escalated,AN003
+FA000015,T00001591,2026-05-28 02:56:00,high_amount,Medium,Closed,AN003
+FA000016,T00001309,,high_amount,High,Escalated,AN002
+FA000017,T00003087,2026-02-07 20:11:00,high_amount,Critical,Open,UNASSIGNED
+FA000018,T00000048,2026-01-05 08:01:00,known_bad_merchant,High,False Positive,AN001
+FA000019,T00000500,,card_not_present,Medium,Open,AN001
+FA000020,T00003920,2026-02-26 18:51:00,card_not_present,Low,Open,AN001
+FA000021,T00003573,,card_not_present,High,Open,AN004
+FA000022,T00001335,,high_amount,High,Open,AN004
+FA000023,T00004566,,foreign_merchant,Low,Escalated,AN002
+FA000024,T00004699,,card_not_present,Critical,Open,UNASSIGNED
+FA000025,T00002751,2026-01-17 16:40:00,account_takeover,High,Open,AN003
+FA000026,T00002293,2026-03-07 11:49:00,account_takeover,High,Escalated,AN003
+FA000027,T00000209,,account_takeover,Low,Open,UNASSIGNED
+FA000028,T00000227,2026-03-08 03:59:00,known_bad_merchant,Critical,Open,AN002
+FA000029,T00000482,,known_bad_merchant,High,False Positive,AN001
+FA000030,T00002218,,account_takeover,Medium,Open,AN002
+FA000031,T00002729,,foreign_merchant,Low,Open,UNASSIGNED
+FA000032,T00004507,,high_amount,Medium,Closed,AN001
+FA000033,T00001823,2026-02-12 22:51:00,high_amount,High,Closed,AN002
+FA000034,T00003152,,card_not_present,High,Open,AN001
+FA000035,T00004942,2026-02-18 20:12:00,foreign_merchant,Medium,Open,AN003
+FA000036,T00001624,,card_not_present,Medium,Open,AN003
+FA000037,T00003136,,foreign_merchant,High,Open,AN001
+FA000038,T00003324,,known_bad_merchant,High,Closed,AN002
+FA000039,T00000625,2026-01-17 02:38:00,velocity,High,Open,AN003
+FA000040,T00003140,,card_not_present,Medium,Open,UNASSIGNED
+FA000041,T00000186,,velocity,Critical,False Positive,AN002
+FA000042,T00003122,,account_takeover,Medium,Escalated,AN002
+FA000043,T00002543,2026-01-02 14:44:00,known_bad_merchant,High,Escalated,AN001
+FA000044,T00000858,2026-05-25 05:39:00,foreign_merchant,Critical,False Positive,AN004
+FA000045,T00002658,,high_amount,High,Closed,AN004
+FA000046,T00002989,,card_not_present,High,Open,UNASSIGNED
+FA000047,T00004241,2026-03-10 04:09:00,high_amount,Low,Escalated,AN001
+FA000048,T00002087,2026-05-12 20:21:00,foreign_merchant,Critical,Closed,AN002
+FA000049,T00002262,,foreign_merchant,Medium,Open,AN002
+FA000050,T00003365,,foreign_merchant,Critical,Open,AN002
+FA000051,T00001908,2026-05-29 13:22:00,known_bad_merchant,Low,Closed,AN001
+FA000052,T00004176,,velocity,High,Open,AN003
+FA000053,T00002434,2026-03-30 09:30:00,card_not_present,Critical,Escalated,AN001
+FA000054,T00004212,2026-01-08 19:36:00,card_not_present,Low,Open,AN004
+FA000055,T00001756,,foreign_merchant,Critical,False Positive,AN003
+FA000056,T00001125,2026-02-19 01:12:00,account_takeover,High,False Positive,AN001
+FA000057,T00003221,2026-02-18 21:39:00,foreign_merchant,High,Open,AN004
+FA000058,T00001329,2026-05-16 17:05:00,known_bad_merchant,High,Closed,AN003
+FA000059,T00003212,,foreign_merchant,Critical,Closed,UNASSIGNED
+FA000060,T00003729,,account_takeover,Medium,Closed,AN002
+FA000061,T00004624,,card_not_present,High,False Positive,AN004
+FA000062,T00003968,,velocity,Critical,Open,AN003
+FA000063,T00002525,2026-04-11 10:49:00,foreign_merchant,High,False Positive,AN004
+FA000064,T00004931,2026-04-28 15:43:00,known_bad_merchant,Medium,Open,AN003
+FA000065,T00002275,,known_bad_merchant,Medium,False Positive,AN004
+FA000066,T00003277,2026-03-30 17:19:00,foreign_merchant,High,Open,AN002
+FA000067,T_BAD,2026-02-10 19:32:00,velocity,High,False Positive,UNASSIGNED
+FA000068,T00004614,,card_not_present,High,False Positive,AN004
+FA000069,T00003546,2026-02-14 00:48:00,foreign_merchant,High,Open,AN004
+FA000070,T00002286,,known_bad_merchant,Critical,False Positive,AN002
+FA000071,T00002601,2026-05-01 16:54:00,velocity,Medium,Open,AN003
+FA000072,T00004800,,high_amount,Medium,Closed,AN002
+FA000073,T00001353,2026-01-08 16:45:00,velocity,Critical,Open,AN003
+FA000074,T00003958,,high_amount,Critical,Closed,AN004
+FA000075,T00004493,,known_bad_merchant,High,Open,AN004
+FA000076,T00004465,2026-05-13 10:45:00,high_amount,High,Closed,AN002
+FA000077,T00001936,2026-03-07 11:52:00,account_takeover,High,Open,UNASSIGNED
+FA000078,T00002991,2026-02-21 08:48:00,card_not_present,Low,False Positive,AN004
+FA000079,T00000411,2026-03-05 04:55:00,velocity,High,Closed,AN001
+FA000080,T00004086,,known_bad_merchant,Critical,Open,AN004
+FA000081,T00002389,2026-05-14 08:51:00,foreign_merchant,High,Open,AN002
+FA000082,T00004668,2026-03-09 05:25:00,known_bad_merchant,High,Closed,AN001
+FA000083,T00001252,,card_not_present,Medium,Open,AN003
+FA000084,T00002333,,card_not_present,Critical,Open,AN003
+FA000085,T00004448,,card_not_present,High,False Positive,AN004
+FA000086,T00002035,2026-01-22 04:34:00,velocity,High,False Positive,AN003
+FA000087,T00003066,2026-04-23 17:20:00,velocity,Medium,Open,AN002
+FA000088,T00004266,2026-02-22 08:00:00,velocity,Medium,Open,AN002
+FA000089,T00002441,,known_bad_merchant,High,Open,AN001
+FA000090,T00000264,2026-05-13 19:51:00,high_amount,High,Open,AN001
+FA000091,T00002653,2026-02-12 14:54:00,foreign_merchant,High,False Positive,UNASSIGNED
+FA000092,T00000820,,foreign_merchant,Critical,Closed,AN002
+FA000093,T00001246,,foreign_merchant,Medium,False Positive,AN004
+FA000094,T00002369,,velocity,Medium,Escalated,UNASSIGNED
+FA000095,T00001945,,card_not_present,High,Open,AN001
+FA000096,T00001774,,velocity,Medium,Open,UNASSIGNED
+FA000097,T00002624,2026-04-27 19:33:00,velocity,Low,Escalated,UNASSIGNED
+FA000098,T00002299,,foreign_merchant,Low,Open,AN001
+FA000099,T00003151,,foreign_merchant,High,Closed,AN003
+FA000100,T00004821,,card_not_present,High,Open,AN002
+FA000101,T00001012,,foreign_merchant,High,Open,AN004
+FA000102,T00003879,2026-04-10 02:54:00,high_amount,Critical,Open,AN004
+FA000103,T00003851,2026-01-21 04:26:00,foreign_merchant,Medium,Escalated,AN001
+FA000104,T00003268,,high_amount,Critical,False Positive,AN002
+FA000105,T00000875,2026-04-29 21:06:00,account_takeover,Critical,Open,AN002
+FA000106,T00000870,2026-05-01 23:36:00,account_takeover,High,Closed,AN002
+FA000107,T00003516,,known_bad_merchant,High,Closed,AN004
+FA000108,T00001073,2026-02-06 06:36:00,high_amount,High,Closed,AN001
+FA000109,T00004779,,account_takeover,Critical,Open,UNASSIGNED
+FA000110,T00001937,,high_amount,High,False Positive,AN001
+FA000111,T00001964,,known_bad_merchant,Medium,Open,AN001
+FA000112,T00003656,2026-01-18 02:02:00,known_bad_merchant,High,Open,AN003
+FA000113,T00001274,,high_amount,Low,False Positive,UNASSIGNED
+FA000114,T00004300,2026-04-01 08:57:00,card_not_present,Low,Closed,AN003
+FA000115,T00003176,2026-01-02 07:53:00,high_amount,High,Open,AN002
+FA000116,T00003294,,card_not_present,High,False Positive,AN003
+FA000117,T00000316,,foreign_merchant,Critical,Open,AN003
+FA000118,T00002695,2026-02-21 11:28:00,known_bad_merchant,High,Open,AN002
+FA000119,T00004383,,known_bad_merchant,Critical,Closed,AN002
+FA000120,T00003178,2026-04-29 15:44:00,account_takeover,Low,Open,UNASSIGNED
+FA000121,T00001476,2026-01-07 06:38:00,account_takeover,High,Closed,AN004
+FA000122,T00000959,2026-03-24 17:15:00,velocity,Low,Escalated,AN003
+FA000123,T00000769,2026-03-18 01:16:00,foreign_merchant,Critical,Open,AN004
+FA000124,T00001529,,high_amount,Critical,Escalated,AN001
+FA000125,T00000663,2026-01-25 14:45:00,account_takeover,Medium,Open,AN002
+FA000126,T00002697,2026-01-19 18:16:00,card_not_present,High,Open,UNASSIGNED
+FA000127,T00004135,,high_amount,High,Open,AN002
+FA000128,T00000104,2026-03-05 15:41:00,high_amount,High,False Positive,AN003
+FA000129,T00001128,2026-02-05 14:14:00,high_amount,Critical,Open,AN001
+FA000130,T00003650,,account_takeover,Low,Open,AN001
+FA000131,T00004444,,high_amount,Critical,Closed,AN001
+FA000132,T00003530,2026-02-07 11:35:00,known_bad_merchant,High,Open,AN001
+FA000133,T00000838,2026-04-16 22:25:00,velocity,Low,Escalated,AN003
+FA000134,T00004843,2026-02-06 12:10:00,known_bad_merchant,Medium,Open,UNASSIGNED
+FA000135,T00002666,2026-03-15 11:15:00,account_takeover,Critical,Escalated,AN004
+FA000136,T00003409,,foreign_merchant,High,Open,AN004
+FA000137,T00004693,,high_amount,Low,Open,AN003
+FA000138,T00001332,,velocity,Medium,Open,AN001
+FA000139,T00001653,2026-02-09 00:30:00,card_not_present,High,Open,AN001
+FA000140,T00004667,2026-01-09 12:39:00,velocity,Low,False Positive,UNASSIGNED
+FA000141,T00002065,,high_amount,Low,False Positive,UNASSIGNED
+FA000142,T00001899,,card_not_present,High,Open,AN004
+FA000143,T00001669,2026-05-03 03:34:00,high_amount,Low,False Positive,AN003
+FA000144,T00002579,,high_amount,Low,Escalated,AN004
+FA000145,T00001520,2026-03-18 10:06:00,foreign_merchant,Medium,Escalated,AN003
+FA000146,T00004985,,velocity,Medium,False Positive,AN002
+FA000147,T00003896,2026-05-05 09:16:00,account_takeover,Medium,Open,AN002
+FA000148,T00004988,2026-05-02 23:47:00,known_bad_merchant,Critical,Open,UNASSIGNED
+FA000149,T00003191,2026-05-02 23:47:00,foreign_merchant,Low,Open,UNASSIGNED
+FA000150,T00002907,,card_not_present,High,Escalated,AN004
+FA000151,T00002859,2026-05-05 21:07:00,card_not_present,High,Escalated,AN003
+FA000152,T00003768,,known_bad_merchant,Medium,Closed,UNASSIGNED
+FA000153,T00002771,2026-05-15 21:37:00,high_amount,Critical,Open,AN004
+FA000154,T00004278,,high_amount,Critical,Closed,AN003
+FA000155,T00001932,2026-03-31 07:41:00,account_takeover,Medium,Escalated,AN002
+FA000156,T00002263,,velocity,High,Open,UNASSIGNED
+FA000157,T00001203,2026-02-22 00:23:00,velocity,High,False Positive,AN001
+FA000158,T00000907,2026-05-25 22:44:00,foreign_merchant,High,Escalated,AN001
+FA000159,T00000038,2026-03-31 03:34:00,foreign_merchant,High,Open,AN004
+FA000160,T00002435,,known_bad_merchant,Low,Escalated,UNASSIGNED
+FA000161,T00004606,,card_not_present,High,Escalated,AN002
+FA000162,T00003412,,account_takeover,Low,Closed,AN003
+FA000163,T00003630,,foreign_merchant,Critical,Open,AN002
+FA000164,T00004698,2026-04-09 08:39:00,high_amount,Critical,Open,UNASSIGNED
+FA000165,T00000245,,velocity,High,Closed,AN004
+FA000166,T00002548,2026-02-21 17:32:00,account_takeover,Medium,Open,AN003
+FA000167,T00000906,2026-02-01 10:46:00,foreign_merchant,High,Closed,AN004
+FA000168,T00004283,,foreign_merchant,High,Escalated,AN004
+FA000169,T00000122,2026-02-20 13:19:00,velocity,Critical,Open,AN003
+FA000170,T00002626,,account_takeover,High,Escalated,AN001
+FA000171,T00001215,,high_amount,Critical,Open,AN004
+FA000172,T00002914,,high_amount,High,Open,AN001
+FA000173,T00002159,,velocity,Critical,Open,AN002
+FA000174,T00004487,,known_bad_merchant,Low,Open,UNASSIGNED
+FA000175,T00003676,2026-04-06 22:37:00,known_bad_merchant,Critical,Open,UNASSIGNED
+FA000176,T00003882,2026-01-16 13:55:00,velocity,Critical,Escalated,AN004
+FA000177,T00001257,2026-04-11 08:01:00,velocity,Critical,False Positive,AN001
+FA000178,T00003560,2026-05-06 05:08:00,velocity,Critical,Closed,UNASSIGNED
+FA000179,T00003876,,known_bad_merchant,Medium,Open,UNASSIGNED
+FA000180,T00004886,,high_amount,Critical,Closed,UNASSIGNED

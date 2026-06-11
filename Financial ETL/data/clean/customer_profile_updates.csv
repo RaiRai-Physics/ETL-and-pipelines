@@ -1,0 +1,91 @@
+update_id,customer_id,effective_date,new_customer_segment,new_risk_rating,new_kyc_status,source_system
+UPD00001,C00014,2025-07-29,Student,Medium,Pending,crm
+UPD00002,C00081,2025-02-13,Small Business,Medium,Pending,online_portal
+UPD00003,C00087,2025-11-06,Student,Medium,Rejected,crm
+UPD00004,C00008,2025-04-24,Small Business,High,Rejected,crm
+UPD00005,C00055,2025-07-15,Affluent,Medium,Verified,branch_app
+UPD00006,C00072,2025-11-18,Mass,High,Pending,crm
+UPD00007,C00082,2025-05-03,Mass,Medium,Rejected,crm
+UPD00008,C00128,2026-04-09,Affluent,Medium,Pending,branch_app
+UPD00009,C00079,2026-05-10,Mass,Medium,Pending,crm
+UPD00010,C00036,2025-08-18,Mass,Low,Pending,branch_app
+UPD00011,C00035,2026-05-15,Small Business,Low,Verified,crm
+UPD00012,C00115,2025-10-05,Student,Low,Pending,crm
+UPD00013,C00011,2026-03-02,Student,Low,Rejected,crm
+UPD00014,C00080,2025-07-30,Mass,Medium,Verified,crm
+UPD00015,C00087,2025-04-06,Premium,Low,Rejected,crm
+UPD00016,C00075,2025-12-08,Small Business,Medium,Pending,crm
+UPD00017,C00084,2026-01-27,Small Business,Low,Rejected,branch_app
+UPD00018,C00020,2025-05-20,Student,High,Verified,crm
+UPD00019,C00077,2025-05-27,Small Business,Medium,Verified,crm
+UPD00020,C00100,2025-07-04,Small Business,High,Pending,online_portal
+UPD00021,C00061,2026-01-03,Premium,Low,Verified,branch_app
+UPD00022,C00020,2025-02-19,Student,Low,Rejected,branch_app
+UPD00023,C00091,2025-11-09,Small Business,Low,Pending,branch_app
+UPD00024,C00024,2025-08-16,Mass,Low,Rejected,crm
+UPD00025,C00116,2025-03-11,Student,Medium,Pending,branch_app
+UPD00026,C00085,2026-04-06,Affluent,High,Verified,crm
+UPD00027,C00069,2025-08-25,Mass,Low,Verified,branch_app
+UPD00028,C00088,2025-09-20,Premium,Low,Rejected,online_portal
+UPD00029,C00134,2025-06-25,Affluent,Low,Rejected,branch_app
+UPD00030,C00054,2025-01-01,Student,High,Rejected,crm
+UPD00031,C00109,2025-04-28,Premium,Low,Verified,branch_app
+UPD00032,C00095,2025-11-29,Affluent,Medium,Pending,online_portal
+UPD00033,C00062,2025-09-27,Student,Medium,Pending,branch_app
+UPD00034,C00090,2025-03-23,Premium,High,Pending,online_portal
+UPD00035,C00093,2025-07-14,Premium,Low,Rejected,online_portal
+UPD00036,C00023,2026-04-21,Mass,High,Verified,online_portal
+UPD00037,C00105,2025-04-04,Affluent,High,Rejected,branch_app
+UPD00038,C00055,2025-01-12,Affluent,Medium,Pending,crm
+UPD00039,C00106,2025-01-08,Student,Medium,Rejected,branch_app
+UPD00040,C00014,2025-12-02,Mass,High,Rejected,online_portal
+UPD00041,C00056,2026-04-30,Small Business,Low,Verified,branch_app
+UPD00042,C00062,2025-07-09,Student,Medium,Pending,online_portal
+UPD00043,C00061,2026-04-11,Mass,High,Rejected,branch_app
+UPD00044,C00050,2025-01-28,Premium,Low,Rejected,crm
+UPD00045,C00138,2026-01-29,Affluent,Medium,Pending,crm
+UPD00046,C00034,2026-03-08,Student,Medium,Pending,crm
+UPD00047,C00127,2025-10-29,Affluent,Medium,Rejected,online_portal
+UPD00048,C00003,2025-10-01,Affluent,Low,Verified,branch_app
+UPD00049,C00027,2026-05-17,Affluent,Medium,Verified,branch_app
+UPD00050,C00035,2025-06-22,Student,Low,Pending,crm
+UPD00051,C00020,2026-02-10,Student,Medium,Pending,branch_app
+UPD00052,C00092,2025-06-07,Small Business,Low,Pending,online_portal
+UPD00053,C00023,2025-12-22,Premium,High,Verified,online_portal
+UPD00054,C00057,2025-06-11,Premium,High,Rejected,crm
+UPD00055,C00115,2026-05-03,Mass,High,Verified,crm
+UPD00056,C00023,2026-04-05,Student,Medium,Verified,branch_app
+UPD00057,C00013,2025-05-03,Small Business,High,Pending,branch_app
+UPD00058,C00099,2025-11-08,Student,Medium,Rejected,branch_app
+UPD00059,C00131,2025-09-04,Small Business,Medium,Rejected,online_portal
+UPD00060,C00031,2026-04-23,Small Business,High,Pending,online_portal
+UPD00061,C00016,2025-07-13,Student,Low,Verified,branch_app
+UPD00062,C00081,2026-03-05,Small Business,Low,Verified,branch_app
+UPD00063,C00141,2025-09-11,Small Business,Medium,Pending,online_portal
+UPD00064,C00118,2025-10-12,Mass,Medium,Pending,branch_app
+UPD00065,C00122,2025-07-12,Affluent,High,Verified,branch_app
+UPD00066,C00073,2025-08-27,Small Business,High,Pending,online_portal
+UPD00067,C00049,2025-01-15,Student,Medium,Pending,crm
+UPD00068,C00144,2025-04-05,Mass,High,Verified,crm
+UPD00069,C00026,2026-05-03,Premium,Low,Verified,branch_app
+UPD00070,C00080,2025-01-08,Student,High,Verified,branch_app
+UPD00071,C00056,2025-07-04,Mass,Medium,Rejected,online_portal
+UPD00072,C00124,2025-01-22,Small Business,High,Rejected,branch_app
+UPD00073,C00068,2025-07-25,Mass,Medium,Verified,branch_app
+UPD00074,C00123,2025-12-26,Mass,Low,Pending,online_portal
+UPD00075,C00041,2026-01-18,Student,High,Pending,online_portal
+UPD00076,C00110,2025-11-30,Mass,Medium,Pending,branch_app
+UPD00077,C00033,2026-03-02,Mass,Low,Verified,crm
+UPD00078,C00016,2025-06-29,Small Business,Medium,Verified,branch_app
+UPD00079,C00119,2025-08-02,Small Business,Medium,Rejected,branch_app
+UPD00080,C00101,2026-03-14,Premium,Medium,Verified,branch_app
+UPD00081,C00124,2025-07-21,Mass,Medium,Pending,online_portal
+UPD00082,C00146,2025-04-12,Premium,High,Rejected,branch_app
+UPD00083,C00008,2025-08-04,Small Business,High,Rejected,branch_app
+UPD00084,C00075,2026-01-20,Affluent,Low,Pending,branch_app
+UPD00085,C00003,2025-02-16,Student,Medium,Verified,online_portal
+UPD00086,C00080,2025-01-31,Small Business,High,Verified,branch_app
+UPD00087,C00089,2026-01-03,Mass,Medium,Verified,online_portal
+UPD00088,C00127,2025-09-16,Student,Low,Verified,branch_app
+UPD00089,C00043,2025-04-13,Premium,Medium,Verified,branch_app
+UPD00090,C00112,2025-09-08,Premium,Medium,Pending,crm
