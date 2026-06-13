@@ -1,0 +1,15 @@
+table_name,row_count,column_count,duplicate_full_rows
+account_daily_balances,11220,5,0
+accounts,241,10,1
+branches,10,7,0
+cards,180,8,0
+chargebacks,95,6,0
+credit_scores,750,4,0
+customer_profile_updates,91,7,1
+customers,152,13,0
+exchange_rates,764,4,0
+fraud_alerts,180,7,0
+loan_payments,1362,7,0
+loans,120,9,0
+merchants,80,7,0
+transactions,5002,14,1

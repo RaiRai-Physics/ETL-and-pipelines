@@ -1,0 +1,109 @@
+table_name,column_name,blank_count,distinct_count,sample_values
+account_daily_balances,account_id,0,220,A000001 | A000002 | A000003 | A000004 | A000005
+account_daily_balances,balance_date,0,51,2026-01-01 | 2026-01-04 | 2026-01-07 | 2026-01-10 | 2026-01-13
+account_daily_balances,ledger_balance,0,11178,8716.66 | 8914.25 | 8790.26 | 8538.08 | 8543.92
+account_daily_balances,available_balance,0,11190,8567.64 | 8791.11 | 8727.61 | 8401.15 | 8530.91
+account_daily_balances,currency,0,5,CAD | EUR | USD | GBP | INR
+accounts,account_id,0,240,A000001 | A000002 | A000003 | A000004 | A000005
+accounts,customer_id,0,121,C00090 | C00148 | C00116 | C00007 | C00022
+accounts,branch_id,0,11,B001 | B003 | B005 | B010 | B006
+accounts,account_type,0,8,Checking | Savings | Credit | loan | savings
+accounts,currency,0,5,CAD | EUR | USD | GBP | INR
+accounts,open_date,0,235,05/02/2024 | 09/04/2025 | 11/01/2023 | 04/21/2022 | 01/21/2024
+accounts,close_date,216,26, | 2023-01-25 | 2024-05-26 | 2025-07-02 | 2025-10-25
+accounts,account_status,0,6,open | Open | OPEN | Dormant | Closed
+accounts,opening_balance,0,240,8427.8 | 19575.84 | 24554.11 | 20310.21 | 6540.91
+accounts,overdraft_limit,0,5,500 | 0 | 250 | 1000 | 2000
+branches,branch_id,0,10,B001 | B002 | B003 | B004 | B005
+branches,branch_name,0,10,Chicago Main | Dallas Main | Austin Main | Atlanta Main | Boston Main
+branches,city,0,10,Chicago | Dallas | Austin | Atlanta | Boston
+branches,state,0,9,IL | TX | GA | MA | WA
+branches,region,0,5,Midwest | Southwest | Southeast | Northeast | West
+branches,open_date,0,10,2015-06-30 | 2015-12-27 | 2016-06-24 | 2016-12-21 | 2017-06-19
+branches,manager_name,0,5,Nora Davis | Maya Patel | Emily Chen | Luis Garcia | Omar Ali
+cards,card_id,0,180,CRD000001 | CRD000002 | CRD000003 | CRD000004 | CRD000005
+cards,account_id,0,120,A000060 | A000109 | A000207 | A000127 | A000180
+cards,card_type,0,6,Prepaid | Debit | Credit | CREDIT | DEBIT
+cards,card_network,0,4,Amex | Visa | Discover | Mastercard
+cards,issue_date,0,168,2025-01-10 | 2024-03-02 | 2023-08-26 | 2022-05-19 | 2024-03-30
+cards,expiry_date,0,176,2028-11-08 | 2026-05-11 | 2026-04-17 | 2026-02-21 | 2026-02-17
+cards,card_status,0,5,active | Blocked | Expired | ACTIVE | Active
+cards,credit_limit,0,7,0 | 5000 | 10000 | 1000 | 2500
+chargebacks,chargeback_id,0,95,CB000001 | CB000002 | CB000003 | CB000004 | CB000005
+chargebacks,transaction_id,0,92,T00003458 | T00004556 | T00002714 | T00002032 | T00002523
+chargebacks,chargeback_date,0,68,2026-05-03 | 2026-05-14 | 2026-05-07 | 2026-05-18 | 2026-04-14
+chargebacks,reason_code,0,5,Fraud | Authorization | Duplicate | Product Not Received | Customer Dispute
+chargebacks,chargeback_amount,0,95,12.19 | 578.05 | 3023.0 | 81.47 | 336.02
+chargebacks,case_status,0,5,Representment | Open | Won | open | Lost
+credit_scores,customer_id,0,150,C00001 | C00002 | C00003 | C00004 | C00005
+credit_scores,score_date,0,15,2026-01-28 | 2026-02-15 | 2026-03-01 | 2026-04-28 | 2026-05-01
+credit_scores,credit_score,4,244,626 | 597 | 600 | 636 | 603
+credit_scores,bureau,0,3,Experian | Equifax | TransUnion
+customer_profile_updates,update_id,0,90,UPD00001 | UPD00002 | UPD00003 | UPD00004 | UPD00005
+customer_profile_updates,customer_id,0,69,C00014 | C00081 | C00087 | C00008 | C00055
+customer_profile_updates,effective_date,0,84,2025-07-29 | 2025-02-13 | 2025-11-06 | 2025-04-24 | 2025-07-15
+customer_profile_updates,new_customer_segment,0,5,Student | Small Business | Affluent | Mass | Premium
+customer_profile_updates,new_risk_rating,0,3,Medium | High | Low
+customer_profile_updates,new_kyc_status,0,3,Pending | Rejected | Verified
+customer_profile_updates,source_system,0,3,crm | online_portal | branch_app
+customers,customer_id,0,151,C00001 | C00002 | C00003 | C00004 | C00005
+customers,full_name,1,31,Hannah Young | Ava Johnson | Ivy Thompson | Ravi Mehta | Emily Chen
+customers,email,3,150,hannah.young1@example.com | ava.johnson2@example.com | ivy.thompson3@example.com | ivy.thompson4@example.com | ravi.mehta5@example.com
+customers,phone,6,146,828-555-2322 | 548-555-2469 | 799-555-9166 | 250-555-9572 | 457-555-7587
+customers,date_of_birth,0,149,1991-02-10 | 1977-09-18 | 1974-02-14 | 1985-11-04 | 1999-11-10
+customers,signup_date,1,150,2024-01-27 | 01/01/2023 | 2021/02/20 | 2023/11/17 | 2023/07/25
+customers,customer_segment,23,6,Small Business | Student | Premium |  | Affluent
+customers,kyc_status,0,6,Verified | verified | PENDING | Pending | Rejected
+customers,risk_rating,1,6,low | Medium | Low | MEDIUM | High
+customers,city,1,11,Phoenix | Denver | Seattle | Miami | Boston
+customers,state,1,17,AZ | CO | WA | FL | MA
+customers,country,0,3,USA | United States | US
+customers,is_active,0,7,No | 1 | Y | Yes | N
+exchange_rates,rate_date,0,153,2026-01-01 | 2026-01-02 | 2026-01-03 | 2026-01-04 | 2026-01-05
+exchange_rates,currency,0,5,USD | EUR | GBP | CAD | INR
+exchange_rates,usd_rate,0,611,1.000000 | 1.096291 | 1.252031 | 0.753519 | 0.023474
+exchange_rates,source_system,0,1,market_feed
+fraud_alerts,alert_id,0,180,FA000001 | FA000002 | FA000003 | FA000004 | FA000005
+fraud_alerts,transaction_id,0,180,T00004164 | T00001661 | T00003925 | T00002394 | T00004687
+fraud_alerts,alert_ts,0,179,02/28/2026 03:00 | 03/13/2026 12:54 | 2026-03-01 08:07:45 | 2026-03-12 18:35:38 | 2026-04-19 15:05:48
+fraud_alerts,rule_name,0,6,card_not_present | foreign_merchant | velocity | high_amount | known_bad_merchant
+fraud_alerts,alert_severity,0,5,High | Low | Medium | high | Critical
+fraud_alerts,review_status,0,5,Escalated | False Positive | open | Closed | Open
+fraud_alerts,analyst_id,35,5,AN001 |  | AN003 | AN002 | AN004
+loan_payments,loan_payment_id,0,1362,LP0000001 | LP0000002 | LP0000003 | LP0000004 | LP0000005
+loan_payments,loan_id,0,121,L000001 | L000002 | L000003 | L000004 | L000005
+loan_payments,due_date,0,899,2025-10-09 | 2025-11-08 | 2025-12-08 | 2026-01-07 | 2026-02-06
+loan_payments,paid_date,128,840,2025-11-13 | 2025-11-16 | 2025-12-08 | 2026-01-07 | 2026-03-13
+loan_payments,scheduled_amount,0,1351,379.13 | 211.16 | 345.99 | 458.77 | 323.76
+loan_payments,paid_amount,71,1282,379.13 | 211.16 | 380.59 | 458.77 | 323.76
+loan_payments,payment_status,0,5,paid | Paid | Late | Missed | Partial
+loans,loan_id,0,120,L000001 | L000002 | L000003 | L000004 | L000005
+loans,customer_id,0,87,C00117 | C00034 | C00061 | C00133 | C00139
+loans,branch_id,0,10,B002 | B007 | B003 | B010 | B005
+loans,loan_type,0,5,Personal | Auto | Student | Mortgage | Small Business
+loans,origination_date,0,117,2025-09-09 | 2023-01-21 | 2025-03-02 | 2023-09-21 | 2022-07-05
+loans,principal_amount,0,120,4171.85 | 4485.81 | 172322.74 | 40844.93 | 25213.33
+loans,interest_rate,0,120,8.689 | 11.302 | 5.290 | 16.324 | 15.593
+loans,term_months,0,7,36 | 180 | 120 | 48 | 360
+loans,loan_status,0,5,Active | active | Paid Off | Delinquent | Default
+merchants,merchant_id,0,80,M0001 | M0002 | M0003 | M0004 | M0005
+merchants,merchant_name,0,80,Restaurant Merchant 1 | Gaming Merchant 2 | Gaming Merchant 3 | Travel Agency Merchant 4 | Pharmacy Merchant 5
+merchants,merchant_category,0,17,Restaurant | Gaming | GAMING | TRAVEL AGENCY | Pharmacy
+merchants,category_group,0,11,Dining | Entertainment | Travel | Health | Housing
+merchants,country,0,5,USA | CAN | IND | GBR | DEU
+merchants,high_risk_flag,0,5,0 | N | Yes | Y | No
+merchants,onboard_date,0,80,2021-05-04 | 2023-02-11 | 2018-04-03 | 2022-10-06 | 2025-07-06
+transactions,transaction_id,0,5001,T00000001 | T00000002 | T00000003 | T00000004 | T00000005
+transactions,account_id,0,221,A000144 | A000110 | A000043 | A000065 | A000141
+transactions,card_id,3400,181, | CRD000159 | CRD000133 | CRD000086 | CRD000049
+transactions,merchant_id,2959,81, | M0070 | M0017 | M0041 | M0019
+transactions,transaction_ts,0,4988,05/03/2026 01:16 | 01/29/2026 22:00 | 2026-01-21 20:22:56 | 2026-05-07 18:31:32 | 2026-01-16 19:03:02
+transactions,transaction_type,0,16,ATM | POS | ACH | PAYROLL | WIRE
+transactions,channel,0,7,Branch | ATM | API | online | Mobile
+transactions,direction,0,2,debit | credit
+transactions,amount,24,4732,123.4 | 530.2 | 103.14 | 454.45 | 209.65
+transactions,currency,0,5,GBP | CAD | INR | USD | EUR
+transactions,transaction_status,0,6,POSTED | posted | Pending | Failed | Reversed
+transactions,description,0,7,Purchase | Cash withdrawal | Monthly fee | Direct deposit | Bill pay
+transactions,source_system,0,4,card_processor | mobile_app | branch_teller | core_banking
+transactions,ingestion_batch_id,0,4,BATCH_20260601_A | BATCH_20260602_A | BATCH_20260601_B | BATCH_BAD

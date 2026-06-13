@@ -1,0 +1,2 @@
+pipeline_name,run_timestamp,raw_table_count,raw_total_rows,clean_total_rows,quarantine_total_rows,mart_count,status
+advanced_financial_etl_project,2026-06-03T04:13:18.125191+00:00,14,20247,20243,2552,18,SUCCESS
