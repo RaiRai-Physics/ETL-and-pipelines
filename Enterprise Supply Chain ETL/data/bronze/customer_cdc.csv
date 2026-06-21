@@ -1,0 +1,131 @@
+cdc_id,customer_id,effective_ts,operation,new_customer_segment,new_risk_tier,new_payment_terms,change_reason,_bronze_loaded_at_utc,_source_file
+CCDC000001,CUST000143,2026-03-07 15:56:41,UPDATE,Retail,Medium,NET60,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000002,CUST000176,2026-05-09 16:53:20,UPDATE,Small Business,Medium,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000003,CUST000119,2026-04-16 18:16:02,UPDATE,Wholesale,High,NET45,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000004,CUST000070,2026-04-06 19:05:39,UPDATE,Mid Market,Low,NET30,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000005,CUST000209,2026-01-26 00:49:13,UPDATE,Small Business,Medium,Prepaid,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000006,CUST000306,2026-04-01 01:39:55,UPDATE,Small Business,Medium,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000007,CUST000424,2026-01-28 13:41:44,UPDATE,Enterprise,High,NET30,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000008,CUST000148,2026-05-24 19:52:40,UPDATE,Small Business,Medium,Prepaid,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000009,CUST000215,2026-05-27 08:08:31,UPDATE,Mid Market,Low,NET60,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000010,CUST000100,2026-05-01 18:19:48,UPDATE,Small Business,Medium,NET45,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000011,CUST000309,2026-03-04 11:59:39,UPDATE,Wholesale,High,NET60,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000012,CUST000237,2026-01-31 16:07:47,UPDATE,Mid Market,High,NET45,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000013,CUST000196,2026-02-06 19:49:31,UPDATE,Wholesale,Medium,Prepaid,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000014,CUST000101,2026-02-22 16:39:06,UPDATE,Mid Market,Medium,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000015,CUST000448,2026-05-31 00:10:07,UPDATE,Mid Market,Low,NET45,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000016,CUST000077,2026-04-04 16:38:40,UPDATE,Small Business,Medium,NET30,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000017,CUST000211,2026-05-06 19:45:00,UPDATE,Small Business,High,Prepaid,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000018,CUST000121,2026-02-04 11:14:50,UPDATE,Mid Market,High,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000019,CUST000330,2026-05-19 11:34:46,UPDATE,Mid Market,Medium,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000020,CUST000006,2026-05-16 05:31:16,UPDATE,Enterprise,High,NET60,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000021,CUST000372,2026-04-21 14:58:27,UPDATE,Enterprise,Low,NET45,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000022,CUST000005,2026-04-28 21:48:15,UPDATE,Mid Market,High,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000023,CUST000353,2026-01-25 05:51:42,UPDATE,Mid Market,Medium,NET60,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000024,CUST000228,2026-01-22 17:36:46,UPDATE,Retail,Low,NET60,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000025,CUST000423,2026-05-04 00:53:39,UPDATE,Mid Market,Medium,NET60,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000026,CUST000438,2026-05-22 13:16:25,UPDATE,Small Business,High,NET45,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000027,CUST000127,2026-02-08 20:24:51,UPDATE,Small Business,Medium,NET45,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000028,CUST000284,2026-03-25 13:08:59,UPDATE,Enterprise,Medium,NET45,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000029,CUST000416,2026-02-20 01:36:01,UPDATE,Retail,Medium,NET60,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000030,CUST000072,2026-03-13 22:25:46,UPDATE,Wholesale,Low,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000031,CUST000395,2026-03-23 18:06:20,UPDATE,Wholesale,High,Prepaid,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000032,CUST000250,2026-01-29 00:48:08,UPDATE,Retail,High,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000033,CUST000018,2026-01-24 17:30:00,UPDATE,Enterprise,High,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000034,CUST000327,2026-04-18 13:31:44,UPDATE,Enterprise,Low,NET60,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000035,CUST000407,2026-01-22 23:55:12,UPDATE,Small Business,High,Prepaid,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000036,CUST000158,2026-01-29 17:57:06,UPDATE,Enterprise,Medium,NET45,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000037,CUST000057,2026-01-18 05:47:52,UPDATE,Retail,High,Prepaid,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000038,CUST000078,2026-04-24 04:43:25,UPDATE,Retail,High,NET45,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000039,CUST000278,2026-05-05 05:39:55,UPDATE,Wholesale,High,NET30,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000040,CUST000147,2026-03-15 15:03:53,UPDATE,Retail,Medium,NET30,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000041,CUST000088,2026-03-22 11:12:06,UPDATE,Enterprise,Low,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000042,CUST000361,2026-05-03 11:50:53,UPDATE,Retail,Medium,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000043,CUST000191,2026-01-30 21:16:46,UPDATE,Wholesale,High,NET30,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000044,CUST000308,2026-04-12 17:17:40,UPDATE,Enterprise,High,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000045,CUST000031,2026-03-02 21:28:24,UPDATE,Enterprise,Low,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000046,CUST000346,2026-05-14 20:46:11,UPDATE,Mid Market,Low,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000047,CUST000428,2026-04-07 01:13:42,UPDATE,Small Business,Medium,Prepaid,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000048,CUST000280,2026-03-16 21:24:14,UPDATE,Enterprise,Medium,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000049,CUST000362,2026-02-10 20:45:26,UPDATE,Enterprise,Low,Prepaid,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000050,CUST000446,2026-01-31 05:53:59,UPDATE,Enterprise,Medium,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000051,CUST000305,2026-04-20 08:08:52,UPDATE,Small Business,High,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000052,CUST000264,2026-02-14 16:07:27,UPDATE,Mid Market,Low,NET45,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000053,CUST000231,2026-04-21 21:18:43,UPDATE,Wholesale,High,Prepaid,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000054,CUST000155,2026-05-07 00:17:44,UPDATE,Retail,Low,NET60,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000055,CUST000399,2026-03-10 18:56:14,UPDATE,Mid Market,Medium,NET60,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000056,CUST000279,2026-05-10 00:58:59,UPDATE,Wholesale,Low,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000057,CUST000439,2026-02-03 21:20:20,UPDATE,Enterprise,High,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000058,CUST000206,2026-05-22 00:52:46,UPDATE,Retail,Medium,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000059,CUST000090,2026-03-16 06:21:16,UPDATE,Enterprise,High,Prepaid,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000060,CUST000021,2026-01-28 07:05:48,UPDATE,Retail,High,NET60,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000061,CUST000140,2026-04-15 19:52:37,UPDATE,Mid Market,Medium,NET45,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000062,CUST000271,2026-02-20 15:33:56,UPDATE,Small Business,High,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000063,CUST000261,2026-02-15 15:56:05,UPDATE,Mid Market,High,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000064,CUST000300,2026-05-02 03:11:06,UPDATE,Wholesale,Low,NET60,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000065,CUST000265,2026-04-16 12:53:44,UPDATE,Wholesale,Low,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000066,CUST000087,2026-02-27 13:55:05,UPDATE,Retail,Low,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000067,CUST000318,2026-02-08 17:59:44,UPDATE,Enterprise,Medium,NET45,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000068,CUST000251,2026-03-14 17:03:51,UPDATE,Wholesale,Medium,NET30,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000069,CUST000432,2026-01-25 16:33:31,UPDATE,Retail,Medium,Prepaid,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000070,CUST000131,2026-05-23 18:13:00,UPDATE,Wholesale,Medium,NET60,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000071,CUST000157,2026-02-08 13:30:19,UPDATE,Wholesale,Medium,NET60,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000072,CUST000009,2026-02-15 13:59:51,UPDATE,Small Business,Low,NET45,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000073,CUST000241,2026-01-29 01:19:23,UPDATE,Mid Market,Medium,Prepaid,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000074,CUST000429,2026-05-19 19:35:46,UPDATE,Wholesale,Low,NET45,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000075,CUST000383,2026-01-28 19:20:08,UPDATE,Wholesale,Low,NET30,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000076,CUST000434,2026-05-31 08:58:12,UPDATE,Small Business,Low,Prepaid,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000077,CUST000102,2026-04-29 07:34:48,UPDATE,Mid Market,Medium,NET45,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000078,CUST000017,2026-04-06 00:49:35,UPDATE,Small Business,Low,NET45,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000079,CUST000348,2026-01-30 20:13:44,UPDATE,Wholesale,Medium,NET45,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000080,CUST000105,2026-03-02 05:45:41,UPDATE,Mid Market,High,NET30,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000081,CUST000197,2026-01-24 17:32:23,UPDATE,Enterprise,Medium,NET45,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000082,CUST000238,2026-02-04 06:05:57,UPDATE,Wholesale,Medium,NET30,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000083,CUST000123,2026-01-20 08:52:40,UPDATE,Small Business,Low,NET45,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000084,CUST000340,2026-02-07 07:46:12,UPDATE,Small Business,Medium,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000085,CUST000277,2026-02-25 16:55:01,UPDATE,Small Business,Low,NET60,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000086,CUST000193,2026-01-17 21:37:14,UPDATE,Enterprise,Medium,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000087,CUST000235,2026-04-16 10:00:11,UPDATE,Small Business,Low,NET45,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000088,CUST000199,2026-01-31 16:28:09,UPDATE,Retail,Medium,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000089,CUST000107,2026-03-18 13:21:48,UPDATE,Retail,Medium,NET60,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000090,CUST000184,2026-04-02 14:39:48,UPDATE,Wholesale,Low,Prepaid,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000091,CUST000431,2026-01-30 21:07:02,UPDATE,Retail,Low,Prepaid,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000092,CUST000350,2026-05-05 10:08:25,UPDATE,Small Business,Low,NET45,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000093,CUST000201,2026-02-26 01:09:04,UPDATE,Wholesale,Medium,Prepaid,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000094,CUST000394,2026-03-16 03:17:48,UPDATE,Mid Market,High,NET60,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000095,CUST000173,2026-04-02 01:37:25,UPDATE,Small Business,Medium,NET45,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000096,CUST000359,2026-03-03 11:36:33,UPDATE,Mid Market,High,NET45,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000097,CUST000377,2026-05-24 15:35:25,UPDATE,Retail,Low,NET60,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000098,CUST000195,2026-04-23 18:53:50,UPDATE,Wholesale,Medium,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000099,CUST000315,2026-02-01 11:31:00,UPDATE,Enterprise,Medium,NET60,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000100,CUST000256,2026-05-05 07:32:32,UPDATE,Wholesale,Low,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000101,CUST000058,2026-03-06 23:16:09,UPDATE,Enterprise,Low,NET60,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000102,CUST000065,2026-04-07 10:25:48,UPDATE,Small Business,Medium,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000103,CUST000354,2026-02-05 12:08:26,UPDATE,Retail,High,Prepaid,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000104,CUST000313,2026-04-06 06:28:37,UPDATE,Mid Market,High,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000105,CUST000178,2026-04-21 01:47:20,UPDATE,Small Business,Low,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000106,CUST000161,2026-01-17 22:56:41,UPDATE,Retail,Medium,NET30,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000107,CUST000136,2026-02-26 09:52:21,UPDATE,Retail,Low,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000108,CUST000263,2026-05-17 01:05:37,UPDATE,Enterprise,Medium,NET45,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000109,CUST000425,2026-03-14 11:43:07,UPDATE,Retail,High,Prepaid,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000110,CUST000128,2026-05-06 07:47:15,UPDATE,Wholesale,Low,NET60,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000111,CUST000044,2026-02-25 21:46:38,UPDATE,Enterprise,Medium,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000112,CUST000150,2026-02-28 06:11:01,UPDATE,Enterprise,Medium,NET45,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000113,CUST000266,2026-01-22 10:10:52,UPDATE,Enterprise,Low,Prepaid,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000114,CUST000210,2026-03-16 20:56:10,UPDATE,Wholesale,Low,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000115,CUST000010,2026-05-02 06:33:13,UPDATE,Small Business,Medium,NET60,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000116,CUST000083,2026-01-16 02:20:52,UPDATE,Wholesale,High,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000117,CUST000298,2026-02-09 08:33:15,UPDATE,Wholesale,Low,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000118,CUST000368,2026-04-30 09:03:59,UPDATE,Retail,Low,NET60,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000119,CUST000262,2026-03-18 21:39:01,UPDATE,Mid Market,Medium,NET30,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000120,CUST000028,2026-04-08 09:10:02,UPDATE,Mid Market,Medium,NET30,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000121,CUST000388,2026-05-03 03:11:53,UPDATE,Small Business,High,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000122,CUST000294,2026-05-19 18:58:12,UPDATE,Mid Market,High,NET45,customer_growth,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000123,CUST000043,2026-03-30 03:44:30,UPDATE,Enterprise,High,NET30,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000124,CUST000221,2026-05-10 07:22:38,UPDATE,Wholesale,Medium,NET45,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000125,CUST000342,2026-03-31 09:49:47,UPDATE,Retail,Low,Prepaid,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000126,CUST000430,2026-02-04 22:51:10,UPDATE,Wholesale,Medium,NET60,annual_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000127,CUST000254,2026-04-13 12:42:25,UPDATE,Enterprise,High,NET30,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000128,CUST000064,2026-01-19 04:12:04,UPDATE,Wholesale,Medium,Prepaid,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000129,CUST000117,2026-02-22 19:47:58,UPDATE,Wholesale,Medium,Prepaid,risk_event,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv
+CCDC000130,CUST000268,2026-05-31 16:48:07,UPDATE,Mid Market,Low,Prepaid,credit_review,2026-06-20T05:01:24.714639+00:00,data/raw/cdc/customer_cdc.csv

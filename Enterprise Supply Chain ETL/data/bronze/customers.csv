@@ -1,0 +1,453 @@
+customer_id,customer_name,customer_segment,industry,city,state,country,region,signup_date,credit_limit,payment_terms,risk_tier,is_active,_bronze_loaded_at_utc,_source_file
+CUST000001,Northstar Group 1,Small Business,Technology,Seattle,WA,United States,West,2024-01-07,291225.33,net30,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000002,ClearPath Trading 2,Enterprise,Food Service,Vancouver,BC,CAN,West,2021/08/01,28367.90,net30,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000003,ClearPath Trading 3,,Food Service,Vancouver,BC,CAN,West,2023-10-24,258676.05,NET30,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000004,Nova Partners 4,Wholesale,Food Service,Atlanta,GA,United States,Southeast,2021/07/13,216805.08,Prepaid,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000005,Prime Trading 5,Retail,Retail,Monterrey,NL,MEX,Southwest,2025-03-07,478726.34,net30,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000006,Nova Supply 6,Enterprise,Technology,Seattle,WA,USA,West,01/13/2021,576475.00,NET60,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000007,Nova Logistics 7,Retail,Education,Guadalajara,JA,MEX,Southwest,07/31/2025,239898.96,NET60,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000008,Urban Logistics 8,Wholesale,Technology,Monterrey,NL,MEX,Southwest,12/19/2025,115997.12,net30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000009,ClearPath Logistics 9,,Education,Monterrey,NL,MEX,Southwest,01/27/2021,235819.93,Prepaid,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000010,Nova Markets 10,Small Business,Manufacturing,Denver,CO,United States,West,2024-03-10,24615.16,NET30,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000011,BlueRiver Partners 11,Mid Market,Food Service,Phoenix,AZ,United States,Southwest,2023/08/06,486545.78,Prepaid,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000012,Urban Supply 12,Mid Market,Education,Seattle,WA,United States,West,05/20/2025,1118138.37,Prepaid,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000013,Urban Trading 13,,Manufacturing,Dallas,TX,USA,Southwest,2021/09/19,27922.24,net30,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000014,Northstar Markets 14,Mid Market,Manufacturing,Vancouver,BC,CAN,West,2026-02-18,224909.38,net30,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000015,BlueRiver Trading 15,Small Business,Education,Monterrey,NL,MEX,Southwest,08/31/2023,97132.52,NET45,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000016,Summit Group 16,Retail,Technology,Seattle,WA,United States,West,09/09/2023,27487.05,NET45,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000017,Northstar Partners 17,,Education,Miami,FL,USA,Southeast,2023/11/19,52767.87,NET60,High,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000018,Prime Markets 18,Small Business,Construction,Guadalajara,JA,MEX,Southwest,2021-12-22,102940.95,NET60,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000019,Prime Group 19,Small Business,Construction,Atlanta,GA,United States,Southeast,09/01/2021,26045.99,net30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000020,Northstar Group 20,,Manufacturing,Denver,CO,United States,West,2021/01/21,53737.86,Prepaid,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000021,Nova Logistics 21,Wholesale,Manufacturing,Seattle,WA,United States,West,2025/04/30,533648.36,NET30,High,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000022,Nova Logistics 22,Small Business,Food Service,Monterrey,NL,MEX,Southwest,2024/09/21,20165.33,Prepaid,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000023,Apex Markets 23,Retail,Retail,Monterrey,NL,MEX,Southwest,09/15/2022,217778.95,NET30,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000024,Northstar Supply 24,,Construction,Monterrey,NL,MEX,Southwest,2021/10/24,40090.22,NET30,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000025,Nova Partners 25,Mid Market,Food Service,Toronto,ON,CAN,Northeast,2023/07/31,23388.64,NET30,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000026,ClearPath Logistics 26,Enterprise,Food Service,Denver,CO,USA,West,01/03/2026,24231.61,NET45,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000027,Summit Supply 27,Small Business,Food Service,Monterrey,NL,MEX,Southwest,2025-11-03,503285.32,NET30,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000028,Apex Group 28,,Technology,Toronto,ON,CAN,Northeast,2025-07-20,53994.97,NET45,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000029,ClearPath Supply 29,Enterprise,Food Service,Miami,FL,USA,Southeast,01/04/2025,1172219.24,Prepaid,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000030,Northstar Markets 30,Small Business,Education,Monterrey,NL,MEX,Southwest,2024/12/19,107944.28,Prepaid,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000031,Apex Supply 31,Mid Market,Healthcare,Guadalajara,JA,MEX,Southwest,01/07/2023,1192816.72,NET30,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000032,Apex Supply 32,Small Business,Food Service,Guadalajara,JA,MEX,Southwest,2022-02-13,29557.76,NET30,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000033,Apex Group 33,Mid Market,Retail,Boston,MA,USA,Northeast,01/31/2022,531895.91,NET60,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000034,ClearPath Supply 34,Retail,Construction,Guadalajara,JA,MEX,Southwest,04/16/2024,447489.50,NET45,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000035,Prime Partners 35,Small Business,Healthcare,Atlanta,GA,United States,Southeast,2026-02-08,1037795.52,Prepaid,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000036,Apex Logistics 36,Enterprise,Construction,Boston,MA,USA,Northeast,2023-02-02,1032478.42,Prepaid,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000037,Apex Group 37,Wholesale,Technology,Miami,FL,United States,Southeast,2023-08-09,114655.12,NET30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000038,BlueRiver Markets 38,,Healthcare,Phoenix,AZ,United States,Southwest,08/15/2025,235166.94,Prepaid,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000039,Summit Partners 39,Wholesale,Food Service,Chicago,IL,United States,Midwest,05/12/2022,273857.92,NET45,MEDIUM,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000040,BlueRiver Logistics 40,Retail,Technology,Vancouver,BC,CAN,West,02/20/2022,292595.04,NET45,High,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000041,Northstar Logistics 41,,Retail,Denver,CO,USA,West,2022/02/24,50737.97,Prepaid,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000042,ClearPath Partners 42,Small Business,Manufacturing,Seattle,WA,United States,West,2026/03/21,896352.20,Prepaid,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000043,Apex Group 43,Small Business,Manufacturing,Boston,MA,United States,Northeast,2023/03/01,291832.73,Prepaid,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000044,Apex Partners 44,Mid Market,Food Service,Dallas,TX,USA,Southwest,2023/04/01,21254.43,NET60,High,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000045,ClearPath Logistics 45,Mid Market,Education,Dallas,TX,USA,Southwest,2024-07-29,115427.13,Prepaid,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000046,BlueRiver Markets 46,Small Business,Food Service,Atlanta,GA,USA,Southeast,2025/06/04,537223.37,NET60,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000047,Nova Group 47,Wholesale,Construction,Chicago,IL,United States,Midwest,06/30/2023,110343.31,NET60,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000048,Nova Partners 48,Retail,Technology,Toronto,ON,CAN,Northeast,2022/06/11,287222.03,NET30,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000049,Prime Supply 49,Mid Market,Retail,Toronto,ON,CAN,Northeast,2022/02/26,509940.79,Prepaid,High,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000050,Summit Partners 50,Wholesale,Education,Guadalajara,JA,MEX,Southwest,05/28/2025,29978.69,NET30,MEDIUM,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000051,Nova Partners 51,Mid Market,Manufacturing,Toronto,ON,CAN,Northeast,06/10/2025,26427.31,net30,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000052,Summit Partners 52,,Food Service,Miami,FL,USA,Southeast,2025/08/27,207050.04,Prepaid,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000053,Northstar Group 53,Enterprise,Technology,Chicago,IL,United States,Midwest,08/14/2021,211012.70,net30,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000054,Nova Supply 54,Mid Market,Retail,Phoenix,AZ,USA,Southwest,2023/06/01,89816.00,NET45,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000055,Summit Markets 55,Retail,Manufacturing,Phoenix,AZ,USA,Southwest,2022-11-23,24368.88,net30,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000056,Apex Supply 56,Mid Market,Construction,Monterrey,NL,MEX,Southwest,2022/12/04,102380.63,net30,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000057,Prime Supply 57,Retail,Food Service,Seattle,WA,United States,West,03/22/2025,50825.49,NET60,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000058,BlueRiver Markets 58,Wholesale,Technology,Monterrey,NL,MEX,Southwest,01/05/2026,1171657.16,NET30,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000059,Apex Trading 59,Retail,Healthcare,Phoenix,AZ,United States,Southwest,2025-06-12,269294.79,net30,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000060,Northstar Markets 60,Small Business,Food Service,Chicago,IL,USA,Midwest,2022-10-24,235996.25,net30,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000061,Prime Trading 61,Mid Market,Construction,Guadalajara,JA,MEX,Southwest,02/14/2025,449493.94,NET30,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000062,Prime Logistics 62,Mid Market,Retail,Miami,FL,United States,Southeast,2025/12/08,53934.01,NET60,Medium,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000063,Urban Partners 63,Wholesale,Technology,Miami,FL,USA,Southeast,2023-10-05,516076.60,NET45,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000064,Summit Supply 64,Small Business,Technology,Dallas,TX,United States,Southwest,2024/11/27,542133.72,NET45,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000065,BlueRiver Trading 65,Wholesale,Manufacturing,Atlanta,GA,United States,Southeast,10/27/2023,977609.31,net30,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000066,Nova Trading 66,Enterprise,Food Service,Phoenix,AZ,USA,Southwest,2021-07-10,1057026.36,net30,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000067,ClearPath Partners 67,Enterprise,Technology,Toronto,ON,CAN,Northeast,2024-08-07,83060.44,NET45,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000068,Prime Supply 68,Wholesale,Technology,Boston,MA,USA,Northeast,2024-04-28,50428.46,Prepaid,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000069,Summit Trading 69,Enterprise,Education,Dallas,TX,USA,Southwest,2024-01-08,819767.13,NET60,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000070,Summit Partners 70,,Technology,Monterrey,NL,MEX,Southwest,12/11/2022,580565.93,NET60,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000071,Northstar Trading 71,Mid Market,Construction,Atlanta,GA,USA,Southeast,2025/06/09,418905.67,Prepaid,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000072,Urban Partners 72,Enterprise,Manufacturing,Monterrey,NL,MEX,Southwest,10/11/2023,59753.29,net30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000073,ClearPath Trading 73,Wholesale,Technology,Toronto,ON,CAN,Northeast,2024/04/09,921660.77,NET60,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000074,Apex Trading 74,Small Business,Healthcare,Boston,MA,USA,Northeast,2021-04-11,108558.50,NET60,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000075,Urban Partners 75,Retail,Manufacturing,Boston,MA,USA,Northeast,08/17/2022,45161.29,NET30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000076,Urban Partners 76,Wholesale,Manufacturing,Chicago,IL,USA,Midwest,11/04/2024,1056961.45,net30,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000077,Prime Group 77,Small Business,Manufacturing,Toronto,ON,CAN,Northeast,2021/09/05,25130.43,NET30,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000078,Prime Supply 78,Retail,Retail,Atlanta,GA,USA,Southeast,2022/11/04,107542.32,net30,High,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000079,BlueRiver Partners 79,,Healthcare,Atlanta,GA,USA,Southeast,2022/07/06,49111.22,NET30,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000080,Northstar Markets 80,,Food Service,Miami,FL,United States,Southeast,02/16/2025,50074.82,NET60,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000081,Northstar Logistics 81,Enterprise,Food Service,Dallas,TX,United States,Southwest,2024/11/16,40471.66,NET45,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000082,Urban Trading 82,Retail,Construction,Vancouver,BC,CAN,West,2021-04-03,58020.61,NET45,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000083,Prime Markets 83,Mid Market,Food Service,Chicago,IL,USA,Midwest,2023/07/28,944236.29,NET60,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000084,Summit Group 84,Retail,Manufacturing,Monterrey,NL,MEX,Southwest,06/22/2021,850339.26,NET45,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000085,Summit Partners 85,,Education,Atlanta,GA,USA,Southeast,2022-10-16,26156.15,NET60,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000086,Summit Trading 86,,Retail,Seattle,WA,United States,West,10/19/2025,1143125.03,NET45,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000087,Urban Group 87,Enterprise,Healthcare,Atlanta,GA,United States,Southeast,11/30/2021,27494.18,NET45,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000088,BlueRiver Supply 88,Enterprise,Healthcare,Phoenix,AZ,United States,Southwest,2025-06-08,106555.56,Prepaid,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000089,Urban Supply 89,Small Business,Healthcare,Seattle,WA,United States,West,01/14/2024,1065779.25,Prepaid,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000090,Nova Markets 90,Wholesale,Food Service,Denver,CO,United States,West,2024-09-01,28984.72,NET60,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000091,Prime Group 91,Enterprise,Construction,Toronto,ON,CAN,Northeast,2021/07/15,277668.05,Prepaid,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000092,Apex Logistics 92,Small Business,Manufacturing,Atlanta,GA,United States,Southeast,2025-12-30,22477.42,net30,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000093,Summit Trading 93,Enterprise,Retail,Miami,FL,United States,Southeast,2022/12/12,82742.27,Prepaid,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000094,BlueRiver Logistics 94,,Construction,Denver,CO,United States,West,2024-07-09,429968.88,net30,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000095,Summit Logistics 95,Retail,Food Service,Seattle,WA,United States,West,2023-09-26,20638.14,NET45,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000096,Prime Trading 96,Wholesale,Healthcare,Chicago,IL,USA,Midwest,12/08/2023,46043.41,NET60,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000097,Northstar Markets 97,Enterprise,Healthcare,Seattle,WA,USA,West,08/25/2025,89454.91,NET30,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000098,Urban Supply 98,Wholesale,Food Service,Atlanta,GA,United States,Southeast,2022-10-26,941709.07,Prepaid,MEDIUM,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000099,ClearPath Markets 99,Mid Market,Food Service,Vancouver,BC,CAN,West,2025-05-22,55677.80,Prepaid,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000100,Prime Logistics 100,Small Business,Healthcare,Seattle,WA,USA,West,2022-06-05,43421.77,Prepaid,MEDIUM,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000101,Urban Supply 101,Wholesale,Manufacturing,Toronto,ON,CAN,Northeast,2024/03/25,51184.52,NET45,Medium,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000102,Nova Partners 102,Wholesale,Education,Dallas,TX,United States,Southwest,2021/08/04,53117.85,NET45,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000103,Northstar Partners 103,Mid Market,Food Service,Vancouver,BC,CAN,West,10/21/2023,1054292.03,NET30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000104,ClearPath Group 104,Enterprise,Education,Dallas,TX,United States,Southwest,2024/01/05,954409.42,NET30,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000105,BlueRiver Partners 105,Wholesale,Manufacturing,Chicago,IL,United States,Midwest,2021/04/13,207648.96,Prepaid,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000106,Summit Supply 106,Small Business,Food Service,Chicago,IL,USA,Midwest,2024-05-30,47464.39,NET45,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000107,Summit Supply 107,Enterprise,Food Service,Dallas,TX,United States,Southwest,2023-03-15,536174.46,NET45,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000108,Nova Group 108,Mid Market,Retail,Atlanta,GA,United States,Southeast,2021/10/27,23157.68,NET45,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000109,Northstar Logistics 109,,Retail,Toronto,ON,CAN,Northeast,2023/06/27,977916.08,NET60,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000110,Urban Trading 110,Mid Market,Technology,Chicago,IL,USA,Midwest,2022/07/30,898173.44,NET60,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000111,Apex Markets 111,Retail,Healthcare,Dallas,TX,USA,Southwest,2022-03-30,27700.35,NET30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000112,Apex Group 112,Retail,Technology,Toronto,ON,CAN,Northeast,08/16/2022,468696.97,net30,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000113,Urban Group 113,Retail,Retail,Toronto,ON,CAN,Northeast,2021/07/28,44235.64,net30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000114,ClearPath Supply 114,Wholesale,Manufacturing,Seattle,WA,United States,West,2023-12-04,47063.61,NET45,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000115,Nova Supply 115,,Retail,phoenix,AZ,United States,Southwest,2023/03/19,545194.22,net30,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000116,Urban Supply 116,Mid Market,Retail,Atlanta,GA,USA,Southeast,2023/07/13,42619.85,Prepaid,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000117,Northstar Group 117,Wholesale,Healthcare,Seattle,WA,USA,West,08/12/2022,410599.95,net30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000118,Prime Supply 118,Wholesale,Healthcare,Toronto,ON,CAN,Northeast,2026-01-24,112033.21,net30,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000119,Apex Logistics 119,Mid Market,Education,Dallas,TX,United States,Southwest,09/26/2022,54242.61,net30,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000120,Urban Supply 120,Mid Market,Construction,Dallas,TX,USA,Southwest,02/15/2026,47530.20,NET60,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000121,ClearPath Partners 121,Wholesale,Construction,Boston,MA,USA,Northeast,2024/07/05,93429.21,net30,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000122,Nova Group 122,Mid Market,Manufacturing,Denver,CO,USA,West,04/25/2021,81606.53,net30,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000123,Urban Supply 123,,Manufacturing,Toronto,ON,CAN,Northeast,2021/09/07,21866.99,NET45,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000124,ClearPath Supply 124,Wholesale,Healthcare,Chicago,IL,United States,Midwest,2022-06-11,56765.20,net30,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000125,Nova Logistics 125,Small Business,Manufacturing,Toronto,ON,CAN,Northeast,2022/11/02,455925.33,Prepaid,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000126,ClearPath Logistics 126,Enterprise,Manufacturing,Atlanta,GA,USA,Southeast,2021/12/26,50073.59,Prepaid,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000127,Northstar Supply 127,Enterprise,Education,Vancouver,BC,CAN,West,2025-04-22,52481.26,NET30,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000128,Northstar Trading 128,Mid Market,Food Service,Toronto,ON,CAN,Northeast,01/10/2024,98708.26,NET60,MEDIUM,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000129,ClearPath Supply 129,Mid Market,Manufacturing,Guadalajara,JA,MEX,Southwest,2021/12/18,28732.54,NET45,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000130,Northstar Group 130,Small Business,Education,Chicago,IL,United States,Midwest,2024/10/18,535590.78,NET60,High,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000131,Urban Partners 131,,Manufacturing,Phoenix,AZ,USA,Southwest,2021-04-03,866769.41,NET45,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000132,Prime Partners 132,Wholesale,Manufacturing,Boston,MA,USA,Northeast,2024-01-09,20728.93,Prepaid,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000133,ClearPath Markets 133,Retail,Healthcare,Monterrey,NL,MEX,Southwest,2022-03-28,406660.29,NET60,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000134,Nova Group 134,Wholesale,Technology,Vancouver,BC,CAN,West,01/24/2021,41687.07,NET45,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000135,Summit Partners 135,Retail,Food Service,Atlanta,GA,USA,Southeast,11/23/2021,985359.37,NET45,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000136,BlueRiver Trading 136,Small Business,Food Service,Miami,FL,USA,Southeast,2022-02-02,206076.65,net30,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000137,Northstar Trading 137,,Retail,Dallas,TX,United States,Southwest,08/12/2023,23603.29,NET60,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000138,Summit Markets 138,Small Business,Food Service,Seattle,WA,USA,West,2025-05-14,86162.00,NET60,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000139,Summit Logistics 139,Retail,Construction,Atlanta,GA,United States,Southeast,2022-06-10,227330.67,NET60,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000140,ClearPath Trading 140,,Technology,Phoenix,AZ,USA,Southwest,12/15/2025,528765.38,NET60,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000141,Urban Partners 141,Enterprise,Healthcare,Monterrey,NL,MEX,Southwest,11/15/2025,42903.05,Prepaid,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000142,Northstar Logistics 142,Mid Market,Manufacturing,Guadalajara,JA,MEX,Southwest,2023/01/04,880985.36,NET30,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000143,Nova Group 143,,Manufacturing,Vancouver,BC,CAN,West,07/12/2024,294618.51,Prepaid,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000144,Nova Supply 144,,Education,Atlanta,GA,USA,Southeast,12/29/2025,29596.63,net30,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000145,Apex Partners 145,Small Business,Food Service,Atlanta,GA,United States,Southeast,2024/08/16,885896.93,NET30,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000146,Summit Supply 146,Enterprise,Education,Seattle,WA,USA,West,2021-11-13,21769.87,net30,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000147,Apex Logistics 147,Retail,Manufacturing,Boston,MA,USA,Northeast,2023-01-05,456865.49,NET60,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000148,Prime Supply 148,Mid Market,Healthcare,Guadalajara,JA,MEX,Southwest,2024/11/13,22634.71,net30,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000149,Summit Markets 149,Retail,Manufacturing,Toronto,ON,CAN,Northeast,2021-03-27,267739.87,Prepaid,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000150,Nova Logistics 150,,Healthcare,Phoenix,AZ,USA,Southwest,07/02/2025,25020.71,NET30,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000151,ClearPath Group 151,Mid Market,Construction,Chicago,IL,United States,Midwest,2025/06/10,118155.66,NET45,MEDIUM,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000152,Northstar Group 152,Retail,Manufacturing,guadalajara,JA,MEX,Southwest,2022-05-10,23511.25,Prepaid,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000153,BlueRiver Partners 153,Wholesale,Healthcare,Chicago,IL,USA,Midwest,2021/06/18,1117489.37,NET30,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000154,BlueRiver Logistics 154,,Retail,Chicago,IL,United States,Midwest,08/22/2021,48212.90,net30,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000155,BlueRiver Supply 155,Retail,Education,Guadalajara,JA,MEX,Southwest,2024-01-15,97699.59,NET45,MEDIUM,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000156,Urban Markets 156,Retail,Construction,Toronto,ON,CAN,Northeast,03/18/2021,28754.26,NET30,Medium,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000157,Prime Logistics 157,,Healthcare,Dallas,TX,USA,Southwest,2023/09/13,1078463.62,NET30,MEDIUM,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000158,Prime Logistics 158,Wholesale,Retail,Atlanta,GA,United States,Southeast,03/31/2021,23464.34,Prepaid,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000159,Northstar Logistics 159,Small Business,Manufacturing,Vancouver,BC,CAN,West,2024/02/23,280447.76,NET60,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000160,Summit Supply 160,Enterprise,Food Service,Monterrey,NL,MEX,Southwest,2023-10-09,25449.80,Prepaid,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000161,Summit Partners 161,Mid Market,Healthcare,Vancouver,BC,CAN,West,2023/12/19,939294.50,Prepaid,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000162,Summit Logistics 162,Mid Market,Construction,Vancouver,BC,CAN,West,2023-01-20,40027.47,NET60,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000163,Nova Partners 163,Mid Market,Healthcare,Toronto,ON,CAN,Northeast,2022-05-23,268062.28,net30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000164,Apex Trading 164,Retail,Healthcare,Chicago,IL,USA,Midwest,2024/06/02,27308.27,NET60,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000165,BlueRiver Trading 165,Wholesale,Food Service,Guadalajara,JA,MEX,Southwest,2022-03-06,1117329.41,NET30,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000166,Prime Partners 166,Enterprise,Manufacturing,Miami,FL,United States,Southeast,10/13/2025,265535.89,NET60,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000167,Northstar Group 167,Mid Market,Food Service,Atlanta,GA,United States,Southeast,10/05/2021,925554.66,NET45,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000168,Prime Logistics 168,Small Business,Retail,Monterrey,NL,MEX,Southwest,2023/02/14,843996.70,net30,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000169,Nova Trading 169,Small Business,Technology,Boston,MA,United States,Northeast,2022/08/13,101368.40,Prepaid,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000170,Prime Group 170,,Food Service,Guadalajara,JA,MEX,Southwest,2023/12/04,292612.10,Prepaid,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000171,Prime Supply 171,Small Business,Education,Guadalajara,JA,MEX,Southwest,2023-11-19,98287.33,Prepaid,High,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000172,Summit Logistics 172,Enterprise,Food Service,Chicago,IL,USA,Midwest,2021-06-27,47261.10,net30,High,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000173,Prime Group 173,,Technology,Toronto,ON,CAN,Northeast,2026-01-17,942026.72,NET30,High,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000174,BlueRiver Partners 174,Enterprise,Food Service,Atlanta,GA,USA,Southeast,2025/03/23,43278.26,NET45,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000175,Apex Markets 175,,Food Service,Chicago,IL,USA,Midwest,2023/12/30,218158.67,net30,Medium,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000176,BlueRiver Group 176,Small Business,Retail,Toronto,ON,CAN,Northeast,05/07/2025,22659.82,NET45,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000177,Summit Trading 177,Mid Market,Food Service,Chicago,IL,United States,Midwest,06/25/2025,486952.82,NET45,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000178,BlueRiver Markets 178,Wholesale,Technology,Dallas,TX,United States,Southwest,2022-02-28,205930.67,Prepaid,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000179,Northstar Logistics 179,Retail,Technology,Seattle,WA,United States,West,2023/01/09,43046.40,NET60,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000180,Urban Supply 180,Retail,Healthcare,Monterrey,NL,MEX,Southwest,2021-07-01,27467.43,net30,Medium,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000181,Urban Markets 181,Small Business,Technology,Miami,FL,United States,Southeast,11/18/2024,1128217.06,NET60,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000182,Apex Partners 182,Enterprise,Education,Vancouver,BC,CAN,West,2025-06-01,210128.98,NET60,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000183,Prime Group 183,Small Business,Education,Boston,MA,United States,Northeast,2022-12-31,58699.48,NET60,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000184,Apex Markets 184,Small Business,Healthcare,Miami,FL,United States,Southeast,02/24/2022,47224.74,net30,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000185,Prime Logistics 185,Wholesale,Technology,atlanta,GA,United States,Southeast,2021/09/27,23310.75,NET45,High,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000186,Prime Partners 186,,Construction,Guadalajara,JA,MEX,Southwest,10/28/2021,20579.41,net30,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000187,Summit Group 187,Enterprise,Construction,Denver,CO,USA,West,01/02/2022,49637.85,NET60,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000188,Apex Supply 188,Small Business,Healthcare,Phoenix,AZ,USA,Southwest,08/04/2025,883451.19,net30,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000189,ClearPath Supply 189,Mid Market,Construction,Guadalajara,JA,MEX,Southwest,11/04/2025,1019848.56,Prepaid,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000190,Apex Group 190,Wholesale,Food Service,Boston,MA,United States,Northeast,05/18/2024,281296.14,net30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000191,ClearPath Logistics 191,Enterprise,Education,Boston,MA,United States,Northeast,2023/12/27,54591.52,NET45,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000192,Urban Logistics 192,,Construction,Atlanta,GA,United States,Southeast,2021/03/22,256961.49,net30,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000193,Summit Logistics 193,Wholesale,Retail,Miami,FL,United States,Southeast,2022-02-12,59644.27,NET45,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000194,Northstar Supply 194,Small Business,Healthcare,Miami,FL,USA,Southeast,01/27/2026,25031.55,Prepaid,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000195,Prime Partners 195,Retail,Food Service,Denver,CO,USA,West,2022/11/20,48710.16,NET30,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000196,BlueRiver Logistics 196,,Construction,Toronto,ON,CAN,Northeast,2025-04-18,216980.50,NET60,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000197,Urban Markets 197,Small Business,Construction,Seattle,WA,United States,West,08/02/2022,111904.24,NET60,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000198,BlueRiver Partners 198,Retail,Technology,Chicago,IL,United States,Midwest,2025-07-06,84005.30,NET30,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000199,ClearPath Partners 199,,Manufacturing,Vancouver,BC,CAN,West,2023/01/08,24703.98,NET45,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000200,BlueRiver Trading 200,Enterprise,Food Service,Guadalajara,JA,MEX,Southwest,2024-10-05,859442.69,NET30,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000201,ClearPath Partners 201,Mid Market,Education,Denver,CO,USA,West,2022/10/27,209379.64,net30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000202,Prime Partners 202,Small Business,Education,Guadalajara,JA,MEX,Southwest,12/02/2025,219650.09,Prepaid,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000203,Apex Logistics 203,Enterprise,Retail,Dallas,TX,United States,Southwest,2021-01-23,210642.44,NET30,MEDIUM,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000204,Urban Group 204,Enterprise,Manufacturing,Guadalajara,JA,MEX,Southwest,2024/09/22,810104.64,NET45,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000205,BlueRiver Markets 205,Small Business,Food Service,Dallas,TX,United States,Southwest,06/22/2025,1084875.00,NET60,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000206,Nova Group 206,,Retail,Seattle,WA,USA,West,11/30/2023,20836.87,NET45,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000207,BlueRiver Logistics 207,Mid Market,Food Service,Vancouver,BC,CAN,West,2022-07-30,86209.24,Prepaid,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000208,Urban Logistics 208,Mid Market,Education,Boston,MA,United States,Northeast,07/28/2024,26819.44,NET45,High,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000209,Apex Logistics 209,Wholesale,Technology,Boston,MA,United States,Northeast,2023-01-31,23548.88,net30,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000210,Northstar Supply 210,Small Business,Food Service,Dallas,TX,United States,Southwest,2023-10-22,26027.50,NET45,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000211,Northstar Logistics 211,Wholesale,Education,Boston,MA,United States,Northeast,2022-03-21,592257.84,NET45,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000212,BlueRiver Supply 212,,Retail,Toronto,ON,CAN,Northeast,12/04/2022,553157.95,NET30,High,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000213,Summit Logistics 213,Enterprise,Technology,Chicago,IL,United States,Midwest,2025/11/21,486281.94,Prepaid,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000214,Nova Trading 214,Retail,Construction,Seattle,WA,United States,West,01/18/2023,91452.13,NET30,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000215,Northstar Logistics 215,Retail,Construction,Toronto,ON,CAN,Northeast,03/17/2022,50594.87,NET30,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000216,Urban Trading 216,Wholesale,Food Service,Seattle,WA,USA,West,2021/11/02,213404.87,Prepaid,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000217,Urban Trading 217,Enterprise,Food Service,Miami,FL,United States,Southeast,2024-05-19,1155547.23,net30,MEDIUM,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000218,Nova Group 218,Small Business,Technology,Seattle,WA,USA,West,2025/08/18,223669.23,net30,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000219,BlueRiver Group 219,Mid Market,Education,Toronto,ON,CAN,Northeast,2025-02-26,429309.72,NET30,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000220,Summit Group 220,,Retail,toronto,ON,CAN,Northeast,2024-04-02,119545.30,net30,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000221,Nova Supply 221,Enterprise,Healthcare,Miami,FL,USA,Southeast,2021-01-05,55602.84,NET45,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000222,Northstar Group 222,Retail,Construction,Guadalajara,JA,MEX,Southwest,2026/01/30,53168.69,NET45,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000223,Summit Trading 223,Mid Market,Technology,Seattle,WA,United States,West,2022-07-03,457422.57,NET60,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000224,Northstar Logistics 224,Enterprise,Education,Atlanta,GA,USA,Southeast,03/01/2023,59028.55,NET30,MEDIUM,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000225,Nova Group 225,Mid Market,Retail,Denver,CO,United States,West,09/21/2021,24088.36,net30,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000226,Nova Markets 226,Small Business,Retail,Denver,CO,USA,West,2021/03/23,211864.08,NET60,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000227,Northstar Partners 227,Wholesale,Construction,Seattle,WA,United States,West,03/18/2024,1172969.83,NET30,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000228,Prime Partners 228,Small Business,Education,Dallas,TX,USA,Southwest,2023/04/19,583752.14,Prepaid,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000229,Apex Group 229,Enterprise,Healthcare,Atlanta,GA,USA,Southeast,2024/10/13,1172236.24,NET60,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000230,Prime Supply 230,Mid Market,Construction,Chicago,IL,United States,Midwest,10/03/2021,45675.56,net30,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000231,Summit Logistics 231,Small Business,Education,Phoenix,AZ,United States,Southwest,2025-01-01,102010.12,net30,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000232,Northstar Group 232,Enterprise,Education,Monterrey,NL,MEX,Southwest,2024/11/15,814404.10,NET45,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000233,Nova Logistics 233,Enterprise,Healthcare,phoenix,AZ,United States,Southwest,2021-07-06,115595.88,NET60,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000234,BlueRiver Trading 234,,Manufacturing,Chicago,IL,United States,Midwest,2026/01/02,41762.90,Prepaid,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000235,Northstar Markets 235,Enterprise,Technology,Phoenix,AZ,United States,Southwest,2021-10-04,254329.42,NET60,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000236,BlueRiver Partners 236,Enterprise,Education,Boston,MA,United States,Northeast,2023-10-28,257348.18,NET45,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000237,Northstar Group 237,Enterprise,Technology,Vancouver,BC,CAN,West,01/08/2024,457584.85,NET60,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000238,Summit Trading 238,Wholesale,Manufacturing,Seattle,WA,USA,West,2022-03-02,222435.97,NET30,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000239,Urban Supply 239,Enterprise,Manufacturing,Miami,FL,USA,Southeast,2022-07-01,83487.64,Prepaid,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000240,Nova Supply 240,Small Business,Construction,Guadalajara,JA,MEX,Southwest,2022/11/02,523791.26,Prepaid,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000241,Nova Trading 241,Retail,Retail,Toronto,ON,CAN,Northeast,01/27/2023,53546.21,NET45,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000242,BlueRiver Partners 242,,Manufacturing,Seattle,WA,United States,West,2023/12/01,23375.29,Prepaid,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000243,Northstar Markets 243,Enterprise,Manufacturing,Miami,FL,USA,Southeast,2021-04-04,106793.24,NET30,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000244,Urban Markets 244,Enterprise,Technology,Seattle,WA,USA,West,2025/07/05,982908.48,net30,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000245,BlueRiver Trading 245,Small Business,Healthcare,Dallas,TX,United States,Southwest,10/18/2023,26095.03,net30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000246,Summit Partners 246,Small Business,Healthcare,Dallas,TX,United States,Southwest,2022/01/15,23214.05,NET60,MEDIUM,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000247,Northstar Supply 247,Small Business,Technology,Toronto,ON,CAN,Northeast,2021/07/05,116040.20,NET60,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000248,Urban Supply 248,,Retail,Denver,CO,United States,West,08/04/2024,456410.78,NET45,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000249,Urban Trading 249,Enterprise,Manufacturing,Dallas,TX,USA,Southwest,2024-10-30,994246.04,Prepaid,High,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000250,Apex Logistics 250,,Retail,Chicago,IL,USA,Midwest,2026/03/02,103230.37,net30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000251,BlueRiver Trading 251,Small Business,Technology,Monterrey,NL,MEX,Southwest,03/17/2025,232017.22,Prepaid,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000252,Summit Trading 252,,Construction,Seattle,WA,USA,West,2024/10/01,289702.01,NET30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000253,Urban Partners 253,Small Business,Manufacturing,Monterrey,NL,MEX,Southwest,2025-11-15,559806.69,net30,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000254,Urban Group 254,Small Business,Manufacturing,Atlanta,GA,USA,Southeast,02/03/2026,85503.85,NET45,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000255,Urban Logistics 255,Enterprise,Technology,Miami,FL,United States,Southeast,2024/05/09,496791.40,NET30,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000256,Nova Trading 256,Mid Market,Manufacturing,Dallas,TX,USA,Southwest,2024/09/04,42351.01,NET45,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000257,Northstar Supply 257,,Technology,Guadalajara,JA,MEX,Southwest,03/26/2021,54756.80,NET45,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000258,Nova Trading 258,Wholesale,Healthcare,Denver,CO,United States,West,2023-04-25,228450.62,NET45,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000259,Summit Supply 259,Retail,Education,Chicago,IL,United States,Midwest,2024/01/10,29471.97,Prepaid,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000260,Northstar Supply 260,Mid Market,Food Service,Toronto,ON,CAN,Northeast,10/22/2023,116470.59,NET45,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000261,ClearPath Supply 261,,Food Service,Atlanta,GA,USA,Southeast,2025-09-13,48118.52,Prepaid,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000262,Urban Logistics 262,Mid Market,Manufacturing,Phoenix,AZ,USA,Southwest,10/06/2024,21416.43,NET60,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000263,BlueRiver Trading 263,Wholesale,Construction,Denver,CO,United States,West,2023/02/21,40574.19,NET60,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000264,BlueRiver Logistics 264,Retail,Retail,Chicago,IL,United States,Midwest,2022/05/19,1189796.34,Prepaid,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000265,BlueRiver Partners 265,Wholesale,Education,Seattle,WA,USA,West,2022-02-18,466424.24,NET30,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000266,BlueRiver Trading 266,Wholesale,Retail,Boston,MA,USA,Northeast,2025/02/10,830267.91,NET60,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000267,Prime Logistics 267,Wholesale,Food Service,Atlanta,GA,United States,Southeast,10/21/2022,1103877.78,NET30,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000268,Nova Partners 268,Enterprise,Construction,Toronto,ON,CAN,Northeast,2023-10-15,94038.34,NET30,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000269,Urban Partners 269,Enterprise,Healthcare,Vancouver,BC,CAN,West,03/29/2023,556035.57,NET60,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000270,Urban Trading 270,Mid Market,Healthcare,Seattle,WA,United States,West,2021-03-17,541250.26,NET30,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000271,Prime Markets 271,Small Business,Education,Monterrey,NL,MEX,Southwest,2021/06/25,985058.26,Prepaid,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000272,Summit Trading 272,Wholesale,Manufacturing,Monterrey,NL,MEX,Southwest,02/09/2024,29174.05,NET45,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000273,Urban Logistics 273,Small Business,Food Service,Vancouver,BC,CAN,West,2022/01/18,951468.92,Prepaid,MEDIUM,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000274,BlueRiver Logistics 274,Enterprise,Healthcare,Denver,CO,United States,West,2023/11/08,543814.12,Prepaid,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000275,Urban Logistics 275,Mid Market,Healthcare,Guadalajara,JA,MEX,Southwest,2021/07/14,104307.10,NET30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000276,Prime Group 276,Retail,Retail,Toronto,ON,CAN,Northeast,10/12/2024,43719.37,net30,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000277,BlueRiver Group 277,Enterprise,Construction,Guadalajara,JA,MEX,Southwest,2022/08/23,57167.94,NET45,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000278,Prime Group 278,Small Business,Food Service,Denver,CO,United States,West,2024-11-21,553520.37,Prepaid,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000279,BlueRiver Partners 279,Enterprise,Food Service,Boston,MA,USA,Northeast,2024-04-30,26380.41,net30,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000280,Urban Group 280,Enterprise,Healthcare,Chicago,IL,United States,Midwest,01/08/2025,436037.02,NET45,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000281,Summit Supply 281,Mid Market,Technology,Phoenix,AZ,United States,Southwest,2022-03-04,114916.55,NET60,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000282,Northstar Partners 282,Enterprise,Food Service,Phoenix,AZ,United States,Southwest,2023-04-06,28295.24,net30,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000283,ClearPath Markets 283,Mid Market,Healthcare,Atlanta,GA,USA,Southeast,12/18/2024,231175.13,NET60,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000284,Apex Markets 284,Retail,Food Service,Guadalajara,JA,MEX,Southwest,2025/12/14,425176.96,NET60,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000285,Summit Partners 285,Enterprise,Technology,Vancouver,BC,CAN,West,11/30/2021,54232.67,net30,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000286,Nova Trading 286,Enterprise,Construction,Monterrey,NL,MEX,Southwest,2022/11/01,208960.86,NET45,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000287,Summit Partners 287,Small Business,Retail,Vancouver,BC,CAN,West,2024-12-22,1036485.87,NET45,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000288,Apex Partners 288,Small Business,Healthcare,Vancouver,BC,CAN,West,12/09/2022,98779.13,net30,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000289,Urban Group 289,Enterprise,Retail,atlanta,GA,USA,Southeast,05/08/2024,102901.31,NET30,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000290,ClearPath Logistics 290,Small Business,Construction,Denver,CO,United States,West,2023-07-25,113839.82,NET30,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000291,Prime Logistics 291,,Technology,Guadalajara,JA,MEX,Southwest,2022/01/13,28863.85,NET60,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000292,ClearPath Group 292,Small Business,Healthcare,Denver,CO,USA,West,2021/10/09,554964.06,NET30,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000293,Northstar Partners 293,Enterprise,Healthcare,Vancouver,BC,CAN,West,02/05/2025,22470.28,NET30,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000294,Summit Markets 294,Mid Market,Manufacturing,Dallas,TX,USA,Southwest,2021/03/08,57233.48,NET45,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000295,Prime Supply 295,Retail,Manufacturing,Miami,FL,USA,Southeast,2022/11/01,112061.04,NET60,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000296,Northstar Logistics 296,,Retail,Toronto,ON,CAN,Northeast,2022/05/21,219797.74,NET45,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000297,ClearPath Group 297,,Healthcare,Atlanta,GA,USA,Southeast,2021-04-29,440159.30,NET30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000298,ClearPath Markets 298,Retail,Education,Phoenix,AZ,United States,Southwest,10/11/2021,40485.26,NET30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000299,Apex Group 299,Mid Market,Food Service,Dallas,TX,United States,Southwest,07/09/2025,1170977.71,Prepaid,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000300,Northstar Partners 300,,Technology,Denver,CO,USA,West,10/14/2024,847083.38,net30,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000301,Apex Supply 301,Mid Market,Healthcare,Boston,MA,USA,Northeast,2022-08-01,89065.13,Prepaid,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000302,Nova Supply 302,,Construction,seattle,WA,USA,West,2024/10/31,20220.18,NET60,Medium,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000303,Apex Markets 303,Retail,Education,Monterrey,NL,MEX,Southwest,10/27/2023,943466.84,NET60,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000304,Summit Trading 304,Wholesale,Food Service,Toronto,ON,CAN,Northeast,2022-02-24,24143.68,Prepaid,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000305,Urban Partners 305,Enterprise,Construction,Phoenix,AZ,USA,Southwest,2023/04/15,23784.76,net30,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000306,BlueRiver Markets 306,Small Business,Construction,Miami,FL,United States,Southeast,09/18/2021,53555.52,net30,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000307,Nova Markets 307,Enterprise,Healthcare,Phoenix,AZ,United States,Southwest,2022/07/02,902054.74,NET30,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000308,Apex Trading 308,Retail,Construction,Chicago,IL,United States,Midwest,03/20/2021,40131.35,NET60,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000309,Prime Supply 309,Retail,Construction,Denver,CO,USA,West,2026/03/16,54348.53,NET45,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000310,Northstar Supply 310,,Technology,Miami,FL,United States,Southeast,06/02/2023,41022.21,Prepaid,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000311,Urban Trading 311,,Manufacturing,Chicago,IL,United States,Midwest,2024-07-02,25089.26,Prepaid,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000312,BlueRiver Trading 312,Enterprise,Healthcare,Atlanta,GA,USA,Southeast,2023-12-23,204303.75,NET30,MEDIUM,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000313,Apex Group 313,,Manufacturing,Miami,FL,United States,Southeast,2023/02/21,42292.49,net30,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000314,BlueRiver Group 314,Small Business,Technology,Seattle,WA,United States,West,09/15/2021,46148.61,net30,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000315,BlueRiver Trading 315,Enterprise,Construction,Boston,MA,USA,Northeast,2023/06/24,48539.51,NET45,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000316,Nova Markets 316,Wholesale,Education,Monterrey,NL,MEX,Southwest,2023/05/24,43616.46,Prepaid,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000317,ClearPath Supply 317,Retail,Retail,atlanta,GA,United States,Southeast,2021/06/04,21350.23,Prepaid,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000318,Apex Trading 318,Enterprise,Construction,Guadalajara,JA,MEX,Southwest,2024-12-09,1027899.46,NET30,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000319,Prime Markets 319,Mid Market,Retail,Guadalajara,JA,MEX,Southwest,06/04/2022,51038.17,NET45,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000320,Nova Group 320,Small Business,Healthcare,Vancouver,BC,CAN,West,2024-06-12,93930.43,NET30,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000321,BlueRiver Markets 321,Mid Market,Technology,Toronto,ON,CAN,Northeast,2025/09/21,1184427.16,NET30,MEDIUM,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000322,BlueRiver Partners 322,Enterprise,Manufacturing,Dallas,TX,USA,Southwest,2021/01/14,84961.61,net30,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000323,Nova Supply 323,Small Business,Manufacturing,Denver,CO,United States,West,02/25/2022,58343.17,Prepaid,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000324,BlueRiver Partners 324,Wholesale,Education,Denver,CO,United States,West,01/19/2024,40159.61,NET45,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000325,Summit Trading 325,Small Business,Manufacturing,Boston,MA,USA,Northeast,2021/11/17,102210.81,NET30,Medium,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000326,ClearPath Trading 326,Enterprise,Healthcare,Miami,FL,USA,Southeast,08/31/2022,937525.89,net30,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000327,Northstar Group 327,Mid Market,Manufacturing,Boston,MA,United States,Northeast,2024-07-09,299872.43,NET60,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000328,BlueRiver Supply 328,Small Business,Retail,Guadalajara,JA,MEX,Southwest,07/15/2024,52851.13,NET45,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000329,Prime Partners 329,,Construction,Miami,FL,USA,Southeast,2021/10/08,117578.87,Prepaid,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000330,Nova Supply 330,Small Business,Healthcare,Seattle,WA,United States,West,2022/08/30,1195666.20,net30,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000331,Prime Supply 331,Mid Market,Retail,Vancouver,BC,CAN,West,2022-08-18,40395.12,Prepaid,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000332,Apex Trading 332,Retail,Retail,Chicago,IL,United States,Midwest,01/08/2026,211406.83,NET45,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000333,Apex Markets 333,,Food Service,Chicago,IL,USA,Midwest,07/22/2021,228732.70,net30,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000334,Prime Trading 334,Mid Market,Education,Atlanta,GA,United States,Southeast,06/10/2024,20954.74,Prepaid,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000335,Apex Markets 335,Small Business,Retail,Dallas,TX,United States,Southwest,01/07/2025,1054613.79,NET60,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000336,Apex Group 336,,Manufacturing,Seattle,WA,USA,West,2024-09-25,20263.16,net30,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000337,Northstar Trading 337,Mid Market,Education,Miami,FL,USA,Southeast,2026/02/28,215190.96,NET60,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000338,ClearPath Partners 338,Enterprise,Technology,Toronto,ON,CAN,Northeast,2021-09-03,1049462.74,NET30,High,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000339,Apex Trading 339,Small Business,Healthcare,Guadalajara,JA,MEX,Southwest,2024/04/22,98221.60,Prepaid,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000340,Summit Trading 340,Wholesale,Education,Chicago,IL,United States,Midwest,2026-03-02,50019.76,Prepaid,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000341,Prime Trading 341,,Retail,Denver,CO,United States,West,03/29/2022,58115.22,net30,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000342,ClearPath Trading 342,Mid Market,Technology,Chicago,IL,United States,Midwest,12/26/2023,29903.17,Prepaid,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000343,Apex Group 343,Enterprise,Technology,Guadalajara,JA,MEX,Southwest,2024-01-23,28742.14,NET30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000344,Northstar Group 344,Enterprise,Manufacturing,Boston,MA,United States,Northeast,2023-02-16,104487.38,Prepaid,MEDIUM,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000345,Apex Trading 345,Enterprise,Technology,Guadalajara,JA,MEX,Southwest,05/08/2022,243727.85,NET30,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000346,Urban Group 346,,Retail,Boston,MA,USA,Northeast,2026-02-19,20707.05,net30,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000347,BlueRiver Partners 347,,Technology,Denver,CO,United States,West,09/25/2024,468956.07,net30,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000348,Prime Trading 348,Small Business,Education,Miami,FL,United States,Southeast,10/31/2022,239108.49,net30,MEDIUM,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000349,Urban Partners 349,Mid Market,Education,Vancouver,BC,CAN,West,04/03/2023,58890.53,NET30,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000350,Summit Group 350,Mid Market,Food Service,Toronto,ON,CAN,Northeast,2025/01/16,28894.75,NET60,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000351,Northstar Group 351,Wholesale,Technology,Toronto,ON,CAN,Northeast,2026-01-19,102688.58,NET30,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000352,Nova Group 352,Retail,Education,Seattle,WA,United States,West,2025-12-14,28871.91,net30,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000353,ClearPath Trading 353,,Retail,Monterrey,NL,MEX,Southwest,11/20/2021,447802.72,Prepaid,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000354,Northstar Trading 354,Wholesale,Education,Chicago,IL,United States,Midwest,2023-11-21,865975.61,Prepaid,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000355,Northstar Trading 355,Retail,Food Service,Chicago,IL,USA,Midwest,2022-01-03,1044047.11,NET30,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000356,ClearPath Supply 356,Wholesale,Retail,Boston,MA,United States,Northeast,2023/12/31,1113837.23,Prepaid,Medium,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000357,Apex Trading 357,Small Business,Technology,phoenix,AZ,United States,Southwest,10/29/2024,234210.75,net30,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000358,Nova Partners 358,,Retail,Guadalajara,JA,MEX,Southwest,05/12/2021,824070.61,NET30,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000359,Urban Markets 359,Retail,Healthcare,Boston,MA,USA,Northeast,2021/01/20,242722.69,NET60,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000360,Prime Group 360,Small Business,Manufacturing,Vancouver,BC,CAN,West,2021-11-26,420141.83,Prepaid,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000361,Prime Group 361,Mid Market,Education,Monterrey,NL,MEX,Southwest,02/02/2025,215706.48,Prepaid,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000362,Urban Group 362,Wholesale,Food Service,Toronto,ON,CAN,Northeast,03/17/2025,55025.76,NET60,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000363,Northstar Supply 363,Enterprise,Manufacturing,Dallas,TX,United States,Southwest,2023/09/24,119192.88,NET30,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000364,Nova Logistics 364,Mid Market,Retail,Toronto,ON,CAN,Northeast,2022-12-02,990469.91,NET30,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000365,Prime Group 365,Retail,Manufacturing,Dallas,TX,USA,Southwest,2024/03/26,100910.76,NET60,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000366,Summit Trading 366,Mid Market,Manufacturing,Phoenix,AZ,United States,Southwest,2023/06/13,231426.17,NET45,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000367,ClearPath Partners 367,Enterprise,Manufacturing,Seattle,WA,United States,West,2024-02-02,251170.57,NET60,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000368,Northstar Group 368,Wholesale,Manufacturing,Toronto,ON,CAN,Northeast,2022-04-17,475334.76,NET30,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000369,ClearPath Partners 369,Small Business,Manufacturing,Boston,MA,United States,Northeast,06/14/2021,25203.16,Prepaid,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000370,ClearPath Partners 370,Small Business,Retail,seattle,WA,United States,West,09/19/2025,23622.87,NET60,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000371,Summit Supply 371,Small Business,Manufacturing,Atlanta,GA,USA,Southeast,2023/07/19,572720.81,NET60,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000372,ClearPath Markets 372,Wholesale,Healthcare,Denver,CO,USA,West,2024-12-31,428554.12,Prepaid,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000373,Nova Logistics 373,Mid Market,Technology,Boston,MA,United States,Northeast,2024/05/01,564394.59,net30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000374,Prime Logistics 374,Retail,Construction,Phoenix,AZ,United States,Southwest,11/08/2023,20915.86,NET30,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000375,Northstar Partners 375,Retail,Construction,Guadalajara,JA,MEX,Southwest,2024/04/08,582255.04,NET45,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000376,Urban Logistics 376,Retail,Healthcare,Monterrey,NL,MEX,Southwest,2022/03/10,256428.63,NET45,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000377,Urban Logistics 377,Enterprise,Healthcare,Vancouver,BC,CAN,West,08/23/2025,1006152.34,NET45,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000378,BlueRiver Markets 378,Mid Market,Education,Chicago,IL,United States,Midwest,11/15/2024,575842.04,NET60,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000379,BlueRiver Partners 379,Wholesale,Education,Toronto,ON,CAN,Northeast,2023-08-18,58957.61,NET30,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000380,Urban Group 380,Enterprise,Food Service,Guadalajara,JA,MEX,Southwest,01/29/2024,26743.59,net30,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000381,Apex Markets 381,,Food Service,Atlanta,GA,United States,Southeast,2023-03-26,45917.32,NET60,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000382,Urban Group 382,Wholesale,Construction,Seattle,WA,United States,West,2025/05/18,25151.67,NET30,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000383,Nova Partners 383,Retail,Construction,Phoenix,AZ,United States,Southwest,2021-03-30,102519.29,NET30,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000384,Summit Partners 384,,Education,Monterrey,NL,MEX,Southwest,2024-04-19,49005.94,NET45,MEDIUM,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000385,ClearPath Logistics 385,,Technology,Seattle,WA,USA,West,2022/06/23,566541.08,net30,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000386,BlueRiver Trading 386,Wholesale,Healthcare,Denver,CO,USA,West,12/07/2021,271128.32,Prepaid,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000387,ClearPath Trading 387,Retail,Manufacturing,Guadalajara,JA,MEX,Southwest,11/20/2021,95315.93,Prepaid,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000388,Urban Partners 388,Enterprise,Food Service,Dallas,TX,USA,Southwest,2023/09/14,24214.65,NET45,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000389,Urban Supply 389,Mid Market,Manufacturing,Phoenix,AZ,USA,Southwest,2021/05/12,1197186.16,NET45,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000390,ClearPath Trading 390,Small Business,Retail,Dallas,TX,United States,Southwest,2021-06-15,296072.97,net30,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000391,Northstar Trading 391,Enterprise,Retail,Guadalajara,JA,MEX,Southwest,08/01/2021,22981.81,NET30,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000392,Nova Supply 392,Retail,Food Service,Boston,MA,United States,Northeast,04/20/2022,50330.99,NET30,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000393,Prime Logistics 393,Enterprise,Technology,Atlanta,GA,USA,Southeast,09/20/2021,883893.29,NET60,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000394,Nova Markets 394,Mid Market,Healthcare,Boston,MA,United States,Northeast,2021-05-18,59707.25,NET30,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000395,Urban Trading 395,,Technology,Vancouver,BC,CAN,West,2024/02/17,24998.83,net30,Medium,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000396,Nova Trading 396,Small Business,Food Service,Monterrey,NL,MEX,Southwest,04/24/2021,26003.51,NET60,low ,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000397,Apex Group 397,Mid Market,Education,Chicago,IL,United States,Midwest,2021/11/19,1003093.15,NET30,High,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000398,Summit Group 398,Enterprise,Food Service,Phoenix,AZ,United States,Southwest,06/13/2024,95436.66,NET30,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000399,Apex Markets 399,Enterprise,Construction,Boston,MA,United States,Northeast,2021/01/27,555840.65,net30,MEDIUM,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000400,Northstar Supply 400,Mid Market,Healthcare,Atlanta,GA,United States,Southeast,2021/12/06,55639.48,NET45,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000401,ClearPath Markets 401,,Construction,boston,MA,USA,Northeast,2025-11-07,479276.87,Prepaid,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000402,Northstar Trading 402,Retail,Education,Monterrey,NL,MEX,Southwest,2022-06-28,289932.08,Prepaid,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000403,Urban Markets 403,Mid Market,Construction,Vancouver,BC,CAN,West,2023/02/11,54274.24,NET60,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000404,ClearPath Supply 404,,Construction,Toronto,ON,CAN,Northeast,2023/05/15,55439.12,Prepaid,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000405,Urban Partners 405,Retail,Technology,Dallas,TX,United States,Southwest,2022/02/09,108768.64,net30,High,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000406,ClearPath Logistics 406,Wholesale,Construction,Atlanta,GA,United States,Southeast,02/27/2026,88540.89,NET45,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000407,Northstar Trading 407,Mid Market,Retail,Phoenix,AZ,USA,Southwest,2022-03-17,53002.79,NET45,Low,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000408,Prime Logistics 408,,Retail,Dallas,TX,United States,Southwest,2022/01/13,201381.80,net30,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000409,Summit Markets 409,Mid Market,Technology,Seattle,WA,USA,West,2024/05/20,1196152.29,Prepaid,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000410,Nova Partners 410,Mid Market,Education,Monterrey,NL,MEX,Southwest,2022-05-01,105267.80,NET30,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000411,Northstar Group 411,Enterprise,Food Service,Vancouver,BC,CAN,West,04/04/2022,21279.15,net30,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000412,ClearPath Markets 412,Small Business,Food Service,Atlanta,GA,United States,Southeast,2021/09/08,27643.35,Prepaid,High,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000413,Apex Logistics 413,Mid Market,Technology,Miami,FL,United States,Southeast,2024/08/18,284137.27,net30,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000414,Urban Logistics 414,Wholesale,Construction,Denver,CO,United States,West,2025/09/06,86396.26,NET45,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000415,Prime Group 415,Wholesale,Technology,Dallas,TX,USA,Southwest,02/01/2022,442404.42,NET30,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000416,Urban Group 416,Mid Market,Construction,Dallas,TX,USA,Southwest,2021-02-16,22124.15,NET60,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000417,Apex Logistics 417,Retail,Technology,Miami,FL,USA,Southeast,2022-11-23,116972.92,Prepaid,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000418,Urban Logistics 418,Small Business,Manufacturing,Monterrey,NL,MEX,Southwest,2024/02/14,44674.43,net30,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000419,Urban Trading 419,Retail,Healthcare,Vancouver,BC,CAN,West,2021-09-27,57531.49,NET60,Medium,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000420,Summit Partners 420,,Manufacturing,Monterrey,NL,MEX,Southwest,05/02/2021,530827.62,Prepaid,Low,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000421,ClearPath Logistics 421,Wholesale,Healthcare,Dallas,TX,USA,Southwest,2024-02-01,41410.05,net30,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000422,BlueRiver Logistics 422,,Construction,Boston,MA,USA,Northeast,2021/02/23,994104.46,NET30,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000423,BlueRiver Trading 423,Enterprise,Education,Chicago,IL,USA,Midwest,2024/03/11,801319.11,NET45,low ,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000424,Summit Supply 424,Mid Market,Education,Guadalajara,JA,MEX,Southwest,2025/06/15,59533.15,Prepaid,MEDIUM,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000425,ClearPath Group 425,Retail,Manufacturing,Atlanta,GA,USA,Southeast,2022/07/10,46334.43,net30,Medium,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000426,BlueRiver Partners 426,Small Business,Construction,Atlanta,GA,USA,Southeast,10/21/2025,293834.35,net30,MEDIUM,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000427,Apex Group 427,Mid Market,Construction,Vancouver,BC,CAN,West,10/23/2023,47469.92,NET60,low ,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000428,Summit Group 428,Wholesale,Food Service,Atlanta,GA,USA,Southeast,10/27/2024,293842.86,Prepaid,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000429,Apex Logistics 429,Retail,Education,Phoenix,AZ,United States,Southwest,08/11/2025,1133342.52,Prepaid,High,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000430,Urban Markets 430,Wholesale,Education,Guadalajara,JA,MEX,Southwest,2023-10-31,20582.65,NET60,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000431,BlueRiver Group 431,Wholesale,Food Service,Dallas,TX,United States,Southwest,2022/04/13,24002.80,Prepaid,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000432,Prime Logistics 432,,Food Service,Phoenix,AZ,USA,Southwest,02/27/2022,458400.38,NET60,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000433,Summit Markets 433,Small Business,Healthcare,Dallas,TX,USA,Southwest,2021-02-02,243398.23,net30,low ,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000434,BlueRiver Supply 434,,Education,Boston,MA,United States,Northeast,2022-07-30,23648.20,NET45,low ,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000435,ClearPath Trading 435,Small Business,Food Service,toronto,ON,CAN,Northeast,04/11/2024,90334.39,Prepaid,MEDIUM,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000436,Summit Supply 436,Retail,Construction,Denver,CO,United States,West,2022-08-18,80849.59,net30,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000437,Nova Markets 437,Small Business,Education,Dallas,TX,USA,Southwest,2024/06/03,844014.32,net30,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000438,Nova Markets 438,Small Business,Construction,Seattle,WA,USA,West,05/16/2022,55002.34,NET30,MEDIUM,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000439,Nova Partners 439,Wholesale,Manufacturing,Denver,CO,USA,West,2024/08/13,91167.10,NET45,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000440,ClearPath Trading 440,Enterprise,Technology,Monterrey,NL,MEX,Southwest,2021/08/13,28356.82,NET30,MEDIUM,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000441,Apex Partners 441,Small Business,Technology,Seattle,WA,United States,West,2025/05/05,119807.61,net30,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000442,Apex Trading 442,,Construction,Toronto,ON,CAN,Northeast,04/21/2021,28406.27,net30,low ,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000443,Nova Logistics 443,Mid Market,Retail,Denver,CO,United States,West,2022/04/29,873236.52,NET45,High,True,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000444,Summit Group 444,,Food Service,Chicago,IL,United States,Midwest,2023-10-20,93842.05,NET60,Low,N,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000445,Apex Logistics 445,Enterprise,Food Service,Guadalajara,JA,MEX,Southwest,2025/12/19,82993.48,NET30,Low,No,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000446,Summit Trading 446,Retail,Technology,Denver,CO,United States,West,11/09/2025,502962.42,Prepaid,Low,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000447,BlueRiver Group 447,Small Business,Healthcare,Dallas,TX,United States,Southwest,2021-05-08,980046.84,net30,Medium,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000448,Urban Supply 448,Wholesale,Technology,atlanta,GA,United States,Southeast,02/04/2024,452724.57,net30,Medium,1,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000449,ClearPath Markets 449,Mid Market,Technology,Vancouver,BC,CAN,West,09/12/2022,57594.64,net30,High,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000450,Urban Supply 450,Retail,Manufacturing,Seattle,WA,United States,West,01/31/2022,88025.26,NET30,High,Y,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST000031,Apex Supply 31,Mid Market,Healthcare,Guadalajara,JA,MEX,Southwest,01/07/2023,1192816.72,NET30,Low,Yes,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv
+CUST_BAD,,,Unknown,,,USA,,banana,abc,,,maybe,2026-06-20T05:01:23.784598+00:00,data/raw/master/customers.csv

@@ -1,0 +1,651 @@
+receipt_id,po_id,warehouse_id,receipt_date,receipt_status,inspection_status,source_system,_bronze_loaded_at_utc,_source_file
+RCV00000001,PO00000068,WH0001,2026-04-05,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000002,PO00000277,WH0018,2026-02-09,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000003,PO00000414,WH0009,2026-04-11,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000004,PO00000640,WH0002,2026-02-15,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000005,PO00000380,WH0005,03/04/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000006,PO00000002,WH0002,2026-01-25,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000007,PO00000654,WH0006,2026-03-22,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000008,PO00000275,WH0018,01/12/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000009,PO00000704,WH0004,04/17/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000010,PO00000509,WH0019,2026-02-12,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000011,PO00000486,WH0005,2026-03-06,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000012,PO00000652,WH0015,2026-06-22,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000013,PO00000657,WH0011,2026-06-13,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000014,PO00000374,WH0021,04/05/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000015,PO00000349,WH0016,05/02/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000016,PO00000362,WH0021,2026-05-16,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000017,PO00000612,WH0015,12/28/2025,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000018,PO00000672,WH0002,2026-05-18,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000019,PO00000411,WH0010,2026-03-10,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000020,PO00000743,WH0018,04/02/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000021,PO00000174,WH0022,05/20/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000022,PO00000567,WH0019,2026-03-01,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000023,PO00000426,WH0022,05/06/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000024,PO00000733,WH0013,2026-03-12,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000025,PO00000006,WH0002,2026-01-11,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000026,PO00000744,WH0016,2026-01-04,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000027,PO00000224,WH0021,2025-12-27,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000028,PO00000059,WH0006,01/07/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000029,PO00000533,WH0019,06/23/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000030,PO00000373,WH0013,2026-03-15,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000031,PO00000541,WH0016,2026-03-14,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000032,PO00000209,WH0011,2026-04-05,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000033,PO00000493,WH0008,04/23/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000034,PO00000464,WH0005,04/10/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000035,PO00000260,WH0025,2026-05-10,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000036,PO00000592,WH0012,01/11/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000037,PO00000228,WH0014,06/27/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000038,PO00000500,WH0015,2026-01-30,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000039,PO00000682,WH0011,2026-02-24,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000040,PO00000745,WH0019,2026-06-12,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000041,PO00000734,WH0006,05/23/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000042,PO00000561,WH0008,2026-04-07,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000043,PO00000336,WH0025,12/27/2025,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000044,PO00000154,WH0025,01/20/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000045,PO00000066,WH0007,2026-04-26,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000046,PO00000207,WH0024,01/23/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000047,PO00000633,WH0020,2026-05-18,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000048,PO00000311,WH0003,2026-05-05,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000049,PO00000085,WH0016,03/16/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000050,PO00000645,WH0001,2026-02-22,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000051,PO00000053,WH0025,2026-04-22,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000052,PO00000700,WH0020,01/14/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000053,PO00000114,WH0024,01/29/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000054,PO00000557,WH0011,03/22/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000055,PO00000151,WH0022,2026-04-19,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000056,PO00000133,WH0003,04/28/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000057,PO00000225,WH0005,2026-04-22,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000058,PO00000465,WH0018,2026-04-26,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000059,PO00000604,WH0012,2026-04-08,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000060,PO00000699,WH0015,2026-03-30,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000061,PO00000781,WH0025,03/05/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000062,PO00000172,WH0003,12/26/2025,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000063,PO00000203,WH0017,2026-04-18,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000064,PO00000179,WH0018,03/02/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000065,PO00000351,WH0007,06/24/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000066,PO00000524,WH0009,03/16/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000067,PO00000214,WH0020,2026-04-22,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000068,PO00000325,WH0008,2026-06-02,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000069,PO00000279,WH0001,01/20/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000070,PO00000764,WH0021,01/21/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000071,PO00000488,WH0015,2026-03-30,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000072,PO00000193,WH0016,04/17/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000073,PO00000515,WH0001,12/26/2025,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000074,PO00000236,WH0002,2026-05-12,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000075,PO00000698,WH0009,2026-01-27,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000076,PO00000461,WH0012,02/21/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000077,PO00000732,WH0021,2026-04-04,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000078,PO00000521,WH0011,03/06/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000079,PO00000090,WH0011,04/01/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000080,PO00000487,WH0001,04/03/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000081,PO00000039,WH0016,2026-03-07,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000082,PO00000609,WH0013,04/27/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000083,PO00000345,WH0024,2026-03-25,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000084,PO00000800,WH0022,03/16/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000085,PO00000235,WH0005,05/15/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000086,PO00000523,WH0017,02/11/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000087,PO00000274,WH0016,04/18/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000088,PO00000510,WH0012,2026-05-03,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000089,PO00000241,WH0023,12/30/2025,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000090,PO00000329,WH0005,05/30/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000091,PO00000410,WH0005,01/17/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000092,PO00000761,WH0001,04/02/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000093,PO00000164,WH0016,2026-03-05,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000094,PO00000233,WH0004,2026-05-12,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000095,PO00000718,WH0001,02/05/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000096,PO00000302,WH0007,2026-01-29,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000097,PO00000110,WH0019,01/26/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000098,PO00000299,WH0011,2026-04-20,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000099,PO00000352,WH0022,04/21/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000100,PO00000285,WH0004,2026-05-18,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000101,PO00000334,WH0007,05/20/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000102,PO00000223,WH0002,02/02/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000103,PO00000715,WH0023,2026-06-02,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000104,PO00000562,WH0008,2026-03-31,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000105,PO00000298,WH0017,01/10/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000106,PO00000350,WH0014,02/08/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000107,PO00000489,WH0017,2026-04-12,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000108,PO00000710,WH0025,03/10/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000109,PO00000647,WH0002,2026-04-10,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000110,PO00000499,WH0009,01/14/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000111,PO00000696,WH0012,2026-04-10,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000112,PO00000292,WH0003,2026-06-02,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000113,PO00000024,WH0019,2026-03-20,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000114,PO00000504,WH0004,06/13/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000115,PO00000388,WH0001,01/04/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000116,PO00000637,WH0025,05/14/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000117,PO00000390,WH0024,2026-03-03,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000118,PO00000294,WH0001,2026-04-03,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000119,PO00000021,WH0017,2026-02-13,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000120,PO00000126,WH0021,2026-03-19,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000121,PO00000405,WH0012,2026-04-07,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000122,PO00000283,WH0013,2026-03-07,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000123,PO00000452,WH0013,04/26/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000124,PO00000054,WH0005,12/11/2025,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000125,PO00000091,WH0001,03/23/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000126,PO00000242,WH0005,2026-05-21,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000127,PO00000062,WH0019,05/29/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000128,PO00000383,WH0018,2026-05-11,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000129,PO00000071,WH0008,2026-03-15,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000130,PO00000363,WH0002,02/06/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000131,PO00000427,WH0012,12/18/2025,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000132,PO00000026,WH0013,04/14/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000133,PO00000594,WH0015,2026-03-27,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000134,PO00000309,WH0016,2026-03-01,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000135,PO00000450,WH0017,2026-02-23,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000136,PO00000581,WH0004,05/05/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000137,PO00000442,WH0017,02/28/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000138,PO00000033,WH0009,04/15/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000139,PO00000097,WH0023,2026-03-02,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000140,PO00000159,WH0003,2026-01-11,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000141,PO00000434,WH0025,2026-03-27,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000142,PO00000301,WH0008,02/19/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000143,PO00000505,WH0022,2026-04-04,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000144,PO00000051,WH0001,2026-01-13,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000145,PO00000538,WH0003,2026-03-17,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000146,PO00000770,WH0009,2026-01-01,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000147,PO00000212,WH0014,03/24/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000148,PO00000443,WH0004,2026-05-01,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000149,PO00000145,WH0004,2026-04-26,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000150,PO00000043,WH0010,01/14/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000151,PO00000009,WH0001,2026-01-28,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000152,PO00000498,WH_UNKNOWN,04/17/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000153,PO00000227,WH0023,2026-04-11,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000154,PO00000284,WH0019,2026-02-03,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000155,PO00000529,WH0017,05/27/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000156,PO00000716,WH0005,2026-01-23,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000157,PO00000731,WH0006,2026-05-20,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000158,PO00000792,WH0006,2026-03-16,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000159,PO00000671,WH0016,2026-03-21,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000160,PO00000537,WH0008,02/07/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000161,PO00000010,WH0014,05/14/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000162,PO00000428,WH0023,2026-05-19,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000163,PO00000448,WH0010,06/12/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000164,PO00000141,WH0001,06/17/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000165,PO00000419,WH0003,02/15/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000166,PO00000787,WH0019,2026-02-04,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000167,PO00000153,WH0009,2026-02-09,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000168,PO00000530,WH0003,05/13/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000169,PO00000308,WH0004,04/18/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000170,PO00000119,WH0023,04/02/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000171,PO00000492,WH0017,12/31/2025,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000172,PO00000556,WH0001,06/11/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000173,PO00000651,WH0020,2026-01-21,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000174,PO00000109,WH0008,03/23/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000175,PO00000577,WH0003,04/24/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000176,PO00000516,WH0020,03/17/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000177,PO00000146,WH0010,2026-06-05,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000178,PO00000216,WH0004,2026-06-12,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000179,PO00000049,WH0017,05/14/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000180,PO00000261,WH0003,2026-03-30,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000181,PO00000668,WH0001,05/22/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000182,PO00000170,WH0005,04/01/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000183,PO00000790,WH0022,02/21/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000184,PO00000342,WH0020,2026-05-23,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000185,PO00000665,WH0015,05/12/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000186,PO00000607,WH0012,04/15/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000187,PO00000399,WH0016,2026-02-11,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000188,PO00000365,WH0021,2025-12-20,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000189,PO00000120,WH0025,04/21/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000190,PO00000554,WH0006,02/11/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000191,PO00000387,WH0021,2026-03-05,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000192,PO00000092,WH0016,2026-04-08,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000193,PO00000201,WH0023,12/17/2025,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000194,PO00000721,WH0021,2026-04-17,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000195,PO00000564,WH0010,03/01/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000196,PO00000382,WH0022,01/14/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000197,PO00000480,WH0014,2026-05-27,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000198,PO00000494,WH0019,2026-03-24,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000199,PO00000319,WH0024,02/12/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000200,PO00000305,WH0016,05/30/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000201,PO00000639,WH0011,2026-03-25,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000202,PO00000571,WH0020,03/05/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000203,PO00000579,WH0018,2026-01-22,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000204,PO00000552,WH0001,01/01/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000205,PO00000675,WH0004,2026-05-18,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000206,PO00000597,WH0001,2026-02-25,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000207,PO00000354,WH0022,2026-05-27,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000208,PO00000321,WH0022,2026-02-14,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000209,PO00000340,WH0005,05/03/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000210,PO00000322,WH0023,02/21/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000211,PO00000409,WH0004,2026-01-15,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000212,PO00000435,WH0008,2026-06-14,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000213,PO00000522,WH0014,2026-04-11,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000214,PO00000273,WH0020,2026-04-23,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000215,PO00000712,WH0025,03/23/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000216,PO00000182,WH0007,04/12/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000217,PO00000231,WH0002,2026-05-11,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000218,PO00000621,WH0025,2026-01-31,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000219,PO00000271,WH0025,2026-02-15,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000220,PO00000177,WH0007,03/22/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000221,PO00000046,WH0019,01/11/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000222,PO00000361,WH0017,2026-03-17,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000223,PO00000003,WH0010,2026-05-12,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000224,PO00000631,WH0002,01/13/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000225,PO00000550,WH0003,06/14/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000226,PO00000073,WH0023,04/12/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000227,PO00000765,WH0018,2026-03-12,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000228,PO00000162,WH0012,2026-04-08,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000229,PO00000431,WH0013,2025-12-12,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000230,PO00000667,WH0021,2026-06-21,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000231,PO00000711,WH0022,2026-02-22,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000232,PO00000394,WH0008,2026-01-18,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000233,PO00000539,WH0001,02/14/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000234,PO00000252,WH_UNKNOWN,03/19/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000235,PO00000752,WH0020,2026-04-22,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000236,PO00000075,WH0002,2025-12-31,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000237,PO00000259,WH0017,2026-01-10,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000238,PO00000096,WH0004,2026-06-03,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000239,PO00000391,WH0016,05/05/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000240,PO00000027,WH0013,2026-04-14,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000241,PO00000125,WH0022,12/11/2025,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000242,PO00000691,WH0022,2026-06-13,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000243,PO00000346,WH0018,06/18/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000244,PO00000116,WH0006,2026-02-05,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000245,PO00000403,WH0024,2026-06-14,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000246,PO00000636,WH0020,05/11/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000247,PO00000257,WH0022,01/24/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000248,PO00000137,WH0005,01/26/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000249,PO00000344,WH0014,2026-03-06,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000250,PO00000208,WH0015,2026-02-28,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000251,PO00000095,WH0006,2026-06-13,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000252,PO00000433,WH0018,2026-03-15,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000253,PO00000566,WH0025,2026-03-05,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000254,PO00000226,WH0005,02/11/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000255,PO00000527,WH0012,2025-12-15,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000256,PO00000429,WH0020,03/22/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000257,PO00000149,WH0015,04/29/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000258,PO00000420,WH0007,2026-03-30,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000259,PO00000250,WH0012,2026-05-27,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000260,PO00000613,WH0019,01/26/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000261,PO00000169,WH0013,03/24/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000262,PO00000318,WH0022,2026-04-01,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000263,PO00000355,WH0007,2026-04-15,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000264,PO00000357,WH0021,04/18/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000265,PO00000440,WH0014,06/07/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000266,PO00000123,WH0005,02/22/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000267,PO00000593,WH0020,2026-03-07,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000268,PO00000678,WH0019,2026-02-04,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000269,PO00000314,WH0015,2026-06-16,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000270,PO00000017,WH0008,05/04/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000271,PO00000295,WH0007,04/07/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000272,PO00000543,WH0002,02/17/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000273,PO00000082,WH0023,03/10/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000274,PO00000485,WH0008,02/10/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000275,PO00000401,WH0002,2026-02-02,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000276,PO00000468,WH0010,06/11/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000277,PO00000483,WH0025,02/07/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000278,PO00000627,WH0010,05/08/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000279,PO00000762,WH0003,05/21/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000280,PO00000099,WH0015,2026-03-17,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000281,PO00000186,WH0002,05/01/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000282,PO00000107,WH0005,02/27/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000283,PO00000497,WH0007,2026-04-05,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000284,PO00000670,WH0024,01/20/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000285,PO00000635,WH0019,2026-03-15,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000286,PO00000575,WH0004,01/18/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000287,PO00000102,WH0020,04/25/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000288,PO00000514,WH0012,2026-03-18,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000289,PO00000194,WH0023,03/10/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000290,PO00000437,WH0012,03/04/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000291,PO00000751,WH0002,2026-01-22,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000292,PO00000583,WH0015,12/23/2025,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000293,PO00000272,WH0015,2026-05-13,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000294,PO00000753,WH0007,2026-03-08,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000295,PO00000045,WH0011,2026-03-09,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000296,PO00000626,WH0003,2026-04-15,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000297,PO00000750,WH0006,03/08/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000298,PO00000240,WH0013,2026-05-19,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000299,PO00000397,WH0009,2026-01-11,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000300,PO00000438,WH0006,2026-04-29,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000301,PO00000103,WH0003,03/01/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000302,PO00000215,WH0007,2026-04-17,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000303,PO00000265,WH0025,2026-02-25,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000304,PO00000629,WH0012,2026-04-21,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000305,PO00000306,WH0018,04/18/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000306,PO00000368,WH0016,05/18/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000307,PO00000310,WH0014,04/02/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000308,PO00000048,WH0017,2026-01-30,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000309,PO00000502,WH0022,2026-06-09,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000310,PO00000337,WH0004,2026-05-19,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000311,PO00000078,WH0013,2026-05-05,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000312,PO00000677,WH0022,2026-04-14,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000313,PO00000457,WH0004,05/01/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000314,PO00000623,WH0022,05/08/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000315,PO00000673,WH0014,04/15/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000316,PO00000389,WH0022,04/27/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000317,PO00000784,WH0001,2026-03-09,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000318,PO00000063,WH0016,2026-02-14,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000319,PO00000746,WH0023,2026-05-07,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000320,PO00000591,WH0008,02/27/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000321,PO00000616,WH0024,2026-01-24,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000322,PO00000312,WH0018,01/26/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000323,PO00000535,WH0005,02/02/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000324,PO_UNKNOWN,WH0011,2025-12-07,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000325,PO00000367,WH0023,06/03/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000326,PO00000490,WH0014,2026-05-24,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000327,PO00000471,WH0016,2026-03-16,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000328,PO00000628,WH0001,2026-02-10,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000329,PO00000385,WH0006,02/13/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000330,PO00000560,WH0002,01/24/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000331,PO00000586,WH0002,2026-05-07,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000332,PO00000776,WH0022,2026-06-06,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000333,PO00000287,WH0010,05/14/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000334,PO00000219,WH0016,2026-03-31,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000335,PO00000469,WH0016,2026-02-11,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000336,PO00000417,WH0006,2026-03-03,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000337,PO00000406,WH0022,2026-05-12,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000338,PO00000475,WH0015,05/05/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000339,PO00000796,WH0011,2026-01-30,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000340,PO00000086,WH0024,2026-02-15,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000341,PO00000213,WH0020,2026-03-25,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000342,PO00000400,WH0001,2026-03-14,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000343,PO00000439,WH0005,12/28/2025,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000344,PO00000055,WH0016,01/31/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000345,PO00000520,WH0016,01/12/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000346,PO00000694,WH0017,03/04/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000347,PO00000479,WH0004,2026-02-18,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000348,PO00000789,WH0018,03/21/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000349,PO00000077,WH0010,05/08/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000350,PO00000676,WH0003,2026-03-12,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000351,PO00000080,WH0005,05/04/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000352,PO00000412,WH0011,01/24/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000353,PO00000706,WH0004,2026-04-24,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000354,PO00000695,WH0018,02/13/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000355,PO00000184,WH0015,03/20/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000356,PO00000276,WH0014,02/15/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000357,PO00000032,WH0001,05/18/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000358,PO00000044,WH0004,05/02/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000359,PO00000669,WH0018,2026-03-12,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000360,PO00000458,WH0019,2026-04-25,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000361,PO00000206,WH0003,02/24/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000362,PO00000674,WH0011,02/12/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000363,PO00000175,WH0021,02/14/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000364,PO00000587,WH0013,2026-04-27,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000365,PO00000580,WH0021,2026-02-28,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000366,PO00000317,WH0003,01/25/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000367,PO00000005,WH0010,2026-01-04,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000368,PO00000780,WH0022,03/05/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000369,PO00000288,WH0025,2026-03-09,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000370,PO00000112,WH0006,2026-03-24,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000371,PO00000608,WH0023,02/27/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000372,PO00000526,WH0023,2026-04-25,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000373,PO00000619,WH0007,2026-03-14,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000374,PO00000307,WH0016,12/31/2025,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000375,PO00000140,WH0009,04/07/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000376,PO00000763,WH0010,05/11/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000377,PO00000015,WH0006,2026-02-07,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000378,PO00000358,WH0008,04/18/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000379,PO00000392,WH0003,01/24/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000380,PO00000263,WH0022,12/25/2025,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000381,PO00000192,WH0012,05/05/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000382,PO00000188,WH0020,03/16/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000383,PO00000239,WH0008,2026-01-18,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000384,PO00000104,WH0001,03/16/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000385,PO00000491,WH0005,2026-05-27,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000386,PO00000347,WH0005,2026-02-03,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000387,PO00000267,WH0018,2025-12-30,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000388,PO00000536,WH0009,2026-03-04,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000389,PO00000014,WH0021,02/15/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000390,PO00000614,WH0011,2026-01-27,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000391,PO00000031,WH0020,2026-02-12,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000392,PO00000313,WH0025,2026-04-09,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000393,PO00000143,WH0008,05/14/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000394,PO00000142,WH0022,2026-04-10,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000395,PO00000473,WH0011,2026-05-20,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000396,PO00000060,WH0004,2026-03-30,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000397,PO00000648,WH0006,02/06/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000398,PO00000598,WH0023,05/21/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000399,PO00000197,WH0021,01/24/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000400,PO00000247,WH0016,2026-03-13,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000401,PO00000565,WH0016,02/12/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000402,PO00000118,WH0011,2026-01-15,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000403,PO00000555,WH0020,2026-06-12,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000404,PO00000707,WH0022,02/07/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000405,PO00000655,WH0021,2026-02-23,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000406,PO00000286,WH0010,2026-01-26,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000407,PO00000476,WH0006,03/04/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000408,PO00000012,WH0024,02/24/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000409,PO00000460,WH0024,2026-04-06,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000410,PO00000544,WH0014,2026-05-25,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000411,PO00000065,WH0003,05/11/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000412,PO00000348,WH0012,2026-06-07,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000413,PO00000100,WH0023,12/28/2025,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000414,PO00000519,WH0004,02/14/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000415,PO00000453,WH0010,01/14/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000416,PO00000251,WH0024,2025-12-19,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000417,PO00000135,WH0002,02/08/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000418,PO00000531,WH0012,2026-04-12,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000419,PO00000741,WH0010,02/25/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000420,PO00000540,WH0019,2026-01-25,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000421,PO00000771,WH0014,04/18/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000422,PO00000115,WH0020,2026-02-04,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000423,PO00000424,WH0002,03/17/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000424,PO00000013,WH0019,02/07/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000425,PO00000617,WH0006,2026-04-11,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000426,PO00000204,WH0007,06/01/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000427,PO00000025,WH0008,04/28/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000428,PO00000019,WH0011,03/07/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000429,PO00000446,WH0022,04/23/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000430,PO00000378,WH0022,2026-02-28,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000431,PO00000130,WH0015,2026-02-10,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000432,PO00000690,WH0012,2026-03-14,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000433,PO00000740,WH0018,2026-01-29,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000434,PO00000618,WH0003,2026-06-17,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000435,PO00000620,WH0002,2026-05-21,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000436,PO00000042,WH0004,2026-01-14,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000437,PO00000601,WH0016,01/11/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000438,PO00000081,WH0001,2026-02-24,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000439,PO00000709,WH0010,2026-04-26,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000440,PO00000291,WH0016,04/17/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000441,PO00000624,WH0019,2026-06-18,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000442,PO00000415,WH0022,04/07/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000443,PO00000326,WH0015,05/21/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000444,PO00000573,WH0025,05/14/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000445,PO00000455,WH0003,2025-12-20,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000446,PO00000262,WH0001,05/03/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000447,PO00000016,WH0010,05/15/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000448,PO00000769,WH0023,2026-04-24,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000449,PO00000663,WH0002,01/14/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000450,PO00000167,WH0003,2026-01-09,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000451,PO00000430,WH0011,04/24/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000452,PO00000106,WH0023,2026-05-21,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000453,PO00000315,WH0007,2026-01-16,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000454,PO00000278,WH0013,04/18/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000455,PO00000481,WH0020,04/07/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000456,PO00000366,WH0007,2026-01-13,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000457,PO00000719,WH0007,2026-03-18,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000458,PO00000079,WH0019,2026-06-08,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000459,PO00000693,WH0014,2026-04-11,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000460,PO00000189,WH0020,02/14/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000461,PO00000303,WH0003,04/10/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000462,PO00000364,WH0013,2026-03-11,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000463,PO00000705,WH0002,01/28/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000464,PO00000376,WH0017,03/27/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000465,PO00000335,WH0018,04/13/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000466,PO00000040,WH0020,2026-01-08,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000467,PO00000359,WH0009,2026-01-03,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000468,PO00000549,WH0018,2026-02-04,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000469,PO00000680,WH0014,2026-01-19,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000470,PO00000501,WH0025,01/26/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000471,PO00000157,WH0002,2026-05-02,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000472,PO00000795,WH0014,05/21/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000473,PO00000158,WH0019,2026-01-28,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000474,PO00000528,WH0024,03/03/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000475,PO00000152,WH0013,2026-01-26,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000476,PO00000569,WH0017,03/08/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000477,PO00000178,WH0005,2026-04-11,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000478,PO00000256,WH0010,2026-04-02,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000479,PO00000602,WH0023,2026-02-23,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000480,PO00000666,WH0009,2025-12-25,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000481,PO00000717,WH0020,04/09/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000482,PO00000777,WH0009,2026-02-11,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000483,PO00000644,WH0004,2026-05-03,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000484,PO00000083,WH0004,2026-05-17,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000485,PO00000688,WH0024,04/29/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000486,PO00000122,WH0005,2026-03-16,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000487,PO00000290,WH0013,2026-02-02,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000488,PO00000759,WH0009,2026-05-25,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000489,PO00000713,WH0007,05/02/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000490,PO00000757,WH0006,2026-06-08,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000491,PO00000466,WH0014,05/15/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000492,PO00000328,WH0020,2026-04-14,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000493,PO00000229,WH0008,2026-06-01,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000494,PO00000067,WH0023,02/03/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000495,PO00000478,WH0017,2026-06-02,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000496,PO00000739,WH0022,03/12/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000497,PO00000646,WH0006,2026-04-05,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000498,PO00000407,WH0001,05/06/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000499,PO00000723,WH0013,2026-03-06,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000500,PO00000445,WH0022,05/20/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000501,PO00000785,WH0017,2026-01-18,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000502,PO00000372,WH0013,05/26/2026,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000503,PO00000730,WH0015,03/14/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000504,PO00000041,WH0011,2026-04-01,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000505,PO00000047,WH0003,12/18/2025,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000506,PO00000596,WH0003,2026-05-07,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000507,PO00000722,WH0016,2026-06-07,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000508,PO00000183,WH0007,04/03/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000509,PO00000742,WH0009,04/18/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000510,PO00000220,WH0006,01/11/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000511,PO00000377,WH0009,03/09/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000512,PO00000736,WH0009,2026-05-30,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000513,PO00000289,WH0007,2026-03-26,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000514,PO00000166,WH0017,2026-04-27,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000515,PO00000449,WH0003,2026-05-01,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000516,PO00000482,WH0016,2026-02-05,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000517,PO00000196,WH0021,2026-04-17,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000518,PO00000266,WH0014,2026-05-26,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000519,PO00000339,WH0012,04/27/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000520,PO00000300,WH0019,2026-02-10,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000521,PO00000237,WH0009,06/01/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000522,PO00000600,WH0008,05/19/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000523,PO00000254,WH0006,02/10/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000524,PO00000773,WH0011,04/24/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000525,PO00000386,WH0011,03/07/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000526,PO00000474,WH0024,01/07/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000527,PO00000649,WH0003,2026-01-07,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000528,PO00000749,WH0014,2026-05-02,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000529,PO00000511,WH0016,2026-04-04,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000530,PO00000735,WH0018,2026-02-26,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000531,PO00000001,WH0010,02/20/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000532,PO00000180,WH0021,2026-05-12,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000533,PO00000767,WH0012,2026-06-04,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000534,PO00000088,WH0015,2026-05-24,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000535,PO00000036,WH0004,02/01/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000536,PO00000230,WH0008,03/03/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000537,PO00000147,WH0020,2026-01-18,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000538,PO00000089,WH0022,01/19/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000539,PO00000622,WH0002,01/17/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000540,PO00000662,WH0009,04/06/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000541,PO00000113,WH0015,2026-04-27,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000542,PO00000632,WH0018,2026-04-01,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000543,PO00000331,WH0017,05/08/2026,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000544,PO00000245,WH0006,2026-02-22,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000545,PO00000076,WH0021,03/12/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000546,PO00000595,WH0020,01/16/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000547,PO00000176,WH0011,2026-06-02,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000548,PO00000553,WH0018,2026-04-20,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000549,PO00000202,WH0001,2026-05-06,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000550,PO00000797,WH0017,04/02/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000551,PO00000210,WH0021,04/07/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000552,PO00000697,WH0001,2026-01-27,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000553,PO00000343,WH0015,2026-03-15,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000554,PO00000155,WH0023,2026-03-17,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000555,PO00000070,WH0007,2026-04-13,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000556,PO00000638,WH0008,2026-02-14,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000557,PO00000467,WH0007,05/29/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000558,PO00000222,WH0007,2026-05-14,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000559,PO00000136,WH0016,05/16/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000560,PO00000783,WH0016,2026-05-20,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000561,PO00000117,WH0024,02/18/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000562,PO00000156,WH0022,03/07/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000563,PO00000459,WH0017,2026-01-25,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000564,PO00000799,WH0016,2026-04-19,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000565,PO00000269,WH0005,02/28/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000566,PO00000221,WH0001,2026-03-23,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000567,PO00000513,WH0012,03/12/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000568,PO00000379,WH0003,2026-04-14,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000569,PO00000551,WH0001,2026-03-19,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000570,PO00000720,WH0017,2026-05-11,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000571,PO00000714,WH0006,2026-02-18,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000572,PO00000542,WH0004,2026-02-20,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000573,PO00000708,WH0005,2026-03-26,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000574,PO00000249,WH0007,2026-04-24,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000575,PO00000436,WH0008,01/08/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000576,PO00000198,WH0025,2026-01-07,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000577,PO00000297,WH0021,02/03/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000578,PO00000684,WH0022,2026-01-23,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000579,PO00000568,WH0017,2026-04-26,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000580,PO00000701,WH0004,2026-04-16,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000581,PO00000650,WH0002,2026-02-18,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000582,PO00000058,WH0016,2026-04-22,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000583,PO00000264,WH0021,02/27/2026,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000584,PO00000163,WH0025,2026-01-17,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000585,PO00000558,WH0003,04/24/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000586,PO00000643,WH0025,2026-01-12,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000587,PO00000327,WH0007,02/25/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000588,PO00000150,WH0023,2026-01-24,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000589,PO00000200,WH0013,2026-02-03,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000590,PO00000018,WH0015,02/26/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000591,PO00000418,WH0003,02/20/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000592,PO00000725,WH0024,06/04/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000593,PO00000384,WH0016,02/12/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000594,PO00000127,WH0014,04/24/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000595,PO00000788,WH0025,2026-05-19,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000596,PO00000610,WH0008,2026-05-18,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000597,PO00000606,WH0014,2026-04-09,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000598,PO00000185,WH0015,02/18/2026,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000599,PO00000134,WH0008,2026-03-19,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000600,PO00000441,WH0022,2026-04-25,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000601,PO00000160,WH0015,2026-01-10,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000602,PO00000375,WH0025,04/22/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000603,PO00000634,WH0008,2026-03-20,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000604,PO00000574,WH0001,01/27/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000605,PO00000679,WH0002,2026-02-25,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000606,PO00000280,WH0010,01/24/2026,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000607,PO00000360,WH0003,05/06/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000608,PO00000656,WH0010,2026-02-27,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000609,PO00000356,WH0005,03/11/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000610,PO00000023,WH0025,03/07/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000611,PO00000534,WH0011,06/13/2026,Rejected,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000612,PO00000625,WH0007,03/06/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000613,PO00000563,WH0003,2026-04-28,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000614,PO00000496,WH0023,2026-01-26,received ,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000615,PO00000664,WH0012,04/02/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000616,PO00000454,WH0021,2026-03-23,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000617,PO00000547,WH0025,01/20/2026,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000618,PO00000398,WH0020,02/25/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000619,PO00000774,WH0015,2026-03-06,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000620,PO00000615,WH0014,01/05/2026,Rejected,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000621,PO00000332,WH0016,12/23/2025,Rejected,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000622,PO00000253,WH0025,03/28/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000623,PO00000338,WH0016,2026-01-01,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000624,PO00000195,WH0010,2026-03-28,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000625,PO00000238,WH0015,02/06/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000626,PO00000559,WH0023,2026-02-22,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000627,PO00000087,WH0006,2025-12-26,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000628,PO00000161,WH0001,2026-03-09,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000629,PO00000030,WH0003,2026-04-29,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000630,PO00000244,WH0005,2025-12-13,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000631,PO00000330,WH0013,2026-04-01,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000632,PO00000369,WH0002,2026-01-10,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000633,PO00000702,WH0017,2026-02-19,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000634,PO00000333,WH0003,05/15/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000635,PO00000173,WH0002,01/31/2026,Received,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000636,PO00000703,WH0011,2026-04-29,Received,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000637,PO00000423,WH0006,02/11/2026,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000638,PO00000037,WH0022,03/28/2026,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000639,PO00000093,WH0019,2026-03-15,Partial,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000640,PO00000794,WH0022,02/04/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000641,PO00000658,WH0018,2026-03-15,Partial,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000642,PO00000050,WH0011,03/24/2026,received ,Failed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000643,PO00000653,WH0015,2026-03-14,Rejected,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000644,PO00000246,WH0023,01/15/2026,received ,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000645,PO00000660,WH0012,04/02/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000646,PO00000582,WH0002,2026-02-08,Received,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000647,PO00000756,WH0012,03/28/2026,received ,Passed,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000648,PO00000685,WH0018,2026-01-16,Partial,passed ,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000649,PO00000304,WH0017,06/03/2026,Partial,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv
+RCV00000650,PO00000470,WH0025,02/13/2026,Received,Pending,wms,2026-06-20T05:01:24.236202+00:00,data/raw/transactions/receipts.csv

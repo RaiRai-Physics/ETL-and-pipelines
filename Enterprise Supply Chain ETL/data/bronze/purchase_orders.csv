@@ -1,0 +1,801 @@
+po_id,supplier_id,warehouse_id,po_date,expected_receipt_date,po_status,currency,created_by,source_system,_bronze_loaded_at_utc,_source_file
+PO00000001,SUP00079,WH0010,01/13/2026,2026-02-06,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000002,SUP00025,WH0002,2025-12-22,2026-01-26,approved ,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000003,SUP00093,WH0010,04/15/2026,2026-05-12,approved ,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000004,SUP00100,WH0010,03/23/2026,2026-05-04,Cancelled,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000005,SUP00072,WH0010,12/28/2025,2026-01-07,Created,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000006,SUP00066,WH0002,2025-12-21,2026-01-10,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000007,SUP00112,WH0025,2025-12-18,2025-12-28,Received,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000008,SUP00102,WH0003,02/03/2026,2026-03-05,Approved,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000009,SUP00062,WH0001,12/30/2025,2026-01-27,Partially Received,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000010,SUP00010,WH0014,04/20/2026,2026-05-11,Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000011,SUP00013,WH0015,12/31/2025,2026-01-15,Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000012,SUP00052,WH0024,2026-02-11,2026-02-23,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000013,SUP00018,WH0019,12/24/2025,2026-02-07,Partially Received,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000014,SUP00117,WH0021,12/23/2025,2026-02-01,Partially Received,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000015,SUP00065,WH0006,12/24/2025,2026-02-04,Approved,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000016,SUP00065,WH0010,04/08/2026,2026-05-15,Approved,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000017,SUP00072,WH0008,03/21/2026,2026-05-03,Partially Received,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000018,SUP00084,WH0015,2026-02-07,2026-02-25,Partially Received,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000019,SUP00015,WH0011,2026-02-24,2026-03-07,Created,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000020,SUP00002,WH0003,2026-01-16,2026-02-13,Created,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000021,SUP00107,WH0017,2026-01-11,2026-01-30,Cancelled,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000022,SUP00065,WH0019,2026-04-29,2026-06-05,approved ,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000023,SUP00045,WH0025,2026-02-10,2026-03-10,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000024,SUP00005,WH0019,02/10/2026,2026-03-19,Partially Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000025,SUP00027,WH0008,03/17/2026,2026-04-27,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000026,SUP00008,WH0013,03/05/2026,2026-04-17,Created,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000027,SUP00082,WH0013,2026-03-28,2026-04-13,Approved,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000028,SUP00049,WH0021,05/08/2026,2026-06-21,Cancelled,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000029,SUP00073,WH0018,2026-01-03,2026-01-18,Partially Received,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000030,SUP00077,WH0003,2026-04-02,2026-04-28,Created,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000031,SUP00036,WH0020,2026-01-14,2026-02-09,approved ,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000032,SUP00098,WH0001,04/18/2026,2026-05-19,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000033,SUP00041,WH0009,2026-03-16,2026-04-12,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000034,SUP00062,WH0003,03/02/2026,2026-03-17,Approved,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000035,SUP00086,WH0013,01/22/2026,2026-02-10,Partially Received,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000036,SUP00071,WH0004,01/14/2026,2026-02-01,Cancelled,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000037,SUP00095,WH0022,2026-03-07,2026-03-28,Received,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000038,SUP00112,WH0011,2026-01-05,2026-01-29,Received,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000039,SUP00036,WH0016,02/09/2026,2026-03-08,approved ,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000040,SUP00003,WH0020,2025-12-01,2026-01-11,approved ,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000041,SUP00038,WH0011,03/03/2026,2026-04-02,Received,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000042,SUP00100,WH0004,2025-12-08,2026-01-07,approved ,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000043,SUP00031,WH0010,12/22/2025,2026-01-14,Partially Received,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000044,SUP00082,WH0004,2026-04-05,2026-04-29,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000045,SUP00106,WH0011,02/08/2026,2026-03-12,approved ,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000046,SUP00072,WH0019,2025-12-31,2026-01-10,Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000047,SUP00116,WH0003,2025-12-09,2025-12-18,Created,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000048,SUP00028,WH0017,2026-01-15,2026-01-27,approved ,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000049,SUP00079,WH0017,04/28/2026,2026-05-17,approved ,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000050,SUP00021,WH0011,02/17/2026,2026-03-21,Partially Received,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000051,SUP00041,WH0001,2025-12-25,2026-01-16,Approved,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000052,SUP00057,WH0022,2026-05-13,2026-05-29,Partially Received,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000053,SUP00001,WH0025,03/16/2026,2026-04-22,Partially Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000054,SUP00117,WH0005,2025-12-02,2025-12-14,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000055,SUP00114,WH0016,12/13/2025,2026-01-17,Partially Received,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000056,SUP00073,WH0004,03/27/2026,2026-05-03,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000057,SUP00109,WH0024,05/01/2026,2026-06-12,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000058,SUP00066,WH0016,2026-03-21,2026-04-25,Partially Received,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000059,SUP00098,WH0006,2025-12-11,2026-01-07,Created,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000060,SUP00071,WH0004,2026-03-15,2026-03-30,Approved,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000061,SUP00088,WH0025,01/11/2026,2026-02-16,approved ,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000062,SUP00003,WH0019,2026-05-10,2026-05-30,Received,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000063,SUP00048,WH0016,01/27/2026,2026-02-13,Approved,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000064,SUP00119,WH0023,2025-12-12,2025-12-19,Created,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000065,SUP00073,WH0003,2026-05-02,2026-05-08,Cancelled,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000066,SUP00081,WH0007,2026-04-12,2026-04-23,Received,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000067,SUP00067,WH0023,2026-01-22,2026-02-03,Partially Received,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000068,SUP00042,WH0001,2026-03-22,2026-04-02,Approved,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000069,SUP00072,WH0020,2025-12-27,2026-01-18,approved ,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000070,SUP00022,WH0007,03/24/2026,2026-04-13,Created,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000071,SUP00073,WH0008,2026-02-10,2026-03-15,Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000072,SUP00063,WH0010,2026-02-14,2026-03-28,Partially Received,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000073,SUP00037,WH0023,2026-03-02,2026-04-12,Created,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000074,SUP00025,WH0006,02/13/2026,2026-03-01,approved ,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000075,SUP00044,WH0002,12/12/2025,2026-01-03,approved ,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000076,SUP00074,WH0021,02/08/2026,2026-02-26,Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000077,SUP00020,WH0010,04/30/2026,2026-05-05,Created,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000078,SUP00089,WH0013,04/11/2026,2026-05-02,approved ,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000079,SUP00095,WH0019,2026-05-01,2026-06-09,Cancelled,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000080,SUP00104,WH0005,2026-04-15,2026-05-04,Partially Received,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000081,SUP00099,WH0001,02/01/2026,2026-02-24,Approved,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000082,SUP00078,WH0023,02/13/2026,2026-03-09,Created,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000083,SUP00066,WH0004,05/08/2026,2026-05-17,Approved,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000084,SUP00008,WH0025,03/23/2026,2026-04-04,Partially Received,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000085,SUP00034,WH0016,02/11/2026,2026-03-19,Cancelled,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000086,SUP00019,WH0024,02/05/2026,2026-02-15,approved ,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000087,SUP00064,WH0006,2025-12-03,2025-12-29,Partially Received,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000088,SUP00062,WH0015,05/02/2026,2026-05-25,Received,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000089,SUP00102,WH0022,01/15/2026,2026-01-20,Partially Received,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000090,SUP00015,WH0011,2026-02-11,2026-03-25,Approved,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000091,SUP00024,WH0001,2026-02-20,2026-03-16,Partially Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000092,SUP00049,WH0016,03/18/2026,2026-03-25,approved ,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000093,SUP00023,WH0019,2026-02-07,2026-03-15,Received,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000094,SUP00033,WH0001,2026-04-05,2026-05-07,Received,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000095,SUP00116,WH0006,2026-05-03,2026-06-13,Cancelled,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000096,SUP00083,WH0004,2026-04-24,2026-06-06,Created,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000097,SUP00058,WH0023,02/08/2026,2026-02-23,Created,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000098,SUP00050,WH0020,05/06/2026,2026-06-14,Approved,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000099,SUP00056,WH0015,2026-03-03,2026-03-20,Partially Received,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000100,SUP00115,WH0023,2025-12-05,2025-12-25,Partially Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000101,SUP00093,WH0003,2026-04-02,2026-05-06,Cancelled,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000102,SUP00083,WH0020,2026-03-17,2026-04-28,Cancelled,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000103,SUP00083,WH0003,2026-02-04,2026-02-26,Received,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000104,SUP00073,WH0001,02/13/2026,2026-03-16,Partially Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000105,SUP00116,WH0017,2026-03-13,2026-04-23,Received,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000106,SUP00052,WH0023,04/07/2026,2026-05-07,Cancelled,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000107,SUP00078,WH0005,2026-02-11,2026-02-27,Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000108,SUP00103,WH0001,2026-01-21,2026-02-07,approved ,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000109,SUP00045,WH0008,03/08/2026,2026-03-23,Partially Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000110,SUP00096,WH0019,2026-01-10,2026-01-27,Created,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000111,SUP00099,WH0020,04/24/2026,2026-05-17,Partially Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000112,SUP00067,WH0006,02/21/2026,2026-03-23,Approved,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000113,SUP00086,WH0015,2026-04-13,2026-04-24,Approved,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000114,SUP00092,WH0024,2025-12-27,2026-01-28,Created,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000115,SUP00053,WH0020,12/29/2025,2026-02-05,Approved,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000116,SUP00046,WH0006,01/15/2026,2026-02-06,Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000117,SUP00017,WH0024,01/28/2026,2026-02-21,Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000118,SUP00001,WH0011,2025-12-12,2026-01-14,Received,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000119,SUP00030,WH0023,03/19/2026,2026-03-30,Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000120,SUP00009,WH0025,2026-03-31,2026-04-18,Received,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000121,SUP00072,WH0009,2026-04-02,2026-04-19,approved ,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000122,SUP00072,WH0005,2026-01-25,2026-03-02,Approved,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000123,SUP00074,WH0005,2026-01-08,2026-02-22,Partially Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000124,SUP00049,WH0019,2026-03-26,2026-04-19,Cancelled,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000125,SUP00023,WH0022,2025-12-01,2025-12-14,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000126,SUP00013,WH0021,2026-02-03,2026-03-18,Created,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000127,SUP00071,WH0014,04/02/2026,2026-04-10,Approved,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000128,SUP00053,WH0014,04/07/2026,2026-05-08,Approved,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000129,SUP00038,WH0009,2026-03-06,2026-03-19,Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000130,SUP00042,WH0015,01/20/2026,2026-02-10,Cancelled,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000131,SUP00037,WH0022,12/11/2025,2026-01-24,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000132,SUP00054,WH0007,2026-04-21,2026-04-29,Partially Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000133,SUP00102,WH0003,03/19/2026,2026-04-14,Partially Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000134,SUP00094,WH0008,02/18/2026,2026-03-22,Approved,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000135,SUP00030,WH0002,2026-01-07,2026-02-09,Cancelled,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000136,SUP00081,WH0016,2026-04-01,2026-05-09,Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000137,SUP00082,WH0005,12/21/2025,2026-01-27,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000138,SUP00035,WH0017,2026-02-12,2026-03-11,Cancelled,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000139,SUP00069,WH0014,04/06/2026,2026-04-22,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000140,SUP00075,WH0009,2026-03-21,2026-04-06,Cancelled,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000141,SUP00108,WH0001,04/28/2026,2026-06-03,Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000142,SUP00091,WH0022,03/18/2026,2026-04-11,Approved,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000143,SUP00030,WH0008,2026-04-04,2026-05-15,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000144,SUP00027,WH0008,2026-02-11,2026-02-19,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000145,SUP00102,WH0004,2026-04-02,2026-04-25,Cancelled,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000146,SUP00047,WH0010,05/02/2026,2026-06-05,Cancelled,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000147,SUP00026,WH0020,12/19/2025,2026-01-18,Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000148,SUP00008,WH0013,2026-02-28,2026-04-05,Partially Received,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000149,SUP00043,WH0015,03/29/2026,2026-04-28,approved ,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000150,SUP00003,WH0023,2026-01-10,2026-01-21,Cancelled,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000151,SUP00056,WH0022,2026-03-15,2026-04-16,Approved,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000152,SUP00072,WH0013,12/18/2025,2026-01-26,approved ,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000153,SUP00084,WH0009,12/29/2025,2026-02-09,Partially Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000154,SUP00082,WH0025,12/20/2025,2026-01-06,Approved,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000155,SUP00107,WH0023,02/01/2026,2026-03-17,approved ,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000156,SUP00062,WH0022,2026-02-11,2026-03-07,Received,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000157,SUP00016,WH0002,04/25/2026,2026-05-01,Cancelled,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000158,SUP00053,WH0019,2025-12-27,2026-01-25,Created,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000159,SUP00011,WH0003,2026-01-06,2026-01-12,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000160,SUP00071,WH0015,2025-12-24,2026-01-13,Created,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000161,SUP00035,WH0001,2026-01-28,2026-03-12,Partially Received,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000162,SUP00069,WH0012,2026-02-28,2026-03-25,approved ,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000163,SUP00074,WH0025,2026-01-06,2026-01-17,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000164,SUP00052,WH0016,2026-01-31,2026-02-19,Cancelled,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000165,SUP00102,WH0011,04/20/2026,2026-05-16,approved ,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000166,SUP00014,WH0017,03/15/2026,2026-04-20,approved ,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000167,SUP00030,WH0003,2025-12-10,2026-01-09,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000168,SUP00031,WH0016,05/08/2026,2026-05-26,approved ,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000169,SUP00092,WH0013,2026-02-27,2026-03-21,approved ,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000170,SUP00073,WH0005,03/12/2026,2026-04-01,Created,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000171,SUP00089,WH0024,12/12/2025,2026-01-26,Created,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000172,SUP00065,WH0003,12/02/2025,2025-12-23,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000173,SUP00046,WH0002,2025-12-15,2026-01-28,Partially Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000174,SUP00105,WH0022,2026-04-28,2026-05-20,Cancelled,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000175,SUP00102,WH0021,01/31/2026,2026-02-17,Partially Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000176,SUP00044,WH0011,04/23/2026,2026-06-03,approved ,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000177,SUP00010,WH0007,2026-02-17,2026-03-22,Cancelled,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000178,SUP00102,WH0005,04/04/2026,2026-04-11,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000179,SUP00095,WH0018,2026-02-18,2026-03-02,Approved,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000180,SUP00003,WH0021,05/04/2026,2026-05-13,Cancelled,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000181,SUP00028,WH0021,2026-01-25,2026-03-02,Approved,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000182,SUP00059,WH0007,03/15/2026,2026-03-29,Created,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000183,SUP00055,WH0007,02/20/2026,2026-04-03,Created,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000184,SUP00021,WH0015,02/07/2026,2026-03-06,Partially Received,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000185,SUP00035,WH0015,2026-02-13,2026-02-19,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000186,SUP00078,WH0002,2026-04-25,2026-05-01,Cancelled,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000187,SUP00063,WH0008,2026-03-07,2026-03-17,Approved,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000188,SUP00023,WH0020,02/10/2026,2026-03-13,Received,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000189,SUP00038,WH0020,2026-01-10,2026-02-13,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000190,SUP00003,WH0023,2026-03-21,2026-04-29,Partially Received,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000191,SUP00044,WH0011,2026-02-27,2026-03-19,Partially Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000192,SUP00045,WH0012,04/19/2026,2026-05-05,Approved,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000193,SUP00112,WH0016,2026-04-07,2026-04-16,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000194,SUP00105,WH0023,2026-01-22,2026-03-03,Created,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000195,SUP00025,WH0010,02/19/2026,2026-03-31,Received,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000196,SUP00056,WH0021,03/31/2026,2026-04-14,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000197,SUP00067,WH0021,2025-12-21,2026-01-24,Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000198,SUP00098,WH0025,12/21/2025,2026-01-10,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000199,SUP00070,WH0013,2026-01-29,2026-02-06,approved ,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000200,SUP00105,WH0013,01/23/2026,2026-01-31,Received,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000201,SUP00078,WH0023,12/10/2025,2025-12-17,approved ,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000202,SUP00079,WH0001,04/03/2026,2026-05-09,Created,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000203,SUP00024,WH0017,2026-04-06,2026-04-18,Received,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000204,SUP00083,WH0007,2026-05-11,2026-05-25,Received,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000205,SUP00048,WH0008,12/20/2025,2026-01-25,Received,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000206,SUP00015,WH0003,2026-01-27,2026-02-23,Created,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000207,SUP00117,WH0024,01/17/2026,2026-01-24,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000208,SUP00056,WH0015,02/03/2026,2026-02-21,Created,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000209,SUP00096,WH0011,03/05/2026,2026-04-05,Created,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000210,SUP00005,WH0021,2026-02-28,2026-04-07,Cancelled,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000211,SUP00033,WH0011,2026-03-07,2026-03-19,Created,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000212,SUP00006,WH0014,2026-03-05,2026-03-21,Approved,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000213,SUP00064,WH0020,03/06/2026,2026-03-25,Partially Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000214,SUP00104,WH0020,2026-03-17,2026-04-23,Partially Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000215,SUP00025,WH0007,03/14/2026,2026-04-17,Created,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000216,SUP00051,WH0004,04/28/2026,2026-05-29,Cancelled,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000217,SUP00002,WH0004,2026-04-10,2026-04-30,Received,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000218,SUP00081,WH0011,2026-04-29,2026-05-06,Created,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000219,SUP00079,WH0016,2026-03-12,2026-04-01,Partially Received,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000220,SUP00086,WH0006,2025-12-16,2026-01-12,Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000221,SUP00020,WH0001,2026-03-12,2026-03-26,Approved,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000222,SUP00055,WH0007,05/05/2026,2026-05-11,Approved,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000223,SUP00064,WH0002,2025-12-16,2026-01-26,Partially Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000224,SUP00099,WH0021,12/10/2025,2025-12-30,Received,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000225,SUP00002,WH0005,2026-03-16,2026-04-23,Approved,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000226,SUP00013,WH0005,2026-01-01,2026-02-11,Received,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000227,SUP00061,WH0023,03/08/2026,2026-04-11,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000228,SUP00043,WH0014,2026-05-14,2026-06-27,Approved,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000229,SUP00031,WH0008,2026-04-16,2026-05-18,approved ,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000230,SUP00061,WH0008,01/24/2026,2026-03-03,Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000231,SUP00046,WH0002,2026-03-21,2026-04-27,Partially Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000232,SUP00114,WH0011,2025-12-02,2025-12-07,Approved,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000233,SUP00050,WH0004,04/11/2026,2026-05-13,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000234,SUP00101,WH0010,2026-02-11,2026-02-19,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000235,SUP00074,WH0005,04/12/2026,2026-05-08,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000236,SUP00052,WH0002,2026-04-13,2026-05-13,Created,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000237,SUP00065,WH0009,05/12/2026,2026-05-29,Created,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000238,SUP00089,WH0015,01/17/2026,2026-02-09,Received,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000239,SUP00054,WH0008,2025-12-12,2026-01-21,Approved,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000240,SUP00013,WH0013,05/02/2026,2026-05-18,Received,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000241,SUP00096,WH0023,12/07/2025,2025-12-31,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000242,SUP00017,WH0005,04/05/2026,2026-05-20,Approved,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000243,SUP00039,WH0001,2026-02-03,2026-02-14,Cancelled,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000244,SUP00039,WH0005,12/05/2025,2025-12-13,Approved,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000245,SUP00096,WH0006,2026-01-12,2026-02-22,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000246,SUP00114,WH0023,2025-12-02,2026-01-12,Approved,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000247,SUP00082,WH0016,2026-02-02,2026-02-27,Created,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000248,SUP00089,WH0013,12/23/2025,2026-01-10,Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000249,SUP00007,WH0007,2026-03-21,2026-04-27,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000250,SUP00074,WH0012,2026-04-24,2026-05-30,Created,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000251,SUP00109,WH0024,2025-12-04,2025-12-19,Created,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000252,SUP00074,WH_UNKNOWN,02/02/2026,2026-03-19,Created,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000253,SUP00005,WH0025,2026-03-02,2026-03-29,Approved,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000254,SUP00014,WH0006,01/04/2026,2026-02-13,approved ,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000255,SUP00060,WH0022,02/06/2026,2026-03-06,Created,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000256,SUP00091,WH0010,2026-03-13,2026-04-02,approved ,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000257,SUP00087,WH0022,2025-12-17,2026-01-17,approved ,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000258,SUP00106,WH0009,2026-03-03,2026-04-16,approved ,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000259,SUP00003,WH0017,12/13/2025,2026-01-10,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000260,SUP00030,WH0025,2026-03-29,2026-05-03,Received,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000261,SUP00026,WH0003,2026-01-30,2026-03-16,approved ,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000262,SUP00021,WH0001,2026-03-30,2026-05-02,Approved,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000263,SUP00099,WH0022,2025-12-07,2025-12-28,Cancelled,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000264,SUP00028,WH0021,2026-02-05,2026-02-27,Approved,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000265,SUP00117,WH0025,2026-01-22,2026-02-25,Cancelled,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000266,SUP00012,WH0014,04/20/2026,2026-05-26,Partially Received,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000267,SUP00093,WH0018,12/21/2025,2025-12-27,approved ,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000268,SUP00002,WH0025,2026-01-21,2026-02-02,Received,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000269,SUP00063,WH0005,01/23/2026,2026-02-27,Approved,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000270,SUP00029,WH0012,12/27/2025,2026-01-05,approved ,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000271,SUP00093,WH0025,01/08/2026,2026-02-16,Cancelled,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000272,SUP00034,WH0015,03/22/2026,2026-04-29,Approved,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000273,SUP00025,WH0020,03/12/2026,2026-04-23,approved ,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000274,SUP00083,WH0016,2026-04-05,2026-04-18,Cancelled,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000275,SUP00075,WH0018,12/22/2025,2026-01-09,Partially Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000276,SUP00070,WH0014,01/15/2026,2026-02-08,Cancelled,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000277,SUP00031,WH0018,2025-12-23,2026-02-06,Cancelled,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000278,SUP00071,WH0013,03/21/2026,2026-04-19,Created,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000279,SUP00091,WH0001,2025-12-20,2026-01-13,Approved,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000280,SUP00009,WH0010,2025-12-24,2026-01-17,Received,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000281,SUP00086,WH0005,2025-12-18,2025-12-29,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000282,SUP00099,WH0019,02/11/2026,2026-02-19,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000283,SUP00026,WH0013,01/14/2026,2026-02-28,Cancelled,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000284,SUP00099,WH0019,2026-01-09,2026-02-03,Partially Received,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000285,SUP00058,WH0004,04/14/2026,2026-05-18,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000286,SUP00067,WH0010,2026-01-09,2026-01-29,approved ,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000287,SUP00027,WH0010,04/20/2026,2026-05-15,Approved,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000288,SUP00033,WH0025,2026-01-26,2026-03-10,approved ,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000289,SUP00010,WH0007,2026-02-22,2026-03-23,Received,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000290,SUP00019,WH0013,2025-12-26,2026-02-01,Received,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000291,SUP00093,WH0016,2026-03-31,2026-04-10,Cancelled,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000292,SUP00072,WH0003,05/03/2026,2026-06-02,Approved,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000293,SUP00064,WH0011,12/04/2025,2026-01-07,approved ,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000294,SUP00014,WH0001,03/11/2026,2026-04-04,Received,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000295,SUP00109,WH0007,03/31/2026,2026-04-08,Cancelled,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000296,SUP00072,WH0012,12/06/2025,2026-01-19,Received,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000297,SUP00106,WH0021,01/25/2026,2026-02-02,Approved,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000298,SUP00018,WH0017,12/27/2025,2026-01-07,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000299,SUP00040,WH0011,04/09/2026,2026-04-20,Created,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000300,SUP00004,WH0019,01/29/2026,2026-02-13,Cancelled,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000301,SUP00052,WH0008,2026-01-05,2026-02-18,Partially Received,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000302,SUP00045,WH0007,2026-01-22,2026-01-29,Created,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000303,SUP00061,WH0003,2026-03-17,2026-04-11,Partially Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000304,SUP00020,WH0017,05/03/2026,2026-06-03,Cancelled,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000305,SUP00067,WH0016,2026-05-08,2026-06-02,Approved,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000306,SUP00040,WH0018,03/21/2026,2026-04-15,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000307,SUP00053,WH0016,12/14/2025,2025-12-24,Created,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000308,SUP00064,WH0004,04/05/2026,2026-04-15,Created,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000309,SUP00075,WH0016,01/24/2026,2026-02-15,Partially Received,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000310,SUP00081,WH0014,2026-03-16,2026-04-02,Received,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000311,SUP00042,WH0003,04/02/2026,2026-05-04,Created,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000312,SUP00100,WH0018,01/09/2026,2026-01-26,Created,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000313,SUP00011,WH0025,02/24/2026,2026-04-06,Cancelled,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000314,SUP00119,WH0015,05/09/2026,2026-06-16,Created,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000315,SUP00005,WH0007,12/20/2025,2026-01-13,Approved,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000316,SUP00047,WH0011,03/05/2026,2026-04-09,approved ,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000317,SUP00025,WH0003,2025-12-16,2026-01-24,Created,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000318,SUP00118,WH0022,02/02/2026,2026-03-18,Approved,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000319,SUP00100,WH0024,2026-01-31,2026-02-05,Partially Received,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000320,SUP00079,WH0007,2026-01-15,2026-01-30,Created,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000321,SUP00116,WH0022,2026-02-06,2026-02-15,approved ,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000322,SUP00117,WH0023,02/14/2026,2026-02-22,Cancelled,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000323,SUP00059,WH0013,02/14/2026,2026-03-30,Approved,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000324,SUP00103,WH0010,2026-01-09,2026-01-17,Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000325,SUP00087,WH0008,05/08/2026,2026-05-30,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000326,SUP00075,WH0015,2026-04-11,2026-05-14,Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000327,SUP00056,WH0007,2026-01-27,2026-02-26,approved ,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000328,SUP00048,WH0020,2026-03-18,2026-04-17,Cancelled,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000329,SUP00047,WH0005,2026-05-14,2026-05-31,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000330,SUP00058,WH0013,03/07/2026,2026-03-31,approved ,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000331,SUP00093,WH0017,04/27/2026,2026-05-05,Approved,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000332,SUP00081,WH0016,2025-12-16,2025-12-22,Received,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000333,SUP00112,WH0003,05/05/2026,2026-05-14,Cancelled,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000334,SUP00105,WH0007,04/23/2026,2026-05-23,approved ,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000335,SUP00021,WH0018,2026-03-28,2026-04-13,approved ,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000336,SUP00113,WH0025,12/14/2025,2025-12-28,Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000337,SUP00088,WH0004,04/23/2026,2026-05-19,Partially Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000338,SUP00001,WH0016,12/07/2025,2025-12-31,Partially Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000339,SUP00019,WH0012,04/06/2026,2026-04-27,approved ,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000340,SUP00070,WH0005,04/18/2026,2026-04-30,Received,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000341,SUP00052,WH0017,2026-04-14,2026-04-24,Created,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000342,SUP00063,WH0020,2026-04-27,2026-05-24,Approved,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000343,SUP00067,WH0015,2026-02-21,2026-03-14,Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000344,SUP00055,WH0014,01/25/2026,2026-03-09,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000345,SUP00098,WH0024,03/12/2026,2026-03-24,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000346,SUP00022,WH0018,2026-05-07,2026-06-04,Received,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000347,SUP00020,WH0005,2026-01-28,2026-02-03,Partially Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000348,SUP00084,WH0012,2026-04-28,2026-06-07,Received,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000349,SUP00076,WH0016,2026-03-29,2026-04-18,approved ,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000350,SUP00113,WH0014,2025-12-26,2026-02-09,Approved,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000351,SUP00044,WH0007,05/08/2026,2026-06-21,Created,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000352,SUP00110,WH0022,2026-03-17,2026-04-20,Approved,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000353,SUP00052,WH0011,01/09/2026,2026-01-29,Received,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000354,SUP00111,WH0022,05/13/2026,2026-05-26,Partially Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000355,SUP00120,WH0007,04/07/2026,2026-04-15,approved ,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000356,SUP00048,WH0005,2026-03-06,2026-03-14,Partially Received,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000357,SUP00087,WH0021,2026-04-01,2026-04-18,Approved,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000358,SUP00064,WH0008,2026-03-24,2026-04-18,Created,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000359,SUP00039,WH0009,2025-12-02,2026-01-03,Created,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000360,SUP00069,WH0003,2026-03-24,2026-05-06,Approved,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000361,SUP00028,WH0017,2026-02-07,2026-03-18,Created,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000362,SUP00057,WH0021,2026-04-13,2026-05-02,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000363,SUP00003,WH0002,2025-12-29,2026-02-06,Approved,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000364,SUP00012,WH0013,2026-02-12,2026-03-11,Partially Received,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000365,SUP00038,WH0021,2025-12-04,2025-12-21,approved ,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000366,SUP00082,WH0007,12/08/2025,2026-01-12,Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000367,SUP00118,WH0023,05/14/2026,2026-05-20,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000368,SUP00049,WH0016,03/27/2026,2026-05-11,Created,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000369,SUP00061,WH0002,12/31/2025,2026-01-11,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000370,SUP00024,WH0007,2026-01-05,2026-02-09,Approved,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000371,SUP00036,WH0011,01/25/2026,2026-02-02,Created,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000372,SUP00115,WH0013,04/17/2026,2026-05-19,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000373,SUP00111,WH0013,2026-03-11,2026-03-18,Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000374,SUP00076,WH0021,03/04/2026,2026-04-08,Created,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000375,SUP00027,WH0025,03/18/2026,2026-04-22,Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000376,SUP00091,WH0017,2026-03-01,2026-03-30,Created,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000377,SUP00023,WH0009,2026-02-11,2026-03-02,approved ,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000378,SUP00105,WH0022,2026-01-26,2026-03-03,Cancelled,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000379,SUP00001,WH0003,2026-04-05,2026-04-13,Created,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000380,SUP00075,WH0005,02/07/2026,2026-02-18,approved ,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000381,SUP00042,WH0022,04/09/2026,2026-05-24,Cancelled,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000382,SUP00012,WH0022,12/09/2025,2026-01-11,Cancelled,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000383,SUP00045,WH0018,2026-04-17,2026-05-12,Partially Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000384,SUP00096,WH0016,01/13/2026,2026-02-12,Cancelled,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000385,SUP00115,WH0006,01/10/2026,2026-02-13,Cancelled,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000386,SUP00086,WH0011,2026-02-18,2026-03-08,Cancelled,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000387,SUP00020,WH0021,2026-02-07,2026-03-06,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000388,SUP00099,WH0001,2025-12-23,2026-01-04,Approved,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000389,SUP00018,WH0022,2026-04-08,2026-04-24,Cancelled,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000390,SUP00085,WH0024,2026-01-20,2026-03-04,Cancelled,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000391,SUP00020,WH0016,03/27/2026,2026-05-06,Approved,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000392,SUP00042,WH0003,12/23/2025,2026-01-23,Created,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000393,SUP00014,WH0002,04/28/2026,2026-05-23,Cancelled,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000394,SUP00116,WH0008,12/31/2025,2026-01-11,approved ,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000395,SUP00025,WH0017,2026-03-01,2026-03-09,Created,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000396,SUP00085,WH0011,2026-03-30,2026-04-15,Cancelled,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000397,SUP00022,WH0009,12/31/2025,2026-01-11,Received,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000398,SUP00116,WH0020,02/04/2026,2026-02-28,Partially Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000399,SUP00054,WH0016,2025-12-14,2026-01-28,Partially Received,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000400,SUP00078,WH0001,2026-02-10,2026-03-14,Received,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000401,SUP00007,WH0002,2025-12-14,2026-01-26,approved ,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000402,SUP00085,WH0011,2026-03-02,2026-03-22,Approved,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000403,SUP00092,WH0024,04/17/2026,2026-05-31,Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000404,SUP00041,WH0010,2026-05-05,2026-05-24,Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000405,SUP00036,WH0012,2026-03-01,2026-03-31,Created,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000406,SUP00053,WH0022,2026-04-22,2026-05-09,Created,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000407,SUP00011,WH0001,04/19/2026,2026-05-06,approved ,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000408,SUP00107,WH0010,01/04/2026,2026-02-18,Created,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000409,SUP00007,WH0004,2025-12-25,2026-01-01,approved ,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000410,SUP00011,WH0005,2025-12-25,2026-01-16,Cancelled,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000411,SUP00047,WH0010,01/28/2026,2026-03-07,approved ,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000412,SUP00015,WH0011,12/28/2025,2026-01-21,Cancelled,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000413,SUP00028,WH0008,2026-04-30,2026-05-28,Received,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000414,SUP00102,WH0009,2026-03-06,2026-04-08,Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000415,SUP00072,WH0022,03/25/2026,2026-04-04,approved ,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000416,SUP00116,WH0020,2026-02-05,2026-03-02,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000417,SUP00067,WH0006,02/10/2026,2026-02-28,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000418,SUP00088,WH0003,01/20/2026,2026-02-06,Approved,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000419,SUP00083,WH0003,2026-01-17,2026-02-08,approved ,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000420,SUP00034,WH0007,03/10/2026,2026-03-31,Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000421,SUP00093,WH0004,2026-05-09,2026-06-20,approved ,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000422,SUP00108,WH0009,01/15/2026,2026-01-31,Received,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000423,SUP00066,WH0006,2026-01-19,2026-02-10,Approved,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000424,SUP00087,WH0002,2026-03-09,2026-03-14,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000425,SUP00051,WH0007,2026-02-06,2026-03-01,Created,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000426,SUP00045,WH0022,04/16/2026,2026-05-09,Partially Received,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000427,SUP00074,WH0012,12/02/2025,2025-12-18,Cancelled,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000428,SUP00025,WH0023,2026-05-05,2026-05-16,Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000429,SUP00075,WH0020,02/20/2026,2026-03-23,Partially Received,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000430,SUP00116,WH0011,2026-03-02,2026-04-10,approved ,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000431,SUP00005,WH0013,12/04/2025,2025-12-12,Approved,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000432,SUP00023,WH0012,2025-12-05,2025-12-21,Cancelled,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000433,SUP00017,WH0018,02/22/2026,2026-03-14,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000434,SUP00066,WH0025,01/29/2026,2026-03-13,Approved,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000435,SUP00075,WH0008,04/23/2026,2026-05-31,Cancelled,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000436,SUP00035,WH0008,2025-12-07,2026-01-08,approved ,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000437,SUP00117,WH0012,02/11/2026,2026-03-05,Received,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000438,SUP_UNKNOWN,WH0006,2026-04-13,2026-05-02,Partially Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000439,SUP00044,WH0005,12/22/2025,2025-12-28,approved ,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000440,SUP00010,WH0014,04/20/2026,2026-05-24,Created,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000441,SUP00001,WH0022,2026-04-18,2026-04-25,Approved,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000442,SUP00093,WH0017,2026-02-23,2026-02-28,Approved,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000443,SUP00077,WH0004,04/14/2026,2026-05-01,Partially Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000444,SUP00027,WH0017,04/24/2026,2026-05-09,Created,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000445,SUP00079,WH0022,2026-04-28,2026-05-13,Approved,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000446,SUP00005,WH0022,04/05/2026,2026-04-23,Partially Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000447,SUP00101,WH0022,03/26/2026,2026-04-08,approved ,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000448,SUP00100,WH0010,2026-05-13,2026-06-13,approved ,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000449,SUP00059,WH0003,04/10/2026,2026-05-01,Created,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000450,SUP00015,WH0017,2026-01-23,2026-02-20,Created,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000451,SUP00076,WH0016,01/21/2026,2026-02-27,Cancelled,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000452,SUP00103,WH0013,2026-04-07,2026-04-19,approved ,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000453,SUP00074,WH0010,2025-12-24,2026-01-07,Partially Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000454,SUP00059,WH0021,02/03/2026,2026-03-16,Approved,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000455,SUP00063,WH0003,2025-12-16,2025-12-21,Created,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000456,SUP00065,WH0003,2026-01-06,2026-02-06,Created,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000457,SUP00057,WH0004,2026-04-24,2026-05-01,Cancelled,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000458,SUP00047,WH0019,04/06/2026,2026-04-18,Cancelled,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000459,SUP00091,WH0017,2025-12-14,2026-01-25,Created,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000460,SUP00086,WH0024,2026-03-13,2026-04-06,Partially Received,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000461,SUP00103,WH0012,01/27/2026,2026-02-24,Approved,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000462,SUP00096,WH0006,2026-02-13,2026-02-23,approved ,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000463,SUP00037,WH0001,04/02/2026,2026-05-12,Partially Received,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000464,SUP00062,WH0005,2026-03-29,2026-04-09,Approved,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000465,SUP00064,WH0018,03/23/2026,2026-04-19,Approved,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000466,SUP00014,WH0014,2026-04-16,2026-05-16,Received,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000467,SUP00093,WH0007,04/13/2026,2026-05-15,Cancelled,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000468,SUP00109,WH0010,05/08/2026,2026-06-08,Approved,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000469,SUP00043,WH0016,01/19/2026,2026-02-14,Cancelled,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000470,SUP00018,WH0025,2026-01-09,2026-02-16,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000471,SUP00107,WH0016,02/08/2026,2026-03-09,Cancelled,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000472,SUP00012,WH0015,02/05/2026,2026-02-21,Approved,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000473,SUP00065,WH0011,2026-04-01,2026-05-13,Partially Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000474,SUP00004,WH0024,12/23/2025,2026-01-07,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000475,SUP00116,WH0015,03/24/2026,2026-05-02,approved ,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000476,SUP00025,WH0006,02/20/2026,2026-03-03,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000477,SUP00051,WH0013,12/28/2025,2026-01-25,Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000478,SUP00032,WH0017,04/27/2026,2026-05-30,Cancelled,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000479,SUP00035,WH0004,01/12/2026,2026-02-18,Created,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000480,SUP00067,WH0014,2026-05-03,2026-05-20,Partially Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000481,SUP00056,WH0020,2026-03-21,2026-03-31,Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000482,SUP00082,WH0016,2026-01-03,2026-02-08,Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000483,SUP00092,WH0025,01/10/2026,2026-02-04,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000484,SUP00041,WH0010,2026-04-20,2026-05-14,Cancelled,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000485,SUP00002,WH0008,01/15/2026,2026-02-03,Received,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000486,SUP00084,WH0005,02/03/2026,2026-03-05,Created,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000487,SUP00002,WH0001,03/25/2026,2026-04-03,Partially Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000488,SUP00079,WH0015,2026-03-06,2026-03-23,Approved,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000489,SUP00047,WH0017,2026-04-06,2026-04-11,approved ,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000490,SUP00059,WH0014,2026-04-22,2026-05-21,Approved,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000491,SUP00108,WH0005,05/14/2026,2026-05-24,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000492,SUP00080,WH0017,2025-12-15,2025-12-28,Cancelled,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000493,SUP00092,WH0008,03/28/2026,2026-04-24,Created,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000494,SUP00047,WH0019,02/10/2026,2026-03-21,Partially Received,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000495,SUP00103,WH0001,03/15/2026,2026-04-27,approved ,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000496,SUP00013,WH0023,12/19/2025,2026-01-29,approved ,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000497,SUP00008,WH0007,03/03/2026,2026-04-05,Approved,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000498,SUP00073,WH_UNKNOWN,04/03/2026,2026-04-10,Cancelled,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000499,SUP00002,WH0009,2025-12-22,2026-01-17,Created,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000500,SUP00097,WH0015,12/22/2025,2026-01-30,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000501,SUP00095,WH0025,12/22/2025,2026-01-12,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000502,SUP00079,WH0022,04/30/2026,2026-06-06,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000503,SUP00073,WH0024,03/29/2026,2026-04-13,Created,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000504,SUP00002,WH0004,2026-05-04,2026-06-06,approved ,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000505,SUP00040,WH0022,2026-02-23,2026-04-01,Received,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000506,SUP00005,WH0024,04/26/2026,2026-06-05,Created,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000507,SUP00091,WH0013,2026-01-18,2026-01-29,Approved,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000508,SUP00085,WH0005,2025-12-11,2025-12-31,Created,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000509,SUP00009,WH0019,01/24/2026,2026-02-12,Partially Received,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000510,SUP00074,WH0012,03/31/2026,2026-05-02,Received,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000511,SUP00040,WH0016,03/11/2026,2026-04-05,Approved,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000512,SUP00086,WH0013,01/23/2026,2026-03-01,Created,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000513,SUP00019,WH0012,2026-02-18,2026-03-12,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000514,SUP00077,WH0012,2026-02-20,2026-03-04,Received,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000515,SUP00110,WH0001,2025-12-12,2025-12-25,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000516,SUP00056,WH0020,02/20/2026,2026-03-14,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000517,SUP00005,WH0008,2026-03-24,2026-04-11,Cancelled,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000518,SUP00017,WH0021,2026-05-06,2026-06-06,Received,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000519,SUP00062,WH0004,2026-01-04,2026-02-13,Cancelled,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000520,SUP00092,WH0016,12/01/2025,2025-12-29,approved ,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000521,SUP00119,WH0011,2026-02-01,2026-03-06,Cancelled,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000522,SUP00086,WH0014,03/02/2026,2026-03-28,Received,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000523,SUP00013,WH0017,2026-02-01,2026-02-11,Cancelled,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000524,SUP00072,WH0009,03/01/2026,2026-03-09,Partially Received,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000525,SUP00043,WH0019,01/06/2026,2026-01-12,Created,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000526,SUP00066,WH0023,2026-03-13,2026-04-25,Approved,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000527,SUP00103,WH0012,2025-12-02,2025-12-15,Approved,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000528,SUP00013,WH0024,2026-02-24,2026-03-06,Approved,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000529,SUP00025,WH0017,2026-04-22,2026-05-27,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000530,SUP00075,WH0003,04/21/2026,2026-05-13,Created,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000531,SUP00040,WH0012,03/24/2026,2026-04-12,Cancelled,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000532,SUP00024,WH0014,05/12/2026,2026-06-03,Received,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000533,SUP00117,WH0019,2026-05-12,2026-06-23,Created,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000534,SUP00037,WH0011,05/15/2026,2026-06-10,Received,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000535,SUP00065,WH0005,2025-12-28,2026-02-05,Partially Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000536,SUP00048,WH0009,2026-02-06,2026-02-18,Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000537,SUP00005,WH0008,01/28/2026,2026-02-08,Approved,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000538,SUP00065,WH0003,2026-03-09,2026-03-16,Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000539,SUP00098,WH0001,2026-01-05,2026-02-17,approved ,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000540,SUP00064,WH0019,2025-12-27,2026-01-11,Approved,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000541,SUP00082,WH0016,2026-02-04,2026-03-17,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000542,SUP00005,WH0004,2025-12-23,2026-02-06,Created,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000543,SUP00102,WH0002,2026-02-06,2026-02-16,Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000544,SUP00046,WH0014,04/17/2026,2026-05-18,Cancelled,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000545,SUP00048,WH0004,01/27/2026,2026-02-25,Partially Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000546,SUP00082,WH0021,2026-01-15,2026-01-26,Cancelled,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000547,SUP00007,WH0025,2025-12-21,2026-01-21,Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000548,SUP00098,WH0002,02/06/2026,2026-02-24,Received,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000549,SUP00051,WH0018,2026-01-23,2026-02-07,Approved,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000550,SUP00026,WH0003,05/09/2026,2026-06-15,Partially Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000551,SUP00003,WH0001,2026-02-04,2026-03-12,Approved,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000552,SUP00078,WH0001,2025-12-22,2026-01-01,Created,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000553,SUP00053,WH0018,03/16/2026,2026-04-20,approved ,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000554,SUP00072,WH0006,01/28/2026,2026-02-12,Created,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000555,SUP00111,WH0020,2026-05-15,2026-06-13,Approved,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000556,SUP00045,WH0001,05/03/2026,2026-06-04,Created,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000557,SUP00026,WH0011,2026-01-30,2026-03-15,Cancelled,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000558,SUP00095,WH0003,2026-03-20,2026-04-25,Cancelled,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000559,SUP00059,WH0023,2026-01-28,2026-02-25,Approved,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000560,SUP00052,WH0002,12/13/2025,2026-01-10,Received,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000561,SUP00103,WH0008,2026-03-15,2026-04-06,Cancelled,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000562,SUP00099,WH0008,2026-03-08,2026-03-17,Created,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000563,SUP00052,WH0003,04/01/2026,2026-04-28,Partially Received,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000564,SUP00083,WH0010,2026-02-10,2026-03-02,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000565,SUP00070,WH0016,01/02/2026,2026-02-12,Cancelled,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000566,SUP00048,WH0025,02/02/2026,2026-03-06,Received,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000567,SUP00061,WH0019,02/17/2026,2026-03-01,Cancelled,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000568,SUP00102,WH0017,2026-03-21,2026-04-26,Created,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000569,SUP00003,WH0017,2026-02-05,2026-03-11,Created,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000570,SUP00099,WH0006,02/19/2026,2026-03-04,Cancelled,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000571,SUP00018,WH0020,2026-01-20,2026-02-19,approved ,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000572,SUP00078,WH0020,2026-02-25,2026-03-04,Approved,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000573,SUP00015,WH0025,04/22/2026,2026-05-15,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000574,SUP00114,WH0001,2025-12-19,2026-01-30,Cancelled,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000575,SUP00107,WH0004,12/06/2025,2026-01-11,Approved,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000576,SUP00044,WH0022,2026-05-05,2026-06-06,Partially Received,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000577,SUP00119,WH0003,2026-03-08,2026-04-17,Partially Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000578,SUP00089,WH0011,01/24/2026,2026-02-09,approved ,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000579,SUP00004,WH0018,12/19/2025,2026-01-23,Partially Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000580,SUP00015,WH0021,02/14/2026,2026-03-01,approved ,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000581,SUP00040,WH0004,2026-04-08,2026-05-08,Created,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000582,SUP00030,WH0002,2026-01-23,2026-02-11,approved ,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000583,SUP00026,WH0015,12/17/2025,2025-12-23,Created,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000584,SUP00059,WH0001,2026-04-11,2026-05-16,Partially Received,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000585,SUP00061,WH0023,04/11/2026,2026-05-12,Created,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000586,SUP00011,WH0002,03/26/2026,2026-05-08,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000587,SUP00059,WH0013,04/14/2026,2026-04-24,Approved,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000588,SUP00050,WH0008,12/18/2025,2026-01-28,Partially Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000589,SUP00100,WH0009,12/31/2025,2026-01-22,Approved,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000590,SUP00042,WH0013,12/13/2025,2026-01-16,Partially Received,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000591,SUP00048,WH0008,02/02/2026,2026-03-02,Received,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000592,SUP00059,WH0012,12/10/2025,2026-01-11,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000593,SUP00097,WH0020,02/28/2026,2026-03-06,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000594,SUP00035,WH0015,02/10/2026,2026-03-13,Approved,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000595,SUP00089,WH0020,01/08/2026,2026-01-13,Received,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000596,SUP00010,WH0003,04/09/2026,2026-05-06,Cancelled,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000597,SUP00100,WH0001,01/19/2026,2026-02-24,approved ,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000598,SUP00024,WH0023,2026-04-17,2026-05-20,Created,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000599,SUP00078,WH0023,2025-12-08,2026-01-22,Partially Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000600,SUP00058,WH0008,2026-04-09,2026-05-19,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000601,SUP00032,WH0016,2025-12-20,2026-01-08,Cancelled,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000602,SUP00031,WH0023,2026-01-18,2026-02-20,Approved,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000603,SUP00002,WH0019,03/14/2026,2026-04-28,Partially Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000604,SUP00031,WH0012,2026-03-14,2026-04-08,Received,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000605,SUP00019,WH0002,02/19/2026,2026-03-29,Partially Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000606,SUP00076,WH0014,2026-03-23,2026-04-12,Cancelled,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000607,SUP00043,WH0012,03/15/2026,2026-04-14,Approved,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000608,SUP00001,WH0023,01/25/2026,2026-02-20,Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000609,SUP00089,WH0013,2026-03-22,2026-04-20,Approved,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000610,SUP00054,WH0008,05/12/2026,2026-05-18,approved ,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000611,SUP00112,WH0020,05/12/2026,2026-05-23,Approved,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000612,SUP00090,WH0015,2025-12-24,2025-12-31,Partially Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000613,SUP00062,WH0019,2026-01-04,2026-01-27,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000614,SUP00074,WH0011,2026-01-12,2026-01-26,Partially Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000615,SUP00062,WH0014,12/30/2025,2026-01-05,Approved,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000616,SUP00021,WH0024,2026-01-09,2026-01-17,Created,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000617,SUP00111,WH0006,04/02/2026,2026-04-11,Partially Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000618,SUP00074,WH0003,05/07/2026,2026-06-10,approved ,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000619,SUP00094,WH0007,03/02/2026,2026-03-11,Partially Received,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000620,SUP00035,WH0002,04/19/2026,2026-05-22,approved ,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000621,SUP00009,WH0025,01/06/2026,2026-02-03,Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000622,SUP00052,WH0002,2025-12-24,2026-01-17,Created,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000623,SUP00039,WH0022,04/16/2026,2026-05-05,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000624,SUP00109,WH0019,2026-05-05,2026-06-17,Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000625,SUP00027,WH0007,02/19/2026,2026-03-09,Approved,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000626,SUP00051,WH0003,04/11/2026,2026-04-16,Approved,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000627,SUP00061,WH0010,2026-04-10,2026-04-24,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000628,SUP00023,WH0001,01/22/2026,2026-02-10,approved ,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000629,SUP00113,WH0012,2026-04-05,2026-04-22,Created,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000630,SUP00109,WH0007,02/26/2026,2026-03-20,approved ,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000631,SUP00006,WH0002,2025-12-06,2026-01-16,Cancelled,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000632,SUP00119,WH0018,2026-03-05,2026-04-01,Approved,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000633,SUP00087,WH0020,05/12/2026,2026-05-18,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000634,SUP00105,WH0008,2026-02-25,2026-03-21,approved ,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000635,SUP00105,WH0019,2026-02-20,2026-03-01,Approved,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000636,SUP00078,WH0020,2026-04-04,2026-05-04,Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000637,SUP00108,WH0025,04/14/2026,2026-05-07,Partially Received,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000638,SUP00094,WH0008,01/19/2026,2026-02-17,Created,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000639,SUP00116,WH0011,2026-03-11,2026-03-25,Created,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000640,SUP00043,WH0002,01/15/2026,2026-02-08,Approved,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000641,SUP00073,WH0018,2025-12-18,2026-01-03,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000642,SUP00030,WH0005,02/25/2026,2026-03-13,approved ,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000643,SUP00115,WH0025,01/07/2026,2026-01-12,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000644,SUP00010,WH0004,2026-03-10,2026-04-19,Cancelled,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000645,SUP00112,WH0001,2026-01-25,2026-02-21,Partially Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000646,SUP00103,WH0006,2026-03-27,2026-04-05,Cancelled,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000647,SUP00100,WH0002,02/27/2026,2026-04-03,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000648,SUP00040,WH0006,2025-12-22,2026-02-03,Created,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000649,SUP00008,WH0003,12/29/2025,2026-01-07,Partially Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000650,SUP00116,WH0002,02/02/2026,2026-02-18,Received,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000651,SUP00101,WH0020,2026-01-17,2026-01-22,approved ,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000652,SUP00053,WH0015,2026-05-05,2026-06-19,approved ,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000653,SUP00112,WH0015,03/02/2026,2026-03-14,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000654,SUP00050,WH0006,02/25/2026,2026-03-21,Created,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000655,SUP00062,WH0021,2026-01-24,2026-02-22,Created,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000656,SUP00046,WH0010,02/12/2026,2026-02-27,Approved,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000657,SUP00072,WH0011,2026-05-08,2026-06-16,Partially Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000658,SUP00061,WH0018,02/18/2026,2026-03-12,Cancelled,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000659,SUP00106,WH0022,2026-02-06,2026-02-23,Approved,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000660,SUP00002,WH0012,02/27/2026,2026-04-01,Approved,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000661,SUP00040,WH0020,2026-03-19,2026-04-29,approved ,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000662,SUP00030,WH0009,02/28/2026,2026-03-30,Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000663,SUP00061,WH0002,01/07/2026,2026-01-15,Cancelled,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000664,SUP00013,WH0012,2026-03-28,2026-04-02,Received,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000665,SUP00101,WH0015,03/28/2026,2026-05-12,Received,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000666,SUP00064,WH0009,2025-12-09,2025-12-22,Created,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000667,SUP00012,WH0021,05/09/2026,2026-06-07,Approved,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000668,SUP00113,WH0001,05/08/2026,2026-05-23,Approved,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000669,SUP00007,WH0018,2026-02-15,2026-03-15,Received,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000670,SUP00061,WH0024,12/26/2025,2026-01-20,Partially Received,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000671,SUP00113,WH0016,03/06/2026,2026-03-14,approved ,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000672,SUP00098,WH0002,2026-04-19,2026-05-18,Cancelled,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000673,SUP00038,WH0014,03/28/2026,2026-04-15,approved ,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000674,SUP00015,WH0011,01/06/2026,2026-02-15,Received,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000675,SUP00089,WH0004,04/27/2026,2026-05-19,Approved,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000676,SUP00110,WH0003,2026-02-03,2026-03-12,Created,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000677,SUP00056,WH0022,2026-03-09,2026-04-11,Created,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000678,SUP00064,WH0019,2026-02-02,2026-02-07,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000679,SUP00063,WH0002,02/17/2026,2026-02-28,Created,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000680,SUP00074,WH0014,12/27/2025,2026-01-16,Approved,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000681,SUP00078,WH0011,02/09/2026,2026-03-16,Approved,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000682,SUP00076,WH0011,2026-01-19,2026-02-27,Partially Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000683,SUP00091,WH0014,04/18/2026,2026-05-20,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000684,SUP00086,WH0022,2026-01-10,2026-01-16,approved ,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000685,SUP00042,WH0018,2026-01-02,2026-01-15,Approved,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000686,SUP00051,WH0007,01/10/2026,2026-02-06,Approved,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000687,SUP00042,WH0013,01/02/2026,2026-01-29,Approved,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000688,SUP00120,WH0024,2026-04-22,2026-04-28,Cancelled,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000689,SUP00073,WH0012,2026-01-31,2026-03-03,Created,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000690,SUP00022,WH0012,02/08/2026,2026-03-11,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000691,SUP00025,WH0022,05/13/2026,2026-06-14,Cancelled,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000692,SUP00035,WH0002,02/28/2026,2026-04-02,Cancelled,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000693,SUP00101,WH0014,2026-04-02,2026-04-11,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000694,SUP00010,WH0017,01/24/2026,2026-02-25,Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000695,SUP_UNKNOWN,WH0018,01/07/2026,2026-02-13,Approved,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000696,SUP00117,WH0012,03/22/2026,2026-04-10,Approved,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000697,SUP00057,WH0001,12/16/2025,2026-01-13,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000698,SUP00078,WH0009,2026-01-15,2026-01-30,Partially Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000699,SUP00062,WH0015,2026-03-08,2026-03-30,approved ,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000700,SUP00020,WH0020,2025-12-10,2026-01-14,Partially Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000701,SUP00003,WH0004,03/30/2026,2026-04-13,Partially Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000702,SUP00052,WH0017,2026-01-25,2026-02-05,Cancelled,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000703,SUP00101,WH0011,2026-03-10,2026-04-22,Received,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000704,SUP00022,WH0004,2026-03-16,2026-04-03,approved ,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000705,SUP00003,WH0002,01/14/2026,2026-01-25,Approved,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000706,SUP00063,WH0004,04/06/2026,2026-04-25,Received,USD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000707,SUP00103,WH0022,01/11/2026,2026-02-07,Approved,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000708,SUP00013,WH0005,02/14/2026,2026-03-19,Created,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000709,SUP00068,WH0010,2026-04-17,2026-04-23,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000710,SUP00003,WH0025,2026-02-01,2026-03-07,approved ,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000711,SUP00018,WH0022,02/09/2026,2026-02-22,approved ,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000712,SUP00118,WH0025,2026-03-11,2026-03-23,Received,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000713,SUP00111,WH0007,2026-03-27,2026-05-02,Partially Received,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000714,SUP00002,WH0006,2026-01-31,2026-02-19,Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000715,SUP00024,WH0023,2026-04-26,2026-06-05,Partially Received,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000716,SUP00016,WH0005,2026-01-07,2026-01-23,approved ,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000717,SUP00054,WH0020,03/14/2026,2026-04-09,approved ,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000718,SUP00085,WH0001,2025-12-28,2026-01-29,Created,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000719,SUP00017,WH0007,2026-02-21,2026-03-15,Approved,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000720,SUP00101,WH0017,04/16/2026,2026-05-10,Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000721,SUP00118,WH0021,03/28/2026,2026-04-16,Approved,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000722,SUP00073,WH0016,04/19/2026,2026-05-24,Cancelled,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000723,SUP00025,WH0013,2026-01-28,2026-03-09,Cancelled,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000724,SUP00098,WH0013,02/20/2026,2026-03-09,Created,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000725,SUP00112,WH0024,04/28/2026,2026-05-28,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000726,SUP00010,WH0009,2026-04-23,2026-06-05,approved ,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000727,SUP00066,WH0009,04/30/2026,2026-05-07,Approved,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000728,SUP00011,WH0008,04/17/2026,2026-05-26,approved ,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000729,SUP00062,WH0017,01/08/2026,2026-01-30,Approved,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000730,SUP00013,WH0015,2026-02-20,2026-03-11,approved ,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000731,SUP00104,WH0006,2026-04-30,2026-05-13,approved ,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000732,SUP00043,WH0021,2026-02-22,2026-03-28,approved ,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000733,SUP00006,WH0013,02/02/2026,2026-03-15,Partially Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000734,SUP00100,WH0006,2026-05-01,2026-05-16,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000735,SUP00003,WH0018,2026-02-14,2026-02-23,approved ,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000736,SUP00118,WH0009,04/23/2026,2026-05-29,approved ,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000737,SUP00076,WH0018,2026-02-14,2026-03-09,Cancelled,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000738,SUP00052,WH0020,2026-03-12,2026-04-09,Approved,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000739,SUP00068,WH0022,2026-02-14,2026-03-09,Received,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000740,SUP00011,WH0018,2025-12-26,2026-01-29,approved ,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000741,SUP00055,WH0010,2026-01-22,2026-02-22,Partially Received,CAD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000742,SUP00094,WH0009,2026-03-06,2026-04-18,Created,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000743,SUP00094,WH0018,03/04/2026,2026-03-26,Cancelled,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000744,SUP00042,WH0016,2025-12-11,2026-01-01,Cancelled,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000745,SUP00090,WH0019,04/29/2026,2026-06-12,approved ,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000746,SUP00064,WH0023,2026-04-30,2026-05-10,Created,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000747,SUP00031,WH0022,2026-01-20,2026-02-23,Received,EUR,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000748,SUP00057,WH0019,2026-02-18,2026-03-03,Partially Received,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000749,SUP00064,WH0014,04/07/2026,2026-04-29,Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000750,SUP00008,WH0006,01/24/2026,2026-03-07,approved ,USD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000751,SUP00060,WH0002,12/04/2025,2026-01-08,Created,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000752,SUP00067,WH0020,2026-03-13,2026-04-22,Created,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000753,SUP00035,WH0007,02/14/2026,2026-03-05,Cancelled,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000754,SUP00033,WH0016,2026-01-16,2026-01-28,Cancelled,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000755,SUP00034,WH0017,01/12/2026,2026-01-20,Approved,MXN,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000756,SUP00070,WH0012,2026-02-15,2026-03-28,Created,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000757,SUP00103,WH0006,04/20/2026,2026-06-01,Approved,CNY,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000758,SUP00095,WH0005,12/17/2025,2025-12-24,approved ,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000759,SUP00059,WH0009,2026-05-13,2026-05-22,Cancelled,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000760,SUP00049,WH0013,04/07/2026,2026-04-24,Cancelled,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000761,SUP00099,WH0001,03/19/2026,2026-04-05,Approved,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000762,SUP00007,WH0003,2026-04-20,2026-05-07,Approved,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000763,SUP00045,WH0010,04/21/2026,2026-04-27,approved ,EUR,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000764,SUP00114,WH0021,12/25/2025,2026-01-21,Partially Received,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000765,SUP00114,WH0018,2026-02-28,2026-03-12,Received,CAD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000766,SUP00067,WH0022,04/13/2026,2026-05-12,Cancelled,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000767,SUP00103,WH0012,2026-04-17,2026-06-01,Created,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000768,SUP00011,WH0010,04/16/2026,2026-05-08,Created,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000769,SUP00088,WH0023,03/28/2026,2026-04-24,approved ,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000770,SUP00023,WH0009,12/10/2025,2025-12-29,Cancelled,MXN,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000771,SUP00077,WH0014,04/02/2026,2026-04-15,Cancelled,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000772,SUP00018,WH0018,2026-04-15,2026-04-30,Received,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000773,SUP00006,WH0011,04/03/2026,2026-04-17,Approved,MXN,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000774,SUP00109,WH0015,02/02/2026,2026-02-27,approved ,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000775,SUP00011,WH0005,04/09/2026,2026-05-12,Approved,CAD,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000776,SUP00099,WH0022,04/29/2026,2026-06-09,Approved,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000777,SUP00080,WH0009,2026-01-02,2026-02-08,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000778,SUP00119,WH0009,2026-04-28,2026-05-31,Received,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000779,SUP00012,WH0021,02/27/2026,2026-03-31,Created,CNY,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000780,SUP00005,WH0022,01/21/2026,2026-03-05,Created,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000781,SUP00095,WH0025,02/14/2026,2026-02-26,approved ,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000782,SUP00097,WH0020,2025-12-19,2026-01-21,Created,CAD,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000783,SUP00049,WH0016,2026-04-17,2026-05-13,Cancelled,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000784,SUP00061,WH0001,02/07/2026,2026-03-09,Approved,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000785,SUP00053,WH0017,2026-01-02,2026-01-18,Cancelled,USD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000786,SUP00087,WH0015,02/04/2026,2026-02-20,approved ,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000787,SUP00040,WH0019,01/14/2026,2026-01-28,Received,CNY,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000788,SUP00115,WH0025,05/03/2026,2026-05-22,approved ,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000789,SUP00095,WH0018,02/07/2026,2026-03-24,Created,USD,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000790,SUP00080,WH0022,2026-01-25,2026-02-24,Created,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000791,SUP00041,WH0013,12/12/2025,2026-01-04,approved ,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000792,SUP00073,WH0006,01/27/2026,2026-03-02,Cancelled,MXN,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000793,SUP00119,WH0008,2026-04-25,2026-06-07,Partially Received,EUR,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000794,SUP00111,WH0022,2025-12-22,2026-02-01,Received,USD,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000795,SUP00055,WH0014,04/09/2026,2026-05-07,Cancelled,EUR,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000796,SUP00045,WH0011,2025-12-22,2026-01-29,Partially Received,CNY,planner_b,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000797,SUP00076,WH0017,2026-03-15,2026-04-03,Received,MXN,planner_a,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000798,SUP00027,WH0013,2026-03-09,2026-04-08,approved ,CAD,planner_c,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000799,SUP00026,WH0016,04/09/2026,2026-04-22,Partially Received,EUR,buyer_1,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
+PO00000800,SUP00074,WH0022,2026-03-04,2026-03-16,Approved,CNY,buyer_2,erp,2026-06-20T05:01:24.052612+00:00,data/raw/transactions/purchase_orders.csv
