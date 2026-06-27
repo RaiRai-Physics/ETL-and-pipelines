@@ -1,0 +1,21 @@
+carrier_id,carrier_name,carrier_mode,service_level,base_cost_per_mile,active_flag
+CAR0001,AeroShip Carrier 1,LTL,Standard,1.359,Yes
+CAR0002,BlueFreight Carrier 2,Parcel,Two Day,1.860,Yes
+CAR0003,AeroShip Carrier 3,Parcel,Overnight,4.105,Yes
+CAR0004,RoadRunner Carrier 4,Ocean,Two Day,6.882,Y
+CAR0005,BlueFreight Carrier 5,Parcel,Overnight,5.897,1
+CAR0006,RoadRunner Carrier 6,Rail,Standard,8.188,Y
+CAR0007,Swift Carrier 7,Ocean,Economy,4.622,Yes
+CAR0008,BlueFreight Carrier 8,Air,Two Day,1.890,1
+CAR0009,BlueFreight Carrier 9,LTL,Overnight,2.458,N
+CAR0010,RoadRunner Carrier 10,Rail,Standard,3.088,N
+CAR0011,AeroShip Carrier 11,FTL,Overnight,6.859,N
+CAR0012,AeroShip Carrier 12,Rail,Standard,5.861,1
+CAR0013,RoadRunner Carrier 13,FTL,Expedited,8.364,Yes
+CAR0014,BlueFreight Carrier 14,FTL,Overnight,4.182,Y
+CAR0015,ParcelPro Carrier 15,Ocean,Economy,2.977,Y
+CAR0016,AeroShip Carrier 16,FTL,Economy,4.831,Y
+CAR0017,Swift Carrier 17,LTL,Economy,,Y
+CAR0018,BlueFreight Carrier 18,Air,Expedited,1.466,Y
+CAR0019,RoadRunner Carrier 19,LTL,Overnight,8.304,N
+CAR0020,AeroShip Carrier 20,Rail,Expedited,1.663,1

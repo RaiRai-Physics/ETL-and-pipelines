@@ -1,0 +1,26 @@
+warehouse_id,warehouse_name,warehouse_type,city,state,country,region,capacity_units,open_date,is_active
+WH0001,Vancouver Hub,Regional Hub,Vancouver,BC,CAN,West,100000,2024-05-31,Y
+WH0002,Boston Hub,Cross Dock,Boston,MA,USA,Northeast,75000,2017-01-13,Y
+WH0003,Guadalajara Crossdock,Regional Hub,Guadalajara,JA,MEX,Southwest,150000,2019-04-17,Y
+WH0004,Guadalajara DC,Regional Hub,Guadalajara,JA,MEX,Southwest,50000,2022-12-18,Y
+WH0005,Guadalajara Fulfillment,Regional Hub,Guadalajara,JA,MEX,Southwest,25000,2025-09-11,Y
+WH0006,Guadalajara DC,Distribution Center,Guadalajara,JA,MEX,Southwest,100000,2020-10-16,Y
+WH0007,Chicago DC,Regional Hub,Chicago,IL,USA,Midwest,50000,2020-06-09,Y
+WH0008,Phoenix DC,Regional Hub,Phoenix,AZ,USA,Southwest,150000,2022-10-14,Y
+WH0009,Miami Fulfillment,Cold Storage,Miami,FL,USA,Southeast,75000,2021-01-23,Y
+WH0010,Guadalajara Hub,Regional Hub,Guadalajara,JA,MEX,Southwest,75000,2025-09-19,Y
+WH0011,Denver Hub,Cold Storage,Denver,CO,USA,West,75000,2017-05-11,Y
+WH0012,Miami DC,Distribution Center,Miami,FL,USA,Southeast,25000,2019-02-16,Y
+WH0013,Seattle Crossdock,Cold Storage,Seattle,WA,USA,West,150000,2018-04-28,Y
+WH0014,Denver Crossdock,Distribution Center,Denver,CO,USA,West,75000,2022-01-24,Y
+WH0015,Vancouver Crossdock,Cross Dock,Vancouver,BC,CAN,West,100000,2021-07-19,Y
+WH0016,Chicago DC,Distribution Center,Chicago,IL,USA,Midwest,50000,2022-06-14,N
+WH0017,Boston Crossdock,Cross Dock,Boston,MA,USA,Northeast,150000,2025-06-11,Y
+WH0018,Monterrey Fulfillment,Cross Dock,Monterrey,NL,MEX,Southwest,100000,2025-07-10,Y
+WH0019,Atlanta Crossdock,Distribution Center,Atlanta,GA,USA,Southeast,100000,2020-11-23,N
+WH0020,Atlanta DC,Distribution Center,Atlanta,GA,USA,Southeast,25000,2021-12-10,Y
+WH0021,Atlanta DC,Regional Hub,Atlanta,GA,USA,Southeast,75000,2019-10-30,Y
+WH0022,Phoenix DC,Distribution Center,Phoenix,AZ,USA,Southwest,75000,2021-01-17,N
+WH0023,Vancouver DC,Distribution Center,Vancouver,BC,CAN,West,75000,2018-07-03,Y
+WH0024,Seattle Fulfillment,Cross Dock,Seattle,WA,USA,West,75000,2024-04-29,N
+WH0025,Denver Hub,Regional Hub,Denver,CO,USA,West,150000,2021-02-24,Y

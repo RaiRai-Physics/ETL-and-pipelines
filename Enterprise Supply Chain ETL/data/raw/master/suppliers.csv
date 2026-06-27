@@ -1,0 +1,127 @@
+supplier_id,supplier_name,supplier_tier,country,lead_time_days,quality_score,on_time_delivery_rate,is_active
+SUP00001,Evergreen Supplier 1,Backup,MEX,10,91.51,0.7420,Yes
+SUP00002,Evergreen Supplier 2,preferred ,CAN,14,99.67,0.8339,N
+SUP00003,Global Supplier 3,Strategic,CHN,30,71.38,0.9028,Yes
+SUP00004,Quantum Supplier 4,preferred ,MEX,,97.23,0.6919,No
+SUP00005,Quantum Supplier 5,preferred ,VNM,7,96.92,0.6537,Y
+SUP00006,Global Supplier 6,Preferred,MEX,30,82.51,0.9288,Yes
+SUP00007,Evergreen Supplier 7,preferred ,DEU,21,85.85,0.9660,Y
+SUP00008,Pioneer Supplier 8,Standard,CAN,7,81.72,0.9475,1
+SUP00009,Quantum Supplier 9,Backup,VNM,,70.53,0.9360,Yes
+SUP00010,Pioneer Supplier 10,Preferred,VNM,unknown,70.34,0.8240,N
+SUP00011,Sterling Supplier 11,preferred ,CAN,unknown,77.32,0.7948,Yes
+SUP00012,Atlas Supplier 12,preferred ,USA,14,89.52,0.9377,1
+SUP00013,Sterling Supplier 13,Strategic,VNM,5,96.26,0.9752,1
+SUP00014,Evergreen Supplier 14,Strategic,IND,10,87.03,0.9578,No
+SUP00015,Quantum Supplier 15,Standard,DEU,14,81.71,0.8997,Y
+SUP00016,Sterling Supplier 16,Preferred,CHN,5,90.79,0.7655,No
+SUP00017,Atlas Supplier 17,Backup,VNM,30,96.40,0.6738,1
+SUP00018,Sterling Supplier 18,Strategic,MEX,14,89.90,0.7734,1
+SUP00019,Atlas Supplier 19,Preferred,USA,14,81.98,0.7405,1
+SUP00020,Atlas Supplier 20,Strategic,IND,5,98.85,0.8258,1
+SUP00021,Pioneer Supplier 21,Preferred,DEU,21,74.17,0.8471,No
+SUP00022,Evergreen Supplier 22,Strategic,USA,unknown,76.43,0.9501,1
+SUP00023,Global Supplier 23,Backup,IND,,84.28,0.8268,No
+SUP00024,Evergreen Supplier 24,Strategic,CHN,5,93.84,0.6917,No
+SUP00025,Sterling Supplier 25,preferred ,IND,21,98.07,0.7405,1
+SUP00026,Global Supplier 26,Preferred,IND,unknown,76.13,0.8038,N
+SUP00027,Quantum Supplier 27,Standard,CHN,21,92.38,0.9086,No
+SUP00028,Evergreen Supplier 28,preferred ,DEU,10,75.50,0.7002,No
+SUP00029,Evergreen Supplier 29,Standard,MEX,14,95.80,0.8389,Yes
+SUP00030,Evergreen Supplier 30,Backup,CAN,30,93.01,0.7430,1
+SUP00031,Atlas Supplier 31,Standard,IND,,98.65,0.7205,Yes
+SUP00032,Sterling Supplier 32,Strategic,CHN,10,70.43,0.9038,N
+SUP00033,Evergreen Supplier 33,Backup,USA,7,78.60,0.9349,No
+SUP00034,Pioneer Supplier 34,Backup,MEX,14,78.56,0.7595,Y
+SUP00035,Pioneer Supplier 35,Preferred,CHN,5,99.22,0.7845,N
+SUP00036,Pioneer Supplier 36,Standard,MEX,30,75.82,0.7984,No
+SUP00037,Quantum Supplier 37,Standard,CAN,10,83.76,0.8938,No
+SUP00038,Quantum Supplier 38,Strategic,DEU,7,89.53,0.6854,Yes
+SUP00039,Global Supplier 39,Standard,CAN,21,96.00,0.9336,Y
+SUP00040,Evergreen Supplier 40,Preferred,VNM,7,88.67,0.8600,Yes
+SUP00041,Evergreen Supplier 41,Preferred,CAN,5,87.19,0.7649,N
+SUP00042,Sterling Supplier 42,Preferred,IND,,79.95,0.7450,Yes
+SUP00043,Atlas Supplier 43,preferred ,MEX,10,83.67,0.8080,Y
+SUP00044,Sterling Supplier 44,Preferred,VNM,21,91.31,0.9835,N
+SUP00045,Evergreen Supplier 45,Backup,IND,21,95.34,0.7210,1
+SUP00046,Global Supplier 46,Backup,DEU,unknown,97.73,0.9717,Y
+SUP00047,Evergreen Supplier 47,Strategic,MEX,10,79.45,0.7836,N
+SUP00048,Evergreen Supplier 48,preferred ,DEU,7,79.57,0.7311,1
+SUP00049,Global Supplier 49,Strategic,MEX,21,90.58,0.7917,1
+SUP00050,Atlas Supplier 50,Backup,MEX,30,99.12,0.6560,Y
+SUP00051,Global Supplier 51,Strategic,MEX,21,73.22,0.9190,Yes
+SUP00052,Global Supplier 52,Preferred,MEX,unknown,74.88,0.6556,No
+SUP00053,Pioneer Supplier 53,Strategic,IND,30,98.49,0.7140,Y
+SUP00054,Evergreen Supplier 54,Backup,USA,30,88.57,0.8194,1
+SUP00055,Sterling Supplier 55,Backup,IND,10,90.75,0.7682,1
+SUP00056,Atlas Supplier 56,Preferred,CAN,10,89.12,0.9325,No
+SUP00057,Sterling Supplier 57,preferred ,IND,unknown,82.69,0.7662,1
+SUP00058,Pioneer Supplier 58,Backup,DEU,unknown,82.67,0.9715,No
+SUP00059,Global Supplier 59,preferred ,CAN,,96.00,0.9639,Yes
+SUP00060,Global Supplier 60,Strategic,DEU,10,90.06,0.8980,1
+SUP00061,Global Supplier 61,Preferred,CHN,5,91.90,0.9381,No
+SUP00062,Pioneer Supplier 62,Preferred,VNM,unknown,93.23,0.7195,Y
+SUP00063,Global Supplier 63,Preferred,MEX,unknown,95.87,0.7727,N
+SUP00064,Global Supplier 64,Backup,MEX,21,95.46,0.9305,N
+SUP00065,Evergreen Supplier 65,Strategic,CAN,7,95.84,0.8786,No
+SUP00066,Global Supplier 66,Strategic,CAN,30,83.71,0.9425,Yes
+SUP00067,Atlas Supplier 67,Backup,VNM,5,87.42,0.7047,No
+SUP00068,Atlas Supplier 68,Preferred,CAN,21,90.34,0.7922,No
+SUP00069,Atlas Supplier 69,preferred ,MEX,21,75.23,0.9750,Yes
+SUP00070,Quantum Supplier 70,Standard,MEX,7,74.02,0.8603,Y
+SUP00071,Sterling Supplier 71,preferred ,IND,5,99.05,0.6578,No
+SUP00072,Sterling Supplier 72,Standard,MEX,21,79.88,0.9808,Yes
+SUP00073,Evergreen Supplier 73,preferred ,USA,unknown,75.62,0.6979,N
+SUP00074,Global Supplier 74,Preferred,MEX,10,86.66,0.6838,No
+SUP00075,Quantum Supplier 75,Standard,CHN,14,99.62,0.9559,N
+SUP00076,Evergreen Supplier 76,Preferred,VNM,10,70.48,0.8722,Yes
+SUP00077,Atlas Supplier 77,Standard,DEU,14,89.07,0.8060,No
+SUP00078,Global Supplier 78,preferred ,MEX,21,90.09,0.9601,Yes
+SUP00079,Pioneer Supplier 79,Backup,CAN,10,79.68,0.6599,No
+SUP00080,Quantum Supplier 80,Strategic,VNM,10,81.58,0.9045,Yes
+SUP00081,Global Supplier 81,Preferred,CAN,14,78.26,0.8291,Yes
+SUP00082,Sterling Supplier 82,Strategic,DEU,unknown,87.27,0.8101,1
+SUP00083,Atlas Supplier 83,Backup,CHN,5,70.99,0.8745,Y
+SUP00084,Quantum Supplier 84,preferred ,DEU,,82.00,0.7987,No
+SUP00085,Quantum Supplier 85,Preferred,CAN,14,78.16,0.7843,Yes
+SUP00086,Global Supplier 86,Preferred,MEX,10,92.63,0.8710,Yes
+SUP00087,Atlas Supplier 87,Strategic,DEU,7,77.02,0.8146,No
+SUP00088,Pioneer Supplier 88,preferred ,DEU,21,77.47,0.8607,1
+SUP00089,Evergreen Supplier 89,preferred ,USA,21,93.68,0.9887,Yes
+SUP00090,Pioneer Supplier 90,Standard,VNM,7,90.27,0.8148,Y
+SUP00091,Evergreen Supplier 91,Backup,CAN,21,87.94,0.6872,Yes
+SUP00092,Global Supplier 92,Strategic,MEX,5,79.47,0.8978,No
+SUP00093,Sterling Supplier 93,Standard,IND,7,98.93,0.7134,Y
+SUP00094,Pioneer Supplier 94,preferred ,CAN,5,93.22,0.8138,No
+SUP00095,Quantum Supplier 95,preferred ,CHN,,,0.8442,Yes
+SUP00096,Pioneer Supplier 96,Strategic,VNM,5,87.80,0.7444,Yes
+SUP00097,Sterling Supplier 97,preferred ,IND,7,70.59,0.6568,Y
+SUP00098,Sterling Supplier 98,Backup,CHN,21,81.20,0.8629,Yes
+SUP00099,Pioneer Supplier 99,preferred ,DEU,7,97.12,0.8762,No
+SUP00100,Evergreen Supplier 100,preferred ,MEX,5,88.55,0.7283,Yes
+SUP00101,Pioneer Supplier 101,Preferred,VNM,21,94.72,0.9700,No
+SUP00102,Atlas Supplier 102,preferred ,CAN,unknown,81.83,0.8601,No
+SUP00103,Quantum Supplier 103,Preferred,MEX,10,78.65,0.9692,Y
+SUP00104,Global Supplier 104,preferred ,VNM,unknown,75.04,0.7743,Yes
+SUP00105,Sterling Supplier 105,Backup,MEX,21,87.32,0.9338,1
+SUP00106,Global Supplier 106,Preferred,IND,14,98.96,0.7395,Y
+SUP00107,Evergreen Supplier 107,Strategic,CAN,14,98.65,0.9457,Yes
+SUP00108,Atlas Supplier 108,Backup,IND,30,79.97,0.8455,Y
+SUP00109,Atlas Supplier 109,Strategic,CAN,5,78.33,0.7265,Yes
+SUP00110,Pioneer Supplier 110,preferred ,CHN,unknown,88.38,0.7862,No
+SUP00111,Quantum Supplier 111,Strategic,DEU,,79.20,0.6722,Yes
+SUP00112,Sterling Supplier 112,Backup,MEX,,93.90,0.8838,1
+SUP00113,Atlas Supplier 113,Backup,VNM,,79.76,0.7713,No
+SUP00114,Evergreen Supplier 114,Strategic,MEX,21,82.47,0.7595,No
+SUP00115,Sterling Supplier 115,Strategic,DEU,10,81.67,bad,Yes
+SUP00116,Atlas Supplier 116,Strategic,MEX,14,90.67,0.9565,Y
+SUP00117,Quantum Supplier 117,Preferred,MEX,7,97.50,0.7279,No
+SUP00118,Pioneer Supplier 118,preferred ,VNM,7,79.80,0.6659,1
+SUP00119,Pioneer Supplier 119,preferred ,MEX,,84.31,0.8626,Y
+SUP00120,Atlas Supplier 120,Backup,CHN,14,70.08,0.9355,N
+SUP00121,Atlas Supplier 121,preferred ,CHN,14,86.02,0.8483,N
+SUP00122,Global Supplier 122,Backup,DEU,14,86.29,0.7178,N
+SUP00123,Atlas Supplier 123,Backup,USA,,90.02,0.8497,Yes
+SUP00124,Atlas Supplier 124,Preferred,CHN,,71.23,0.9629,No
+SUP00125,Sterling Supplier 125,Strategic,CHN,5,74.20,0.8277,N
+SUP00011,Sterling Supplier 11,preferred ,CAN,unknown,77.32,0.7948,Yes
