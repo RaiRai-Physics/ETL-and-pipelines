@@ -1,0 +1,26 @@
+warehouse_id,warehouse_name,warehouse_type,city,state,country,region,capacity_units,open_date,is_active
+WH0001,Vancouver Hub,Regional Hub,Vancouver,BC,CAN,West,100000,2024-05-31,True
+WH0002,Boston Hub,Cross Dock,Boston,MA,USA,Northeast,75000,2017-01-13,True
+WH0003,Guadalajara Crossdock,Regional Hub,Guadalajara,JA,MEX,Southwest,150000,2019-04-17,True
+WH0004,Guadalajara Dc,Regional Hub,Guadalajara,JA,MEX,Southwest,50000,2022-12-18,True
+WH0005,Guadalajara Fulfillment,Regional Hub,Guadalajara,JA,MEX,Southwest,25000,2025-09-11,True
+WH0006,Guadalajara Dc,Distribution Center,Guadalajara,JA,MEX,Southwest,100000,2020-10-16,True
+WH0007,Chicago Dc,Regional Hub,Chicago,IL,USA,Midwest,50000,2020-06-09,True
+WH0008,Phoenix Dc,Regional Hub,Phoenix,AZ,USA,Southwest,150000,2022-10-14,True
+WH0009,Miami Fulfillment,Cold Storage,Miami,FL,USA,Southeast,75000,2021-01-23,True
+WH0010,Guadalajara Hub,Regional Hub,Guadalajara,JA,MEX,Southwest,75000,2025-09-19,True
+WH0011,Denver Hub,Cold Storage,Denver,CO,USA,West,75000,2017-05-11,True
+WH0012,Miami Dc,Distribution Center,Miami,FL,USA,Southeast,25000,2019-02-16,True
+WH0013,Seattle Crossdock,Cold Storage,Seattle,WA,USA,West,150000,2018-04-28,True
+WH0014,Denver Crossdock,Distribution Center,Denver,CO,USA,West,75000,2022-01-24,True
+WH0015,Vancouver Crossdock,Cross Dock,Vancouver,BC,CAN,West,100000,2021-07-19,True
+WH0016,Chicago Dc,Distribution Center,Chicago,IL,USA,Midwest,50000,2022-06-14,False
+WH0017,Boston Crossdock,Cross Dock,Boston,MA,USA,Northeast,150000,2025-06-11,True
+WH0018,Monterrey Fulfillment,Cross Dock,Monterrey,NL,MEX,Southwest,100000,2025-07-10,True
+WH0019,Atlanta Crossdock,Distribution Center,Atlanta,GA,USA,Southeast,100000,2020-11-23,False
+WH0020,Atlanta Dc,Distribution Center,Atlanta,GA,USA,Southeast,25000,2021-12-10,True
+WH0021,Atlanta Dc,Regional Hub,Atlanta,GA,USA,Southeast,75000,2019-10-30,True
+WH0022,Phoenix Dc,Distribution Center,Phoenix,AZ,USA,Southwest,75000,2021-01-17,False
+WH0023,Vancouver Dc,Distribution Center,Vancouver,BC,CAN,West,75000,2018-07-03,True
+WH0024,Seattle Fulfillment,Cross Dock,Seattle,WA,USA,West,75000,2024-04-29,False
+WH0025,Denver Hub,Regional Hub,Denver,CO,USA,West,150000,2021-02-24,True

@@ -1,0 +1,582 @@
+customer_sk,customer_id,customer_name,customer_segment,industry,city,state,country,region,signup_date,credit_limit,payment_terms,risk_tier,is_active,effective_start_date,record_source,effective_end_date,is_current
+4a6d061792b5e7548e28,CUST000001,Northstar Group 1,Small Business,Technology,Seattle,WA,USA,West,2024-01-07,291225.33,NET30,Medium,False,2024-01-07,customer_master,9999-12-31,True
+41d23a259d3ed4657f2e,CUST000002,Clearpath Trading 2,Enterprise,Food Service,Vancouver,BC,CAN,West,,28367.9,NET30,High,True,1900-01-01,customer_master,9999-12-31,True
+8024d1e6a1050e81ed4a,CUST000003,Clearpath Trading 3,Unknown,Food Service,Vancouver,BC,CAN,West,2023-10-24,258676.05,NET30,High,True,2023-10-24,customer_master,9999-12-31,True
+98dff5b6d3519b6888f6,CUST000004,Nova Partners 4,Wholesale,Food Service,Atlanta,GA,USA,Southeast,,216805.08,PREPAID,High,False,1900-01-01,customer_master,9999-12-31,True
+2ab196583152007b6d7d,CUST000005,Prime Trading 5,Retail,Retail,Monterrey,NL,MEX,Southwest,2025-03-07,478726.34,NET30,High,True,2025-03-07,customer_master,2026-04-28,False
+90670375d567da50659f,CUST000005,Prime Trading 5,Mid Market,Retail,Monterrey,NL,MEX,Southwest,2025-03-07,478726.34,NET30,High,True,2026-04-28,annual_review,9999-12-31,True
+7d3575c5bb4e9ff92f68,CUST000006,Nova Supply 6,Enterprise,Technology,Seattle,WA,USA,West,,576475.0,NET60,Low,False,1900-01-01,customer_master,2026-05-16,False
+e4d07b1e1aeaef777b18,CUST000006,Nova Supply 6,Enterprise,Technology,Seattle,WA,USA,West,,576475.0,NET60,High,False,2026-05-16,risk_event,9999-12-31,True
+8893523022cac0d6d08d,CUST000007,Nova Logistics 7,Retail,Education,Guadalajara,JA,MEX,Southwest,,239898.96,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+9a4dff14e2b60db356ea,CUST000008,Urban Logistics 8,Wholesale,Technology,Monterrey,NL,MEX,Southwest,,115997.12,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+692211f831e17f9f0914,CUST000009,Clearpath Logistics 9,Unknown,Education,Monterrey,NL,MEX,Southwest,,235819.93,PREPAID,Medium,False,1900-01-01,customer_master,2026-02-15,False
+6f4bd265db6bd9776270,CUST000009,Clearpath Logistics 9,Small Business,Education,Monterrey,NL,MEX,Southwest,,235819.93,NET45,Low,False,2026-02-15,customer_growth,9999-12-31,True
+0295b5107fc2ea7fff47,CUST000010,Nova Markets 10,Small Business,Manufacturing,Denver,CO,USA,West,2024-03-10,24615.16,NET30,High,True,2024-03-10,customer_master,2026-05-02,False
+4463146217a8db436e41,CUST000010,Nova Markets 10,Small Business,Manufacturing,Denver,CO,USA,West,2024-03-10,24615.16,NET60,Medium,True,2026-05-02,credit_review,9999-12-31,True
+f92b13266190fb53b40a,CUST000011,Blueriver Partners 11,Mid Market,Food Service,Phoenix,AZ,USA,Southwest,,486545.78,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+e6f9046a08f5ba0796cd,CUST000012,Urban Supply 12,Mid Market,Education,Seattle,WA,USA,West,,1118138.37,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+f0cce74874f3f19317fa,CUST000013,Urban Trading 13,Unknown,Manufacturing,Dallas,TX,USA,Southwest,,27922.24,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+4d15bbd03eb7778c5f97,CUST000014,Northstar Markets 14,Mid Market,Manufacturing,Vancouver,BC,CAN,West,2026-02-18,224909.38,NET30,Low,True,2026-02-18,customer_master,9999-12-31,True
+0a5df1c2b3cec84c0dd9,CUST000015,Blueriver Trading 15,Small Business,Education,Monterrey,NL,MEX,Southwest,,97132.52,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+50ff1f3ce6923c85840a,CUST000016,Summit Group 16,Retail,Technology,Seattle,WA,USA,West,,27487.05,NET45,Medium,False,1900-01-01,customer_master,9999-12-31,True
+f9047811d1c290d4e3be,CUST000017,Northstar Partners 17,Unknown,Education,Miami,FL,USA,Southeast,,52767.87,NET60,High,True,1900-01-01,customer_master,2026-04-06,False
+dd0abe6ac50b2d8125b8,CUST000017,Northstar Partners 17,Small Business,Education,Miami,FL,USA,Southeast,,52767.87,NET45,Low,True,2026-04-06,annual_review,9999-12-31,True
+e110306036a95a9c2f87,CUST000018,Prime Markets 18,Small Business,Construction,Guadalajara,JA,MEX,Southwest,2021-12-22,102940.95,NET60,High,False,2021-12-22,customer_master,2026-01-24,False
+6fb7964feb95f1780119,CUST000018,Prime Markets 18,Enterprise,Construction,Guadalajara,JA,MEX,Southwest,2021-12-22,102940.95,NET30,High,False,2026-01-24,annual_review,9999-12-31,True
+ecf76c10bfc6ea9104cd,CUST000019,Prime Group 19,Small Business,Construction,Atlanta,GA,USA,Southeast,,26045.99,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+c78b6ebfe22eb6c52a55,CUST000020,Northstar Group 20,Unknown,Manufacturing,Denver,CO,USA,West,,53737.86,PREPAID,Medium,False,1900-01-01,customer_master,9999-12-31,True
+ce6848a89c2ed73abfb7,CUST000021,Nova Logistics 21,Wholesale,Manufacturing,Seattle,WA,USA,West,,533648.36,NET30,High,True,1900-01-01,customer_master,2026-01-28,False
+7e1982debeea773f788e,CUST000021,Nova Logistics 21,Retail,Manufacturing,Seattle,WA,USA,West,,533648.36,NET60,High,True,2026-01-28,risk_event,9999-12-31,True
+1072790c8474260f8ca3,CUST000022,Nova Logistics 22,Small Business,Food Service,Monterrey,NL,MEX,Southwest,,20165.33,PREPAID,Low,False,1900-01-01,customer_master,9999-12-31,True
+0cd50cb53e494fa14a59,CUST000023,Apex Markets 23,Retail,Retail,Monterrey,NL,MEX,Southwest,,217778.95,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+cc1854e79ba78db32076,CUST000024,Northstar Supply 24,Unknown,Construction,Monterrey,NL,MEX,Southwest,,40090.22,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+508262c49ea36e7cb113,CUST000025,Nova Partners 25,Mid Market,Food Service,Toronto,ON,CAN,Northeast,,23388.64,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+52b3f803ab951089abd6,CUST000026,Clearpath Logistics 26,Enterprise,Food Service,Denver,CO,USA,West,,24231.61,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+2c6bc1565b3698992e9a,CUST000027,Summit Supply 27,Small Business,Food Service,Monterrey,NL,MEX,Southwest,2025-11-03,503285.32,NET30,Low,True,2025-11-03,customer_master,9999-12-31,True
+fcb4e1d7e68b7208d66c,CUST000028,Apex Group 28,Unknown,Technology,Toronto,ON,CAN,Northeast,2025-07-20,53994.97,NET45,High,True,2025-07-20,customer_master,2026-04-08,False
+d62c59cfdbca1bba926a,CUST000028,Apex Group 28,Mid Market,Technology,Toronto,ON,CAN,Northeast,2025-07-20,53994.97,NET30,Medium,True,2026-04-08,risk_event,9999-12-31,True
+d62c8ed95e1c0524ffd0,CUST000029,Clearpath Supply 29,Enterprise,Food Service,Miami,FL,USA,Southeast,,1172219.24,PREPAID,High,False,1900-01-01,customer_master,9999-12-31,True
+f174afa52c25bcf1f5ae,CUST000030,Northstar Markets 30,Small Business,Education,Monterrey,NL,MEX,Southwest,,107944.28,PREPAID,Medium,True,1900-01-01,customer_master,9999-12-31,True
+d6f9cfd0e0e348cbdc11,CUST000031,Apex Supply 31,Mid Market,Healthcare,Guadalajara,JA,MEX,Southwest,,1192816.72,NET30,Low,True,1900-01-01,customer_master,2026-03-02,False
+c395f6507b113be9614d,CUST000031,Apex Supply 31,Enterprise,Healthcare,Guadalajara,JA,MEX,Southwest,,1192816.72,NET30,Low,True,2026-03-02,credit_review,9999-12-31,True
+b3a7dacff222acdefef3,CUST000032,Apex Supply 32,Small Business,Food Service,Guadalajara,JA,MEX,Southwest,2022-02-13,29557.76,NET30,Medium,True,2022-02-13,customer_master,9999-12-31,True
+7f2af82027bf2c41e8ae,CUST000033,Apex Group 33,Mid Market,Retail,Boston,MA,USA,Northeast,,531895.91,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+536d80ca1e9fa07a1b9d,CUST000034,Clearpath Supply 34,Retail,Construction,Guadalajara,JA,MEX,Southwest,,447489.5,NET45,Medium,False,1900-01-01,customer_master,9999-12-31,True
+4d96364232bcb88b965a,CUST000035,Prime Partners 35,Small Business,Healthcare,Atlanta,GA,USA,Southeast,2026-02-08,1037795.52,PREPAID,Medium,True,2026-02-08,customer_master,9999-12-31,True
+2e01527260ccaa983b4a,CUST000036,Apex Logistics 36,Enterprise,Construction,Boston,MA,USA,Northeast,2023-02-02,1032478.42,PREPAID,Medium,False,2023-02-02,customer_master,9999-12-31,True
+220499c829854fc9c16c,CUST000037,Apex Group 37,Wholesale,Technology,Miami,FL,USA,Southeast,2023-08-09,114655.12,NET30,Low,True,2023-08-09,customer_master,9999-12-31,True
+27ccddb4e771b6b0d795,CUST000038,Blueriver Markets 38,Unknown,Healthcare,Phoenix,AZ,USA,Southwest,,235166.94,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+e0f190fb6eaad9670802,CUST000039,Summit Partners 39,Wholesale,Food Service,Chicago,IL,USA,Midwest,,273857.92,NET45,Medium,True,1900-01-01,customer_master,9999-12-31,True
+492915d1f40757a30d61,CUST000040,Blueriver Logistics 40,Retail,Technology,Vancouver,BC,CAN,West,,292595.04,NET45,High,False,1900-01-01,customer_master,9999-12-31,True
+8e08b8291ae04819315b,CUST000041,Northstar Logistics 41,Unknown,Retail,Denver,CO,USA,West,,50737.97,PREPAID,Low,False,1900-01-01,customer_master,9999-12-31,True
+d1e572f6950ea0eaf725,CUST000042,Clearpath Partners 42,Small Business,Manufacturing,Seattle,WA,USA,West,,896352.2,PREPAID,High,False,1900-01-01,customer_master,9999-12-31,True
+b3c6cce0270ad914949e,CUST000043,Apex Group 43,Small Business,Manufacturing,Boston,MA,USA,Northeast,,291832.73,PREPAID,High,True,1900-01-01,customer_master,2026-03-30,False
+c37596b8f83dc061c8f5,CUST000043,Apex Group 43,Enterprise,Manufacturing,Boston,MA,USA,Northeast,,291832.73,NET30,High,True,2026-03-30,annual_review,9999-12-31,True
+c7296ea7c181cd485bba,CUST000044,Apex Partners 44,Mid Market,Food Service,Dallas,TX,USA,Southwest,,21254.43,NET60,High,False,1900-01-01,customer_master,2026-02-25,False
+bef0139471eb7426f44a,CUST000044,Apex Partners 44,Enterprise,Food Service,Dallas,TX,USA,Southwest,,21254.43,NET60,Medium,False,2026-02-25,credit_review,9999-12-31,True
+dfe57ef6634040409af8,CUST000045,Clearpath Logistics 45,Mid Market,Education,Dallas,TX,USA,Southwest,2024-07-29,115427.13,PREPAID,Low,True,2024-07-29,customer_master,9999-12-31,True
+d3881c883b8d23c139d9,CUST000046,Blueriver Markets 46,Small Business,Food Service,Atlanta,GA,USA,Southeast,,537223.37,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+49f43c17a9c57621fba6,CUST000047,Nova Group 47,Wholesale,Construction,Chicago,IL,USA,Midwest,,110343.31,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+a1f9d8559eb4b5969dfa,CUST000048,Nova Partners 48,Retail,Technology,Toronto,ON,CAN,Northeast,,287222.03,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+65447e0be9b4f6bfc636,CUST000049,Prime Supply 49,Mid Market,Retail,Toronto,ON,CAN,Northeast,,509940.79,PREPAID,High,True,1900-01-01,customer_master,9999-12-31,True
+c44fe2fb22014056b4e7,CUST000050,Summit Partners 50,Wholesale,Education,Guadalajara,JA,MEX,Southwest,,29978.69,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+63c1461d71156b4d41f3,CUST000051,Nova Partners 51,Mid Market,Manufacturing,Toronto,ON,CAN,Northeast,,26427.31,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+d02d1815a149c48fb21b,CUST000052,Summit Partners 52,Unknown,Food Service,Miami,FL,USA,Southeast,,207050.04,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+0591e205a45eb191c629,CUST000053,Northstar Group 53,Enterprise,Technology,Chicago,IL,USA,Midwest,,211012.7,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+950ea323f480555d56ed,CUST000054,Nova Supply 54,Mid Market,Retail,Phoenix,AZ,USA,Southwest,,89816.0,NET45,Medium,True,1900-01-01,customer_master,9999-12-31,True
+6a3a626f019896140fcf,CUST000055,Summit Markets 55,Retail,Manufacturing,Phoenix,AZ,USA,Southwest,2022-11-23,24368.88,NET30,Medium,True,2022-11-23,customer_master,9999-12-31,True
+36ee61cf2087db6c3861,CUST000056,Apex Supply 56,Mid Market,Construction,Monterrey,NL,MEX,Southwest,,102380.63,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+7c5fa769f8704fb4b454,CUST000057,Prime Supply 57,Retail,Food Service,Seattle,WA,USA,West,,50825.49,NET60,Medium,True,1900-01-01,customer_master,2026-01-18,False
+3ce0b0f3cf22f88672e1,CUST000057,Prime Supply 57,Retail,Food Service,Seattle,WA,USA,West,,50825.49,PREPAID,High,True,2026-01-18,customer_growth,9999-12-31,True
+818a29074a064174dc6e,CUST000058,Blueriver Markets 58,Wholesale,Technology,Monterrey,NL,MEX,Southwest,,1171657.16,NET30,Low,True,1900-01-01,customer_master,2026-03-06,False
+0166bc2e6e8125e4249a,CUST000058,Blueriver Markets 58,Enterprise,Technology,Monterrey,NL,MEX,Southwest,,1171657.16,NET60,Low,True,2026-03-06,risk_event,9999-12-31,True
+4321328d03526ed94249,CUST000059,Apex Trading 59,Retail,Healthcare,Phoenix,AZ,USA,Southwest,2025-06-12,269294.79,NET30,Low,True,2025-06-12,customer_master,9999-12-31,True
+a60ca82470e7f8f9a69e,CUST000060,Northstar Markets 60,Small Business,Food Service,Chicago,IL,USA,Midwest,2022-10-24,235996.25,NET30,Low,True,2022-10-24,customer_master,9999-12-31,True
+04e7de6c71f3404fdbde,CUST000061,Prime Trading 61,Mid Market,Construction,Guadalajara,JA,MEX,Southwest,,449493.94,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+0a1c1f1423ca88a5f20d,CUST000062,Prime Logistics 62,Mid Market,Retail,Miami,FL,USA,Southeast,,53934.01,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+8b220475e8ee897e1861,CUST000063,Urban Partners 63,Wholesale,Technology,Miami,FL,USA,Southeast,2023-10-05,516076.6,NET45,Medium,True,2023-10-05,customer_master,9999-12-31,True
+7012aed627adaac8b2ee,CUST000064,Summit Supply 64,Small Business,Technology,Dallas,TX,USA,Southwest,,542133.72,NET45,Medium,True,1900-01-01,customer_master,2026-01-19,False
+d01445798fb54b022fd9,CUST000064,Summit Supply 64,Wholesale,Technology,Dallas,TX,USA,Southwest,,542133.72,PREPAID,Medium,True,2026-01-19,risk_event,9999-12-31,True
+d7a99e01e736b471659f,CUST000065,Blueriver Trading 65,Wholesale,Manufacturing,Atlanta,GA,USA,Southeast,,977609.31,NET30,Medium,False,1900-01-01,customer_master,2026-04-07,False
+408ffda49099932edfc7,CUST000065,Blueriver Trading 65,Small Business,Manufacturing,Atlanta,GA,USA,Southeast,,977609.31,NET30,Medium,False,2026-04-07,annual_review,9999-12-31,True
+6cad2120e7a6926ac3d0,CUST000066,Nova Trading 66,Enterprise,Food Service,Phoenix,AZ,USA,Southwest,2021-07-10,1057026.36,NET30,High,True,2021-07-10,customer_master,9999-12-31,True
+3adb650358ef549128ca,CUST000067,Clearpath Partners 67,Enterprise,Technology,Toronto,ON,CAN,Northeast,2024-08-07,83060.44,NET45,Medium,True,2024-08-07,customer_master,9999-12-31,True
+f54dadf8979d73251fd3,CUST000068,Prime Supply 68,Wholesale,Technology,Boston,MA,USA,Northeast,2024-04-28,50428.46,PREPAID,Low,False,2024-04-28,customer_master,9999-12-31,True
+76b4060002ebc9eacdbe,CUST000069,Summit Trading 69,Enterprise,Education,Dallas,TX,USA,Southwest,2024-01-08,819767.13,NET60,Medium,False,2024-01-08,customer_master,9999-12-31,True
+cf4ea8028bf1b5cacb3f,CUST000070,Summit Partners 70,Unknown,Technology,Monterrey,NL,MEX,Southwest,,580565.93,NET60,High,False,1900-01-01,customer_master,2026-04-06,False
+8d4b8aff235e6cc42326,CUST000070,Summit Partners 70,Mid Market,Technology,Monterrey,NL,MEX,Southwest,,580565.93,NET30,Low,False,2026-04-06,customer_growth,9999-12-31,True
+403705eb07dc43180b61,CUST000071,Northstar Trading 71,Mid Market,Construction,Atlanta,GA,USA,Southeast,,418905.67,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+e84a586324c4b39130ff,CUST000072,Urban Partners 72,Enterprise,Manufacturing,Monterrey,NL,MEX,Southwest,,59753.29,NET30,Low,True,1900-01-01,customer_master,2026-03-13,False
+c1a88894db60edb83166,CUST000072,Urban Partners 72,Wholesale,Manufacturing,Monterrey,NL,MEX,Southwest,,59753.29,NET60,Low,True,2026-03-13,credit_review,9999-12-31,True
+6be2d80b07981348cac1,CUST000073,Clearpath Trading 73,Wholesale,Technology,Toronto,ON,CAN,Northeast,,921660.77,NET60,Medium,False,1900-01-01,customer_master,9999-12-31,True
+dff22a0c89ffd38fd238,CUST000074,Apex Trading 74,Small Business,Healthcare,Boston,MA,USA,Northeast,2021-04-11,108558.5,NET60,Low,True,2021-04-11,customer_master,9999-12-31,True
+d9d7c8e7ebc7df81f984,CUST000075,Urban Partners 75,Retail,Manufacturing,Boston,MA,USA,Northeast,,45161.29,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+98b4d5380ff5e68bf8b8,CUST000076,Urban Partners 76,Wholesale,Manufacturing,Chicago,IL,USA,Midwest,,1056961.45,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+8664d6012d0fecddac55,CUST000077,Prime Group 77,Small Business,Manufacturing,Toronto,ON,CAN,Northeast,,25130.43,NET30,Low,True,1900-01-01,customer_master,2026-04-04,False
+4ea1c26d570a595acd87,CUST000077,Prime Group 77,Small Business,Manufacturing,Toronto,ON,CAN,Northeast,,25130.43,NET30,Medium,True,2026-04-04,customer_growth,9999-12-31,True
+dda3d3782ae4fe530d5f,CUST000078,Prime Supply 78,Retail,Retail,Atlanta,GA,USA,Southeast,,107542.32,NET30,High,False,1900-01-01,customer_master,2026-04-24,False
+fbd0056d79fcd1f32de1,CUST000078,Prime Supply 78,Retail,Retail,Atlanta,GA,USA,Southeast,,107542.32,NET45,High,False,2026-04-24,annual_review,9999-12-31,True
+b5653659ad374b017d16,CUST000079,Blueriver Partners 79,Unknown,Healthcare,Atlanta,GA,USA,Southeast,,49111.22,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+7944e19a94c982bbbe39,CUST000080,Northstar Markets 80,Unknown,Food Service,Miami,FL,USA,Southeast,,50074.82,NET60,Low,False,1900-01-01,customer_master,9999-12-31,True
+1193bb86e70900edd60a,CUST000081,Northstar Logistics 81,Enterprise,Food Service,Dallas,TX,USA,Southwest,,40471.66,NET45,Medium,True,1900-01-01,customer_master,9999-12-31,True
+9e5a43818dc102caf044,CUST000082,Urban Trading 82,Retail,Construction,Vancouver,BC,CAN,West,2021-04-03,58020.61,NET45,Medium,False,2021-04-03,customer_master,9999-12-31,True
+ad0bb17582941ba2b3b6,CUST000083,Prime Markets 83,Mid Market,Food Service,Chicago,IL,USA,Midwest,,944236.29,NET60,Medium,True,1900-01-01,customer_master,2026-01-16,False
+9d3b8462f0b4e849c825,CUST000083,Prime Markets 83,Wholesale,Food Service,Chicago,IL,USA,Midwest,,944236.29,NET30,High,True,2026-01-16,credit_review,9999-12-31,True
+f39060b6a96e7d966039,CUST000084,Summit Group 84,Retail,Manufacturing,Monterrey,NL,MEX,Southwest,,850339.26,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+d58347bf70de67be0239,CUST000085,Summit Partners 85,Unknown,Education,Atlanta,GA,USA,Southeast,2022-10-16,26156.15,NET60,Medium,False,2022-10-16,customer_master,9999-12-31,True
+3bfb610c7170e5c6f97d,CUST000086,Summit Trading 86,Unknown,Retail,Seattle,WA,USA,West,,1143125.03,NET45,Low,False,1900-01-01,customer_master,9999-12-31,True
+dde14988d14761bc96bd,CUST000087,Urban Group 87,Enterprise,Healthcare,Atlanta,GA,USA,Southeast,,27494.18,NET45,Medium,False,1900-01-01,customer_master,2026-02-27,False
+e624e71db488414ab7ad,CUST000087,Urban Group 87,Retail,Healthcare,Atlanta,GA,USA,Southeast,,27494.18,NET30,Low,False,2026-02-27,credit_review,9999-12-31,True
+6fcf0da724f19dbd99a3,CUST000088,Blueriver Supply 88,Enterprise,Healthcare,Phoenix,AZ,USA,Southwest,2025-06-08,106555.56,PREPAID,Low,True,2025-06-08,customer_master,2026-03-22,False
+c394b5b7723402645791,CUST000088,Blueriver Supply 88,Enterprise,Healthcare,Phoenix,AZ,USA,Southwest,2025-06-08,106555.56,NET30,Low,True,2026-03-22,credit_review,9999-12-31,True
+7812576a5bb022dc1f1f,CUST000089,Urban Supply 89,Small Business,Healthcare,Seattle,WA,USA,West,,1065779.25,PREPAID,Low,False,1900-01-01,customer_master,9999-12-31,True
+fc9a4eaa6e6cb676b06d,CUST000090,Nova Markets 90,Wholesale,Food Service,Denver,CO,USA,West,2024-09-01,28984.72,NET60,High,True,2024-09-01,customer_master,2026-03-16,False
+d916142a9c0920ce1364,CUST000090,Nova Markets 90,Enterprise,Food Service,Denver,CO,USA,West,2024-09-01,28984.72,PREPAID,High,True,2026-03-16,annual_review,9999-12-31,True
+a6e9095c35a090938d77,CUST000091,Prime Group 91,Enterprise,Construction,Toronto,ON,CAN,Northeast,,277668.05,PREPAID,Medium,True,1900-01-01,customer_master,9999-12-31,True
+853a5ae94c5c1f02d034,CUST000092,Apex Logistics 92,Small Business,Manufacturing,Atlanta,GA,USA,Southeast,2025-12-30,22477.42,NET30,Low,True,2025-12-30,customer_master,9999-12-31,True
+27c5949911726d4de088,CUST000093,Summit Trading 93,Enterprise,Retail,Miami,FL,USA,Southeast,,82742.27,PREPAID,Medium,True,1900-01-01,customer_master,9999-12-31,True
+0a707d1c62efc1bea319,CUST000094,Blueriver Logistics 94,Unknown,Construction,Denver,CO,USA,West,2024-07-09,429968.88,NET30,High,True,2024-07-09,customer_master,9999-12-31,True
+e18af136b2c09eeee02c,CUST000095,Summit Logistics 95,Retail,Food Service,Seattle,WA,USA,West,2023-09-26,20638.14,NET45,High,True,2023-09-26,customer_master,9999-12-31,True
+63ce04816f313d155627,CUST000096,Prime Trading 96,Wholesale,Healthcare,Chicago,IL,USA,Midwest,,46043.41,NET60,High,True,1900-01-01,customer_master,9999-12-31,True
+b147c079861ac0c22f98,CUST000097,Northstar Markets 97,Enterprise,Healthcare,Seattle,WA,USA,West,,89454.91,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+f6881bc61c971dec6cd0,CUST000098,Urban Supply 98,Wholesale,Food Service,Atlanta,GA,USA,Southeast,2022-10-26,941709.07,PREPAID,Medium,True,2022-10-26,customer_master,9999-12-31,True
+200a20aa200be1cdfbc6,CUST000099,Clearpath Markets 99,Mid Market,Food Service,Vancouver,BC,CAN,West,2025-05-22,55677.8,PREPAID,Low,True,2025-05-22,customer_master,9999-12-31,True
+a80a7ca18036144f63f7,CUST000100,Prime Logistics 100,Small Business,Healthcare,Seattle,WA,USA,West,2022-06-05,43421.77,PREPAID,Medium,False,2022-06-05,customer_master,2026-05-01,False
+7b972397d72938ea6e84,CUST000100,Prime Logistics 100,Small Business,Healthcare,Seattle,WA,USA,West,2022-06-05,43421.77,NET45,Medium,False,2026-05-01,customer_growth,9999-12-31,True
+cc7cf8eeb400ed6de82f,CUST000101,Urban Supply 101,Wholesale,Manufacturing,Toronto,ON,CAN,Northeast,,51184.52,NET45,Medium,True,1900-01-01,customer_master,2026-02-22,False
+16edff70b92fe8fc2cf2,CUST000101,Urban Supply 101,Mid Market,Manufacturing,Toronto,ON,CAN,Northeast,,51184.52,NET60,Medium,True,2026-02-22,credit_review,9999-12-31,True
+d5eada279cf3dba3d959,CUST000102,Nova Partners 102,Wholesale,Education,Dallas,TX,USA,Southwest,,53117.85,NET45,Low,False,1900-01-01,customer_master,2026-04-29,False
+674a9fb051aa34350545,CUST000102,Nova Partners 102,Mid Market,Education,Dallas,TX,USA,Southwest,,53117.85,NET45,Medium,False,2026-04-29,customer_growth,9999-12-31,True
+4c2adc85b09d0fa10e18,CUST000103,Northstar Partners 103,Mid Market,Food Service,Vancouver,BC,CAN,West,,1054292.03,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+8376bcbd2589d49169b0,CUST000104,Clearpath Group 104,Enterprise,Education,Dallas,TX,USA,Southwest,,954409.42,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+b422c54cad507e518638,CUST000105,Blueriver Partners 105,Wholesale,Manufacturing,Chicago,IL,USA,Midwest,,207648.96,PREPAID,High,True,1900-01-01,customer_master,2026-03-02,False
+48b0d01eea1f07e08669,CUST000105,Blueriver Partners 105,Mid Market,Manufacturing,Chicago,IL,USA,Midwest,,207648.96,NET30,High,True,2026-03-02,risk_event,9999-12-31,True
+f939402716a3cfb68567,CUST000106,Summit Supply 106,Small Business,Food Service,Chicago,IL,USA,Midwest,2024-05-30,47464.39,NET45,Medium,False,2024-05-30,customer_master,9999-12-31,True
+1f2ccb56297f901eaf09,CUST000107,Summit Supply 107,Enterprise,Food Service,Dallas,TX,USA,Southwest,2023-03-15,536174.46,NET45,Medium,True,2023-03-15,customer_master,2026-03-18,False
+9a5dc4b55ee452d700b6,CUST000107,Summit Supply 107,Retail,Food Service,Dallas,TX,USA,Southwest,2023-03-15,536174.46,NET60,Medium,True,2026-03-18,risk_event,9999-12-31,True
+8436ba25561df4831afc,CUST000108,Nova Group 108,Mid Market,Retail,Atlanta,GA,USA,Southeast,,23157.68,NET45,Medium,False,1900-01-01,customer_master,9999-12-31,True
+a6d23a4e100f5c84d8e4,CUST000109,Northstar Logistics 109,Unknown,Retail,Toronto,ON,CAN,Northeast,,977916.08,NET60,Low,False,1900-01-01,customer_master,9999-12-31,True
+259ea9ed495961074625,CUST000110,Urban Trading 110,Mid Market,Technology,Chicago,IL,USA,Midwest,,898173.44,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+d39d397952b7ee8553e6,CUST000111,Apex Markets 111,Retail,Healthcare,Dallas,TX,USA,Southwest,2022-03-30,27700.35,NET30,Low,False,2022-03-30,customer_master,9999-12-31,True
+10fb187e9df93d493f1d,CUST000112,Apex Group 112,Retail,Technology,Toronto,ON,CAN,Northeast,,468696.97,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+7c74274541bfae9c41b9,CUST000113,Urban Group 113,Retail,Retail,Toronto,ON,CAN,Northeast,,44235.64,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+cc75c7d30fb305032532,CUST000114,Clearpath Supply 114,Wholesale,Manufacturing,Seattle,WA,USA,West,2023-12-04,47063.61,NET45,High,True,2023-12-04,customer_master,9999-12-31,True
+f7bd01bcb6d08bbdce9a,CUST000115,Nova Supply 115,Unknown,Retail,Phoenix,AZ,USA,Southwest,,545194.22,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+128a3cebd593b7486062,CUST000116,Urban Supply 116,Mid Market,Retail,Atlanta,GA,USA,Southeast,,42619.85,PREPAID,High,False,1900-01-01,customer_master,9999-12-31,True
+e37a8b8fe14a44e37bd1,CUST000117,Northstar Group 117,Wholesale,Healthcare,Seattle,WA,USA,West,,410599.95,NET30,Low,True,1900-01-01,customer_master,2026-02-22,False
+0013e99cd96e702639c6,CUST000117,Northstar Group 117,Wholesale,Healthcare,Seattle,WA,USA,West,,410599.95,PREPAID,Medium,True,2026-02-22,risk_event,9999-12-31,True
+74bb01c13d304acf2aa3,CUST000118,Prime Supply 118,Wholesale,Healthcare,Toronto,ON,CAN,Northeast,2026-01-24,112033.21,NET30,Medium,True,2026-01-24,customer_master,9999-12-31,True
+ae5bfc07bb065ca8f6ef,CUST000119,Apex Logistics 119,Mid Market,Education,Dallas,TX,USA,Southwest,,54242.61,NET30,Low,True,1900-01-01,customer_master,2026-04-16,False
+a013bb02c2e434b2335b,CUST000119,Apex Logistics 119,Wholesale,Education,Dallas,TX,USA,Southwest,,54242.61,NET45,High,True,2026-04-16,credit_review,9999-12-31,True
+b09ab44eee7b9a8b8231,CUST000120,Urban Supply 120,Mid Market,Construction,Dallas,TX,USA,Southwest,,47530.2,NET60,Low,False,1900-01-01,customer_master,9999-12-31,True
+554deaf009507248574a,CUST000121,Clearpath Partners 121,Wholesale,Construction,Boston,MA,USA,Northeast,,93429.21,NET30,Low,True,1900-01-01,customer_master,2026-02-04,False
+42b5104ee72052cb9cd8,CUST000121,Clearpath Partners 121,Mid Market,Construction,Boston,MA,USA,Northeast,,93429.21,NET60,High,True,2026-02-04,credit_review,9999-12-31,True
+f6bac44441da98e886f6,CUST000122,Nova Group 122,Mid Market,Manufacturing,Denver,CO,USA,West,,81606.53,NET30,High,True,1900-01-01,customer_master,9999-12-31,True
+079946b09fa6a6a6ca45,CUST000123,Urban Supply 123,Unknown,Manufacturing,Toronto,ON,CAN,Northeast,,21866.99,NET45,Low,True,1900-01-01,customer_master,2026-01-20,False
+eeafb1c3257338fedeb0,CUST000123,Urban Supply 123,Small Business,Manufacturing,Toronto,ON,CAN,Northeast,,21866.99,NET45,Low,True,2026-01-20,credit_review,9999-12-31,True
+d7fd4898dea24ade344d,CUST000124,Clearpath Supply 124,Wholesale,Healthcare,Chicago,IL,USA,Midwest,2022-06-11,56765.2,NET30,High,True,2022-06-11,customer_master,9999-12-31,True
+3fef3df51a64f434c103,CUST000125,Nova Logistics 125,Small Business,Manufacturing,Toronto,ON,CAN,Northeast,,455925.33,PREPAID,Low,False,1900-01-01,customer_master,9999-12-31,True
+5cf92a594c5a31fa256a,CUST000126,Clearpath Logistics 126,Enterprise,Manufacturing,Atlanta,GA,USA,Southeast,,50073.59,PREPAID,Low,False,1900-01-01,customer_master,9999-12-31,True
+51c37c6681360224fa07,CUST000127,Northstar Supply 127,Enterprise,Education,Vancouver,BC,CAN,West,2025-04-22,52481.26,NET30,Medium,True,2025-04-22,customer_master,2026-02-08,False
+2ed697093e91ee6adc88,CUST000127,Northstar Supply 127,Small Business,Education,Vancouver,BC,CAN,West,2025-04-22,52481.26,NET45,Medium,True,2026-02-08,credit_review,9999-12-31,True
+5cfc76dbf92c214fa4b7,CUST000128,Northstar Trading 128,Mid Market,Food Service,Toronto,ON,CAN,Northeast,,98708.26,NET60,Medium,False,1900-01-01,customer_master,2026-05-06,False
+a38161a53226840beaae,CUST000128,Northstar Trading 128,Wholesale,Food Service,Toronto,ON,CAN,Northeast,,98708.26,NET60,Low,False,2026-05-06,customer_growth,9999-12-31,True
+8bc1b9871f1817196ab2,CUST000129,Clearpath Supply 129,Mid Market,Manufacturing,Guadalajara,JA,MEX,Southwest,,28732.54,NET45,Medium,False,1900-01-01,customer_master,9999-12-31,True
+d6a570260952c0dfdfe6,CUST000130,Northstar Group 130,Small Business,Education,Chicago,IL,USA,Midwest,,535590.78,NET60,High,True,1900-01-01,customer_master,9999-12-31,True
+a46175df679e97fe95c4,CUST000131,Urban Partners 131,Unknown,Manufacturing,Phoenix,AZ,USA,Southwest,2021-04-03,866769.41,NET45,Low,False,2021-04-03,customer_master,2026-05-23,False
+386d6eed317d2e2e08a0,CUST000131,Urban Partners 131,Wholesale,Manufacturing,Phoenix,AZ,USA,Southwest,2021-04-03,866769.41,NET60,Medium,False,2026-05-23,customer_growth,9999-12-31,True
+83a93423a16d2290596f,CUST000132,Prime Partners 132,Wholesale,Manufacturing,Boston,MA,USA,Northeast,2024-01-09,20728.93,PREPAID,Medium,True,2024-01-09,customer_master,9999-12-31,True
+6120f416f20af54dcfa7,CUST000133,Clearpath Markets 133,Retail,Healthcare,Monterrey,NL,MEX,Southwest,2022-03-28,406660.29,NET60,Low,True,2022-03-28,customer_master,9999-12-31,True
+290bf944d84789003025,CUST000134,Nova Group 134,Wholesale,Technology,Vancouver,BC,CAN,West,,41687.07,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+2647cf798d6a8bc53bcd,CUST000135,Summit Partners 135,Retail,Food Service,Atlanta,GA,USA,Southeast,,985359.37,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+60cbc8f31e20df49a8bf,CUST000136,Blueriver Trading 136,Small Business,Food Service,Miami,FL,USA,Southeast,2022-02-02,206076.65,NET30,Low,True,2022-02-02,customer_master,2026-02-26,False
+0df2db5b278163ee34ce,CUST000136,Blueriver Trading 136,Retail,Food Service,Miami,FL,USA,Southeast,2022-02-02,206076.65,NET60,Low,True,2026-02-26,credit_review,9999-12-31,True
+d8c7344517abbf52199b,CUST000137,Northstar Trading 137,Unknown,Retail,Dallas,TX,USA,Southwest,,23603.29,NET60,High,True,1900-01-01,customer_master,9999-12-31,True
+633f9b48d8fb86afc2d0,CUST000138,Summit Markets 138,Small Business,Food Service,Seattle,WA,USA,West,2025-05-14,86162.0,NET60,Medium,False,2025-05-14,customer_master,9999-12-31,True
+775328383e5deb7a9d53,CUST000139,Summit Logistics 139,Retail,Construction,Atlanta,GA,USA,Southeast,2022-06-10,227330.67,NET60,Medium,True,2022-06-10,customer_master,9999-12-31,True
+a9898cf4d0ac0ee89398,CUST000140,Clearpath Trading 140,Unknown,Technology,Phoenix,AZ,USA,Southwest,,528765.38,NET60,Low,False,1900-01-01,customer_master,2026-04-15,False
+842982c886d3e105f496,CUST000140,Clearpath Trading 140,Mid Market,Technology,Phoenix,AZ,USA,Southwest,,528765.38,NET45,Medium,False,2026-04-15,risk_event,9999-12-31,True
+c811ca6004ffddd708dc,CUST000141,Urban Partners 141,Enterprise,Healthcare,Monterrey,NL,MEX,Southwest,,42903.05,PREPAID,High,True,1900-01-01,customer_master,9999-12-31,True
+bcad8a2f52409040026c,CUST000142,Northstar Logistics 142,Mid Market,Manufacturing,Guadalajara,JA,MEX,Southwest,,880985.36,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+7ac20da1acf8391bc215,CUST000143,Nova Group 143,Unknown,Manufacturing,Vancouver,BC,CAN,West,,294618.51,PREPAID,Low,True,1900-01-01,customer_master,2026-03-07,False
+be77bb433027c3774f20,CUST000143,Nova Group 143,Retail,Manufacturing,Vancouver,BC,CAN,West,,294618.51,NET60,Medium,True,2026-03-07,customer_growth,9999-12-31,True
+91e8983ff97e3cc6e95b,CUST000144,Nova Supply 144,Unknown,Education,Atlanta,GA,USA,Southeast,,29596.63,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+7e265419d127bd84ef9c,CUST000145,Apex Partners 145,Small Business,Food Service,Atlanta,GA,USA,Southeast,,885896.93,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+f535e051b877c712030d,CUST000146,Summit Supply 146,Enterprise,Education,Seattle,WA,USA,West,2021-11-13,21769.87,NET30,Medium,True,2021-11-13,customer_master,9999-12-31,True
+62b8a3707dd5ea4f6b85,CUST000147,Apex Logistics 147,Retail,Manufacturing,Boston,MA,USA,Northeast,2023-01-05,456865.49,NET60,Low,True,2023-01-05,customer_master,2026-03-15,False
+193f82e9852da54bf68c,CUST000147,Apex Logistics 147,Retail,Manufacturing,Boston,MA,USA,Northeast,2023-01-05,456865.49,NET30,Medium,True,2026-03-15,risk_event,9999-12-31,True
+e350e9b5ccbf5f04e5f2,CUST000148,Prime Supply 148,Mid Market,Healthcare,Guadalajara,JA,MEX,Southwest,,22634.71,NET30,High,False,1900-01-01,customer_master,2026-05-24,False
+444b5ed0e2a4089bcea1,CUST000148,Prime Supply 148,Small Business,Healthcare,Guadalajara,JA,MEX,Southwest,,22634.71,PREPAID,Medium,False,2026-05-24,risk_event,9999-12-31,True
+995502b50e03ef632a4b,CUST000149,Summit Markets 149,Retail,Manufacturing,Toronto,ON,CAN,Northeast,2021-03-27,267739.87,PREPAID,High,False,2021-03-27,customer_master,9999-12-31,True
+f9f721be3b186cc5ebf0,CUST000150,Nova Logistics 150,Unknown,Healthcare,Phoenix,AZ,USA,Southwest,,25020.71,NET30,Low,False,1900-01-01,customer_master,2026-02-28,False
+25a77cb531b8161aedbb,CUST000150,Nova Logistics 150,Enterprise,Healthcare,Phoenix,AZ,USA,Southwest,,25020.71,NET45,Medium,False,2026-02-28,customer_growth,9999-12-31,True
+51771f34f57da984eb4a,CUST000151,Clearpath Group 151,Mid Market,Construction,Chicago,IL,USA,Midwest,,118155.66,NET45,Medium,False,1900-01-01,customer_master,9999-12-31,True
+7335137752310fb501e0,CUST000152,Northstar Group 152,Retail,Manufacturing,Guadalajara,JA,MEX,Southwest,2022-05-10,23511.25,PREPAID,High,True,2022-05-10,customer_master,9999-12-31,True
+75dac4333d9cb569ed40,CUST000153,Blueriver Partners 153,Wholesale,Healthcare,Chicago,IL,USA,Midwest,,1117489.37,NET30,High,True,1900-01-01,customer_master,9999-12-31,True
+eb9b673922f8e276f2cb,CUST000154,Blueriver Logistics 154,Unknown,Retail,Chicago,IL,USA,Midwest,,48212.9,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+18b411138ebf1f6d5864,CUST000155,Blueriver Supply 155,Retail,Education,Guadalajara,JA,MEX,Southwest,2024-01-15,97699.59,NET45,Medium,False,2024-01-15,customer_master,2026-05-07,False
+0d056e97a505b31269f2,CUST000155,Blueriver Supply 155,Retail,Education,Guadalajara,JA,MEX,Southwest,2024-01-15,97699.59,NET60,Low,False,2026-05-07,customer_growth,9999-12-31,True
+b8152bcd757e5c0fae5e,CUST000156,Urban Markets 156,Retail,Construction,Toronto,ON,CAN,Northeast,,28754.26,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+3fcf6e3d55bac2991097,CUST000157,Prime Logistics 157,Unknown,Healthcare,Dallas,TX,USA,Southwest,,1078463.62,NET30,Medium,True,1900-01-01,customer_master,2026-02-08,False
+dd73b9cb1129ca048dd3,CUST000157,Prime Logistics 157,Wholesale,Healthcare,Dallas,TX,USA,Southwest,,1078463.62,NET60,Medium,True,2026-02-08,risk_event,9999-12-31,True
+dff549e99d045c96de14,CUST000158,Prime Logistics 158,Wholesale,Retail,Atlanta,GA,USA,Southeast,,23464.34,PREPAID,Low,False,1900-01-01,customer_master,2026-01-29,False
+61efdf37cf6646d37303,CUST000158,Prime Logistics 158,Enterprise,Retail,Atlanta,GA,USA,Southeast,,23464.34,NET45,Medium,False,2026-01-29,annual_review,9999-12-31,True
+7878e1f5eee383b8471d,CUST000159,Northstar Logistics 159,Small Business,Manufacturing,Vancouver,BC,CAN,West,,280447.76,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+2b02ae3317249898bae8,CUST000160,Summit Supply 160,Enterprise,Food Service,Monterrey,NL,MEX,Southwest,2023-10-09,25449.8,PREPAID,High,False,2023-10-09,customer_master,9999-12-31,True
+45e39d8c818c678c73f1,CUST000161,Summit Partners 161,Mid Market,Healthcare,Vancouver,BC,CAN,West,,939294.5,PREPAID,Low,True,1900-01-01,customer_master,2026-01-17,False
+962cf16d7245b578e6b5,CUST000161,Summit Partners 161,Retail,Healthcare,Vancouver,BC,CAN,West,,939294.5,NET30,Medium,True,2026-01-17,customer_growth,9999-12-31,True
+9300ec94c49465f256ee,CUST000162,Summit Logistics 162,Mid Market,Construction,Vancouver,BC,CAN,West,2023-01-20,40027.47,NET60,Low,True,2023-01-20,customer_master,9999-12-31,True
+c6a81df0c557b6a53ecd,CUST000163,Nova Partners 163,Mid Market,Healthcare,Toronto,ON,CAN,Northeast,2022-05-23,268062.28,NET30,Low,False,2022-05-23,customer_master,9999-12-31,True
+0d21fe66655fb1a7e274,CUST000164,Apex Trading 164,Retail,Healthcare,Chicago,IL,USA,Midwest,,27308.27,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+6389eebc578094c0554a,CUST000165,Blueriver Trading 165,Wholesale,Food Service,Guadalajara,JA,MEX,Southwest,2022-03-06,1117329.41,NET30,Low,False,2022-03-06,customer_master,9999-12-31,True
+0bed267cb1da5a61bd21,CUST000166,Prime Partners 166,Enterprise,Manufacturing,Miami,FL,USA,Southeast,,265535.89,NET60,High,False,1900-01-01,customer_master,9999-12-31,True
+08a64784fc3962bfbedd,CUST000167,Northstar Group 167,Mid Market,Food Service,Atlanta,GA,USA,Southeast,,925554.66,NET45,Low,False,1900-01-01,customer_master,9999-12-31,True
+3145a65fa599130f175c,CUST000168,Prime Logistics 168,Small Business,Retail,Monterrey,NL,MEX,Southwest,,843996.7,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+d07c1e22415daf333e70,CUST000169,Nova Trading 169,Small Business,Technology,Boston,MA,USA,Northeast,,101368.4,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+ba817e6aa23e82a693e4,CUST000170,Prime Group 170,Unknown,Food Service,Guadalajara,JA,MEX,Southwest,,292612.1,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+a57293757fbe7439ed97,CUST000171,Prime Supply 171,Small Business,Education,Guadalajara,JA,MEX,Southwest,2023-11-19,98287.33,PREPAID,High,True,2023-11-19,customer_master,9999-12-31,True
+f99fb1922ea21023c656,CUST000172,Summit Logistics 172,Enterprise,Food Service,Chicago,IL,USA,Midwest,2021-06-27,47261.1,NET30,High,True,2021-06-27,customer_master,9999-12-31,True
+ede25c1777bd54213219,CUST000173,Prime Group 173,Unknown,Technology,Toronto,ON,CAN,Northeast,2026-01-17,942026.72,NET30,High,False,2026-01-17,customer_master,2026-04-02,False
+036abe83d1ea66247b7b,CUST000173,Prime Group 173,Small Business,Technology,Toronto,ON,CAN,Northeast,2026-01-17,942026.72,NET45,Medium,False,2026-04-02,risk_event,9999-12-31,True
+9fbf64e85d4d809e69d3,CUST000174,Blueriver Partners 174,Enterprise,Food Service,Atlanta,GA,USA,Southeast,,43278.26,NET45,Medium,True,1900-01-01,customer_master,9999-12-31,True
+76da05cc9ba494089f88,CUST000175,Apex Markets 175,Unknown,Food Service,Chicago,IL,USA,Midwest,,218158.67,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+d7a5e005c6c820c9aac2,CUST000176,Blueriver Group 176,Small Business,Retail,Toronto,ON,CAN,Northeast,,22659.82,NET45,Medium,False,1900-01-01,customer_master,2026-05-09,False
+61ee5828837eb8666af2,CUST000176,Blueriver Group 176,Small Business,Retail,Toronto,ON,CAN,Northeast,,22659.82,NET60,Medium,False,2026-05-09,credit_review,9999-12-31,True
+75fde18d16a1700ac5cb,CUST000177,Summit Trading 177,Mid Market,Food Service,Chicago,IL,USA,Midwest,,486952.82,NET45,Low,False,1900-01-01,customer_master,9999-12-31,True
+b0e3bef9d0c306835ad4,CUST000178,Blueriver Markets 178,Wholesale,Technology,Dallas,TX,USA,Southwest,2022-02-28,205930.67,PREPAID,Medium,True,2022-02-28,customer_master,2026-04-21,False
+c64b0fe9de534056b266,CUST000178,Blueriver Markets 178,Small Business,Technology,Dallas,TX,USA,Southwest,2022-02-28,205930.67,NET30,Low,True,2026-04-21,annual_review,9999-12-31,True
+a3feeaa05321340f7bc0,CUST000179,Northstar Logistics 179,Retail,Technology,Seattle,WA,USA,West,,43046.4,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+9b0337594c4abd898b2d,CUST000180,Urban Supply 180,Retail,Healthcare,Monterrey,NL,MEX,Southwest,2021-07-01,27467.43,NET30,Medium,True,2021-07-01,customer_master,9999-12-31,True
+6a2a693cfe3db97c6907,CUST000181,Urban Markets 181,Small Business,Technology,Miami,FL,USA,Southeast,,1128217.06,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+3f623c49c890dfb1a17d,CUST000182,Apex Partners 182,Enterprise,Education,Vancouver,BC,CAN,West,2025-06-01,210128.98,NET60,Medium,False,2025-06-01,customer_master,9999-12-31,True
+aa3ef998b4a19daf2425,CUST000183,Prime Group 183,Small Business,Education,Boston,MA,USA,Northeast,2022-12-31,58699.48,NET60,Low,True,2022-12-31,customer_master,9999-12-31,True
+958da1af91b68841e87e,CUST000184,Apex Markets 184,Small Business,Healthcare,Miami,FL,USA,Southeast,,47224.74,NET30,Medium,True,1900-01-01,customer_master,2026-04-02,False
+18bdd95cfe654805995f,CUST000184,Apex Markets 184,Wholesale,Healthcare,Miami,FL,USA,Southeast,,47224.74,PREPAID,Low,True,2026-04-02,annual_review,9999-12-31,True
+163ff4e8dda4e8808d57,CUST000185,Prime Logistics 185,Wholesale,Technology,Atlanta,GA,USA,Southeast,,23310.75,NET45,High,False,1900-01-01,customer_master,9999-12-31,True
+f3200bc8f147ff4e7371,CUST000186,Prime Partners 186,Unknown,Construction,Guadalajara,JA,MEX,Southwest,,20579.41,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+fc6b161e0ce4fe539ca9,CUST000187,Summit Group 187,Enterprise,Construction,Denver,CO,USA,West,,49637.85,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+cf7f5b30f251eb381818,CUST000188,Apex Supply 188,Small Business,Healthcare,Phoenix,AZ,USA,Southwest,,883451.19,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+57ea7ff6df6d019af81e,CUST000189,Clearpath Supply 189,Mid Market,Construction,Guadalajara,JA,MEX,Southwest,,1019848.56,PREPAID,Medium,False,1900-01-01,customer_master,9999-12-31,True
+8cd15b4225e5a166a66f,CUST000190,Apex Group 190,Wholesale,Food Service,Boston,MA,USA,Northeast,,281296.14,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+86b665738da9442bf901,CUST000191,Clearpath Logistics 191,Enterprise,Education,Boston,MA,USA,Northeast,,54591.52,NET45,Low,False,1900-01-01,customer_master,2026-01-30,False
+8198c2a4b2c0902abd6b,CUST000191,Clearpath Logistics 191,Wholesale,Education,Boston,MA,USA,Northeast,,54591.52,NET30,High,False,2026-01-30,customer_growth,9999-12-31,True
+6216a6156f9d117b31a6,CUST000192,Urban Logistics 192,Unknown,Construction,Atlanta,GA,USA,Southeast,,256961.49,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+5045f640680b6ddd7b91,CUST000193,Summit Logistics 193,Wholesale,Retail,Miami,FL,USA,Southeast,2022-02-12,59644.27,NET45,Low,True,2022-02-12,customer_master,2026-01-17,False
+dd2128e4f99c6f14a3c1,CUST000193,Summit Logistics 193,Enterprise,Retail,Miami,FL,USA,Southeast,2022-02-12,59644.27,NET30,Medium,True,2026-01-17,credit_review,9999-12-31,True
+72458b8c74e3f4e6eb2e,CUST000194,Northstar Supply 194,Small Business,Healthcare,Miami,FL,USA,Southeast,,25031.55,PREPAID,Medium,True,1900-01-01,customer_master,9999-12-31,True
+b68faa5aaf25b5745418,CUST000195,Prime Partners 195,Retail,Food Service,Denver,CO,USA,West,,48710.16,NET30,Low,True,1900-01-01,customer_master,2026-04-23,False
+c64486e05ad60e888575,CUST000195,Prime Partners 195,Wholesale,Food Service,Denver,CO,USA,West,,48710.16,NET30,Medium,True,2026-04-23,annual_review,9999-12-31,True
+d688a5068381b2f28ad8,CUST000196,Blueriver Logistics 196,Unknown,Construction,Toronto,ON,CAN,Northeast,2025-04-18,216980.5,NET60,Low,True,2025-04-18,customer_master,2026-02-06,False
+87299f7445f9f391548a,CUST000196,Blueriver Logistics 196,Wholesale,Construction,Toronto,ON,CAN,Northeast,2025-04-18,216980.5,PREPAID,Medium,True,2026-02-06,risk_event,9999-12-31,True
+55207e20f6bbb14edf6c,CUST000197,Urban Markets 197,Small Business,Construction,Seattle,WA,USA,West,,111904.24,NET60,Medium,False,1900-01-01,customer_master,2026-01-24,False
+383f4faa9d8ef47a963e,CUST000197,Urban Markets 197,Enterprise,Construction,Seattle,WA,USA,West,,111904.24,NET45,Medium,False,2026-01-24,risk_event,9999-12-31,True
+bfc788add3b386d00ccd,CUST000198,Blueriver Partners 198,Retail,Technology,Chicago,IL,USA,Midwest,2025-07-06,84005.3,NET30,Low,False,2025-07-06,customer_master,9999-12-31,True
+9374be595984336f8bd4,CUST000199,Clearpath Partners 199,Unknown,Manufacturing,Vancouver,BC,CAN,West,,24703.98,NET45,Low,True,1900-01-01,customer_master,2026-01-31,False
+ea37d14abedf9288ccda,CUST000199,Clearpath Partners 199,Retail,Manufacturing,Vancouver,BC,CAN,West,,24703.98,NET60,Medium,True,2026-01-31,credit_review,9999-12-31,True
+4678971762db29612953,CUST000200,Blueriver Trading 200,Enterprise,Food Service,Guadalajara,JA,MEX,Southwest,2024-10-05,859442.69,NET30,Low,True,2024-10-05,customer_master,9999-12-31,True
+156a6258e63d46b880bd,CUST000201,Clearpath Partners 201,Mid Market,Education,Denver,CO,USA,West,,209379.64,NET30,Low,True,1900-01-01,customer_master,2026-02-26,False
+36d940092feb892570ee,CUST000201,Clearpath Partners 201,Wholesale,Education,Denver,CO,USA,West,,209379.64,PREPAID,Medium,True,2026-02-26,annual_review,9999-12-31,True
+14c6397e570199273f5e,CUST000202,Prime Partners 202,Small Business,Education,Guadalajara,JA,MEX,Southwest,,219650.09,PREPAID,Medium,True,1900-01-01,customer_master,9999-12-31,True
+2711cbb79ade293e7d35,CUST000203,Apex Logistics 203,Enterprise,Retail,Dallas,TX,USA,Southwest,2021-01-23,210642.44,NET30,Medium,False,2021-01-23,customer_master,9999-12-31,True
+569ecc72cbee56a4617f,CUST000204,Urban Group 204,Enterprise,Manufacturing,Guadalajara,JA,MEX,Southwest,,810104.64,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+e3d05e7019c88be89115,CUST000205,Blueriver Markets 205,Small Business,Food Service,Dallas,TX,USA,Southwest,,1084875.0,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+442d7d11ceb56f04488c,CUST000206,Nova Group 206,Unknown,Retail,Seattle,WA,USA,West,,20836.87,NET45,Medium,True,1900-01-01,customer_master,2026-05-22,False
+e7960d0e808eec8c494f,CUST000206,Nova Group 206,Retail,Retail,Seattle,WA,USA,West,,20836.87,NET60,Medium,True,2026-05-22,credit_review,9999-12-31,True
+5a36f8fcc3f524b779db,CUST000207,Blueriver Logistics 207,Mid Market,Food Service,Vancouver,BC,CAN,West,2022-07-30,86209.24,PREPAID,Low,True,2022-07-30,customer_master,9999-12-31,True
+fc657f8ff7d0e402b88a,CUST000208,Urban Logistics 208,Mid Market,Education,Boston,MA,USA,Northeast,,26819.44,NET45,High,False,1900-01-01,customer_master,9999-12-31,True
+1960cddc022b16e19f98,CUST000209,Apex Logistics 209,Wholesale,Technology,Boston,MA,USA,Northeast,2023-01-31,23548.88,NET30,Low,True,2023-01-31,customer_master,2026-01-26,False
+1e93f63a04a2a7b3f1a9,CUST000209,Apex Logistics 209,Small Business,Technology,Boston,MA,USA,Northeast,2023-01-31,23548.88,PREPAID,Medium,True,2026-01-26,credit_review,9999-12-31,True
+8d4f812c0bdf790e022f,CUST000210,Northstar Supply 210,Small Business,Food Service,Dallas,TX,USA,Southwest,2023-10-22,26027.5,NET45,Low,False,2023-10-22,customer_master,2026-03-16,False
+c0f69bf416af6e95bf20,CUST000210,Northstar Supply 210,Wholesale,Food Service,Dallas,TX,USA,Southwest,2023-10-22,26027.5,NET60,Low,False,2026-03-16,credit_review,9999-12-31,True
+900443da29e2a11ba410,CUST000211,Northstar Logistics 211,Wholesale,Education,Boston,MA,USA,Northeast,2022-03-21,592257.84,NET45,High,True,2022-03-21,customer_master,2026-05-06,False
+bb1e8dbd443ece664537,CUST000211,Northstar Logistics 211,Small Business,Education,Boston,MA,USA,Northeast,2022-03-21,592257.84,PREPAID,High,True,2026-05-06,annual_review,9999-12-31,True
+1b43024c9d4a7ff92458,CUST000212,Blueriver Supply 212,Unknown,Retail,Toronto,ON,CAN,Northeast,,553157.95,NET30,High,False,1900-01-01,customer_master,9999-12-31,True
+a442dd69e6afd96774ee,CUST000213,Summit Logistics 213,Enterprise,Technology,Chicago,IL,USA,Midwest,,486281.94,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+ab1ca84884b3e47f6f84,CUST000214,Nova Trading 214,Retail,Construction,Seattle,WA,USA,West,,91452.13,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+cc8b89e8010e1ee840ab,CUST000215,Northstar Logistics 215,Retail,Construction,Toronto,ON,CAN,Northeast,,50594.87,NET30,Medium,True,1900-01-01,customer_master,2026-05-27,False
+d513b9926ab2c6abb560,CUST000215,Northstar Logistics 215,Mid Market,Construction,Toronto,ON,CAN,Northeast,,50594.87,NET60,Low,True,2026-05-27,customer_growth,9999-12-31,True
+52264bf9e7b2e74692c9,CUST000216,Urban Trading 216,Wholesale,Food Service,Seattle,WA,USA,West,,213404.87,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+53da87e7b44255201ad8,CUST000217,Urban Trading 217,Enterprise,Food Service,Miami,FL,USA,Southeast,2024-05-19,1155547.23,NET30,Medium,True,2024-05-19,customer_master,9999-12-31,True
+c352756f4efd9e71e56e,CUST000218,Nova Group 218,Small Business,Technology,Seattle,WA,USA,West,,223669.23,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+3ab61bc5d1aa52c2d184,CUST000219,Blueriver Group 219,Mid Market,Education,Toronto,ON,CAN,Northeast,2025-02-26,429309.72,NET30,Low,True,2025-02-26,customer_master,9999-12-31,True
+5f25ad04d31f433e70aa,CUST000220,Summit Group 220,Unknown,Retail,Toronto,ON,CAN,Northeast,2024-04-02,119545.3,NET30,Low,False,2024-04-02,customer_master,9999-12-31,True
+b4377957cb4f43fd1012,CUST000221,Nova Supply 221,Enterprise,Healthcare,Miami,FL,USA,Southeast,2021-01-05,55602.84,NET45,Low,True,2021-01-05,customer_master,2026-05-10,False
+3fd53ab9b3e2084d337e,CUST000221,Nova Supply 221,Wholesale,Healthcare,Miami,FL,USA,Southeast,2021-01-05,55602.84,NET45,Medium,True,2026-05-10,risk_event,9999-12-31,True
+cbfe0b87c7dba59a0c09,CUST000222,Northstar Group 222,Retail,Construction,Guadalajara,JA,MEX,Southwest,,53168.69,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+58ad7a2522cdba65a5b5,CUST000223,Summit Trading 223,Mid Market,Technology,Seattle,WA,USA,West,2022-07-03,457422.57,NET60,Low,False,2022-07-03,customer_master,9999-12-31,True
+44837edb7e932d050323,CUST000224,Northstar Logistics 224,Enterprise,Education,Atlanta,GA,USA,Southeast,,59028.55,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+bc7b90132ce171ca84d8,CUST000225,Nova Group 225,Mid Market,Retail,Denver,CO,USA,West,,24088.36,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+72d095465cb710a7ac44,CUST000226,Nova Markets 226,Small Business,Retail,Denver,CO,USA,West,,211864.08,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+dd4cfc47c3ab6c2fc3af,CUST000227,Northstar Partners 227,Wholesale,Construction,Seattle,WA,USA,West,,1172969.83,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+ce1631e46e1eea1a2cb9,CUST000228,Prime Partners 228,Small Business,Education,Dallas,TX,USA,Southwest,,583752.14,PREPAID,Medium,False,1900-01-01,customer_master,2026-01-22,False
+0b760a40a66fc4dd816d,CUST000228,Prime Partners 228,Retail,Education,Dallas,TX,USA,Southwest,,583752.14,NET60,Low,False,2026-01-22,customer_growth,9999-12-31,True
+a713380b254d84b5e8a3,CUST000229,Apex Group 229,Enterprise,Healthcare,Atlanta,GA,USA,Southeast,,1172236.24,NET60,Low,False,1900-01-01,customer_master,9999-12-31,True
+3467600d05d3cd570972,CUST000230,Prime Supply 230,Mid Market,Construction,Chicago,IL,USA,Midwest,,45675.56,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+77fc2fb543039cad2022,CUST000231,Summit Logistics 231,Small Business,Education,Phoenix,AZ,USA,Southwest,2025-01-01,102010.12,NET30,Medium,False,2025-01-01,customer_master,2026-04-21,False
+88101b5ce22453ec397e,CUST000231,Summit Logistics 231,Wholesale,Education,Phoenix,AZ,USA,Southwest,2025-01-01,102010.12,PREPAID,High,False,2026-04-21,risk_event,9999-12-31,True
+d5d628d577da5fb524a3,CUST000232,Northstar Group 232,Enterprise,Education,Monterrey,NL,MEX,Southwest,,814404.1,NET45,Medium,True,1900-01-01,customer_master,9999-12-31,True
+d34380ef3a6153e829f2,CUST000233,Nova Logistics 233,Enterprise,Healthcare,Phoenix,AZ,USA,Southwest,2021-07-06,115595.88,NET60,High,True,2021-07-06,customer_master,9999-12-31,True
+042326ce996f024aa996,CUST000234,Blueriver Trading 234,Unknown,Manufacturing,Chicago,IL,USA,Midwest,,41762.9,PREPAID,Low,False,1900-01-01,customer_master,9999-12-31,True
+f02cb416e6204fdd596c,CUST000235,Northstar Markets 235,Enterprise,Technology,Phoenix,AZ,USA,Southwest,2021-10-04,254329.42,NET60,Medium,True,2021-10-04,customer_master,2026-04-16,False
+2f53ea906db1f4c3de56,CUST000235,Northstar Markets 235,Small Business,Technology,Phoenix,AZ,USA,Southwest,2021-10-04,254329.42,NET45,Low,True,2026-04-16,risk_event,9999-12-31,True
+c82cce7838f445020ab7,CUST000236,Blueriver Partners 236,Enterprise,Education,Boston,MA,USA,Northeast,2023-10-28,257348.18,NET45,Medium,True,2023-10-28,customer_master,9999-12-31,True
+24ec370863c5a4fd4772,CUST000237,Northstar Group 237,Enterprise,Technology,Vancouver,BC,CAN,West,,457584.85,NET60,Low,True,1900-01-01,customer_master,2026-01-31,False
+fdac58edee4b0defa4fa,CUST000237,Northstar Group 237,Mid Market,Technology,Vancouver,BC,CAN,West,,457584.85,NET45,High,True,2026-01-31,customer_growth,9999-12-31,True
+12e2e444c5bf97d7aaa2,CUST000238,Summit Trading 238,Wholesale,Manufacturing,Seattle,WA,USA,West,2022-03-02,222435.97,NET30,Medium,True,2022-03-02,customer_master,2026-02-04,False
+2f83e2069ddd813256f1,CUST000238,Summit Trading 238,Wholesale,Manufacturing,Seattle,WA,USA,West,2022-03-02,222435.97,NET30,Medium,True,2026-02-04,risk_event,9999-12-31,True
+68b1e32002ea9199ef1d,CUST000239,Urban Supply 239,Enterprise,Manufacturing,Miami,FL,USA,Southeast,2022-07-01,83487.64,PREPAID,Low,True,2022-07-01,customer_master,9999-12-31,True
+955592a08a188f083681,CUST000240,Nova Supply 240,Small Business,Construction,Guadalajara,JA,MEX,Southwest,,523791.26,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+ea79be078e62afd1c0b5,CUST000241,Nova Trading 241,Retail,Retail,Toronto,ON,CAN,Northeast,,53546.21,NET45,Low,True,1900-01-01,customer_master,2026-01-29,False
+ae09a59e14688caaf813,CUST000241,Nova Trading 241,Mid Market,Retail,Toronto,ON,CAN,Northeast,,53546.21,PREPAID,Medium,True,2026-01-29,annual_review,9999-12-31,True
+88b5b20a078400ec2584,CUST000242,Blueriver Partners 242,Unknown,Manufacturing,Seattle,WA,USA,West,,23375.29,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+87c1ee6ee63fb88157b9,CUST000243,Northstar Markets 243,Enterprise,Manufacturing,Miami,FL,USA,Southeast,2021-04-04,106793.24,NET30,High,False,2021-04-04,customer_master,9999-12-31,True
+cc7ddb5b6a9f8d66c31b,CUST000244,Urban Markets 244,Enterprise,Technology,Seattle,WA,USA,West,,982908.48,NET30,High,False,1900-01-01,customer_master,9999-12-31,True
+a3209c2cc991e04a1c7b,CUST000245,Blueriver Trading 245,Small Business,Healthcare,Dallas,TX,USA,Southwest,,26095.03,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+c9e49d1c0a81aaa138b9,CUST000246,Summit Partners 246,Small Business,Healthcare,Dallas,TX,USA,Southwest,,23214.05,NET60,Medium,False,1900-01-01,customer_master,9999-12-31,True
+525129ca8abeb646a980,CUST000247,Northstar Supply 247,Small Business,Technology,Toronto,ON,CAN,Northeast,,116040.2,NET60,High,True,1900-01-01,customer_master,9999-12-31,True
+8a450fec89fec0a70bfe,CUST000248,Urban Supply 248,Unknown,Retail,Denver,CO,USA,West,,456410.78,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+844bb058218bf1cd8a6a,CUST000249,Urban Trading 249,Enterprise,Manufacturing,Dallas,TX,USA,Southwest,2024-10-30,994246.04,PREPAID,High,False,2024-10-30,customer_master,9999-12-31,True
+dfeabc3158dfe7d1ea5d,CUST000250,Apex Logistics 250,Unknown,Retail,Chicago,IL,USA,Midwest,,103230.37,NET30,Low,True,1900-01-01,customer_master,2026-01-29,False
+061e4b5632bccfe21043,CUST000250,Apex Logistics 250,Retail,Retail,Chicago,IL,USA,Midwest,,103230.37,NET60,High,True,2026-01-29,credit_review,9999-12-31,True
+9d29afd92bc0fc781808,CUST000251,Blueriver Trading 251,Small Business,Technology,Monterrey,NL,MEX,Southwest,,232017.22,PREPAID,High,True,1900-01-01,customer_master,2026-03-14,False
+e0a802dd0ff0a7b4942f,CUST000251,Blueriver Trading 251,Wholesale,Technology,Monterrey,NL,MEX,Southwest,,232017.22,NET30,Medium,True,2026-03-14,customer_growth,9999-12-31,True
+57516738c35b73058e28,CUST000252,Summit Trading 252,Unknown,Construction,Seattle,WA,USA,West,,289702.01,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+ba964c5e3276091eeeb9,CUST000253,Urban Partners 253,Small Business,Manufacturing,Monterrey,NL,MEX,Southwest,2025-11-15,559806.69,NET30,Low,True,2025-11-15,customer_master,9999-12-31,True
+3798382d44d564506b3d,CUST000254,Urban Group 254,Small Business,Manufacturing,Atlanta,GA,USA,Southeast,,85503.85,NET45,High,True,1900-01-01,customer_master,2026-04-13,False
+3d90330dbcf4cafc73ea,CUST000254,Urban Group 254,Enterprise,Manufacturing,Atlanta,GA,USA,Southeast,,85503.85,NET30,High,True,2026-04-13,credit_review,9999-12-31,True
+fda95a570437d20af55f,CUST000255,Urban Logistics 255,Enterprise,Technology,Miami,FL,USA,Southeast,,496791.4,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+13806aa9cab62866ad27,CUST000256,Nova Trading 256,Mid Market,Manufacturing,Dallas,TX,USA,Southwest,,42351.01,NET45,Low,False,1900-01-01,customer_master,2026-05-05,False
+e5d6b303c1aab5c39c88,CUST000256,Nova Trading 256,Wholesale,Manufacturing,Dallas,TX,USA,Southwest,,42351.01,NET30,Low,False,2026-05-05,annual_review,9999-12-31,True
+3a9b951a9c157069f64d,CUST000257,Northstar Supply 257,Unknown,Technology,Guadalajara,JA,MEX,Southwest,,54756.8,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+0f68ec79e489d3457edf,CUST000258,Nova Trading 258,Wholesale,Healthcare,Denver,CO,USA,West,2023-04-25,228450.62,NET45,High,True,2023-04-25,customer_master,9999-12-31,True
+ffac96978c833812f412,CUST000259,Summit Supply 259,Retail,Education,Chicago,IL,USA,Midwest,,29471.97,PREPAID,Medium,True,1900-01-01,customer_master,9999-12-31,True
+2ea5dbf38b756a036870,CUST000260,Northstar Supply 260,Mid Market,Food Service,Toronto,ON,CAN,Northeast,,116470.59,NET45,High,True,1900-01-01,customer_master,9999-12-31,True
+298d42873de6d3a35de5,CUST000261,Clearpath Supply 261,Unknown,Food Service,Atlanta,GA,USA,Southeast,2025-09-13,48118.52,PREPAID,Low,False,2025-09-13,customer_master,2026-02-15,False
+0b884fe0af5195aeda60,CUST000261,Clearpath Supply 261,Mid Market,Food Service,Atlanta,GA,USA,Southeast,2025-09-13,48118.52,NET30,High,False,2026-02-15,annual_review,9999-12-31,True
+02229e231a804a97cc55,CUST000262,Urban Logistics 262,Mid Market,Manufacturing,Phoenix,AZ,USA,Southwest,,21416.43,NET60,Low,True,1900-01-01,customer_master,2026-03-18,False
+98553bb10b0f43b1bde9,CUST000262,Urban Logistics 262,Mid Market,Manufacturing,Phoenix,AZ,USA,Southwest,,21416.43,NET30,Medium,True,2026-03-18,customer_growth,9999-12-31,True
+46d7da26d234047c621b,CUST000263,Blueriver Trading 263,Wholesale,Construction,Denver,CO,USA,West,,40574.19,NET60,Low,True,1900-01-01,customer_master,2026-05-17,False
+8e36a0862f10163b6be2,CUST000263,Blueriver Trading 263,Enterprise,Construction,Denver,CO,USA,West,,40574.19,NET45,Medium,True,2026-05-17,customer_growth,9999-12-31,True
+7adc1898cecd67baeec6,CUST000264,Blueriver Logistics 264,Retail,Retail,Chicago,IL,USA,Midwest,,1189796.34,PREPAID,Low,True,1900-01-01,customer_master,2026-02-14,False
+bdbd5cf35493193bf2fd,CUST000264,Blueriver Logistics 264,Mid Market,Retail,Chicago,IL,USA,Midwest,,1189796.34,NET45,Low,True,2026-02-14,customer_growth,9999-12-31,True
+850c18deaae04f38b762,CUST000265,Blueriver Partners 265,Wholesale,Education,Seattle,WA,USA,West,2022-02-18,466424.24,NET30,Medium,False,2022-02-18,customer_master,2026-04-16,False
+5d4c6a87e2441cba40ae,CUST000265,Blueriver Partners 265,Wholesale,Education,Seattle,WA,USA,West,2022-02-18,466424.24,NET30,Low,False,2026-04-16,credit_review,9999-12-31,True
+d4e575f159af83aa8e93,CUST000266,Blueriver Trading 266,Wholesale,Retail,Boston,MA,USA,Northeast,,830267.91,NET60,Low,False,1900-01-01,customer_master,2026-01-22,False
+b7eae1d7e6ce5e32a9b6,CUST000266,Blueriver Trading 266,Enterprise,Retail,Boston,MA,USA,Northeast,,830267.91,PREPAID,Low,False,2026-01-22,annual_review,9999-12-31,True
+4d92a8bbca1e04736d99,CUST000267,Prime Logistics 267,Wholesale,Food Service,Atlanta,GA,USA,Southeast,,1103877.78,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+7f492ae450b22c8fdce9,CUST000268,Nova Partners 268,Enterprise,Construction,Toronto,ON,CAN,Northeast,2023-10-15,94038.34,NET30,Low,True,2023-10-15,customer_master,2026-05-31,False
+32119e0721bf5bb8a9ad,CUST000268,Nova Partners 268,Mid Market,Construction,Toronto,ON,CAN,Northeast,2023-10-15,94038.34,PREPAID,Low,True,2026-05-31,credit_review,9999-12-31,True
+16d940da74736fa92ce2,CUST000269,Urban Partners 269,Enterprise,Healthcare,Vancouver,BC,CAN,West,,556035.57,NET60,Low,False,1900-01-01,customer_master,9999-12-31,True
+d61b84013911572cd636,CUST000270,Urban Trading 270,Mid Market,Healthcare,Seattle,WA,USA,West,2021-03-17,541250.26,NET30,Low,False,2021-03-17,customer_master,9999-12-31,True
+813c5c5d56f8f305d2f3,CUST000271,Prime Markets 271,Small Business,Education,Monterrey,NL,MEX,Southwest,,985058.26,PREPAID,Medium,True,1900-01-01,customer_master,2026-02-20,False
+4fa12d4f3bcbe6a03c48,CUST000271,Prime Markets 271,Small Business,Education,Monterrey,NL,MEX,Southwest,,985058.26,NET30,High,True,2026-02-20,annual_review,9999-12-31,True
+9cc7eb1e06143e850b44,CUST000272,Summit Trading 272,Wholesale,Manufacturing,Monterrey,NL,MEX,Southwest,,29174.05,NET45,Medium,False,1900-01-01,customer_master,9999-12-31,True
+af7930fe159f0bd65c83,CUST000273,Urban Logistics 273,Small Business,Food Service,Vancouver,BC,CAN,West,,951468.92,PREPAID,Medium,True,1900-01-01,customer_master,9999-12-31,True
+fb6a9edb5ddf10bca333,CUST000274,Blueriver Logistics 274,Enterprise,Healthcare,Denver,CO,USA,West,,543814.12,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+49ba02abf0e029886065,CUST000275,Urban Logistics 275,Mid Market,Healthcare,Guadalajara,JA,MEX,Southwest,,104307.1,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+ecc9ce851aed0655ea7b,CUST000276,Prime Group 276,Retail,Retail,Toronto,ON,CAN,Northeast,,43719.37,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+aecb43251940877d0eba,CUST000277,Blueriver Group 277,Enterprise,Construction,Guadalajara,JA,MEX,Southwest,,57167.94,NET45,Low,True,1900-01-01,customer_master,2026-02-25,False
+d5dccbf1b43374491f03,CUST000277,Blueriver Group 277,Small Business,Construction,Guadalajara,JA,MEX,Southwest,,57167.94,NET60,Low,True,2026-02-25,customer_growth,9999-12-31,True
+5dd0d144690bd9b0604c,CUST000278,Prime Group 278,Small Business,Food Service,Denver,CO,USA,West,2024-11-21,553520.37,PREPAID,Low,False,2024-11-21,customer_master,2026-05-05,False
+67c7a8d404a8222f482e,CUST000278,Prime Group 278,Wholesale,Food Service,Denver,CO,USA,West,2024-11-21,553520.37,NET30,High,False,2026-05-05,risk_event,9999-12-31,True
+a671449b763a7c5b1d9f,CUST000279,Blueriver Partners 279,Enterprise,Food Service,Boston,MA,USA,Northeast,2024-04-30,26380.41,NET30,Low,False,2024-04-30,customer_master,2026-05-10,False
+de31e2eb61904a8ed57e,CUST000279,Blueriver Partners 279,Wholesale,Food Service,Boston,MA,USA,Northeast,2024-04-30,26380.41,NET60,Low,False,2026-05-10,credit_review,9999-12-31,True
+7b0e5280f65cdfedb832,CUST000280,Urban Group 280,Enterprise,Healthcare,Chicago,IL,USA,Midwest,,436037.02,NET45,High,True,1900-01-01,customer_master,2026-03-16,False
+1a5066233896ef525bd8,CUST000280,Urban Group 280,Enterprise,Healthcare,Chicago,IL,USA,Midwest,,436037.02,NET30,Medium,True,2026-03-16,annual_review,9999-12-31,True
+d99af79a1790a1ea763e,CUST000281,Summit Supply 281,Mid Market,Technology,Phoenix,AZ,USA,Southwest,2022-03-04,114916.55,NET60,Low,True,2022-03-04,customer_master,9999-12-31,True
+a41a2111219ddb42b7ea,CUST000282,Northstar Partners 282,Enterprise,Food Service,Phoenix,AZ,USA,Southwest,2023-04-06,28295.24,NET30,Low,True,2023-04-06,customer_master,9999-12-31,True
+22b919575ba0d5a1750b,CUST000283,Clearpath Markets 283,Mid Market,Healthcare,Atlanta,GA,USA,Southeast,,231175.13,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+003fd68032290091aa04,CUST000284,Apex Markets 284,Retail,Food Service,Guadalajara,JA,MEX,Southwest,,425176.96,NET60,Low,False,1900-01-01,customer_master,2026-03-25,False
+ef129f39ced35bc18a09,CUST000284,Apex Markets 284,Enterprise,Food Service,Guadalajara,JA,MEX,Southwest,,425176.96,NET45,Medium,False,2026-03-25,annual_review,9999-12-31,True
+7edfcd8a763aac510380,CUST000285,Summit Partners 285,Enterprise,Technology,Vancouver,BC,CAN,West,,54232.67,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+bcf84a63716cd8e5a166,CUST000286,Nova Trading 286,Enterprise,Construction,Monterrey,NL,MEX,Southwest,,208960.86,NET45,Medium,True,1900-01-01,customer_master,9999-12-31,True
+9eb25faf1967f62a660f,CUST000287,Summit Partners 287,Small Business,Retail,Vancouver,BC,CAN,West,2024-12-22,1036485.87,NET45,Low,False,2024-12-22,customer_master,9999-12-31,True
+c4a8f4198e166acb3c28,CUST000288,Apex Partners 288,Small Business,Healthcare,Vancouver,BC,CAN,West,,98779.13,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+2c58febec2d30af8ccb8,CUST000289,Urban Group 289,Enterprise,Retail,Atlanta,GA,USA,Southeast,,102901.31,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+a6872000cf36085d5e88,CUST000290,Clearpath Logistics 290,Small Business,Construction,Denver,CO,USA,West,2023-07-25,113839.82,NET30,Medium,False,2023-07-25,customer_master,9999-12-31,True
+21946030bf2fa3873f64,CUST000291,Prime Logistics 291,Unknown,Technology,Guadalajara,JA,MEX,Southwest,,28863.85,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+bdd208db3264eca5060f,CUST000292,Clearpath Group 292,Small Business,Healthcare,Denver,CO,USA,West,,554964.06,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+b3ee1af982b46c6f82d2,CUST000293,Northstar Partners 293,Enterprise,Healthcare,Vancouver,BC,CAN,West,,22470.28,NET30,High,False,1900-01-01,customer_master,9999-12-31,True
+191f0d1439a7bacc48d2,CUST000294,Summit Markets 294,Mid Market,Manufacturing,Dallas,TX,USA,Southwest,,57233.48,NET45,Medium,True,1900-01-01,customer_master,2026-05-19,False
+551776c6d71e48bbc725,CUST000294,Summit Markets 294,Mid Market,Manufacturing,Dallas,TX,USA,Southwest,,57233.48,NET45,High,True,2026-05-19,customer_growth,9999-12-31,True
+93bb3bc076db667f387b,CUST000295,Prime Supply 295,Retail,Manufacturing,Miami,FL,USA,Southeast,,112061.04,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+47e23589b916a39185b4,CUST000296,Northstar Logistics 296,Unknown,Retail,Toronto,ON,CAN,Northeast,,219797.74,NET45,Medium,False,1900-01-01,customer_master,9999-12-31,True
+74f080cd62f4d53f24ef,CUST000297,Clearpath Group 297,Unknown,Healthcare,Atlanta,GA,USA,Southeast,2021-04-29,440159.3,NET30,Low,False,2021-04-29,customer_master,9999-12-31,True
+5f26bfc3a7c3de159bef,CUST000298,Clearpath Markets 298,Retail,Education,Phoenix,AZ,USA,Southwest,,40485.26,NET30,Low,True,1900-01-01,customer_master,2026-02-09,False
+fa382da7d53bc9b31206,CUST000298,Clearpath Markets 298,Wholesale,Education,Phoenix,AZ,USA,Southwest,,40485.26,NET30,Low,True,2026-02-09,annual_review,9999-12-31,True
+423877ad5457c17e04dc,CUST000299,Apex Group 299,Mid Market,Food Service,Dallas,TX,USA,Southwest,,1170977.71,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+d9745db0f6df010217b3,CUST000300,Northstar Partners 300,Unknown,Technology,Denver,CO,USA,West,,847083.38,NET30,Low,False,1900-01-01,customer_master,2026-05-02,False
+d688e817999f5bdb6ce1,CUST000300,Northstar Partners 300,Wholesale,Technology,Denver,CO,USA,West,,847083.38,NET60,Low,False,2026-05-02,risk_event,9999-12-31,True
+c3736f02d4d9bc609353,CUST000301,Apex Supply 301,Mid Market,Healthcare,Boston,MA,USA,Northeast,2022-08-01,89065.13,PREPAID,High,False,2022-08-01,customer_master,9999-12-31,True
+927c16a55598b5aa0fea,CUST000302,Nova Supply 302,Unknown,Construction,Seattle,WA,USA,West,,20220.18,NET60,Medium,True,1900-01-01,customer_master,9999-12-31,True
+00bfd79340e9d82d7387,CUST000303,Apex Markets 303,Retail,Education,Monterrey,NL,MEX,Southwest,,943466.84,NET60,High,False,1900-01-01,customer_master,9999-12-31,True
+fabcd80b51c0b73e3774,CUST000304,Summit Trading 304,Wholesale,Food Service,Toronto,ON,CAN,Northeast,2022-02-24,24143.68,PREPAID,Low,False,2022-02-24,customer_master,9999-12-31,True
+7738902bac75fc5682fb,CUST000305,Urban Partners 305,Enterprise,Construction,Phoenix,AZ,USA,Southwest,,23784.76,NET30,High,False,1900-01-01,customer_master,2026-04-20,False
+478163246c3617d1053d,CUST000305,Urban Partners 305,Small Business,Construction,Phoenix,AZ,USA,Southwest,,23784.76,NET30,High,False,2026-04-20,annual_review,9999-12-31,True
+1b7c9faed5447dc4ef50,CUST000306,Blueriver Markets 306,Small Business,Construction,Miami,FL,USA,Southeast,,53555.52,NET30,Low,True,1900-01-01,customer_master,2026-04-01,False
+659ddffbaa417d411242,CUST000306,Blueriver Markets 306,Small Business,Construction,Miami,FL,USA,Southeast,,53555.52,NET30,Medium,True,2026-04-01,credit_review,9999-12-31,True
+5cc11bd298d362b2b77d,CUST000307,Nova Markets 307,Enterprise,Healthcare,Phoenix,AZ,USA,Southwest,,902054.74,NET30,High,True,1900-01-01,customer_master,9999-12-31,True
+906e4867d6cabf67b1a9,CUST000308,Apex Trading 308,Retail,Construction,Chicago,IL,USA,Midwest,,40131.35,NET60,Medium,True,1900-01-01,customer_master,2026-04-12,False
+33c90667e7bea332ae07,CUST000308,Apex Trading 308,Enterprise,Construction,Chicago,IL,USA,Midwest,,40131.35,NET30,High,True,2026-04-12,annual_review,9999-12-31,True
+752bb090d4a078814993,CUST000309,Prime Supply 309,Retail,Construction,Denver,CO,USA,West,,54348.53,NET45,Low,False,1900-01-01,customer_master,2026-03-04,False
+6385c24444a4c86f5dd9,CUST000309,Prime Supply 309,Wholesale,Construction,Denver,CO,USA,West,,54348.53,NET60,High,False,2026-03-04,risk_event,9999-12-31,True
+94b6d7378b48fd02da9c,CUST000310,Northstar Supply 310,Unknown,Technology,Miami,FL,USA,Southeast,,41022.21,PREPAID,Low,False,1900-01-01,customer_master,9999-12-31,True
+8bba7eeffa28b05bf1e4,CUST000311,Urban Trading 311,Unknown,Manufacturing,Chicago,IL,USA,Midwest,2024-07-02,25089.26,PREPAID,Medium,False,2024-07-02,customer_master,9999-12-31,True
+f455f07049e884d4756b,CUST000312,Blueriver Trading 312,Enterprise,Healthcare,Atlanta,GA,USA,Southeast,2023-12-23,204303.75,NET30,Medium,True,2023-12-23,customer_master,9999-12-31,True
+2d4332e4e23353a62948,CUST000313,Apex Group 313,Unknown,Manufacturing,Miami,FL,USA,Southeast,,42292.49,NET30,Medium,False,1900-01-01,customer_master,2026-04-06,False
+267cfcff4048b28630ac,CUST000313,Apex Group 313,Mid Market,Manufacturing,Miami,FL,USA,Southeast,,42292.49,NET30,High,False,2026-04-06,annual_review,9999-12-31,True
+303cc7c4c576d1967344,CUST000314,Blueriver Group 314,Small Business,Technology,Seattle,WA,USA,West,,46148.61,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+abd9740d0f9864b1da95,CUST000315,Blueriver Trading 315,Enterprise,Construction,Boston,MA,USA,Northeast,,48539.51,NET45,Medium,True,1900-01-01,customer_master,2026-02-01,False
+a9ed58a81b448bbbed31,CUST000315,Blueriver Trading 315,Enterprise,Construction,Boston,MA,USA,Northeast,,48539.51,NET60,Medium,True,2026-02-01,annual_review,9999-12-31,True
+146707b5e3bb07b42473,CUST000316,Nova Markets 316,Wholesale,Education,Monterrey,NL,MEX,Southwest,,43616.46,PREPAID,High,True,1900-01-01,customer_master,9999-12-31,True
+9bd053434416f1cf2bee,CUST000317,Clearpath Supply 317,Retail,Retail,Atlanta,GA,USA,Southeast,,21350.23,PREPAID,Medium,False,1900-01-01,customer_master,9999-12-31,True
+7cac9d23b1772f77df22,CUST000318,Apex Trading 318,Enterprise,Construction,Guadalajara,JA,MEX,Southwest,2024-12-09,1027899.46,NET30,Medium,True,2024-12-09,customer_master,2026-02-08,False
+0c2032821261d5989c61,CUST000318,Apex Trading 318,Enterprise,Construction,Guadalajara,JA,MEX,Southwest,2024-12-09,1027899.46,NET45,Medium,True,2026-02-08,credit_review,9999-12-31,True
+89974efc5f2c8113afc5,CUST000319,Prime Markets 319,Mid Market,Retail,Guadalajara,JA,MEX,Southwest,,51038.17,NET45,Medium,True,1900-01-01,customer_master,9999-12-31,True
+f2068ed0f36863fc237a,CUST000320,Nova Group 320,Small Business,Healthcare,Vancouver,BC,CAN,West,2024-06-12,93930.43,NET30,High,True,2024-06-12,customer_master,9999-12-31,True
+02966b68972cec14116b,CUST000321,Blueriver Markets 321,Mid Market,Technology,Toronto,ON,CAN,Northeast,,1184427.16,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+2a5082fde4acf9f241d9,CUST000322,Blueriver Partners 322,Enterprise,Manufacturing,Dallas,TX,USA,Southwest,,84961.61,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+8706c84b561d6a82ce7b,CUST000323,Nova Supply 323,Small Business,Manufacturing,Denver,CO,USA,West,,58343.17,PREPAID,Low,False,1900-01-01,customer_master,9999-12-31,True
+55571ae56d5a44e41328,CUST000324,Blueriver Partners 324,Wholesale,Education,Denver,CO,USA,West,,40159.61,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+87df4dd53e011df54ba0,CUST000325,Summit Trading 325,Small Business,Manufacturing,Boston,MA,USA,Northeast,,102210.81,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+196149cae0e7f2e3b880,CUST000326,Clearpath Trading 326,Enterprise,Healthcare,Miami,FL,USA,Southeast,,937525.89,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+f7ac93de0e889926b16e,CUST000327,Northstar Group 327,Mid Market,Manufacturing,Boston,MA,USA,Northeast,2024-07-09,299872.43,NET60,Low,False,2024-07-09,customer_master,2026-04-18,False
+4595b75c9a6eaa165eec,CUST000327,Northstar Group 327,Enterprise,Manufacturing,Boston,MA,USA,Northeast,2024-07-09,299872.43,NET60,Low,False,2026-04-18,annual_review,9999-12-31,True
+602a5b4fa84dbba1f22e,CUST000328,Blueriver Supply 328,Small Business,Retail,Guadalajara,JA,MEX,Southwest,,52851.13,NET45,Low,False,1900-01-01,customer_master,9999-12-31,True
+912b00d5271f44c049b0,CUST000329,Prime Partners 329,Unknown,Construction,Miami,FL,USA,Southeast,,117578.87,PREPAID,Medium,False,1900-01-01,customer_master,9999-12-31,True
+e5cb92fb27a138a775a5,CUST000330,Nova Supply 330,Small Business,Healthcare,Seattle,WA,USA,West,,1195666.2,NET30,Low,True,1900-01-01,customer_master,2026-05-19,False
+0d247e7dfdf96520ecdd,CUST000330,Nova Supply 330,Mid Market,Healthcare,Seattle,WA,USA,West,,1195666.2,NET60,Medium,True,2026-05-19,credit_review,9999-12-31,True
+7423599caccf3915e369,CUST000331,Prime Supply 331,Mid Market,Retail,Vancouver,BC,CAN,West,2022-08-18,40395.12,PREPAID,Medium,False,2022-08-18,customer_master,9999-12-31,True
+2186cf8ed54647b0c8be,CUST000332,Apex Trading 332,Retail,Retail,Chicago,IL,USA,Midwest,,211406.83,NET45,High,True,1900-01-01,customer_master,9999-12-31,True
+06cea849730035448585,CUST000333,Apex Markets 333,Unknown,Food Service,Chicago,IL,USA,Midwest,,228732.7,NET30,High,True,1900-01-01,customer_master,9999-12-31,True
+089bc959059e752df4db,CUST000334,Prime Trading 334,Mid Market,Education,Atlanta,GA,USA,Southeast,,20954.74,PREPAID,Medium,False,1900-01-01,customer_master,9999-12-31,True
+6846599115e9643289fa,CUST000335,Apex Markets 335,Small Business,Retail,Dallas,TX,USA,Southwest,,1054613.79,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+1008e5c11016c414f482,CUST000336,Apex Group 336,Unknown,Manufacturing,Seattle,WA,USA,West,2024-09-25,20263.16,NET30,High,False,2024-09-25,customer_master,9999-12-31,True
+5142d705d4b354fcd485,CUST000337,Northstar Trading 337,Mid Market,Education,Miami,FL,USA,Southeast,,215190.96,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+44c8e789eb36ac669555,CUST000338,Clearpath Partners 338,Enterprise,Technology,Toronto,ON,CAN,Northeast,2021-09-03,1049462.74,NET30,High,True,2021-09-03,customer_master,9999-12-31,True
+8ccd42c29a4ba9b67f2e,CUST000339,Apex Trading 339,Small Business,Healthcare,Guadalajara,JA,MEX,Southwest,,98221.6,PREPAID,Low,False,1900-01-01,customer_master,9999-12-31,True
+16046926e07168d8d73d,CUST000340,Summit Trading 340,Small Business,Education,Chicago,IL,USA,Midwest,2026-03-02,50019.76,NET60,Medium,True,2026-02-07,credit_review,2026-03-02,False
+8de770e7b1a3608551c2,CUST000340,Summit Trading 340,Wholesale,Education,Chicago,IL,USA,Midwest,2026-03-02,50019.76,PREPAID,Low,True,2026-03-02,customer_master,9999-12-31,True
+c86507bb97a819cbd7e3,CUST000341,Prime Trading 341,Unknown,Retail,Denver,CO,USA,West,,58115.22,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+796706dfa9183b7fca1c,CUST000342,Clearpath Trading 342,Mid Market,Technology,Chicago,IL,USA,Midwest,,29903.17,PREPAID,Low,True,1900-01-01,customer_master,2026-03-31,False
+de26500b5815b409c708,CUST000342,Clearpath Trading 342,Retail,Technology,Chicago,IL,USA,Midwest,,29903.17,PREPAID,Low,True,2026-03-31,credit_review,9999-12-31,True
+9197ccbab21368fb0e2e,CUST000343,Apex Group 343,Enterprise,Technology,Guadalajara,JA,MEX,Southwest,2024-01-23,28742.14,NET30,Low,False,2024-01-23,customer_master,9999-12-31,True
+b40d9a7bcd14a1d44221,CUST000344,Northstar Group 344,Enterprise,Manufacturing,Boston,MA,USA,Northeast,2023-02-16,104487.38,PREPAID,Medium,True,2023-02-16,customer_master,9999-12-31,True
+ba90e06bf0a6dc2ed920,CUST000345,Apex Trading 345,Enterprise,Technology,Guadalajara,JA,MEX,Southwest,,243727.85,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+0a436bf1871ea7178640,CUST000346,Urban Group 346,Unknown,Retail,Boston,MA,USA,Northeast,2026-02-19,20707.05,NET30,Low,True,2026-02-19,customer_master,2026-05-14,False
+9bca41b45c2c56caf62f,CUST000346,Urban Group 346,Mid Market,Retail,Boston,MA,USA,Northeast,2026-02-19,20707.05,NET30,Low,True,2026-05-14,credit_review,9999-12-31,True
+77aba56dee6724c0f90e,CUST000347,Blueriver Partners 347,Unknown,Technology,Denver,CO,USA,West,,468956.07,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+bb1a9c1dac3467fd30da,CUST000348,Prime Trading 348,Small Business,Education,Miami,FL,USA,Southeast,,239108.49,NET30,Medium,False,1900-01-01,customer_master,2026-01-30,False
+731bb7ce127bc7cb64a9,CUST000348,Prime Trading 348,Wholesale,Education,Miami,FL,USA,Southeast,,239108.49,NET45,Medium,False,2026-01-30,credit_review,9999-12-31,True
+c0aeed27864612d108e3,CUST000349,Urban Partners 349,Mid Market,Education,Vancouver,BC,CAN,West,,58890.53,NET30,High,False,1900-01-01,customer_master,9999-12-31,True
+71f9856eaded148e4b35,CUST000350,Summit Group 350,Mid Market,Food Service,Toronto,ON,CAN,Northeast,,28894.75,NET60,Medium,True,1900-01-01,customer_master,2026-05-05,False
+0141c0db3bbf23e9d204,CUST000350,Summit Group 350,Small Business,Food Service,Toronto,ON,CAN,Northeast,,28894.75,NET45,Low,True,2026-05-05,annual_review,9999-12-31,True
+e576043220f6a9a0e20d,CUST000351,Northstar Group 351,Wholesale,Technology,Toronto,ON,CAN,Northeast,2026-01-19,102688.58,NET30,Medium,True,2026-01-19,customer_master,9999-12-31,True
+9ffa14719e7574487005,CUST000352,Nova Group 352,Retail,Education,Seattle,WA,USA,West,2025-12-14,28871.91,NET30,Medium,False,2025-12-14,customer_master,9999-12-31,True
+7995ea0c057844cc8fbe,CUST000353,Clearpath Trading 353,Unknown,Retail,Monterrey,NL,MEX,Southwest,,447802.72,PREPAID,Medium,True,1900-01-01,customer_master,2026-01-25,False
+4d6dc52d43c42a863cf0,CUST000353,Clearpath Trading 353,Mid Market,Retail,Monterrey,NL,MEX,Southwest,,447802.72,NET60,Medium,True,2026-01-25,annual_review,9999-12-31,True
+5ff188199dab5f592dd6,CUST000354,Northstar Trading 354,Wholesale,Education,Chicago,IL,USA,Midwest,2023-11-21,865975.61,PREPAID,Medium,False,2023-11-21,customer_master,2026-02-05,False
+0612d71a5d1a9ed4287d,CUST000354,Northstar Trading 354,Retail,Education,Chicago,IL,USA,Midwest,2023-11-21,865975.61,PREPAID,High,False,2026-02-05,risk_event,9999-12-31,True
+4721baa2e5baf3ae7f93,CUST000355,Northstar Trading 355,Retail,Food Service,Chicago,IL,USA,Midwest,2022-01-03,1044047.11,NET30,Medium,True,2022-01-03,customer_master,9999-12-31,True
+3844bc55427e5d7a31bb,CUST000356,Clearpath Supply 356,Wholesale,Retail,Boston,MA,USA,Northeast,,1113837.23,PREPAID,Medium,True,1900-01-01,customer_master,9999-12-31,True
+22b6d7b5b5c4e6335c29,CUST000357,Apex Trading 357,Small Business,Technology,Phoenix,AZ,USA,Southwest,,234210.75,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+9f254bf48a13b4f52cff,CUST000358,Nova Partners 358,Unknown,Retail,Guadalajara,JA,MEX,Southwest,,824070.61,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+a86ab5f093d05edb501f,CUST000359,Urban Markets 359,Retail,Healthcare,Boston,MA,USA,Northeast,,242722.69,NET60,Medium,True,1900-01-01,customer_master,2026-03-03,False
+be7cc0e65fe2371cc75a,CUST000359,Urban Markets 359,Mid Market,Healthcare,Boston,MA,USA,Northeast,,242722.69,NET45,High,True,2026-03-03,annual_review,9999-12-31,True
+667513b6e7a68c18827b,CUST000360,Prime Group 360,Small Business,Manufacturing,Vancouver,BC,CAN,West,2021-11-26,420141.83,PREPAID,Medium,True,2021-11-26,customer_master,9999-12-31,True
+52c4354cec000d81ee72,CUST000361,Prime Group 361,Mid Market,Education,Monterrey,NL,MEX,Southwest,,215706.48,PREPAID,Low,True,1900-01-01,customer_master,2026-05-03,False
+2f589298be52c640a4b2,CUST000361,Prime Group 361,Retail,Education,Monterrey,NL,MEX,Southwest,,215706.48,NET30,Medium,True,2026-05-03,credit_review,9999-12-31,True
+79bb69ae0d1c0221ad33,CUST000362,Urban Group 362,Wholesale,Food Service,Toronto,ON,CAN,Northeast,,55025.76,NET60,Low,True,1900-01-01,customer_master,2026-02-10,False
+a9ed207bc26aeb996923,CUST000362,Urban Group 362,Enterprise,Food Service,Toronto,ON,CAN,Northeast,,55025.76,PREPAID,Low,True,2026-02-10,risk_event,9999-12-31,True
+d46309b092899049eed0,CUST000363,Northstar Supply 363,Enterprise,Manufacturing,Dallas,TX,USA,Southwest,,119192.88,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+9b11add7547fba61949a,CUST000364,Nova Logistics 364,Mid Market,Retail,Toronto,ON,CAN,Northeast,2022-12-02,990469.91,NET30,Low,True,2022-12-02,customer_master,9999-12-31,True
+6c7dc47f3c5c6b8a6144,CUST000365,Prime Group 365,Retail,Manufacturing,Dallas,TX,USA,Southwest,,100910.76,NET60,High,False,1900-01-01,customer_master,9999-12-31,True
+efcaa241552fbaa9d474,CUST000366,Summit Trading 366,Mid Market,Manufacturing,Phoenix,AZ,USA,Southwest,,231426.17,NET45,Medium,True,1900-01-01,customer_master,9999-12-31,True
+d6e4ed96849a08ded715,CUST000367,Clearpath Partners 367,Enterprise,Manufacturing,Seattle,WA,USA,West,2024-02-02,251170.57,NET60,Medium,False,2024-02-02,customer_master,9999-12-31,True
+19d2aeddf0c5787b1d6f,CUST000368,Northstar Group 368,Wholesale,Manufacturing,Toronto,ON,CAN,Northeast,2022-04-17,475334.76,NET30,Low,True,2022-04-17,customer_master,2026-04-30,False
+2d2cacedbe4f738d6245,CUST000368,Northstar Group 368,Retail,Manufacturing,Toronto,ON,CAN,Northeast,2022-04-17,475334.76,NET60,Low,True,2026-04-30,risk_event,9999-12-31,True
+f1b4f1c8a6572ee15a7c,CUST000369,Clearpath Partners 369,Small Business,Manufacturing,Boston,MA,USA,Northeast,,25203.16,PREPAID,High,True,1900-01-01,customer_master,9999-12-31,True
+bd4065d4237cc02173a0,CUST000370,Clearpath Partners 370,Small Business,Retail,Seattle,WA,USA,West,,23622.87,NET60,Low,False,1900-01-01,customer_master,9999-12-31,True
+534c2fcc69bc534c49d2,CUST000371,Summit Supply 371,Small Business,Manufacturing,Atlanta,GA,USA,Southeast,,572720.81,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+c3b64fc08941f80c2602,CUST000372,Clearpath Markets 372,Wholesale,Healthcare,Denver,CO,USA,West,2024-12-31,428554.12,PREPAID,Low,False,2024-12-31,customer_master,2026-04-21,False
+5256d10f95658d346334,CUST000372,Clearpath Markets 372,Enterprise,Healthcare,Denver,CO,USA,West,2024-12-31,428554.12,NET45,Low,False,2026-04-21,annual_review,9999-12-31,True
+43e642c5d9efd1481c79,CUST000373,Nova Logistics 373,Mid Market,Technology,Boston,MA,USA,Northeast,,564394.59,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+67e3a22f0098e8c4be06,CUST000374,Prime Logistics 374,Retail,Construction,Phoenix,AZ,USA,Southwest,,20915.86,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+bdcb6384c063d326d31c,CUST000375,Northstar Partners 375,Retail,Construction,Guadalajara,JA,MEX,Southwest,,582255.04,NET45,Low,False,1900-01-01,customer_master,9999-12-31,True
+a443b088b6acc2b62830,CUST000376,Urban Logistics 376,Retail,Healthcare,Monterrey,NL,MEX,Southwest,,256428.63,NET45,Medium,True,1900-01-01,customer_master,9999-12-31,True
+54d4870d2f6c09275498,CUST000377,Urban Logistics 377,Enterprise,Healthcare,Vancouver,BC,CAN,West,,1006152.34,NET45,Low,True,1900-01-01,customer_master,2026-05-24,False
+22cca2ba0c3397b5f884,CUST000377,Urban Logistics 377,Retail,Healthcare,Vancouver,BC,CAN,West,,1006152.34,NET60,Low,True,2026-05-24,annual_review,9999-12-31,True
+ffb1a2e46c82d5f5bbae,CUST000378,Blueriver Markets 378,Mid Market,Education,Chicago,IL,USA,Midwest,,575842.04,NET60,High,True,1900-01-01,customer_master,9999-12-31,True
+469e394a63f642c24a53,CUST000379,Blueriver Partners 379,Wholesale,Education,Toronto,ON,CAN,Northeast,2023-08-18,58957.61,NET30,Low,False,2023-08-18,customer_master,9999-12-31,True
+c40dc463d984a4df27d4,CUST000380,Urban Group 380,Enterprise,Food Service,Guadalajara,JA,MEX,Southwest,,26743.59,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+3abd1580c627f49b8015,CUST000381,Apex Markets 381,Unknown,Food Service,Atlanta,GA,USA,Southeast,2023-03-26,45917.32,NET60,Low,False,2023-03-26,customer_master,9999-12-31,True
+10825c06402947778cbb,CUST000382,Urban Group 382,Wholesale,Construction,Seattle,WA,USA,West,,25151.67,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+6329c80e96ef0892b457,CUST000383,Nova Partners 383,Retail,Construction,Phoenix,AZ,USA,Southwest,2021-03-30,102519.29,NET30,Low,False,2021-03-30,customer_master,2026-01-28,False
+3f16506e228b5d4e6a51,CUST000383,Nova Partners 383,Wholesale,Construction,Phoenix,AZ,USA,Southwest,2021-03-30,102519.29,NET30,Low,False,2026-01-28,risk_event,9999-12-31,True
+bfd020b9fa20c8fdf41f,CUST000384,Summit Partners 384,Unknown,Education,Monterrey,NL,MEX,Southwest,2024-04-19,49005.94,NET45,Medium,True,2024-04-19,customer_master,9999-12-31,True
+7b8d0383920529c4d63d,CUST000385,Clearpath Logistics 385,Unknown,Technology,Seattle,WA,USA,West,,566541.08,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+adbad626536a50d52889,CUST000386,Blueriver Trading 386,Wholesale,Healthcare,Denver,CO,USA,West,,271128.32,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+1d34c130bed9d76ac9b8,CUST000387,Clearpath Trading 387,Retail,Manufacturing,Guadalajara,JA,MEX,Southwest,,95315.93,PREPAID,High,True,1900-01-01,customer_master,9999-12-31,True
+3f7905a47964c1bfa389,CUST000388,Urban Partners 388,Enterprise,Food Service,Dallas,TX,USA,Southwest,,24214.65,NET45,Medium,True,1900-01-01,customer_master,2026-05-03,False
+97bd6d750697346240cd,CUST000388,Urban Partners 388,Small Business,Food Service,Dallas,TX,USA,Southwest,,24214.65,NET30,High,True,2026-05-03,annual_review,9999-12-31,True
+c2022d89f539d77b3291,CUST000389,Urban Supply 389,Mid Market,Manufacturing,Phoenix,AZ,USA,Southwest,,1197186.16,NET45,Medium,False,1900-01-01,customer_master,9999-12-31,True
+8eeb8e51b7d10a804a2b,CUST000390,Clearpath Trading 390,Small Business,Retail,Dallas,TX,USA,Southwest,2021-06-15,296072.97,NET30,Medium,True,2021-06-15,customer_master,9999-12-31,True
+79496c417a9597c4cddc,CUST000391,Northstar Trading 391,Enterprise,Retail,Guadalajara,JA,MEX,Southwest,,22981.81,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+a8c27f09d1d81c20ffba,CUST000392,Nova Supply 392,Retail,Food Service,Boston,MA,USA,Northeast,,50330.99,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+4183f0284d90517bda3f,CUST000393,Prime Logistics 393,Enterprise,Technology,Atlanta,GA,USA,Southeast,,883893.29,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+fc9ab08e66f3f83e482a,CUST000394,Nova Markets 394,Mid Market,Healthcare,Boston,MA,USA,Northeast,2021-05-18,59707.25,NET30,Low,True,2021-05-18,customer_master,2026-03-16,False
+fc52132efca401586933,CUST000394,Nova Markets 394,Mid Market,Healthcare,Boston,MA,USA,Northeast,2021-05-18,59707.25,NET60,High,True,2026-03-16,customer_growth,9999-12-31,True
+0b961de31259db37bfc1,CUST000395,Urban Trading 395,Unknown,Technology,Vancouver,BC,CAN,West,,24998.83,NET30,Medium,False,1900-01-01,customer_master,2026-03-23,False
+095847421874361071b1,CUST000395,Urban Trading 395,Wholesale,Technology,Vancouver,BC,CAN,West,,24998.83,PREPAID,High,False,2026-03-23,risk_event,9999-12-31,True
+1d53c6e03162f14daa1c,CUST000396,Nova Trading 396,Small Business,Food Service,Monterrey,NL,MEX,Southwest,,26003.51,NET60,Low,False,1900-01-01,customer_master,9999-12-31,True
+84c4a0565f834719dcd1,CUST000397,Apex Group 397,Mid Market,Education,Chicago,IL,USA,Midwest,,1003093.15,NET30,High,True,1900-01-01,customer_master,9999-12-31,True
+5aebca83b473253c414b,CUST000398,Summit Group 398,Enterprise,Food Service,Phoenix,AZ,USA,Southwest,,95436.66,NET30,High,True,1900-01-01,customer_master,9999-12-31,True
+507ff191eb76cf7479da,CUST000399,Apex Markets 399,Enterprise,Construction,Boston,MA,USA,Northeast,,555840.65,NET30,Medium,False,1900-01-01,customer_master,2026-03-10,False
+dc6fd1547f2ecd4162e1,CUST000399,Apex Markets 399,Mid Market,Construction,Boston,MA,USA,Northeast,,555840.65,NET60,Medium,False,2026-03-10,risk_event,9999-12-31,True
+b4a14fe2bb39f0252bd5,CUST000400,Northstar Supply 400,Mid Market,Healthcare,Atlanta,GA,USA,Southeast,,55639.48,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+522247f8770b3b7e39f9,CUST000401,Clearpath Markets 401,Unknown,Construction,Boston,MA,USA,Northeast,2025-11-07,479276.87,PREPAID,Medium,True,2025-11-07,customer_master,9999-12-31,True
+497991827d40d0341075,CUST000402,Northstar Trading 402,Retail,Education,Monterrey,NL,MEX,Southwest,2022-06-28,289932.08,PREPAID,Medium,True,2022-06-28,customer_master,9999-12-31,True
+fd0c051fcfd8861fb6fa,CUST000403,Urban Markets 403,Mid Market,Construction,Vancouver,BC,CAN,West,,54274.24,NET60,Low,False,1900-01-01,customer_master,9999-12-31,True
+7b06277105f7e19be44a,CUST000404,Clearpath Supply 404,Unknown,Construction,Toronto,ON,CAN,Northeast,,55439.12,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+8e534b49ed7f99f629b1,CUST000405,Urban Partners 405,Retail,Technology,Dallas,TX,USA,Southwest,,108768.64,NET30,High,False,1900-01-01,customer_master,9999-12-31,True
+209ac678ce53645d3dc7,CUST000406,Clearpath Logistics 406,Wholesale,Construction,Atlanta,GA,USA,Southeast,,88540.89,NET45,High,True,1900-01-01,customer_master,9999-12-31,True
+7e97b4ab55991b84582a,CUST000407,Northstar Trading 407,Mid Market,Retail,Phoenix,AZ,USA,Southwest,2022-03-17,53002.79,NET45,Low,True,2022-03-17,customer_master,2026-01-22,False
+f627c6409ceae0ddbc6f,CUST000407,Northstar Trading 407,Small Business,Retail,Phoenix,AZ,USA,Southwest,2022-03-17,53002.79,PREPAID,High,True,2026-01-22,annual_review,9999-12-31,True
+bd440945b327e8eb8c73,CUST000408,Prime Logistics 408,Unknown,Retail,Dallas,TX,USA,Southwest,,201381.8,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+89eb79832552a5ab492b,CUST000409,Summit Markets 409,Mid Market,Technology,Seattle,WA,USA,West,,1196152.29,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+e2e248575d8614765301,CUST000410,Nova Partners 410,Mid Market,Education,Monterrey,NL,MEX,Southwest,2022-05-01,105267.8,NET30,Medium,True,2022-05-01,customer_master,9999-12-31,True
+c037cf0812103c596f1c,CUST000411,Northstar Group 411,Enterprise,Food Service,Vancouver,BC,CAN,West,,21279.15,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+885cc43ee9930f3ea8f7,CUST000412,Clearpath Markets 412,Small Business,Food Service,Atlanta,GA,USA,Southeast,,27643.35,PREPAID,High,True,1900-01-01,customer_master,9999-12-31,True
+4f7bef68b4c57bdc838c,CUST000413,Apex Logistics 413,Mid Market,Technology,Miami,FL,USA,Southeast,,284137.27,NET30,Low,True,1900-01-01,customer_master,9999-12-31,True
+5ff728718d7da4cf7660,CUST000414,Urban Logistics 414,Wholesale,Construction,Denver,CO,USA,West,,86396.26,NET45,Low,True,1900-01-01,customer_master,9999-12-31,True
+325ae8ac2774af823488,CUST000415,Prime Group 415,Wholesale,Technology,Dallas,TX,USA,Southwest,,442404.42,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+0943791f867dbd543bc8,CUST000416,Urban Group 416,Mid Market,Construction,Dallas,TX,USA,Southwest,2021-02-16,22124.15,NET60,Medium,False,2021-02-16,customer_master,2026-02-20,False
+9bd10f3a67c74c0f19d7,CUST000416,Urban Group 416,Retail,Construction,Dallas,TX,USA,Southwest,2021-02-16,22124.15,NET60,Medium,False,2026-02-20,customer_growth,9999-12-31,True
+5a029b0f38a7028ae84e,CUST000417,Apex Logistics 417,Retail,Technology,Miami,FL,USA,Southeast,2022-11-23,116972.92,PREPAID,Low,True,2022-11-23,customer_master,9999-12-31,True
+b0f57406cdc06a8269de,CUST000418,Urban Logistics 418,Small Business,Manufacturing,Monterrey,NL,MEX,Southwest,,44674.43,NET30,High,True,1900-01-01,customer_master,9999-12-31,True
+433ccd2ecb9e4700ba1e,CUST000419,Urban Trading 419,Retail,Healthcare,Vancouver,BC,CAN,West,2021-09-27,57531.49,NET60,Medium,True,2021-09-27,customer_master,9999-12-31,True
+818f0923dca56bab67ce,CUST000420,Summit Partners 420,Unknown,Manufacturing,Monterrey,NL,MEX,Southwest,,530827.62,PREPAID,Low,True,1900-01-01,customer_master,9999-12-31,True
+0e1261006d424e42c882,CUST000421,Clearpath Logistics 421,Wholesale,Healthcare,Dallas,TX,USA,Southwest,2024-02-01,41410.05,NET30,Low,False,2024-02-01,customer_master,9999-12-31,True
+b7260f10d09584f1883f,CUST000422,Blueriver Logistics 422,Unknown,Construction,Boston,MA,USA,Northeast,,994104.46,NET30,Medium,False,1900-01-01,customer_master,9999-12-31,True
+457f71147ce18ef48296,CUST000423,Blueriver Trading 423,Enterprise,Education,Chicago,IL,USA,Midwest,,801319.11,NET45,Low,True,1900-01-01,customer_master,2026-05-04,False
+829f98464dc5b3069ae6,CUST000423,Blueriver Trading 423,Mid Market,Education,Chicago,IL,USA,Midwest,,801319.11,NET60,Medium,True,2026-05-04,annual_review,9999-12-31,True
+6d927bdedf72e9c66bde,CUST000424,Summit Supply 424,Mid Market,Education,Guadalajara,JA,MEX,Southwest,,59533.15,PREPAID,Medium,True,1900-01-01,customer_master,2026-01-28,False
+dcad1c278501cfed558f,CUST000424,Summit Supply 424,Enterprise,Education,Guadalajara,JA,MEX,Southwest,,59533.15,NET30,High,True,2026-01-28,risk_event,9999-12-31,True
+b91f49db07d520003142,CUST000425,Clearpath Group 425,Retail,Manufacturing,Atlanta,GA,USA,Southeast,,46334.43,NET30,Medium,False,1900-01-01,customer_master,2026-03-14,False
+f9bae11c73d6920341fd,CUST000425,Clearpath Group 425,Retail,Manufacturing,Atlanta,GA,USA,Southeast,,46334.43,PREPAID,High,False,2026-03-14,annual_review,9999-12-31,True
+0a3db11f6d7de88a6797,CUST000426,Blueriver Partners 426,Small Business,Construction,Atlanta,GA,USA,Southeast,,293834.35,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+eb9a9fdb62643b35cfe1,CUST000427,Apex Group 427,Mid Market,Construction,Vancouver,BC,CAN,West,,47469.92,NET60,Low,True,1900-01-01,customer_master,9999-12-31,True
+983512fc48a0cb582f5e,CUST000428,Summit Group 428,Wholesale,Food Service,Atlanta,GA,USA,Southeast,,293842.86,PREPAID,Low,True,1900-01-01,customer_master,2026-04-07,False
+152c340e3d3ca5a05c2f,CUST000428,Summit Group 428,Small Business,Food Service,Atlanta,GA,USA,Southeast,,293842.86,PREPAID,Medium,True,2026-04-07,customer_growth,9999-12-31,True
+eb2056c5d0351e1a40ab,CUST000429,Apex Logistics 429,Retail,Education,Phoenix,AZ,USA,Southwest,,1133342.52,PREPAID,High,True,1900-01-01,customer_master,2026-05-19,False
+8348ee3552b17b6233b7,CUST000429,Apex Logistics 429,Wholesale,Education,Phoenix,AZ,USA,Southwest,,1133342.52,NET45,Low,True,2026-05-19,annual_review,9999-12-31,True
+20f1c9691cd3cde01fa5,CUST000430,Urban Markets 430,Wholesale,Education,Guadalajara,JA,MEX,Southwest,2023-10-31,20582.65,NET60,Medium,True,2023-10-31,customer_master,2026-02-04,False
+18d2629e8e1a441cc37e,CUST000430,Urban Markets 430,Wholesale,Education,Guadalajara,JA,MEX,Southwest,2023-10-31,20582.65,NET60,Medium,True,2026-02-04,annual_review,9999-12-31,True
+713972bdb7bead629c14,CUST000431,Blueriver Group 431,Wholesale,Food Service,Dallas,TX,USA,Southwest,,24002.8,PREPAID,High,True,1900-01-01,customer_master,2026-01-30,False
+f2bcf7db530512177d8e,CUST000431,Blueriver Group 431,Retail,Food Service,Dallas,TX,USA,Southwest,,24002.8,PREPAID,Low,True,2026-01-30,customer_growth,9999-12-31,True
+9ebdcacf0bb1e33e6e52,CUST000432,Prime Logistics 432,Unknown,Food Service,Phoenix,AZ,USA,Southwest,,458400.38,NET60,Low,True,1900-01-01,customer_master,2026-01-25,False
+af72a823c62c27ff8803,CUST000432,Prime Logistics 432,Retail,Food Service,Phoenix,AZ,USA,Southwest,,458400.38,PREPAID,Medium,True,2026-01-25,risk_event,9999-12-31,True
+6a27c3aa890ff1c5dc2d,CUST000433,Summit Markets 433,Small Business,Healthcare,Dallas,TX,USA,Southwest,2021-02-02,243398.23,NET30,Low,True,2021-02-02,customer_master,9999-12-31,True
+61a79b7ec0f43cfa7524,CUST000434,Blueriver Supply 434,Unknown,Education,Boston,MA,USA,Northeast,2022-07-30,23648.2,NET45,Low,True,2022-07-30,customer_master,2026-05-31,False
+70694ee3edf1d792c77c,CUST000434,Blueriver Supply 434,Small Business,Education,Boston,MA,USA,Northeast,2022-07-30,23648.2,PREPAID,Low,True,2026-05-31,risk_event,9999-12-31,True
+595f590d0b2ba650cded,CUST000435,Clearpath Trading 435,Small Business,Food Service,Toronto,ON,CAN,Northeast,,90334.39,PREPAID,Medium,True,1900-01-01,customer_master,9999-12-31,True
+acd1dd4a0d18d3b0d20f,CUST000436,Summit Supply 436,Retail,Construction,Denver,CO,USA,West,2022-08-18,80849.59,NET30,Low,False,2022-08-18,customer_master,9999-12-31,True
+946f75f24e3480e1a0d5,CUST000437,Nova Markets 437,Small Business,Education,Dallas,TX,USA,Southwest,,844014.32,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+e7026de9ce024fb0f989,CUST000438,Nova Markets 438,Small Business,Construction,Seattle,WA,USA,West,,55002.34,NET30,Medium,False,1900-01-01,customer_master,2026-05-22,False
+ae3f440e12a5fc3a5cc8,CUST000438,Nova Markets 438,Small Business,Construction,Seattle,WA,USA,West,,55002.34,NET45,High,False,2026-05-22,credit_review,9999-12-31,True
+da702ff1026d67a797cb,CUST000439,Nova Partners 439,Wholesale,Manufacturing,Denver,CO,USA,West,,91167.1,NET45,Low,True,1900-01-01,customer_master,2026-02-03,False
+c275c0032dbdd06807f9,CUST000439,Nova Partners 439,Enterprise,Manufacturing,Denver,CO,USA,West,,91167.1,NET30,High,True,2026-02-03,credit_review,9999-12-31,True
+8149f9ab0f4491b6d397,CUST000440,Clearpath Trading 440,Enterprise,Technology,Monterrey,NL,MEX,Southwest,,28356.82,NET30,Medium,True,1900-01-01,customer_master,9999-12-31,True
+ac57a78b67f8471cc697,CUST000441,Apex Partners 441,Small Business,Technology,Seattle,WA,USA,West,,119807.61,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+cbd65d6aca76cf2bb182,CUST000442,Apex Trading 442,Unknown,Construction,Toronto,ON,CAN,Northeast,,28406.27,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+6f84cbde2dab0ed7d065,CUST000443,Nova Logistics 443,Mid Market,Retail,Denver,CO,USA,West,,873236.52,NET45,High,True,1900-01-01,customer_master,9999-12-31,True
+3d4fef4cee641fb92456,CUST000444,Summit Group 444,Unknown,Food Service,Chicago,IL,USA,Midwest,2023-10-20,93842.05,NET60,Low,False,2023-10-20,customer_master,9999-12-31,True
+f9c0d2eef9ac0112b161,CUST000445,Apex Logistics 445,Enterprise,Food Service,Guadalajara,JA,MEX,Southwest,,82993.48,NET30,Low,False,1900-01-01,customer_master,9999-12-31,True
+6d67c7e810edab2d0c8b,CUST000446,Summit Trading 446,Retail,Technology,Denver,CO,USA,West,,502962.42,PREPAID,Low,True,1900-01-01,customer_master,2026-01-31,False
+2ecc7cd8c0e9eb5a45bd,CUST000446,Summit Trading 446,Enterprise,Technology,Denver,CO,USA,West,,502962.42,NET60,Medium,True,2026-01-31,credit_review,9999-12-31,True
+1b57e8a695dc63a036c6,CUST000447,Blueriver Group 447,Small Business,Healthcare,Dallas,TX,USA,Southwest,2021-05-08,980046.84,NET30,Medium,True,2021-05-08,customer_master,9999-12-31,True
+9cb6a1a6c3c351917ca3,CUST000448,Urban Supply 448,Wholesale,Technology,Atlanta,GA,USA,Southeast,,452724.57,NET30,Medium,True,1900-01-01,customer_master,2026-05-31,False
+13d34baa5836e1a556eb,CUST000448,Urban Supply 448,Mid Market,Technology,Atlanta,GA,USA,Southeast,,452724.57,NET45,Low,True,2026-05-31,risk_event,9999-12-31,True
+86da73c40e85269263f0,CUST000449,Clearpath Markets 449,Mid Market,Technology,Vancouver,BC,CAN,West,,57594.64,NET30,High,True,1900-01-01,customer_master,9999-12-31,True
+833d7bfa97d43ab1e249,CUST000450,Urban Supply 450,Retail,Manufacturing,Seattle,WA,USA,West,,88025.26,NET30,High,True,1900-01-01,customer_master,9999-12-31,True
+bab81c3fa635348f2321,CUST_BAD,Unknown,Unknown,Unknown,Unknown,UNKNOWN,USA,Unknown,,0.0,UNKNOWN,Unknown,,1900-01-01,customer_master,9999-12-31,True

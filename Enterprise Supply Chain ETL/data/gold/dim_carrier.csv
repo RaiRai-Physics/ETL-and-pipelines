@@ -1,0 +1,21 @@
+carrier_id,carrier_name,carrier_mode,service_level,base_cost_per_mile,active_flag
+CAR0001,Aeroship Carrier 1,Ltl,Standard,1.359,True
+CAR0002,Bluefreight Carrier 2,Parcel,Two Day,1.86,True
+CAR0003,Aeroship Carrier 3,Parcel,Overnight,4.105,True
+CAR0004,Roadrunner Carrier 4,Ocean,Two Day,6.882,True
+CAR0005,Bluefreight Carrier 5,Parcel,Overnight,5.897,True
+CAR0006,Roadrunner Carrier 6,Rail,Standard,8.188,True
+CAR0007,Swift Carrier 7,Ocean,Economy,4.622,True
+CAR0008,Bluefreight Carrier 8,Air,Two Day,1.89,True
+CAR0009,Bluefreight Carrier 9,Ltl,Overnight,2.458,False
+CAR0010,Roadrunner Carrier 10,Rail,Standard,3.088,False
+CAR0011,Aeroship Carrier 11,Ftl,Overnight,6.859,False
+CAR0012,Aeroship Carrier 12,Rail,Standard,5.861,True
+CAR0013,Roadrunner Carrier 13,Ftl,Expedited,8.364,True
+CAR0014,Bluefreight Carrier 14,Ftl,Overnight,4.182,True
+CAR0015,Parcelpro Carrier 15,Ocean,Economy,2.977,True
+CAR0016,Aeroship Carrier 16,Ftl,Economy,4.831,True
+CAR0017,Swift Carrier 17,Ltl,Economy,,True
+CAR0018,Bluefreight Carrier 18,Air,Expedited,1.466,True
+CAR0019,Roadrunner Carrier 19,Ltl,Overnight,8.304,False
+CAR0020,Aeroship Carrier 20,Rail,Expedited,1.663,True

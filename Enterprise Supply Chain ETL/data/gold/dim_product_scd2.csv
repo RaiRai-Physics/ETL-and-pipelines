@@ -1,0 +1,851 @@
+product_id,product_name,category,subcategory,brand,supplier_id,standard_cost,list_price,unit_weight_lbs,hazmat_flag,temperature_controlled_flag,launch_date,product_status,effective_start_date,record_source,effective_end_date,is_current,product_sk
+SKU0000001,Pro Furniture Item 1,Home,Kitchen,Solace,SUP00004,117.06,240.88,66.426,False,False,2026-03-14,Seasonal,2026-03-14,product_master,9999-12-31,True,7c1e2289fc60a2e1514f
+SKU0000002,Eco Lighting Item 2,Home,Kitchen,Everpeak,SUP00076,191.37,462.07,70.983,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,2c3375a12e8e5812f825
+SKU0000003,Eco Lighting Item 3,Home,Kitchen,Northline,SUP00014,65.98,147.63,72.361,False,True,2023-10-23,Discontinued,2023-10-23,product_master,9999-12-31,True,a5f913a7f8dba216ee5f
+SKU0000004,Compact Lighting Item 4,Home,Storage,Solace,SUP00003,11.66,18.15,40.268,False,False,2022-02-27,Seasonal,2022-02-27,product_master,9999-12-31,True,910aa3a0ab48ebc3066d
+SKU0000005,Pro Medical Supplies Item 5,Health,Wellness,Everpeak,SUP00109,199.28,262.04,12.127,False,False,2025-04-24,Active,2025-04-24,product_master,9999-12-31,True,857dbfbf6271a6002710
+SKU0000006,Ultra Kitchen Item 6,Home,Kitchen,Cobalt,SUP00066,136.41,251.2,60.024,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,a8953378fbef7f70c7f0
+SKU0000007,Essential Printing Item 7,Office,Desk Setup,Aster,SUP00005,151.15,393.57,10.567,False,False,,Active,1900-01-01,product_master,9999-12-31,True,ef75567edb30f9f6b0f2
+SKU0000008,Eco Outerwear Item 8,Apparel,Basics,Solace,SUP00069,295.17,557.47,36.513,False,False,,Active,1900-01-01,product_master,9999-12-31,True,6e1f4e1313b01bb82a7b
+SKU0000009,Premium Outerwear Item 9,Apparel,Outerwear,Cobalt,SUP00003,27.56,58.17,66.159,False,False,2021-12-12,Active,2021-12-12,product_master,9999-12-31,True,1af554e61fafb7350a1b
+SKU0000010,Classic Accessories Item 10,Electronics,Computing,Everpeak,SUP00044,204.35,561.85,12.774,True,False,2023-03-12,Active,2023-03-12,product_master,9999-12-31,True,52f9daa3c192a7ac810f
+SKU0000011,Ultra Medical Supplies Item 11,Health,Medical Supplies,Everpeak,SUP00088,230.18,370.08,22.434,False,False,2023-11-28,Seasonal,2023-11-28,product_master,9999-12-31,True,f06d08368dec2e31eaa3
+SKU0000012,Compact Wellness Item 12,Health,Wellness,Aster,SUP00069,220.94,380.83,60.299,False,True,,Active,1900-01-01,product_master,9999-12-31,True,45538a7874a921b32661
+SKU0000013,Ultra Pantry Item 13,Grocery,Pantry,Solace,SUP00016,203.47,442.83,29.192,False,True,,Discontinued,1900-01-01,product_master,2026-03-03,False,c0449a2a74ce23dbf9cc
+SKU0000013,Ultra Pantry Item 13,Grocery,Pantry,Solace,SUP00016,203.47,455.65,29.192,False,True,,Active,2026-03-03,price_change,9999-12-31,True,5dac0902dae1345dc72c
+SKU0000014,Essential Fitness Item 14,Apparel,Fitness,Cobalt,SUP00038,187.4,239.95,19.53,True,True,,Active,1900-01-01,product_master,2026-05-11,False,449c9b9e3e00a55b6a36
+SKU0000014,Essential Fitness Item 14,Apparel,Fitness,Cobalt,SUP00038,187.4,242.28,19.53,True,True,,Discontinued,2026-05-11,price_change,9999-12-31,True,6a6f085a8c17650ea9f7
+SKU0000015,Pro Footwear Item 15,Apparel,Outerwear,Nimbus,SUP00095,248.5,315.73,6.592,True,True,2021-06-25,Seasonal,2021-06-25,product_master,2026-05-24,False,74c6a7669c548ad34dd4
+SKU0000015,Pro Footwear Item 15,Apparel,Outerwear,Nimbus,SUP00095,248.5,291.74,6.592,True,True,2021-06-25,Active,2026-05-24,discontinued,9999-12-31,True,93a21fdce516d3fdc20b
+SKU0000016,Eco Computing Item 16,Electronics,Audio,Cobalt,SUP00064,11.21,17.23,2.155,False,True,,Active,1900-01-01,product_master,2026-03-20,False,bace6d38904257e4a387
+SKU0000016,Eco Computing Item 16,Electronics,Audio,Cobalt,SUP00064,11.21,19.0,2.155,False,True,,Active,2026-03-20,price_change,9999-12-31,True,7dad3fb4432b711a3ee2
+SKU0000017,Eco Beverage Item 17,Grocery,Snack,Aster,SUP00094,62.92,105.7,43.481,False,False,2023-05-29,Seasonal,2023-05-29,product_master,9999-12-31,True,1f516886ee596b123ebd
+SKU0000018,Eco Basics Item 18,Apparel,Basics,Solace,SUP00039,77.5,117.57,60.732,False,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,4ca181a0b5826f079be0
+SKU0000019,Ultra Personal Care Item 19,Health,Wellness,Northline,SUP00020,61.36,154.89,54.296,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,0d295d2eac4a301379f9
+SKU0000020,Essential Organization Item 20,Office,Desk Setup,Solace,SUP00054,92.34,253.39,3.095,True,False,,Active,1900-01-01,product_master,9999-12-31,True,635246bfd6144518c93e
+SKU0000021,Essential Printing Item 21,Office,Desk Setup,Northline,SUP00115,247.69,601.16,41.815,True,False,2023-07-25,Active,2023-07-25,product_master,9999-12-31,True,bd498f1c51ecf92fb84b
+SKU0000022,Essential Basics Item 22,Apparel,Footwear,Solace,SUP_BAD,299.83,528.34,24.978,False,False,2025-03-30,Active,2025-03-30,product_master,9999-12-31,True,a34ed53b1f1090198f91
+SKU0000023,Essential Fitness Item 23,Apparel,Fitness,Northline,SUP00100,247.82,549.0,21.779,False,True,2022-04-08,Discontinued,2022-04-08,product_master,9999-12-31,True,c445be8b34e10cd4f010
+SKU0000024,Classic Footwear Item 24,Apparel,Outerwear,Everpeak,SUP00065,222.57,389.01,74.336,False,False,,Seasonal,1900-01-01,product_master,2026-03-21,False,e3eebb02768629103d89
+SKU0000024,Classic Footwear Item 24,Apparel,Outerwear,Everpeak,SUP00065,222.57,385.0,74.336,False,False,,Seasonal,2026-03-21,catalog_update,9999-12-31,True,eee39f20b6d30c0f2f17
+SKU0000025,Ultra Beverage Item 25,Grocery,Snack,Solace,SUP00049,190.45,269.42,11.061,False,False,2020-10-02,Discontinued,2020-10-02,product_master,9999-12-31,True,3d66fc84b61e2a0283f7
+SKU0000026,Premium Lighting Item 26,Home,Storage,Northline,SUP00095,161.1,226.38,24.055,False,False,,Active,1900-01-01,product_master,9999-12-31,True,50ecfe9bdeb63055e761
+SKU0000027,Eco Wellness Item 27,Health,Wellness,Cobalt,SUP00046,144.08,344.35,70.158,False,False,,Active,1900-01-01,product_master,2026-03-05,False,8fe96d5b7513a969a6db
+SKU0000027,Eco Wellness Item 27,Health,Wellness,Cobalt,SUP00046,144.08,365.69,70.158,False,False,,Seasonal,2026-03-05,price_change,9999-12-31,True,7b29df2be8f323aa7d10
+SKU0000028,Eco Personal Care Item 28,Health,Pharmacy,Solace,SUP00026,209.57,357.42,51.997,False,True,,Active,1900-01-01,product_master,9999-12-31,True,a79c0dfb1eb752e4e5d2
+SKU0000029,Compact Furniture Item 29,Home,Storage,Cobalt,SUP00042,185.38,238.54,49.233,False,True,2025-02-25,Seasonal,2025-02-25,product_master,9999-12-31,True,568262ebdcbab47ebb47
+SKU0000030,Classic Footwear Item 30,Apparel,Basics,Nimbus,SUP00003,167.95,411.27,34.585,False,False,,Seasonal,1900-01-01,product_master,2026-02-05,False,7eedb4cfaaa232d7950f
+SKU0000030,Classic Footwear Item 30,Apparel,Basics,Nimbus,SUP00003,167.95,457.37,34.585,False,False,,Discontinued,2026-02-05,price_change,9999-12-31,True,20454fa133e13d4503dc
+SKU0000031,Ultra Organization Item 31,Office,Printing,Nimbus,SUP00093,81.03,194.27,43.778,False,True,2020-06-21,Active,2020-06-21,product_master,9999-12-31,True,096961477c244565db9c
+SKU0000032,Pro Pharmacy Item 32,Health,Wellness,Solace,SUP00039,111.82,176.01,71.288,False,False,2021-04-13,Active,2021-04-13,product_master,9999-12-31,True,65a465469d371795473f
+SKU0000033,Essential Outerwear Item 33,Apparel,Footwear,Northline,SUP_BAD,,28.35,31.28,True,False,2022-08-31,Active,2022-08-31,product_master,9999-12-31,True,2ad8c1f4bed29f8c137c
+SKU0000034,Eco Personal Care Item 34,Health,Pharmacy,Cobalt,SUP00108,185.14,345.47,33.573,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,eacf4edba965652b601b
+SKU0000035,Classic Accessories Item 35,Electronics,Accessories,Everpeak,SUP00036,97.06,202.29,7.685,False,False,2025-04-20,Active,2025-04-20,product_master,9999-12-31,True,7fe4051a06843703227f
+SKU0000036,Compact Desk Setup Item 36,Office,Printing,Northline,SUP00038,18.54,27.95,58.548,True,False,2021-12-24,Active,2021-12-24,product_master,9999-12-31,True,76d656a5d64334836925
+SKU0000037,Premium Medical Supplies Item 37,Health,Medical Supplies,Nimbus,SUP00008,32.94,69.22,2.375,False,False,2023-06-17,Active,2023-06-17,product_master,9999-12-31,True,25039dd4de161eff2036
+SKU0000038,Eco Audio Item 38,Electronics,Computing,Nimbus,SUP00038,240.3,548.95,15.577,True,False,,Active,1900-01-01,product_master,9999-12-31,True,4a4174d123b43f7dcd32
+SKU0000039,Eco Stationery Item 39,Office,Organization,Solace,SUP00042,186.43,388.31,63.871,False,False,2021-04-13,Active,2021-04-13,product_master,9999-12-31,True,9800aaa56fd31f5fd049
+SKU0000040,Classic Frozen Item 40,Grocery,Snack,Aster,SUP00018,287.52,385.91,40.011,True,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,0f99edb251297ef44ce4
+SKU0000041,Premium Fitness Item 41,Apparel,Fitness,Solace,SUP00106,227.5,534.38,24.675,False,False,2025-05-23,Active,2025-05-23,product_master,9999-12-31,True,234153c5402b38c20958
+SKU0000042,Pro Outerwear Item 42,Apparel,Basics,Nimbus,SUP00014,55.38,80.35,33.868,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,c6e0e8beac095c06d217
+SKU0000043,Pro Medical Supplies Item 43,Health,Medical Supplies,Cobalt,SUP00042,298.47,533.91,69.007,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,8e14bb89d2bda2f4db23
+SKU0000044,Classic Furniture Item 44,Home,Lighting,Everpeak,SUP00050,154.8,417.16,23.756,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,7c9dbb666fa3fbef31b8
+SKU0000045,Ultra Snack Item 45,Grocery,Frozen,Aster,SUP00009,212.28,332.77,11.114,False,True,2024-06-13,Active,2024-06-13,product_master,9999-12-31,True,90710c18f124553db99c
+SKU0000046,Eco Footwear Item 46,Apparel,Fitness,Aster,SUP00079,3.14,8.67,28.989,True,True,2025-04-29,Active,2025-04-29,product_master,9999-12-31,True,f4dec98c278fe8029f47
+SKU0000047,Essential Computing Item 47,Electronics,Accessories,Northline,SUP00049,62.67,132.92,22.666,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,dfc61330b630957224b3
+SKU0000048,Classic Accessories Item 48,Electronics,Computing,Northline,SUP00054,245.28,662.92,57.052,False,False,,Active,1900-01-01,product_master,9999-12-31,True,9f448c1b2272f2dc3a4b
+SKU0000049,Pro Pharmacy Item 49,Health,Personal Care,Cobalt,SUP00064,163.72,442.21,3.479,False,False,2021-06-22,Discontinued,2021-06-22,product_master,9999-12-31,True,cd55ca9cb0b3e1b4effa
+SKU0000050,Classic Desk Setup Item 50,Office,Desk Setup,Cobalt,SUP00115,40.49,75.45,26.267,False,False,,Active,1900-01-01,product_master,2026-02-27,False,dfe120b525353917b8b5
+SKU0000050,Classic Desk Setup Item 50,Office,Desk Setup,Cobalt,SUP00115,40.49,79.38,26.267,False,False,,Active,2026-02-27,catalog_update,9999-12-31,True,9ce3f8097bee6f1f530a
+SKU0000051,Pro Personal Care Item 51,Health,Wellness,Everpeak,SUP00057,99.4,272.27,46.268,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,755df109dc81845a6497
+SKU0000052,Ultra Smart Home Item 52,Electronics,Smart Home,Solace,SUP00048,81.58,210.59,53.556,True,True,2021-02-16,Active,2021-02-16,product_master,9999-12-31,True,8591113d9df38a5bfb4c
+SKU0000053,Premium Lighting Item 53,Home,Furniture,Aster,SUP00097,104.27,128.13,64.808,False,False,,Active,1900-01-01,product_master,9999-12-31,True,26da8b4b622f78b71974
+SKU0000054,Eco Medical Supplies Item 54,Health,Pharmacy,Everpeak,SUP00095,44.17,61.85,50.647,True,False,2021-04-30,Active,2021-04-30,product_master,2026-03-01,False,76a9dbea8e935824ebec
+SKU0000054,Eco Medical Supplies Item 54,Health,Pharmacy,Everpeak,SUP00095,44.17,68.02,50.647,True,False,2021-04-30,Seasonal,2026-03-01,seasonal_refresh,9999-12-31,True,e3229ac8edf13d767c60
+SKU0000055,Pro Accessories Item 55,Electronics,Computing,Solace,SUP00006,200.83,249.5,43.37,True,False,2025-02-07,Discontinued,2025-02-07,product_master,9999-12-31,True,a0c7bdfc5de35e55af95
+SKU0000056,Eco Computing Item 56,Electronics,Accessories,Everpeak,SUP00069,,569.64,26.943,False,False,2022-11-19,Active,2022-11-19,product_master,9999-12-31,True,e2d7a3b85852c17a4df0
+SKU0000057,Premium Basics Item 57,Apparel,Basics,Everpeak,SUP00038,193.77,260.71,24.797,True,False,2024-11-09,Active,2024-11-09,product_master,9999-12-31,True,2c82ede6a047b7de0b53
+SKU0000058,Compact Organization Item 58,Office,Organization,Aster,SUP_BAD,170.69,448.59,3.828,True,False,2025-01-21,Active,2025-01-21,product_master,9999-12-31,True,d12889be47150691a880
+SKU0000059,Pro Desk Setup Item 59,Office,Organization,Aster,SUP00081,145.09,,40.671,False,False,2020-05-19,Discontinued,2020-05-19,product_master,9999-12-31,True,dde51ec5b44a4e224d1d
+SKU0000060,Classic Basics Item 60,Apparel,Fitness,Aster,SUP00020,,32.77,33.931,False,False,,Active,1900-01-01,product_master,9999-12-31,True,f8fc116c0ac2f061124c
+SKU0000061,Eco Beverage Item 61,Grocery,Beverage,Cobalt,SUP00022,234.26,451.94,70.204,False,True,2020-08-07,Discontinued,2020-08-07,product_master,9999-12-31,True,ad04eefa287055d91395
+SKU0000062,Classic Footwear Item 62,Apparel,Footwear,Northline,SUP00097,242.15,528.0,73.339,False,False,,Active,1900-01-01,product_master,9999-12-31,True,8a4cc739981751426141
+SKU0000063,Ultra Lighting Item 63,Home,Storage,Aster,SUP00048,147.68,225.13,56.496,False,False,2024-04-19,Active,2024-04-19,product_master,9999-12-31,True,9f7adcaa33689df76ae1
+SKU0000064,Ultra Medical Supplies Item 64,Health,Wellness,Everpeak,SUP00038,136.31,291.67,43.28,True,False,2022-12-15,Discontinued,2022-12-15,product_master,9999-12-31,True,620122ac7dec36a07fb1
+SKU0000065,Ultra Pantry Item 65,Grocery,Snack,Nimbus,SUP00033,90.37,251.42,11.073,False,False,2024-03-17,Active,2024-03-17,product_master,9999-12-31,True,910e3ae27a6cf69d84cd
+SKU0000066,Premium Frozen Item 66,Grocery,Beverage,Solace,SUP00074,295.43,796.69,62.958,False,False,,Active,1900-01-01,product_master,9999-12-31,True,b9aaf6007b08a4092c14
+SKU0000067,Ultra Pharmacy Item 67,Health,Wellness,Northline,SUP00095,213.22,303.39,13.181,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,c94208ac6705060aacdc
+SKU0000068,Essential Lighting Item 68,Home,Furniture,Aster,SUP00052,198.9,383.07,16.753,False,True,,Active,1900-01-01,product_master,2026-02-21,False,9e476fdb51a29f3bc7bc
+SKU0000068,Essential Lighting Item 68,Home,Furniture,Aster,SUP00052,198.9,394.62,16.753,False,True,,Seasonal,2026-02-21,catalog_update,9999-12-31,True,7ee6049a520eca7ca181
+SKU0000069,Eco Storage Item 69,Home,Lighting,Everpeak,SUP00019,224.21,432.52,48.925,False,False,,Seasonal,1900-01-01,product_master,2026-02-04,False,ddc755f3b39b280d08d7
+SKU0000069,Eco Storage Item 69,Home,Lighting,Everpeak,SUP00019,224.21,471.7,48.925,False,False,,Seasonal,2026-02-04,seasonal_refresh,9999-12-31,True,96156e0d532054158cb6
+SKU0000070,Premium Stationery Item 70,Office,Organization,Nimbus,SUP00008,21.6,46.46,24.721,False,False,,Active,1900-01-01,product_master,9999-12-31,True,6daf2fc54bc326bcc09a
+SKU0000071,Pro Basics Item 71,Apparel,Fitness,Cobalt,SUP00055,92.75,245.77,35.568,True,False,,Active,1900-01-01,product_master,9999-12-31,True,8ee945951ba6473f777c
+SKU0000072,Pro Frozen Item 72,Grocery,Snack,Cobalt,SUP00117,156.32,362.29,51.098,False,False,2024-07-11,Active,2024-07-11,product_master,9999-12-31,True,5a2edacfbcd0c9ffce0d
+SKU0000073,Ultra Desk Setup Item 73,Office,Organization,Nimbus,SUP00058,238.16,496.73,26.508,True,False,2024-12-12,Seasonal,2024-12-12,product_master,2026-05-14,False,0e9498647490b44e7dbf
+SKU0000073,Ultra Desk Setup Item 73,Office,Organization,Nimbus,SUP00058,238.16,567.53,26.508,True,False,2024-12-12,Discontinued,2026-05-14,seasonal_refresh,9999-12-31,True,b6befda441f1158fac21
+SKU0000074,Pro Furniture Item 74,Home,Furniture,Aster,SUP00038,101.16,217.63,73.648,False,False,2024-03-14,Seasonal,2024-03-14,product_master,2026-04-12,False,8287f0e90b5af41c1463
+SKU0000074,Pro Furniture Item 74,Home,Furniture,Aster,SUP00038,101.16,205.54,73.648,False,False,2024-03-14,Discontinued,2026-04-12,catalog_update,9999-12-31,True,3a974a597540a2eea299
+SKU0000075,Pro Frozen Item 75,Grocery,Beverage,Northline,SUP00079,21.18,38.35,30.309,False,False,2025-04-09,Active,2025-04-09,product_master,9999-12-31,True,53b38430fbc59e6e731c
+SKU0000076,Eco Snack Item 76,Grocery,Frozen,Northline,SUP00113,64.98,169.75,28.155,False,False,2023-10-13,Active,2023-10-13,product_master,9999-12-31,True,4bc1b168ed1387459998
+SKU0000077,Eco Basics Item 77,Apparel,Basics,Cobalt,SUP00061,83.37,156.87,5.726,True,False,,Active,1900-01-01,product_master,2026-02-10,False,0e782240421b3e261beb
+SKU0000077,Eco Basics Item 77,Apparel,Basics,Cobalt,SUP00061,83.37,172.2,5.726,True,False,,Discontinued,2026-02-10,price_change,9999-12-31,True,2b4c6bdb9e2e8898d241
+SKU0000078,Pro Outerwear Item 78,Apparel,Footwear,Cobalt,SUP00028,106.21,139.11,67.943,False,False,2020-04-24,Seasonal,2020-04-24,product_master,9999-12-31,True,97d88cd320b95ee5630b
+SKU0000079,Premium Printing Item 79,Office,Stationery,Cobalt,SUP00053,175.49,216.55,55.374,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,9c220a7b9779478b3195
+SKU0000080,Ultra Beverage Item 80,Grocery,Pantry,Solace,SUP00013,270.52,605.15,49.031,False,False,2021-08-17,Active,2021-08-17,product_master,9999-12-31,True,0754f24a888a602df07f
+SKU0000081,Compact Storage Item 81,Home,Storage,Nimbus,SUP00008,227.93,566.44,0.786,False,False,2023-02-08,Active,2023-02-08,product_master,9999-12-31,True,406a0e9b11f87584c17e
+SKU0000082,Eco Stationery Item 82,Office,Printing,Nimbus,SUP00029,122.49,248.33,0.703,False,False,,Seasonal,1900-01-01,product_master,2026-03-25,False,c6878b3b2cc3ec862bbc
+SKU0000082,Eco Stationery Item 82,Office,Printing,Nimbus,SUP00029,122.49,245.88,0.703,False,False,,Discontinued,2026-03-25,price_change,9999-12-31,True,df35626d2d2002f97c1c
+SKU0000083,Eco Personal Care Item 83,Health,Wellness,Nimbus,SUP00066,244.15,609.81,52.119,False,False,2026-03-02,Active,2026-03-02,product_master,9999-12-31,True,f96aa822490c4e4d88c9
+SKU0000084,Compact Furniture Item 84,Home,Storage,Everpeak,SUP00012,192.04,408.75,8.062,False,True,2023-03-29,Discontinued,2023-03-29,product_master,9999-12-31,True,4bb3a7593c8b6462d60b
+SKU0000085,Eco Storage Item 85,Home,Lighting,Nimbus,SUP00050,227.45,380.93,47.614,False,True,2020-08-04,Active,2020-08-04,product_master,2026-02-11,False,9bb413afe1bb89ccf7e1
+SKU0000085,Eco Storage Item 85,Home,Lighting,Nimbus,SUP00050,227.45,349.13,47.614,False,True,2020-08-04,Active,2026-02-11,seasonal_refresh,9999-12-31,True,14c320efe6db1b5518a3
+SKU0000086,Eco Kitchen Item 86,Home,Kitchen,Aster,SUP00053,262.34,646.35,1.565,False,False,,Seasonal,1900-01-01,product_master,2026-02-23,False,a97cd5890d7758593685
+SKU0000086,Eco Kitchen Item 86,Home,Kitchen,Aster,SUP00053,262.34,694.27,1.565,False,False,,Seasonal,2026-02-23,discontinued,9999-12-31,True,3ab06a3fbe1682d24b59
+SKU0000087,Essential Wellness Item 87,Health,Personal Care,Nimbus,SUP00085,154.34,375.95,35.386,False,False,,Active,1900-01-01,product_master,9999-12-31,True,7a6802d785ef13fc1af0
+SKU0000088,Premium Lighting Item 88,Home,Lighting,Nimbus,SUP00111,254.15,584.97,60.99,True,False,2023-03-11,Discontinued,2023-03-11,product_master,9999-12-31,True,e701e69193baadb7ffa6
+SKU0000089,Premium Desk Setup Item 89,Office,Organization,Solace,SUP00073,253.71,556.76,18.762,False,True,,Active,1900-01-01,product_master,9999-12-31,True,29f5786fa309ffa13919
+SKU0000090,Ultra Computing Item 90,Electronics,Computing,Nimbus,SUP00089,238.51,661.08,0.408,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,c4b7f7ce4a4485507d55
+SKU0000091,Ultra Snack Item 91,Grocery,Snack,Aster,SUP00050,82.29,210.47,6.207,False,False,2023-11-19,Active,2023-11-19,product_master,9999-12-31,True,b88fa4559cb4bbf377ff
+SKU0000092,Pro Frozen Item 92,Grocery,Beverage,Everpeak,SUP00083,28.65,46.41,58.934,True,True,,Active,1900-01-01,product_master,2026-05-02,False,9d65bbb9d8d16a762cc4
+SKU0000092,Pro Frozen Item 92,Grocery,Beverage,Everpeak,SUP00083,28.65,48.78,58.934,True,True,,Active,2026-05-02,seasonal_refresh,9999-12-31,True,c6bc20b2ab7ad4ff7ee4
+SKU0000093,Essential Fitness Item 93,Apparel,Outerwear,Aster,SUP00081,263.13,664.34,50.838,False,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,cb1a349fccbd557c7ff6
+SKU0000094,Classic Storage Item 94,Home,Lighting,Solace,SUP00051,1.93,4.8,31.122,False,False,,Active,1900-01-01,product_master,9999-12-31,True,e67e568ff80bb9c71f38
+SKU0000095,Pro Basics Item 95,Apparel,Fitness,Solace,SUP00023,129.07,322.48,10.845,False,False,2025-04-11,Discontinued,2025-04-11,product_master,9999-12-31,True,8fd1dbf436661ee0285f
+SKU0000096,Pro Kitchen Item 96,Home,Storage,Everpeak,SUP00009,289.25,622.51,52.547,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,6c34427f22e3aeb582da
+SKU0000097,Essential Medical Supplies Item 97,Health,Personal Care,Nimbus,SUP00026,95.66,258.5,61.343,False,True,2021-04-15,Active,2021-04-15,product_master,9999-12-31,True,2f552b8e8857e0c5036e
+SKU0000098,Compact Smart Home Item 98,Electronics,Accessories,Everpeak,SUP00110,38.66,77.61,20.049,True,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,f58575731e4cfd8e64a2
+SKU0000099,Ultra Computing Item 99,Electronics,Computing,Everpeak,SUP00007,187.46,512.0,20.739,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,2e85a3179e571d66e4c7
+SKU0000100,Pro Frozen Item 100,Grocery,Snack,Solace,SUP00009,224.42,361.42,12.987,True,True,2023-12-18,Active,2023-12-18,product_master,9999-12-31,True,7c71f802294936f9a4b6
+SKU0000101,Pro Medical Supplies Item 101,Health,Personal Care,Nimbus,SUP00073,95.8,251.13,12.686,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,7fd8147150c6016bba4f
+SKU0000102,Eco Wellness Item 102,Health,Pharmacy,Cobalt,SUP00081,66.95,178.84,11.574,False,False,,Active,1900-01-01,product_master,2026-02-01,False,626c81d7dc0f46cc905f
+SKU0000102,Eco Wellness Item 102,Health,Pharmacy,Cobalt,SUP00081,66.95,199.28,11.574,False,False,,Active,2026-02-01,catalog_update,9999-12-31,True,86071416d7595273c1ac
+SKU0000103,Compact Printing Item 103,Office,Printing,Nimbus,SUP00099,265.22,579.75,56.626,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,941422509335a1c0dee3
+SKU0000104,Ultra Footwear Item 104,Apparel,Basics,Cobalt,SUP00061,155.06,339.59,62.76,False,True,2025-07-06,Discontinued,2025-07-06,product_master,9999-12-31,True,47356eee8e00de941e5a
+SKU0000105,Ultra Outerwear Item 105,Apparel,Footwear,Aster,SUP00080,116.35,324.81,13.743,False,True,2022-03-31,Active,2022-03-31,product_master,2026-05-06,False,0bb37a66ea17fffce415
+SKU0000105,Ultra Outerwear Item 105,Apparel,Footwear,Aster,SUP00080,116.35,358.66,13.743,False,True,2022-03-31,Discontinued,2026-05-06,price_change,9999-12-31,True,dc4672b15807ea112bdb
+SKU0000106,Compact Snack Item 106,Grocery,Pantry,Nimbus,SUP00104,71.95,93.16,47.799,False,True,2024-10-24,Seasonal,2024-10-24,product_master,9999-12-31,True,936beb815140f49f86c3
+SKU0000107,Eco Lighting Item 107,Home,Furniture,Aster,SUP00061,183.41,286.36,15.869,False,False,2025-12-06,Active,2025-12-06,product_master,9999-12-31,True,1c43bcda0d3e367dc7ac
+SKU0000108,Premium Storage Item 108,Home,Storage,Aster,SUP00088,256.05,571.51,67.366,False,False,2023-10-21,Seasonal,2023-10-21,product_master,9999-12-31,True,e965f85192cf843855da
+SKU0000109,Ultra Stationery Item 109,Office,Printing,Solace,SUP00063,110.75,301.91,37.975,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,d0020f3628ee50bc60e3
+SKU0000110,Ultra Personal Care Item 110,Health,Pharmacy,Northline,SUP00032,170.29,463.45,62.387,False,True,2025-10-31,Active,2025-10-31,product_master,9999-12-31,True,0dc518f3c2739fb248f2
+SKU0000111,Ultra Pantry Item 111,Grocery,Snack,Northline,SUP00102,13.92,38.51,7.907,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,eabb83067c279b8fc0e8
+SKU0000112,Compact Accessories Item 112,Electronics,Computing,Everpeak,SUP00090,268.19,418.07,54.786,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,d4e59753bf12c16d215e
+SKU0000113,Premium Printing Item 113,Office,Organization,Aster,SUP00032,122.37,187.68,66.322,True,False,2025-01-30,Active,2025-01-30,product_master,9999-12-31,True,946995637996a3240b90
+SKU0000114,Compact Frozen Item 114,Grocery,Snack,Cobalt,SUP00115,145.89,329.22,34.81,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,a5a29d5f60d7b1c996b4
+SKU0000115,Premium Frozen Item 115,Grocery,Beverage,Cobalt,SUP00074,163.28,263.09,56.245,False,True,2020-06-05,Discontinued,2020-06-05,product_master,9999-12-31,True,38d46100f2b94acc6300
+SKU0000116,Essential Furniture Item 116,Home,Lighting,Northline,SUP00083,75.87,206.14,43.882,True,False,2025-11-15,Seasonal,2025-11-15,product_master,9999-12-31,True,f9fab4db89f218c71523
+SKU0000117,Ultra Wellness Item 117,Health,Pharmacy,Northline,SUP00093,8.84,10.65,73.231,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,ed17d8837f3c955d89eb
+SKU0000118,Compact Medical Supplies Item 118,Health,Pharmacy,Everpeak,SUP00104,285.17,429.65,9.835,False,False,2022-05-02,Active,2022-05-02,product_master,9999-12-31,True,6dbab4637dbff26c5ad5
+SKU0000119,Eco Organization Item 119,Office,Stationery,Cobalt,SUP00046,103.26,247.24,4.114,True,False,,Active,1900-01-01,product_master,9999-12-31,True,4e954c0ff5e3472f8d56
+SKU0000120,Classic Audio Item 120,Electronics,Audio,Aster,SUP00064,249.11,304.79,47.204,False,False,2025-01-21,Discontinued,2025-01-21,product_master,9999-12-31,True,4da7e92e9c3c883d56ca
+SKU0000121,Classic Snack Item 121,Grocery,Frozen,Nimbus,SUP00070,256.62,683.25,10.902,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,01afe00a26b2d32ebddc
+SKU0000122,Premium Desk Setup Item 122,Office,Organization,Cobalt,SUP00102,100.15,155.35,8.128,False,False,2022-09-08,Active,2022-09-08,product_master,9999-12-31,True,34404dfdadb796699c69
+SKU0000123,Premium Smart Home Item 123,Electronics,Smart Home,Everpeak,SUP00119,231.56,598.53,58.233,True,False,,Active,1900-01-01,product_master,9999-12-31,True,604e2428f4f87799413d
+SKU0000124,Classic Desk Setup Item 124,Office,Desk Setup,Northline,SUP00049,44.0,91.75,23.615,False,False,,Active,1900-01-01,product_master,9999-12-31,True,ea51547081805c5b7ff1
+SKU0000125,Compact Stationery Item 125,Office,Stationery,Aster,SUP00111,173.82,414.04,19.884,False,False,,Active,1900-01-01,product_master,9999-12-31,True,dde666ee44da67393453
+SKU0000126,Premium Footwear Item 126,Apparel,Footwear,Aster,SUP00031,83.39,117.83,6.68,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,adb3761c25d2a4c7a50b
+SKU0000127,Essential Outerwear Item 127,Apparel,Outerwear,Nimbus,SUP00064,183.86,497.51,25.734,False,False,2024-05-19,Active,2024-05-19,product_master,9999-12-31,True,6b74d3fa2314cafdc219
+SKU0000128,Compact Smart Home Item 128,Electronics,Smart Home,Northline,SUP00023,219.71,287.67,39.798,False,False,2022-07-11,Active,2022-07-11,product_master,9999-12-31,True,a7ec4f0a4fefde5fe0c2
+SKU0000129,Eco Footwear Item 129,Apparel,Outerwear,Aster,SUP00031,27.24,68.55,35.978,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,66b0442f5404c0258508
+SKU0000130,Essential Medical Supplies Item 130,Health,Pharmacy,Nimbus,SUP00066,291.4,759.23,5.941,False,True,,Discontinued,1900-01-01,product_master,2026-05-17,False,f95abf3a8364f5466bc1
+SKU0000130,Essential Medical Supplies Item 130,Health,Pharmacy,Nimbus,SUP00066,291.4,800.87,5.941,False,True,,Seasonal,2026-05-17,catalog_update,9999-12-31,True,7a9f6486e0527e3f0a27
+SKU0000131,Ultra Footwear Item 131,Apparel,Fitness,Nimbus,SUP00006,25.77,57.87,22.594,True,True,2025-09-08,Discontinued,2025-09-08,product_master,2026-05-31,False,5e07e939d329947cbeb0
+SKU0000131,Ultra Footwear Item 131,Apparel,Fitness,Nimbus,SUP00006,25.77,58.21,22.594,True,True,2025-09-08,Seasonal,2026-05-31,discontinued,9999-12-31,True,d1ed5d7b65aaa0b35061
+SKU0000132,Ultra Printing Item 132,Office,Desk Setup,Nimbus,SUP00039,278.5,514.43,37.987,False,False,,Seasonal,1900-01-01,product_master,2026-03-22,False,f2109e0b195e2e22c5be
+SKU0000132,Ultra Printing Item 132,Office,Desk Setup,Nimbus,SUP00039,278.5,489.0,37.987,False,False,,Discontinued,2026-03-22,seasonal_refresh,9999-12-31,True,9eda674fb271acce243a
+SKU0000133,Eco Medical Supplies Item 133,Health,Wellness,Aster,SUP00021,192.78,258.46,61.521,False,False,2023-06-12,Active,2023-06-12,product_master,9999-12-31,True,6906e808edb75ba943e2
+SKU0000134,Eco Fitness Item 134,Apparel,Fitness,Aster,SUP00088,220.35,502.93,6.319,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,b9564c1469a7f8134bf2
+SKU0000135,Compact Computing Item 135,Electronics,Audio,Solace,SUP00109,18.79,31.74,18.566,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,ca510021b3f0e1285486
+SKU0000136,Premium Basics Item 136,Apparel,Footwear,Everpeak,SUP00034,92.53,229.74,47.107,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,92e9e28a691601c06601
+SKU0000137,Pro Basics Item 137,Apparel,Basics,Everpeak,SUP00104,115.65,295.88,69.314,True,False,,Active,1900-01-01,product_master,9999-12-31,True,e6aede755630029fc47d
+SKU0000138,Classic Pharmacy Item 138,Health,Wellness,Cobalt,SUP00024,260.54,316.69,58.929,False,False,2021-11-11,Active,2021-11-11,product_master,2026-03-23,False,2be43cfd6d656cbd4429
+SKU0000138,Classic Pharmacy Item 138,Health,Wellness,Cobalt,SUP00024,260.54,320.06,58.929,False,False,2021-11-11,Discontinued,2026-03-23,seasonal_refresh,9999-12-31,True,69ff18df39a35ba35b18
+SKU0000139,Ultra Audio Item 139,Electronics,Audio,Cobalt,SUP00081,82.17,193.85,29.445,False,False,2020-01-13,Discontinued,2020-01-13,product_master,9999-12-31,True,ae44473a5a4e1fa11b01
+SKU0000140,Compact Computing Item 140,Electronics,Computing,Northline,SUP00087,192.7,435.37,41.017,False,True,2025-04-16,Discontinued,2025-04-16,product_master,9999-12-31,True,eea682ef085b4dcd4e9e
+SKU0000141,Essential Footwear Item 141,Apparel,Outerwear,Everpeak,SUP00080,269.52,436.72,26.239,False,False,,Active,1900-01-01,product_master,9999-12-31,True,c542f45d5ab53b0e4bda
+SKU0000142,Classic Lighting Item 142,Home,Kitchen,Solace,SUP00091,210.38,522.87,5.489,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,659b6e5cf59de7733f6f
+SKU0000143,Essential Personal Care Item 143,Health,Pharmacy,Solace,SUP00026,167.94,232.9,59.091,False,False,2025-04-17,Discontinued,2025-04-17,product_master,9999-12-31,True,7bdc947b8ea71d60ca26
+SKU0000144,Compact Personal Care Item 144,Health,Personal Care,Everpeak,SUP00104,283.77,360.93,68.444,True,False,2022-06-03,Active,2022-06-03,product_master,9999-12-31,True,eaf61505f5f5940025de
+SKU0000145,Pro Smart Home Item 145,Electronics,Computing,Everpeak,SUP00043,104.02,225.15,25.69,False,False,2024-12-06,Active,2024-12-06,product_master,9999-12-31,True,cab1e8e56583f4e333d3
+SKU0000146,Eco Kitchen Item 146,Home,Furniture,Cobalt,SUP00097,223.17,353.75,1.575,False,False,2021-09-24,Seasonal,2021-09-24,product_master,2026-03-01,False,dd3d46814d003b4aed51
+SKU0000146,Eco Kitchen Item 146,Home,Furniture,Cobalt,SUP00097,223.17,366.12,1.575,False,False,2021-09-24,Discontinued,2026-03-01,catalog_update,9999-12-31,True,93c7d5fac4b7b2e806be
+SKU0000147,Eco Smart Home Item 147,Electronics,Smart Home,Northline,SUP00040,287.94,581.07,71.456,False,False,2023-07-07,Active,2023-07-07,product_master,9999-12-31,True,c6f8eae88350ff120ef0
+SKU0000148,Compact Stationery Item 148,Office,Stationery,Aster,SUP00090,36.75,100.64,66.13,False,False,2025-10-14,Active,2025-10-14,product_master,2026-03-04,False,b050d15c4a3113333d7a
+SKU0000148,Compact Stationery Item 148,Office,Stationery,Aster,SUP00090,36.75,92.63,66.13,False,False,2025-10-14,Discontinued,2026-03-04,price_change,9999-12-31,True,26c837f63ff60024f289
+SKU0000149,Essential Kitchen Item 149,Home,Furniture,Nimbus,SUP00003,281.73,524.21,62.971,False,True,,Active,1900-01-01,product_master,2026-03-23,False,cc8f6520c912e05fce35
+SKU0000149,Essential Kitchen Item 149,Home,Furniture,Nimbus,SUP00003,281.73,512.03,62.971,False,True,,Active,2026-03-23,seasonal_refresh,9999-12-31,True,df704b9de164416d5814
+SKU0000150,Ultra Outerwear Item 150,Apparel,Basics,Northline,SUP00059,49.0,109.85,10.193,False,False,,Active,1900-01-01,product_master,9999-12-31,True,ccec12e18e8617813a0e
+SKU0000151,Pro Printing Item 151,Office,Organization,Cobalt,SUP00043,236.85,551.5,66.085,False,False,2020-04-10,Discontinued,2020-04-10,product_master,2026-03-06,False,797122a0f177781a221e
+SKU0000151,Pro Printing Item 151,Office,Organization,Cobalt,SUP00043,236.85,554.34,66.085,False,False,2020-04-10,Discontinued,2026-03-06,catalog_update,9999-12-31,True,172b8db3172cfeeee161
+SKU0000152,Essential Printing Item 152,Office,Printing,Everpeak,SUP00088,15.58,36.67,50.116,True,False,2024-03-16,Active,2024-03-16,product_master,9999-12-31,True,9b4964e304b18fabe171
+SKU0000153,Compact Audio Item 153,Electronics,Accessories,Cobalt,SUP00016,22.93,32.66,56.023,False,False,,Active,1900-01-01,product_master,9999-12-31,True,76f44b51cf85e8738756
+SKU0000154,Compact Snack Item 154,Grocery,Pantry,Nimbus,SUP00020,285.85,448.08,24.211,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,450e64e9d87f24913a2e
+SKU0000155,Ultra Snack Item 155,Grocery,Frozen,Northline,SUP00050,119.97,201.79,68.025,True,True,2023-05-22,Active,2023-05-22,product_master,9999-12-31,True,01fb8277d67ecc8581f3
+SKU0000156,Pro Lighting Item 156,Home,Storage,Cobalt,SUP00072,203.01,356.74,60.298,False,True,2022-04-19,Active,2022-04-19,product_master,9999-12-31,True,910cd05067095a625198
+SKU0000157,Premium Stationery Item 157,Office,Printing,Solace,SUP00103,45.16,79.13,32.899,True,False,,Discontinued,1900-01-01,product_master,2026-02-27,False,72d05aaa74c07a9d846d
+SKU0000157,Premium Stationery Item 157,Office,Printing,Solace,SUP00103,45.16,78.32,32.899,True,False,,Active,2026-02-27,catalog_update,9999-12-31,True,dcb79aee7d6e1bce3e0e
+SKU0000158,Classic Fitness Item 158,Apparel,Basics,Solace,SUP00065,82.91,162.38,43.617,False,False,2022-07-17,Seasonal,2022-07-17,product_master,9999-12-31,True,8395f993f482670cb852
+SKU0000159,Eco Frozen Item 159,Grocery,Frozen,Cobalt,SUP00080,49.49,95.63,53.406,False,False,2020-09-13,Active,2020-09-13,product_master,9999-12-31,True,bcd3341a86a50b5c6587
+SKU0000160,Essential Furniture Item 160,Home,Kitchen,Everpeak,SUP00018,49.75,64.75,29.275,False,True,,Active,1900-01-01,product_master,9999-12-31,True,bcd15322ea28ee0a6afc
+SKU0000161,Essential Organization Item 161,Office,Printing,Northline,SUP00060,167.98,323.11,63.533,False,False,2022-01-30,Discontinued,2022-01-30,product_master,9999-12-31,True,f2383394624d4d79755d
+SKU0000162,Premium Audio Item 162,Electronics,Smart Home,Nimbus,SUP_BAD,211.39,463.08,12.782,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,a54c6dfc0883636df527
+SKU0000163,Pro Stationery Item 163,Office,Desk Setup,Northline,SUP00040,53.46,140.34,69.432,False,False,,Active,1900-01-01,product_master,9999-12-31,True,45eb0d1c69ee6d9eb0e4
+SKU0000164,Pro Outerwear Item 164,Apparel,Basics,Nimbus,SUP00038,148.94,294.26,40.959,False,False,2024-05-03,Discontinued,2024-05-03,product_master,2026-04-01,False,51676e115c77989a8c94
+SKU0000164,Pro Outerwear Item 164,Apparel,Basics,Nimbus,SUP00038,148.94,265.86,40.959,False,False,2024-05-03,Discontinued,2026-04-01,seasonal_refresh,9999-12-31,True,80f109c06a1c023221a2
+SKU0000165,Premium Snack Item 165,Grocery,Snack,Cobalt,SUP00081,276.82,498.94,5.042,False,False,,Active,1900-01-01,product_master,9999-12-31,True,83ed23475d83ff9ab986
+SKU0000166,Essential Personal Care Item 166,Health,Personal Care,Northline,SUP00072,208.93,267.22,47.063,False,False,2025-08-12,Discontinued,2025-08-12,product_master,9999-12-31,True,368bc7b388f9acab91c4
+SKU0000167,Compact Lighting Item 167,Home,Kitchen,Solace,SUP00085,27.48,51.53,64.821,False,False,2025-12-07,Discontinued,2025-12-07,product_master,9999-12-31,True,b6624db3e7c82b5d0f5c
+SKU0000168,Premium Kitchen Item 168,Home,Furniture,Northline,SUP00116,94.15,162.42,37.387,False,False,2024-01-09,Active,2024-01-09,product_master,9999-12-31,True,247742f1fc46750aab2c
+SKU0000169,Compact Footwear Item 169,Apparel,Footwear,Solace,SUP00045,197.43,464.64,33.456,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,4765bdd313baf2340641
+SKU0000170,Eco Stationery Item 170,Office,Stationery,Aster,SUP00119,201.29,304.01,68.068,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,a51b641b779fd21f7888
+SKU0000171,Pro Organization Item 171,Office,Desk Setup,Northline,SUP00005,111.06,134.72,43.793,False,True,2025-12-09,Active,2025-12-09,product_master,9999-12-31,True,9f49dba91b19386368f2
+SKU0000172,Eco Smart Home Item 172,Electronics,Computing,Northline,SUP00070,273.08,541.99,28.884,False,False,,Active,1900-01-01,product_master,9999-12-31,True,d49e5e53df4aed0d8a62
+SKU0000173,Ultra Stationery Item 173,Office,Organization,Everpeak,SUP00078,85.1,217.02,13.794,False,False,2022-11-02,Seasonal,2022-11-02,product_master,9999-12-31,True,ae6b489c53879edad73b
+SKU0000174,Premium Basics Item 174,Apparel,Outerwear,Cobalt,SUP00117,290.3,637.31,11.327,True,True,,Active,1900-01-01,product_master,9999-12-31,True,2f5644ca6f77dfd499fd
+SKU0000175,Compact Stationery Item 175,Office,Organization,Everpeak,SUP00065,226.42,368.16,57.453,False,True,2021-04-07,Active,2021-04-07,product_master,9999-12-31,True,1de66a75a289c5959992
+SKU0000176,Premium Furniture Item 176,Home,Furniture,Solace,SUP00021,49.13,86.32,39.864,False,False,2025-03-23,Active,2025-03-23,product_master,9999-12-31,True,f0c754918a295a31a461
+SKU0000177,Essential Furniture Item 177,Home,Storage,Aster,SUP00023,271.24,650.96,45.646,True,False,,Active,1900-01-01,product_master,9999-12-31,True,23348b464850e8aa8263
+SKU0000178,Pro Basics Item 178,Apparel,Fitness,Solace,SUP00042,210.15,560.78,64.966,False,False,2025-05-23,Discontinued,2025-05-23,product_master,2026-05-15,False,6f5e36e8079f7a64555c
+SKU0000178,Pro Basics Item 178,Apparel,Fitness,Solace,SUP00042,210.15,637.14,64.966,False,False,2025-05-23,Discontinued,2026-05-15,seasonal_refresh,9999-12-31,True,659fa8d0ba8404c6360a
+SKU0000179,Eco Printing Item 179,Office,Organization,Everpeak,SUP00012,202.89,539.53,1.309,False,False,,Active,1900-01-01,product_master,9999-12-31,True,684ebd63337955e35de9
+SKU0000180,Compact Footwear Item 180,Apparel,Basics,Northline,SUP00105,240.38,450.21,19.466,False,False,2022-03-30,Active,2022-03-30,product_master,9999-12-31,True,b4b833826114bf69ffb3
+SKU0000181,Premium Medical Supplies Item 181,Health,Medical Supplies,Aster,SUP00054,169.03,219.97,24.553,True,False,2023-08-22,Seasonal,2023-08-22,product_master,9999-12-31,True,c385d45a02cb4b7a7402
+SKU0000182,Eco Fitness Item 182,Apparel,Outerwear,Cobalt,SUP00109,173.83,223.54,63.301,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,27d97eb5b4bf08c10a1f
+SKU0000183,Essential Outerwear Item 183,Apparel,Fitness,Solace,SUP00067,2.32,3.96,14.676,False,False,2020-08-25,Active,2020-08-25,product_master,2026-02-10,False,8ae9d4fb0a61b20c2196
+SKU0000183,Essential Outerwear Item 183,Apparel,Fitness,Solace,SUP00067,2.32,4.14,14.676,False,False,2020-08-25,Active,2026-02-10,discontinued,9999-12-31,True,16de7e02e5cbf68c398b
+SKU0000184,Premium Furniture Item 184,Home,Kitchen,Everpeak,SUP00007,84.99,192.81,39.978,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,2606331073ecd2da1f4a
+SKU0000185,Pro Smart Home Item 185,Electronics,Smart Home,Solace,SUP_BAD,134.83,174.23,65.071,False,False,2022-11-13,Discontinued,2022-11-13,product_master,2026-05-22,False,7b587b76a93932c9fc8f
+SKU0000185,Pro Smart Home Item 185,Electronics,Smart Home,Solace,SUP_BAD,134.83,183.14,65.071,False,False,2022-11-13,Active,2026-05-22,catalog_update,9999-12-31,True,60932ee1cc5cebc0498f
+SKU0000186,Classic Stationery Item 186,Office,Desk Setup,Everpeak,SUP00104,45.56,92.78,73.338,True,False,2021-03-27,Active,2021-03-27,product_master,9999-12-31,True,f880efb32fd4b45d8a8f
+SKU0000187,Essential Fitness Item 187,Apparel,Footwear,Everpeak,SUP00060,214.53,535.63,39.258,False,False,,Active,1900-01-01,product_master,2026-02-23,False,1aa6ffa82e0ed90798a7
+SKU0000187,Essential Fitness Item 187,Apparel,Footwear,Everpeak,SUP00060,214.53,555.12,39.258,False,False,,Active,2026-02-23,catalog_update,9999-12-31,True,fffe14e648d9050aa63a
+SKU0000188,Classic Storage Item 188,Home,Kitchen,Nimbus,SUP00062,70.74,,17.483,False,False,2024-03-14,Seasonal,2024-03-14,product_master,2026-05-07,False,91bf9a3a8bae44a1bde8
+SKU0000188,Classic Storage Item 188,Home,Kitchen,Nimbus,SUP00062,70.74,,17.483,False,False,2024-03-14,Active,2026-05-07,catalog_update,9999-12-31,True,9ab8fc5e6b54a69b173c
+SKU0000189,Pro Computing Item 189,Electronics,Accessories,Nimbus,SUP00015,6.52,11.65,16.623,True,False,,Active,1900-01-01,product_master,9999-12-31,True,77c84cc4041efa7e0064
+SKU0000190,Classic Medical Supplies Item 190,Health,Wellness,Cobalt,SUP00086,230.54,379.81,65.487,False,False,2023-09-13,Active,2023-09-13,product_master,9999-12-31,True,e6e6e136f20679cd26c7
+SKU0000191,Eco Fitness Item 191,Apparel,Fitness,Everpeak,SUP00106,255.44,487.15,0.142,False,False,2021-12-08,Discontinued,2021-12-08,product_master,9999-12-31,True,7450d4f5f6fad064625a
+SKU0000192,Eco Personal Care Item 192,Health,Wellness,Cobalt,SUP00065,181.43,309.93,53.34,True,False,,Active,1900-01-01,product_master,9999-12-31,True,e4be885526ba5ed1c534
+SKU0000193,Pro Footwear Item 193,Apparel,Fitness,Solace,SUP00003,229.5,403.33,24.854,False,False,2021-07-19,Active,2021-07-19,product_master,9999-12-31,True,dfcbaaef5bcb65087a93
+SKU0000194,Premium Beverage Item 194,Grocery,Beverage,Cobalt,SUP00080,247.68,558.56,67.204,False,False,,Active,1900-01-01,product_master,9999-12-31,True,9c31c2764d1588d74c04
+SKU0000195,Compact Wellness Item 195,Health,Personal Care,Aster,SUP00049,140.49,278.35,26.703,True,False,2023-09-18,Active,2023-09-18,product_master,9999-12-31,True,70cbdf6860d8105525fd
+SKU0000196,Compact Fitness Item 196,Apparel,Outerwear,Solace,SUP00025,82.38,145.29,59.836,True,False,2021-10-31,Seasonal,2021-10-31,product_master,9999-12-31,True,38f6a29edbed03d68832
+SKU0000197,Compact Snack Item 197,Grocery,Pantry,Northline,SUP00038,81.13,106.22,30.836,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,9a4108b24b7d059dfd24
+SKU0000198,Pro Printing Item 198,Office,Organization,Everpeak,SUP00047,36.83,68.63,60.189,False,True,,Active,1900-01-01,product_master,9999-12-31,True,db711dbaed951801e470
+SKU0000199,Premium Snack Item 199,Grocery,Pantry,Northline,SUP00071,237.35,634.67,74.654,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,bb6a5ae6a50e521e3236
+SKU0000200,Compact Stationery Item 200,Office,Printing,Solace,SUP00118,224.59,542.18,43.811,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,0ab217a92903fe9b79e8
+SKU0000201,Eco Storage Item 201,Home,Lighting,Everpeak,SUP00053,201.87,495.29,5.0,False,False,,Active,1900-01-01,product_master,9999-12-31,True,779777e9716fad1e9a8b
+SKU0000202,Premium Furniture Item 202,Home,Lighting,Solace,SUP00042,51.89,113.77,35.272,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,e951a1ae77ebf935c798
+SKU0000203,Ultra Furniture Item 203,Home,Kitchen,Cobalt,SUP00023,72.74,156.46,32.237,False,False,2025-08-21,Discontinued,2025-08-21,product_master,9999-12-31,True,0f2f99933255e2ecc4aa
+SKU0000204,Classic Storage Item 204,Home,Storage,Solace,SUP00039,253.83,633.39,15.04,False,False,2025-07-04,Discontinued,2025-07-04,product_master,9999-12-31,True,1afe84b640957bb5b375
+SKU0000205,Classic Personal Care Item 205,Health,Pharmacy,Solace,SUP00049,32.83,59.14,34.087,True,False,,Active,1900-01-01,product_master,9999-12-31,True,4205bfb1b6dc110cc9f0
+SKU0000206,Ultra Wellness Item 206,Health,Medical Supplies,Solace,SUP00086,51.47,99.51,73.949,True,True,2022-03-30,Discontinued,2022-03-30,product_master,9999-12-31,True,b43613af79ecdb83a6b6
+SKU0000207,Compact Beverage Item 207,Grocery,Frozen,Northline,SUP00073,88.77,154.11,65.855,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,4fc3dc78dfd14642a778
+SKU0000208,Classic Outerwear Item 208,Apparel,Fitness,Aster,SUP00071,160.85,436.52,42.258,False,True,2023-01-02,Active,2023-01-02,product_master,9999-12-31,True,6085fa6fc8fd99a19cbf
+SKU0000209,Compact Beverage Item 209,Grocery,Frozen,Nimbus,SUP00051,228.55,387.88,72.988,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,00d419e35d9682dc6d31
+SKU0000210,Compact Audio Item 210,Electronics,Smart Home,Aster,SUP00104,26.81,63.65,32.497,True,False,,Active,1900-01-01,product_master,9999-12-31,True,7786ac2937e423cea908
+SKU0000211,Premium Organization Item 211,Office,Desk Setup,Cobalt,SUP00059,159.18,252.32,41.061,True,False,,Active,1900-01-01,product_master,9999-12-31,True,c858e5a2d4c5e8fc5647
+SKU0000212,Ultra Desk Setup Item 212,Office,Printing,Cobalt,SUP00005,184.32,383.82,14.023,False,False,2023-05-23,Active,2023-05-23,product_master,2026-02-15,False,7683b781dc6440f1376f
+SKU0000212,Ultra Desk Setup Item 212,Office,Printing,Cobalt,SUP00005,184.32,426.14,14.023,False,False,2023-05-23,Discontinued,2026-02-15,catalog_update,9999-12-31,True,5900580ca88947937e16
+SKU0000213,Premium Pantry Item 213,Grocery,Pantry,Everpeak,SUP00104,92.2,197.83,20.248,False,True,,Active,1900-01-01,product_master,9999-12-31,True,6f9007fbcc9d55726ac4
+SKU0000214,Premium Medical Supplies Item 214,Health,Medical Supplies,Cobalt,SUP00088,266.29,675.19,25.615,False,False,,Active,1900-01-01,product_master,9999-12-31,True,1ca5d08be75eb32ac6ce
+SKU0000215,Ultra Organization Item 215,Office,Stationery,Nimbus,SUP00111,141.72,253.58,41.334,True,False,,Active,1900-01-01,product_master,9999-12-31,True,f778fe5e1f1ded7c7235
+SKU0000216,Classic Storage Item 216,Home,Storage,Nimbus,SUP00105,261.16,395.87,67.302,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,525321c2e7036298542c
+SKU0000217,Compact Outerwear Item 217,Apparel,Basics,Nimbus,SUP00067,262.0,638.86,46.952,False,False,2023-06-17,Active,2023-06-17,product_master,9999-12-31,True,0483cc41de6b9707cc84
+SKU0000218,Pro Furniture Item 218,Home,Furniture,Northline,SUP00009,117.62,146.44,45.095,True,False,2024-01-29,Discontinued,2024-01-29,product_master,2026-02-05,False,6b71c41199d9b4dc1037
+SKU0000218,Pro Furniture Item 218,Home,Furniture,Northline,SUP00009,117.62,160.47,45.095,True,False,2024-01-29,Seasonal,2026-02-05,price_change,9999-12-31,True,945bc0947e3a9d6bfb79
+SKU0000219,Essential Wellness Item 219,Health,Personal Care,Everpeak,SUP00035,116.78,223.88,64.257,False,False,2023-07-08,Active,2023-07-08,product_master,9999-12-31,True,cc02b9232ad2b09707bf
+SKU0000220,Essential Computing Item 220,Electronics,Accessories,Northline,SUP00087,259.0,350.04,50.897,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,1eba3059e0bcd0137c5f
+SKU0000221,Classic Computing Item 221,Electronics,Computing,Everpeak,SUP00026,107.28,174.43,61.155,True,False,2022-10-29,Active,2022-10-29,product_master,2026-04-17,False,145469e8cfe047971a2c
+SKU0000221,Classic Computing Item 221,Electronics,Computing,Everpeak,SUP00026,107.28,164.9,61.155,True,False,2022-10-29,Discontinued,2026-04-17,seasonal_refresh,9999-12-31,True,3e329e59c2cbfc89d763
+SKU0000222,Compact Snack Item 222,Grocery,Snack,Everpeak,SUP00064,5.74,12.94,55.559,False,False,,Active,1900-01-01,product_master,9999-12-31,True,238d11863dd52e24d688
+SKU0000223,Ultra Printing Item 223,Office,Desk Setup,Cobalt,SUP00055,257.93,647.0,20.934,False,False,2020-02-12,Discontinued,2020-02-12,product_master,9999-12-31,True,61e9db700d9bc1976237
+SKU0000224,Eco Organization Item 224,Office,Organization,Cobalt,SUP00070,164.88,279.67,33.536,False,True,2025-06-08,Seasonal,2025-06-08,product_master,9999-12-31,True,4213ee8ce3d28224a687
+SKU0000225,Premium Frozen Item 225,Grocery,Beverage,Nimbus,SUP00092,181.19,252.02,73.3,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,c1395d63dade2d99e45b
+SKU0000226,Premium Lighting Item 226,Home,Lighting,Nimbus,SUP00001,4.13,9.78,19.61,True,True,2024-10-03,Discontinued,2024-10-03,product_master,2026-03-27,False,16a106d24a970a5e7b37
+SKU0000226,Premium Lighting Item 226,Home,Lighting,Nimbus,SUP00001,4.13,10.15,19.61,True,True,2024-10-03,Active,2026-03-27,price_change,9999-12-31,True,ee726eed58910d54f32b
+SKU0000227,Premium Outerwear Item 227,Apparel,Fitness,Everpeak,SUP00116,248.23,427.03,10.467,True,False,2021-12-11,Discontinued,2021-12-11,product_master,9999-12-31,True,cc765b23b19424bf66ba
+SKU0000228,Essential Accessories Item 228,Electronics,Computing,Northline,SUP00052,290.95,417.29,13.662,False,False,2024-12-02,Seasonal,2024-12-02,product_master,9999-12-31,True,7364e50e3bc841149415
+SKU0000229,Eco Frozen Item 229,Grocery,Pantry,Everpeak,SUP00069,279.32,715.95,17.111,True,False,2025-03-17,Active,2025-03-17,product_master,9999-12-31,True,79487a8676766e885abc
+SKU0000230,Premium Lighting Item 230,Home,Lighting,Nimbus,SUP00071,150.83,300.89,19.525,False,False,,Active,1900-01-01,product_master,2026-02-13,False,5ce5dd76ecdab7fbc9dc
+SKU0000230,Premium Lighting Item 230,Home,Lighting,Nimbus,SUP00071,150.83,298.28,19.525,False,False,,Active,2026-02-13,discontinued,9999-12-31,True,ffe876dbf59e54999142
+SKU0000231,Eco Kitchen Item 231,Home,Furniture,Aster,SUP00087,120.81,228.8,13.292,False,False,2020-11-03,Active,2020-11-03,product_master,2026-05-25,False,1b7cf2cc629d17bb1def
+SKU0000231,Eco Kitchen Item 231,Home,Furniture,Aster,SUP00087,120.81,243.37,13.292,False,False,2020-11-03,Discontinued,2026-05-25,seasonal_refresh,9999-12-31,True,1657ccbaed452910a562
+SKU0000232,Compact Computing Item 232,Electronics,Smart Home,Everpeak,SUP00110,45.32,86.71,2.466,False,True,,Discontinued,1900-01-01,product_master,2026-02-11,False,9eb1aa1a679b0deeb4a0
+SKU0000232,Compact Computing Item 232,Electronics,Smart Home,Everpeak,SUP00110,45.32,81.67,2.466,False,True,,Discontinued,2026-02-11,price_change,9999-12-31,True,07b60923f56834b6541e
+SKU0000233,Classic Footwear Item 233,Apparel,Basics,Everpeak,SUP00087,14.4,38.97,24.576,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,57104eb180e7dcfacb51
+SKU0000234,Ultra Accessories Item 234,Electronics,Accessories,Solace,SUP00065,86.53,219.91,63.867,False,True,2021-06-02,Discontinued,2021-06-02,product_master,9999-12-31,True,b48ed3048e4ccbd793be
+SKU0000235,Eco Personal Care Item 235,Health,Wellness,Everpeak,SUP00025,137.88,298.76,19.339,False,False,,Active,1900-01-01,product_master,2026-03-30,False,6839480c26deb9d36d7f
+SKU0000235,Eco Personal Care Item 235,Health,Wellness,Everpeak,SUP00025,137.88,312.31,19.339,False,False,,Seasonal,2026-03-30,catalog_update,9999-12-31,True,1150f8e7b5475f7d04dc
+SKU0000236,Compact Smart Home Item 236,Electronics,Audio,Solace,SUP00098,88.7,166.31,68.558,False,False,2021-09-26,Active,2021-09-26,product_master,2026-03-02,False,d86682f36d48556e3757
+SKU0000236,Compact Smart Home Item 236,Electronics,Audio,Solace,SUP00098,88.7,183.1,68.558,False,False,2021-09-26,Active,2026-03-02,catalog_update,9999-12-31,True,7abb62f9783e487a53b8
+SKU0000237,Classic Smart Home Item 237,Electronics,Computing,Aster,SUP00097,291.01,754.15,67.978,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,3a4f3d5b04ab42f580da
+SKU0000238,Eco Smart Home Item 238,Electronics,Accessories,Aster,SUP00072,287.68,476.95,20.621,False,True,2020-03-01,Seasonal,2020-03-01,product_master,9999-12-31,True,950f00a559d57311beac
+SKU0000239,Eco Wellness Item 239,Health,Medical Supplies,Everpeak,SUP00064,85.21,185.36,29.625,False,False,,Active,1900-01-01,product_master,2026-02-26,False,85c240be0571d16e94a2
+SKU0000239,Eco Wellness Item 239,Health,Medical Supplies,Everpeak,SUP00064,85.21,189.5,29.625,False,False,,Discontinued,2026-02-26,seasonal_refresh,9999-12-31,True,084b4506bba7c6272936
+SKU0000240,Ultra Footwear Item 240,Apparel,Basics,Nimbus,SUP00116,276.39,588.36,62.008,False,True,2020-12-05,Seasonal,2020-12-05,product_master,9999-12-31,True,6bc040edfc5f31e18c67
+SKU0000241,Premium Fitness Item 241,Apparel,Outerwear,Aster,SUP00075,7.28,19.44,11.566,False,False,,Active,1900-01-01,product_master,9999-12-31,True,a85c5908c51d9afde55c
+SKU0000242,Ultra Kitchen Item 242,Home,Kitchen,Everpeak,SUP00050,189.15,432.64,32.004,True,False,2024-06-05,Seasonal,2024-06-05,product_master,9999-12-31,True,75e8cfdccdc7b6b0f3b0
+SKU0000243,Pro Organization Item 243,Office,Stationery,Cobalt,SUP00113,89.34,197.71,27.696,True,False,,Active,1900-01-01,product_master,9999-12-31,True,4c12ab97dc8321beb232
+SKU0000244,Pro Wellness Item 244,Health,Medical Supplies,Cobalt,SUP00074,61.2,143.99,21.222,True,False,2024-07-27,Active,2024-07-27,product_master,9999-12-31,True,b4592a262075e6655d01
+SKU0000245,Pro Storage Item 245,Home,Lighting,Everpeak,SUP00011,209.38,389.54,59.445,False,False,,Active,1900-01-01,product_master,9999-12-31,True,67e0354a7ac3173605cf
+SKU0000246,Classic Footwear Item 246,Apparel,Footwear,Northline,SUP00088,22.56,31.38,23.454,False,False,2021-06-09,Seasonal,2021-06-09,product_master,2026-02-27,False,f79c1d1a28b73c7ed28d
+SKU0000246,Classic Footwear Item 246,Apparel,Footwear,Northline,SUP00088,22.56,28.38,23.454,False,False,2021-06-09,Seasonal,2026-02-27,catalog_update,9999-12-31,True,4ddfc8fa4c8c917f9fda
+SKU0000247,Eco Lighting Item 247,Home,Furniture,Everpeak,SUP00101,217.13,442.86,8.564,False,True,,Active,1900-01-01,product_master,9999-12-31,True,066dcc563dacdce0226d
+SKU0000248,Ultra Furniture Item 248,Home,Lighting,Cobalt,SUP00066,76.11,116.15,34.769,False,False,2023-07-15,Seasonal,2023-07-15,product_master,9999-12-31,True,8375a785ca754af2bcf5
+SKU0000249,Compact Fitness Item 249,Apparel,Fitness,Nimbus,SUP00089,19.78,36.55,44.07,True,True,2020-05-10,Seasonal,2020-05-10,product_master,2026-03-03,False,a8c0c7952d708b9dbd04
+SKU0000249,Compact Fitness Item 249,Apparel,Fitness,Nimbus,SUP00089,19.78,34.68,44.07,True,True,2020-05-10,Seasonal,2026-03-03,price_change,9999-12-31,True,1c847eb3c19efd8f29a1
+SKU0000250,Compact Lighting Item 250,Home,Lighting,Nimbus,SUP00061,120.44,325.02,73.401,False,False,2024-05-01,Seasonal,2024-05-01,product_master,9999-12-31,True,166e15cefb09c2d63230
+SKU0000251,Pro Organization Item 251,Office,Desk Setup,Northline,SUP00010,244.81,615.23,18.628,False,False,,Active,1900-01-01,product_master,9999-12-31,True,ff383cf0ab1992599957
+SKU0000252,Classic Wellness Item 252,Health,Medical Supplies,Everpeak,SUP00086,153.07,188.14,73.188,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,5913645e055e9c666206
+SKU0000253,Compact Beverage Item 253,Grocery,Snack,Aster,SUP00022,179.86,391.89,72.212,False,False,2024-12-22,Active,2024-12-22,product_master,9999-12-31,True,bc93343ee20c44482b62
+SKU0000254,Compact Desk Setup Item 254,Office,Printing,Cobalt,SUP00061,256.11,337.26,36.646,False,False,,Seasonal,1900-01-01,product_master,2026-04-19,False,4f58c1d747f924be47f2
+SKU0000254,Compact Desk Setup Item 254,Office,Printing,Cobalt,SUP00061,256.11,360.53,36.646,False,False,,Discontinued,2026-04-19,price_change,9999-12-31,True,73ff242c74334fef1f1f
+SKU0000255,Eco Storage Item 255,Home,Kitchen,Cobalt,SUP00038,205.18,277.93,8.221,False,False,2026-01-16,Seasonal,2026-01-16,product_master,9999-12-31,True,bbc32a13eb10088e7ede
+SKU0000256,Classic Smart Home Item 256,Electronics,Smart Home,Northline,SUP00007,183.29,303.06,37.063,False,True,2020-07-26,Discontinued,2020-07-26,product_master,9999-12-31,True,bab013f7b9e004626483
+SKU0000257,Essential Organization Item 257,Office,Organization,Aster,SUP00080,10.81,24.19,66.994,False,False,2025-03-06,Active,2025-03-06,product_master,2026-03-07,False,5acd4fa808c18c3ad8a2
+SKU0000257,Essential Organization Item 257,Office,Organization,Aster,SUP00080,10.81,27.39,66.994,False,False,2025-03-06,Seasonal,2026-03-07,price_change,9999-12-31,True,1241c6c10612dcc2b463
+SKU0000258,Classic Pharmacy Item 258,Health,Pharmacy,Aster,SUP00091,258.37,386.84,16.148,False,False,,Active,1900-01-01,product_master,9999-12-31,True,1d29221264e4bc3f6019
+SKU0000259,Pro Personal Care Item 259,Health,Medical Supplies,Northline,SUP00072,181.31,324.63,34.387,False,True,2025-01-28,Discontinued,2025-01-28,product_master,9999-12-31,True,a270700f655291796cd6
+SKU0000260,Eco Frozen Item 260,Grocery,Frozen,Aster,SUP00101,274.16,588.36,63.356,False,False,2021-03-08,Active,2021-03-08,product_master,2026-03-08,False,6f2eda1ddd0d318f8d78
+SKU0000260,Eco Frozen Item 260,Grocery,Frozen,Aster,SUP00101,274.16,542.71,63.356,False,False,2021-03-08,Seasonal,2026-03-08,seasonal_refresh,9999-12-31,True,4b983fbd323ab8b98bdf
+SKU0000261,Classic Smart Home Item 261,Electronics,Smart Home,Aster,SUP00070,281.03,640.78,8.677,False,False,2020-03-12,Active,2020-03-12,product_master,9999-12-31,True,e6e4ac8ff03c04224f71
+SKU0000262,Classic Pharmacy Item 262,Health,Wellness,Cobalt,SUP00042,170.59,328.86,67.591,False,False,2024-06-09,Active,2024-06-09,product_master,9999-12-31,True,a69cc23338246e41366f
+SKU0000263,Pro Footwear Item 263,Apparel,Footwear,Cobalt,SUP00068,20.47,33.34,16.348,False,False,,Discontinued,1900-01-01,product_master,2026-03-23,False,d696f814d5bf21b189bd
+SKU0000263,Pro Footwear Item 263,Apparel,Footwear,Cobalt,SUP00068,20.47,30.78,16.348,False,False,,Seasonal,2026-03-23,discontinued,9999-12-31,True,537f139c8ddb2a9020ea
+SKU0000264,Classic Snack Item 264,Grocery,Beverage,Nimbus,SUP00018,267.55,512.44,54.716,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,9419d3759d2f83d83abf
+SKU0000265,Classic Beverage Item 265,Grocery,Frozen,Northline,SUP00047,229.09,368.44,11.875,False,False,2022-03-06,Active,2022-03-06,product_master,9999-12-31,True,d1a1a10ba2f26eee99a4
+SKU0000266,Compact Fitness Item 266,Apparel,Outerwear,Nimbus,SUP00018,151.11,232.78,15.472,False,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,150d82becb55c3b10b03
+SKU0000267,Eco Furniture Item 267,Home,Furniture,Aster,SUP00099,41.45,72.03,4.222,False,False,2022-10-12,Active,2022-10-12,product_master,9999-12-31,True,4d754c0bf43a6ca73f9a
+SKU0000268,Essential Printing Item 268,Office,Desk Setup,Everpeak,SUP00107,293.05,480.15,61.905,True,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,9d5a1ffd8556ad768720
+SKU0000269,Pro Lighting Item 269,Home,Kitchen,Solace,SUP00039,290.28,368.36,66.687,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,48c0b148f005df35a708
+SKU0000270,Essential Stationery Item 270,Office,Stationery,Everpeak,SUP00105,30.68,56.32,42.007,False,False,,Discontinued,1900-01-01,product_master,2026-04-22,False,c326666a7d83b330dc0f
+SKU0000270,Essential Stationery Item 270,Office,Stationery,Everpeak,SUP00105,30.68,56.64,42.007,False,False,,Active,2026-04-22,catalog_update,9999-12-31,True,2a4ffac9d3a4023162e6
+SKU0000271,Pro Outerwear Item 271,Apparel,Basics,Cobalt,SUP00106,223.0,408.3,34.81,False,False,,Active,1900-01-01,product_master,9999-12-31,True,0ade4e453a71d3e63096
+SKU0000272,Classic Footwear Item 272,Apparel,Fitness,Solace,SUP00008,253.68,578.27,23.4,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,e751009de89db314eae4
+SKU0000273,Essential Organization Item 273,Office,Organization,Aster,SUP00066,103.99,200.59,20.208,False,False,,Seasonal,1900-01-01,product_master,2026-04-15,False,f1ea53f535d31c549255
+SKU0000273,Essential Organization Item 273,Office,Organization,Aster,SUP00066,103.99,220.4,20.208,False,False,,Discontinued,2026-04-15,discontinued,9999-12-31,True,6cb0728fa5f14d22d95e
+SKU0000274,Pro Desk Setup Item 274,Office,Stationery,Northline,SUP00051,84.98,211.78,40.381,False,False,2023-11-01,Discontinued,2023-11-01,product_master,9999-12-31,True,c585e952e3b2a01df450
+SKU0000275,Compact Computing Item 275,Electronics,Audio,Everpeak,SUP00077,,44.86,40.061,False,False,2025-11-07,Active,2025-11-07,product_master,2026-05-27,False,7d564fcc25ed8cc6a096
+SKU0000275,Compact Computing Item 275,Electronics,Audio,Everpeak,SUP00077,,49.77,40.061,False,False,2025-11-07,Discontinued,2026-05-27,discontinued,9999-12-31,True,1a831fc343f1ad2d47b0
+SKU0000276,Pro Snack Item 276,Grocery,Frozen,Nimbus,SUP00068,196.84,381.74,63.452,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,14c40bc2ea8eb8d148a4
+SKU0000277,Compact Furniture Item 277,Home,Storage,Everpeak,SUP00012,138.96,225.04,15.89,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,8ddcd52939710c12a04a
+SKU0000278,Essential Furniture Item 278,Home,Kitchen,Aster,SUP00101,6.53,16.04,3.611,False,False,,Active,1900-01-01,product_master,9999-12-31,True,8d44168056928417bd2f
+SKU0000279,Essential Organization Item 279,Office,Stationery,Everpeak,SUP00055,219.46,387.92,50.132,True,False,2025-08-29,Seasonal,2025-08-29,product_master,9999-12-31,True,24c8498d63b56ec752d0
+SKU0000280,Premium Snack Item 280,Grocery,Pantry,Solace,SUP00092,183.17,451.63,56.868,False,False,2023-03-11,Seasonal,2023-03-11,product_master,9999-12-31,True,64b599cb406f4eff6334
+SKU0000281,Classic Audio Item 281,Electronics,Accessories,Everpeak,SUP00068,104.48,137.58,47.589,False,False,2020-02-04,Active,2020-02-04,product_master,9999-12-31,True,2ef3e87c662e2a89065f
+SKU0000282,Essential Basics Item 282,Apparel,Footwear,Cobalt,SUP00021,285.8,781.11,62.917,True,False,2021-02-07,Seasonal,2021-02-07,product_master,2026-04-07,False,ab16976a3f20ce448a8e
+SKU0000282,Essential Basics Item 282,Apparel,Footwear,Cobalt,SUP00021,285.8,841.7,62.917,True,False,2021-02-07,Active,2026-04-07,discontinued,9999-12-31,True,bc369783d06585c5701d
+SKU0000283,Compact Desk Setup Item 283,Office,Organization,Aster,SUP00061,31.39,56.19,46.96,False,False,2022-03-01,Active,2022-03-01,product_master,2026-03-28,False,79f2ae413034c61cbf31
+SKU0000283,Compact Desk Setup Item 283,Office,Organization,Aster,SUP00061,31.39,59.39,46.96,False,False,2022-03-01,Active,2026-03-28,discontinued,9999-12-31,True,20dc59d2d72b2a5ffa61
+SKU0000284,Eco Fitness Item 284,Apparel,Outerwear,Everpeak,SUP00052,166.1,215.68,30.94,False,True,,Seasonal,1900-01-01,product_master,2026-04-22,False,dd0693ac577e67596429
+SKU0000284,Eco Fitness Item 284,Apparel,Outerwear,Everpeak,SUP00052,166.1,230.67,30.94,False,True,,Discontinued,2026-04-22,discontinued,9999-12-31,True,99af9ba42aadc0f179e2
+SKU0000285,Eco Frozen Item 285,Grocery,Frozen,Aster,SUP00014,34.95,79.03,18.715,True,False,2020-03-23,Active,2020-03-23,product_master,9999-12-31,True,e8bbceb123260036a455
+SKU0000286,Compact Fitness Item 286,Apparel,Basics,Cobalt,SUP00022,291.41,422.48,41.161,True,False,2023-12-26,Active,2023-12-26,product_master,9999-12-31,True,17710976e3bae1ff470a
+SKU0000287,Pro Desk Setup Item 287,Office,Printing,Everpeak,SUP00070,153.33,285.27,11.312,False,False,2025-05-19,Active,2025-05-19,product_master,9999-12-31,True,7094a460e23c18e1749e
+SKU0000288,Classic Organization Item 288,Office,Organization,Nimbus,SUP00080,169.91,272.09,21.601,True,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,0e222a66ffed1671d489
+SKU0000289,Compact Furniture Item 289,Home,Storage,Solace,SUP00003,191.42,404.3,67.611,False,False,,Discontinued,1900-01-01,product_master,2026-03-17,False,f2ebfd5cb0ccea61f535
+SKU0000289,Compact Furniture Item 289,Home,Storage,Solace,SUP00003,191.42,399.86,67.611,False,False,,Active,2026-03-17,catalog_update,9999-12-31,True,7795fddcb31c303a7cdb
+SKU0000290,Eco Fitness Item 290,Apparel,Outerwear,Everpeak,SUP00073,229.99,507.14,39.17,True,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,1421c50fddf3ddeb4f4a
+SKU0000291,Premium Computing Item 291,Electronics,Smart Home,Nimbus,SUP00035,66.92,110.43,10.212,False,False,2025-04-09,Seasonal,2025-04-09,product_master,9999-12-31,True,59bb5a1cbbd10eb001bb
+SKU0000292,Premium Kitchen Item 292,Home,Furniture,Everpeak,SUP00101,65.65,141.07,23.139,True,False,2025-09-07,Active,2025-09-07,product_master,9999-12-31,True,388b0fa0a8df51f5cc43
+SKU0000293,Compact Pharmacy Item 293,Health,Wellness,Nimbus,SUP00006,299.08,404.12,41.721,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,42c298a8179635b5e843
+SKU0000294,Premium Kitchen Item 294,Home,Kitchen,Aster,SUP00083,41.04,64.2,58.986,False,False,,Seasonal,1900-01-01,product_master,2026-02-07,False,908a92415d86c9b10395
+SKU0000294,Premium Kitchen Item 294,Home,Kitchen,Aster,SUP00083,41.04,66.21,58.986,False,False,,Active,2026-02-07,price_change,9999-12-31,True,a405a5554151f8850c4d
+SKU0000295,Essential Medical Supplies Item 295,Health,Medical Supplies,Solace,SUP00005,132.32,254.18,12.855,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,87662185df4969f7b421
+SKU0000296,Essential Accessories Item 296,Electronics,Audio,Nimbus,SUP00046,82.35,167.98,0.261,False,False,2020-03-23,Active,2020-03-23,product_master,2026-02-02,False,b40207f345088325c58d
+SKU0000296,Essential Accessories Item 296,Electronics,Audio,Nimbus,SUP00046,82.35,162.94,0.261,False,False,2020-03-23,Discontinued,2026-02-02,discontinued,9999-12-31,True,09e8aeab04f4de397b9c
+SKU0000297,Classic Stationery Item 297,Office,Desk Setup,Cobalt,SUP00100,211.04,359.47,54.99,False,True,2022-09-10,Active,2022-09-10,product_master,2026-05-15,False,e23736a576115aa3c3ab
+SKU0000297,Classic Stationery Item 297,Office,Desk Setup,Cobalt,SUP00100,211.04,389.55,54.99,False,True,2022-09-10,Discontinued,2026-05-15,price_change,9999-12-31,True,d7c76678e5a337e228f4
+SKU0000298,Compact Beverage Item 298,Grocery,Snack,Aster,SUP00031,149.64,389.01,23.688,False,False,2024-06-30,Active,2024-06-30,product_master,9999-12-31,True,6b2fb9f4d1b2f5ffcbc2
+SKU0000299,Eco Lighting Item 299,Home,Kitchen,Northline,SUP00020,75.55,112.0,44.055,False,False,,Seasonal,1900-01-01,product_master,2026-05-22,False,70994610dfd1fb3b9951
+SKU0000299,Eco Lighting Item 299,Home,Kitchen,Northline,SUP00020,75.55,106.5,44.055,False,False,,Active,2026-05-22,catalog_update,9999-12-31,True,6d0562c958d56582cb00
+SKU0000300,Ultra Desk Setup Item 300,Office,Stationery,Everpeak,SUP00042,77.77,169.09,39.891,False,True,2022-11-15,Discontinued,2022-11-15,product_master,9999-12-31,True,aa7788bf28fe4f30bf13
+SKU0000301,Classic Fitness Item 301,Apparel,Basics,Cobalt,SUP00106,199.35,514.31,20.778,True,False,,Active,1900-01-01,product_master,2026-04-19,False,3da08afa5b7160a32792
+SKU0000301,Classic Fitness Item 301,Apparel,Basics,Cobalt,SUP00106,199.35,479.08,20.778,True,False,,Seasonal,2026-04-19,catalog_update,9999-12-31,True,7d55b63d2b85ace60cae
+SKU0000302,Pro Outerwear Item 302,Apparel,Fitness,Everpeak,SUP00050,222.8,429.21,35.683,True,False,2025-10-03,Discontinued,2025-10-03,product_master,9999-12-31,True,6de40431d2fe9a1c6f5c
+SKU0000303,Compact Personal Care Item 303,Health,Wellness,Nimbus,SUP00030,25.44,65.35,21.978,False,False,,Seasonal,1900-01-01,product_master,2026-03-10,False,cb02fb476d168f39fad5
+SKU0000303,Compact Personal Care Item 303,Health,Wellness,Nimbus,SUP00030,25.44,58.99,21.978,False,False,,Discontinued,2026-03-10,discontinued,9999-12-31,True,c0496396f55da81fa1f7
+SKU0000304,Eco Pharmacy Item 304,Health,Wellness,Northline,SUP00095,104.7,215.9,30.619,False,False,,Active,1900-01-01,product_master,9999-12-31,True,2f320f31684f9e88f3ec
+SKU0000305,Eco Snack Item 305,Grocery,Beverage,Solace,SUP00012,28.77,70.5,20.465,False,True,2023-10-02,Active,2023-10-02,product_master,2026-02-08,False,518497b4067cb082b40e
+SKU0000305,Eco Snack Item 305,Grocery,Beverage,Solace,SUP00012,28.77,77.88,20.465,False,True,2023-10-02,Seasonal,2026-02-08,discontinued,9999-12-31,True,cb360554a0dfce35dd6f
+SKU0000306,Classic Personal Care Item 306,Health,Personal Care,Aster,SUP00008,154.34,324.39,26.993,True,False,,Active,1900-01-01,product_master,2026-03-20,False,d0484c3206593c7a6dd2
+SKU0000306,Classic Personal Care Item 306,Health,Personal Care,Aster,SUP00008,154.34,314.74,26.993,True,False,,Seasonal,2026-03-20,price_change,9999-12-31,True,9c1ee47340d2876b18e5
+SKU0000307,Compact Kitchen Item 307,Home,Lighting,Northline,SUP00066,291.55,661.21,61.345,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,afd832c49f6d82eb31b1
+SKU0000308,Premium Organization Item 308,Office,Printing,Northline,SUP00107,56.0,109.9,3.869,False,False,2024-01-07,Active,2024-01-07,product_master,9999-12-31,True,712844e228e24395f8a5
+SKU0000309,Premium Computing Item 309,Electronics,Computing,Cobalt,SUP00082,205.81,257.88,50.834,False,False,,Active,1900-01-01,product_master,9999-12-31,True,6969e7fb9cf1a0a58587
+SKU0000310,Eco Fitness Item 310,Apparel,Fitness,Nimbus,SUP00108,285.19,,60.576,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,4979e070fe18b46e9c83
+SKU0000311,Pro Medical Supplies Item 311,Health,Wellness,Nimbus,SUP00075,6.88,10.05,40.988,False,True,,Active,1900-01-01,product_master,9999-12-31,True,ed54109ae459d4bb7b39
+SKU0000312,Essential Audio Item 312,Electronics,Accessories,Aster,SUP00065,102.23,,60.487,True,False,,Active,1900-01-01,product_master,9999-12-31,True,25de71f92083a1e3115e
+SKU0000313,Essential Footwear Item 313,Apparel,Basics,Nimbus,SUP00074,142.95,180.46,55.661,False,False,2022-04-19,Active,2022-04-19,product_master,9999-12-31,True,2a1502c23b91f5c93918
+SKU0000314,Essential Pharmacy Item 314,Health,Personal Care,Nimbus,SUP00006,217.39,551.19,51.422,False,False,,Active,1900-01-01,product_master,2026-05-29,False,bb6d6c6ff3795bbcb2c6
+SKU0000314,Essential Pharmacy Item 314,Health,Personal Care,Nimbus,SUP00006,217.39,562.78,51.422,False,False,,Active,2026-05-29,seasonal_refresh,9999-12-31,True,40a2349497fa3efb99ae
+SKU0000315,Eco Pantry Item 315,Grocery,Frozen,Everpeak,SUP00111,185.04,496.72,43.394,False,False,,Active,1900-01-01,product_master,2026-03-06,False,e91c785673170b47905a
+SKU0000315,Eco Pantry Item 315,Grocery,Frozen,Everpeak,SUP00111,185.04,513.96,43.394,False,False,,Active,2026-03-06,discontinued,9999-12-31,True,6428cabf532b9f8a0aa2
+SKU0000316,Premium Outerwear Item 316,Apparel,Fitness,Everpeak,SUP00074,103.84,125.58,7.816,True,False,2022-09-08,Active,2022-09-08,product_master,9999-12-31,True,cf957094c3e5df9dbb8a
+SKU0000317,Compact Medical Supplies Item 317,Health,Personal Care,Solace,SUP00116,220.93,516.38,70.889,False,False,2020-06-11,Active,2020-06-11,product_master,9999-12-31,True,ffe5c619e684d9c971e2
+SKU0000318,Eco Medical Supplies Item 318,Health,Wellness,Cobalt,SUP_BAD,275.06,507.23,12.364,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,7705f2bbc2be25d09a20
+SKU0000319,Ultra Basics Item 319,Apparel,Outerwear,Nimbus,SUP00041,259.79,692.56,24.93,True,False,2021-08-11,Seasonal,2021-08-11,product_master,9999-12-31,True,89d712d82a0b673080cd
+SKU0000320,Pro Kitchen Item 320,Home,Furniture,Cobalt,SUP00040,6.22,17.2,39.567,False,True,2022-03-22,Active,2022-03-22,product_master,9999-12-31,True,8afe34aff5b7dce08590
+SKU0000321,Eco Pantry Item 321,Grocery,Frozen,Northline,SUP00017,128.78,278.75,73.279,False,False,2026-02-06,Active,2026-02-06,product_master,2026-04-04,False,5f76fb5f07b50c66a462
+SKU0000321,Eco Pantry Item 321,Grocery,Frozen,Northline,SUP00017,128.78,296.52,73.279,False,False,2026-02-06,Discontinued,2026-04-04,catalog_update,9999-12-31,True,e20b58c1cd1b1e62ad16
+SKU0000322,Compact Printing Item 322,Office,Stationery,Solace,SUP_BAD,78.74,216.72,72.29,True,True,2024-09-01,Seasonal,2024-09-01,product_master,2026-05-22,False,c213d25144b30372bf1d
+SKU0000322,Compact Printing Item 322,Office,Stationery,Solace,SUP_BAD,78.74,247.82,72.29,True,True,2024-09-01,Active,2026-05-22,seasonal_refresh,9999-12-31,True,694fe58bef754d10d529
+SKU0000323,Eco Pantry Item 323,Grocery,Beverage,Cobalt,SUP_BAD,282.77,504.52,3.715,False,False,,Seasonal,1900-01-01,product_master,2026-04-14,False,549dfa2125ae2e56cf97
+SKU0000323,Eco Pantry Item 323,Grocery,Beverage,Cobalt,SUP_BAD,282.77,480.49,3.715,False,False,,Seasonal,2026-04-14,discontinued,9999-12-31,True,8039177bef598c9adcb1
+SKU0000324,Compact Smart Home Item 324,Electronics,Accessories,Everpeak,SUP00113,289.69,414.13,70.414,True,True,2026-01-21,Seasonal,2026-01-21,product_master,9999-12-31,True,7c2a9ade2d65c657ddad
+SKU0000325,Premium Pantry Item 325,Grocery,Beverage,Northline,SUP00013,96.4,226.76,16.077,False,False,,Active,1900-01-01,product_master,9999-12-31,True,64c22bdf28cd2c74ecd3
+SKU0000326,Essential Stationery Item 326,Office,Stationery,Aster,SUP00115,234.1,554.08,13.403,False,False,2025-07-20,Active,2025-07-20,product_master,9999-12-31,True,c0c19b13d9527809da53
+SKU0000327,Pro Audio Item 327,Electronics,Computing,Nimbus,SUP00036,30.43,71.31,57.584,False,False,2023-06-12,Discontinued,2023-06-12,product_master,9999-12-31,True,caf252b1a80977d4c8db
+SKU0000328,Premium Printing Item 328,Office,Printing,Solace,SUP00009,245.84,438.31,49.624,False,False,,Active,1900-01-01,product_master,9999-12-31,True,c97f0f89349e0f77f06d
+SKU0000329,Compact Desk Setup Item 329,Office,Organization,Everpeak,SUP00001,224.29,424.11,47.073,True,False,,Active,1900-01-01,product_master,9999-12-31,True,cab31be0c57d2a9686c7
+SKU0000330,Classic Outerwear Item 330,Apparel,Basics,Aster,SUP00063,238.69,499.44,71.285,False,False,2025-09-21,Seasonal,2025-09-21,product_master,9999-12-31,True,5637cb8a538c23c8ce35
+SKU0000331,Premium Outerwear Item 331,Apparel,Basics,Northline,SUP00057,122.63,255.79,28.24,False,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,48b46f405f4bac04943d
+SKU0000332,Eco Wellness Item 332,Health,Medical Supplies,Aster,SUP00023,261.39,458.96,41.316,False,True,2022-06-03,Discontinued,2022-06-03,product_master,9999-12-31,True,07b1ae17e2bfe4405dbd
+SKU0000333,Pro Kitchen Item 333,Home,Kitchen,Everpeak,SUP00116,172.56,475.97,45.15,False,True,,Active,1900-01-01,product_master,2026-04-19,False,baf462bc492fee68c0b5
+SKU0000333,Pro Kitchen Item 333,Home,Kitchen,Everpeak,SUP00116,172.56,430.06,45.15,False,True,,Active,2026-04-19,discontinued,9999-12-31,True,b3d8e2f4e71e8548656c
+SKU0000334,Premium Audio Item 334,Electronics,Computing,Solace,SUP00088,152.57,309.62,10.592,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,1a99be26d5ab2cece8e8
+SKU0000335,Pro Accessories Item 335,Electronics,Smart Home,Northline,SUP00075,76.57,115.92,34.647,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,b17a3773b6738a76291d
+SKU0000336,Essential Wellness Item 336,Health,Medical Supplies,Northline,SUP00082,160.68,348.89,59.211,True,False,2021-11-29,Active,2021-11-29,product_master,9999-12-31,True,44f689f4e96ca489b56f
+SKU0000337,Premium Lighting Item 337,Home,Kitchen,Northline,SUP00099,,348.01,27.182,True,False,,Seasonal,1900-01-01,product_master,2026-03-24,False,49d69b0907925d13cc22
+SKU0000337,Premium Lighting Item 337,Home,Kitchen,Northline,SUP00099,,350.92,27.182,True,False,,Discontinued,2026-03-24,discontinued,9999-12-31,True,9e65e5daeec6f65423ee
+SKU0000338,Essential Snack Item 338,Grocery,Frozen,Cobalt,SUP00009,147.64,194.52,59.574,False,False,2022-02-13,Discontinued,2022-02-13,product_master,9999-12-31,True,e6e03d3598237ec619c9
+SKU0000339,Premium Smart Home Item 339,Electronics,Computing,Northline,SUP00002,86.25,141.84,54.133,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,db1b55807371ba7e2e01
+SKU0000340,Essential Printing Item 340,Office,Stationery,Everpeak,SUP00100,26.34,48.07,9.836,False,False,,Discontinued,1900-01-01,product_master,2026-04-30,False,cb57132dca4e98e4cad1
+SKU0000340,Essential Printing Item 340,Office,Stationery,Everpeak,SUP00100,26.34,48.26,9.836,False,False,,Discontinued,2026-04-30,discontinued,9999-12-31,True,d9f9034f6c9c5201fe8b
+SKU0000341,Classic Accessories Item 341,Electronics,Accessories,Northline,SUP00018,250.42,467.35,30.984,False,False,,Active,1900-01-01,product_master,9999-12-31,True,eaaf64408e76518ad15c
+SKU0000342,Pro Kitchen Item 342,Home,Lighting,Nimbus,SUP00006,34.76,52.84,6.871,False,False,2025-05-15,Discontinued,2025-05-15,product_master,2026-02-07,False,83badd28760486217c77
+SKU0000342,Pro Kitchen Item 342,Home,Lighting,Nimbus,SUP00006,34.76,49.0,6.871,False,False,2025-05-15,Discontinued,2026-02-07,price_change,9999-12-31,True,45b80cd2528d97c0cca1
+SKU0000343,Premium Organization Item 343,Office,Printing,Everpeak,SUP00073,239.23,425.79,19.738,False,True,,Active,1900-01-01,product_master,2026-03-30,False,d2b808451e28e3a4f283
+SKU0000343,Premium Organization Item 343,Office,Printing,Everpeak,SUP00073,239.23,405.48,19.738,False,True,,Active,2026-03-30,price_change,9999-12-31,True,26b4f6babbe7fe04cba2
+SKU0000344,Classic Printing Item 344,Office,Desk Setup,Everpeak,SUP00064,117.86,214.77,42.254,False,True,2023-09-29,Seasonal,2023-09-29,product_master,9999-12-31,True,160ccb7b077706e79b99
+SKU0000345,Pro Audio Item 345,Electronics,Accessories,Cobalt,SUP00027,240.87,665.32,8.456,False,True,2023-11-17,Active,2023-11-17,product_master,2026-05-24,False,343f0edff9444aa20a22
+SKU0000345,Pro Audio Item 345,Electronics,Accessories,Cobalt,SUP00027,240.87,627.47,8.456,False,True,2023-11-17,Discontinued,2026-05-24,seasonal_refresh,9999-12-31,True,972a875bde3349130851
+SKU0000346,Essential Footwear Item 346,Apparel,Basics,Cobalt,SUP00114,227.08,440.47,32.466,False,True,,Seasonal,1900-01-01,product_master,2026-04-20,False,63f149cfa472adf91fbe
+SKU0000346,Essential Footwear Item 346,Apparel,Basics,Cobalt,SUP00114,227.08,440.21,32.466,False,True,,Active,2026-04-20,seasonal_refresh,9999-12-31,True,48f418fd08f0af1322bd
+SKU0000347,Classic Pharmacy Item 347,Health,Personal Care,Northline,SUP00039,41.76,57.97,25.019,False,True,2021-04-01,Discontinued,2021-04-01,product_master,9999-12-31,True,3fd6f622aff05b7d7e64
+SKU0000348,Eco Audio Item 348,Electronics,Computing,Aster,SUP00100,277.03,552.93,14.454,False,False,,Discontinued,1900-01-01,product_master,2026-05-25,False,078f047e948ab1ff6d53
+SKU0000348,Eco Audio Item 348,Electronics,Computing,Aster,SUP00100,277.03,599.33,14.454,False,False,,Discontinued,2026-05-25,seasonal_refresh,9999-12-31,True,3dd7f1785c47ad6c0aa6
+SKU0000349,Classic Personal Care Item 349,Health,Personal Care,Solace,SUP00017,129.43,156.81,48.836,False,False,2021-11-14,Active,2021-11-14,product_master,9999-12-31,True,9f8cbcf6a690d5050bcd
+SKU0000350,Essential Organization Item 350,Office,Desk Setup,Aster,SUP00110,288.69,518.35,9.565,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,fce5ee8310176ca0c2c6
+SKU0000351,Ultra Outerwear Item 351,Apparel,Outerwear,Cobalt,SUP00024,254.84,346.74,63.042,False,False,,Active,1900-01-01,product_master,2026-03-20,False,86c762ebf5b388efa13e
+SKU0000351,Ultra Outerwear Item 351,Apparel,Outerwear,Cobalt,SUP00024,254.84,335.89,63.042,False,False,,Active,2026-03-20,seasonal_refresh,9999-12-31,True,2dc17a81153ea1a0b2c6
+SKU0000352,Ultra Beverage Item 352,Grocery,Pantry,Everpeak,SUP00117,76.87,102.37,65.941,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,40788376b89aebb0f16b
+SKU0000353,Pro Fitness Item 353,Apparel,Basics,Everpeak,SUP00024,74.7,,59.507,True,False,2020-10-24,Discontinued,2020-10-24,product_master,2026-04-27,False,2256ee1f7073acde07b5
+SKU0000353,Pro Fitness Item 353,Apparel,Basics,Everpeak,SUP00024,74.7,,59.507,True,False,2020-10-24,Seasonal,2026-04-27,seasonal_refresh,9999-12-31,True,7347260b1f98aeaf44f2
+SKU0000354,Essential Lighting Item 354,Home,Furniture,Aster,SUP00051,13.46,26.77,16.016,False,True,,Active,1900-01-01,product_master,2026-04-29,False,7f2cab21e9ff9038c0b6
+SKU0000354,Essential Lighting Item 354,Home,Furniture,Aster,SUP00051,13.46,26.74,16.016,False,True,,Active,2026-04-29,seasonal_refresh,9999-12-31,True,8ad63cbbda26ca7796eb
+SKU0000355,Essential Audio Item 355,Electronics,Computing,Aster,SUP00078,180.72,308.27,68.63,False,True,,Active,1900-01-01,product_master,9999-12-31,True,411588749aaf729d762d
+SKU0000356,Pro Storage Item 356,Home,Lighting,Nimbus,SUP00017,3.68,4.52,26.502,False,False,2024-01-19,Discontinued,2024-01-19,product_master,9999-12-31,True,21c9f68b96497c4615e3
+SKU0000357,Premium Lighting Item 357,Home,Storage,Everpeak,SUP00112,137.9,166.67,46.513,False,True,,Discontinued,1900-01-01,product_master,2026-04-17,False,69986a58c2d1d428329f
+SKU0000357,Premium Lighting Item 357,Home,Storage,Everpeak,SUP00112,137.9,159.91,46.513,False,True,,Seasonal,2026-04-17,seasonal_refresh,9999-12-31,True,064fa852629e22aa36d6
+SKU0000358,Pro Desk Setup Item 358,Office,Organization,Aster,SUP00101,44.63,78.22,51.032,False,False,2022-11-23,Active,2022-11-23,product_master,9999-12-31,True,3a803ef96454a0582306
+SKU0000359,Classic Organization Item 359,Office,Printing,Everpeak,SUP00064,252.6,330.89,56.111,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,90ac5c450299e71dcd97
+SKU0000360,Premium Stationery Item 360,Office,Organization,Everpeak,SUP00072,184.99,314.91,14.142,False,True,2021-04-07,Discontinued,2021-04-07,product_master,9999-12-31,True,6ba0d38008a75d52d4b0
+SKU0000361,Eco Snack Item 361,Grocery,Beverage,Nimbus,SUP00070,46.82,101.24,19.111,False,False,2025-08-10,Active,2025-08-10,product_master,9999-12-31,True,9733d6498a13f296a36f
+SKU0000362,Premium Kitchen Item 362,Home,Storage,Nimbus,SUP00070,76.71,159.56,45.844,False,True,2026-01-29,Active,2026-01-29,product_master,9999-12-31,True,898ab1a3572bbf117793
+SKU0000363,Ultra Beverage Item 363,Grocery,Snack,Aster,SUP00016,52.31,120.67,10.64,True,False,,Active,1900-01-01,product_master,9999-12-31,True,d7f14b25ec88e4aa24bf
+SKU0000364,Compact Accessories Item 364,Electronics,Computing,Aster,SUP00057,191.35,233.47,20.918,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,00f21b316dce60d41faa
+SKU0000365,Compact Personal Care Item 365,Health,Wellness,Solace,SUP00117,111.5,147.16,57.278,True,False,,Active,1900-01-01,product_master,2026-05-09,False,758089ef0490921bc172
+SKU0000365,Compact Personal Care Item 365,Health,Wellness,Solace,SUP00117,111.5,145.78,57.278,True,False,,Active,2026-05-09,discontinued,9999-12-31,True,2558565d150017c382de
+SKU0000366,Essential Personal Care Item 366,Health,Medical Supplies,Nimbus,SUP00078,91.53,121.02,61.924,False,True,2022-03-24,Seasonal,2022-03-24,product_master,9999-12-31,True,964a5ce3e7c4a69ec992
+SKU0000367,Ultra Smart Home Item 367,Electronics,Smart Home,Solace,SUP00072,36.58,44.86,60.987,True,False,2026-01-13,Active,2026-01-13,product_master,9999-12-31,True,1c0b380d27353851c375
+SKU0000368,Eco Personal Care Item 368,Health,Personal Care,Northline,SUP_BAD,139.37,248.13,30.15,False,False,,Discontinued,1900-01-01,product_master,2026-04-18,False,41ab51aa55bbdf99a4b6
+SKU0000368,Eco Personal Care Item 368,Health,Personal Care,Northline,SUP_BAD,139.37,240.37,30.15,False,False,,Active,2026-04-18,discontinued,9999-12-31,True,8a5ea084c0a25ab247f2
+SKU0000369,Premium Audio Item 369,Electronics,Audio,Cobalt,SUP00024,84.02,101.48,3.731,False,False,2025-04-20,Discontinued,2025-04-20,product_master,2026-05-09,False,4538c40204f765a9673b
+SKU0000369,Premium Audio Item 369,Electronics,Audio,Cobalt,SUP00024,84.02,108.98,3.731,False,False,2025-04-20,Active,2026-05-09,price_change,9999-12-31,True,bbdc7647baa106ffb48c
+SKU0000370,Eco Computing Item 370,Electronics,Accessories,Nimbus,SUP00077,232.97,457.0,3.466,False,False,2020-01-10,Active,2020-01-10,product_master,9999-12-31,True,b3168edc337e1104fb56
+SKU0000371,Eco Outerwear Item 371,Apparel,Outerwear,Solace,SUP00084,41.99,90.5,12.31,False,False,2022-05-08,Discontinued,2022-05-08,product_master,2026-03-26,False,899a8bedde4613b1885c
+SKU0000371,Eco Outerwear Item 371,Apparel,Outerwear,Solace,SUP00084,41.99,83.98,12.31,False,False,2022-05-08,Active,2026-03-26,price_change,9999-12-31,True,6f276e5940b89e53d41f
+SKU0000372,Premium Pharmacy Item 372,Health,Medical Supplies,Cobalt,SUP_BAD,212.91,419.34,0.784,False,False,2024-07-31,Seasonal,2024-07-31,product_master,9999-12-31,True,53f62dc7b1214be1c6b4
+SKU0000373,Premium Footwear Item 373,Apparel,Outerwear,Solace,SUP00042,233.11,326.52,17.574,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,e1a7b42f58d105fec0e3
+SKU0000374,Classic Storage Item 374,Home,Furniture,Solace,SUP00093,273.17,449.06,65.685,False,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,56758b6e91e7aecc3261
+SKU0000375,Essential Kitchen Item 375,Home,Lighting,Aster,SUP00090,79.59,,44.289,False,True,,Active,1900-01-01,product_master,9999-12-31,True,de8287e105f44fb5e8d6
+SKU0000376,Essential Computing Item 376,Electronics,Audio,Nimbus,SUP00117,239.98,393.68,16.028,False,False,2020-11-23,Active,2020-11-23,product_master,9999-12-31,True,c5f6f3230dafba168df2
+SKU0000377,Premium Computing Item 377,Electronics,Computing,Cobalt,SUP00063,179.97,492.29,27.181,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,471110ceeeace63b04db
+SKU0000378,Ultra Stationery Item 378,Office,Stationery,Nimbus,SUP00077,170.68,345.68,43.299,False,False,2022-04-27,Active,2022-04-27,product_master,2026-02-23,False,42632523700086fc9089
+SKU0000378,Ultra Stationery Item 378,Office,Stationery,Nimbus,SUP00077,170.68,389.45,43.299,False,False,2022-04-27,Active,2026-02-23,seasonal_refresh,9999-12-31,True,18846f88be50a0e82ff6
+SKU0000379,Premium Lighting Item 379,Home,Furniture,Everpeak,SUP00005,90.79,247.11,35.815,True,False,2023-04-10,Active,2023-04-10,product_master,2026-04-17,False,6d66a4cfdd8618f116a0
+SKU0000379,Premium Lighting Item 379,Home,Furniture,Everpeak,SUP00005,90.79,234.29,35.815,True,False,2023-04-10,Discontinued,2026-04-17,discontinued,9999-12-31,True,91fa21371120107d2c67
+SKU0000380,Classic Stationery Item 380,Office,Printing,Aster,SUP00022,116.16,269.52,72.472,False,False,,Discontinued,1900-01-01,product_master,2026-02-03,False,0cc40276cd92e15d8913
+SKU0000380,Classic Stationery Item 380,Office,Printing,Aster,SUP00022,116.16,251.89,72.472,False,False,,Active,2026-02-03,catalog_update,9999-12-31,True,89bafdb91b51d67a3868
+SKU0000381,Essential Storage Item 381,Home,Furniture,Nimbus,SUP00034,201.77,309.25,70.247,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,6c623a4db09e11a1bab4
+SKU0000382,Eco Storage Item 382,Home,Kitchen,Northline,SUP00026,153.1,300.0,73.288,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,7fc9db569268dd20d68d
+SKU0000383,Ultra Computing Item 383,Electronics,Smart Home,Everpeak,SUP00090,10.92,27.63,25.423,False,True,2020-07-09,Discontinued,2020-07-09,product_master,9999-12-31,True,2843c8dc9eec5e26c826
+SKU0000384,Essential Desk Setup Item 384,Office,Printing,Solace,SUP00084,289.4,637.04,21.551,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,3fe2dbac0888986149b4
+SKU0000385,Essential Outerwear Item 385,Apparel,Outerwear,Northline,SUP00099,110.68,303.36,23.544,False,False,,Active,1900-01-01,product_master,2026-02-05,False,916c9dd468a7c7f44620
+SKU0000385,Essential Outerwear Item 385,Apparel,Outerwear,Northline,SUP00099,110.68,313.88,23.544,False,False,,Seasonal,2026-02-05,discontinued,9999-12-31,True,6ff82012fd1105715467
+SKU0000386,Pro Footwear Item 386,Apparel,Outerwear,Everpeak,SUP00016,285.34,741.15,22.191,False,False,2020-12-31,Active,2020-12-31,product_master,9999-12-31,True,1949fe132abdeb87b650
+SKU0000387,Eco Pantry Item 387,Grocery,Pantry,Nimbus,SUP00040,243.93,664.87,37.98,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,0f1be0251e8de19b8872
+SKU0000388,Ultra Storage Item 388,Home,Lighting,Everpeak,SUP00078,208.78,285.14,38.57,True,False,2022-08-01,Seasonal,2022-08-01,product_master,9999-12-31,True,9efa218709a030a9ef1d
+SKU0000389,Pro Pharmacy Item 389,Health,Wellness,Solace,SUP00054,167.89,280.5,30.691,False,False,,Active,1900-01-01,product_master,9999-12-31,True,d7bc83c495a822c8dc47
+SKU0000390,Classic Furniture Item 390,Home,Furniture,Nimbus,SUP00087,188.0,277.12,5.456,True,True,2021-10-05,Active,2021-10-05,product_master,9999-12-31,True,391955dc3ab12028aa8a
+SKU0000391,Pro Frozen Item 391,Grocery,Beverage,Cobalt,SUP00051,209.64,301.26,39.479,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,352932e19a2c9376f1be
+SKU0000392,Eco Lighting Item 392,Home,Lighting,Everpeak,SUP00074,57.28,109.21,62.5,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,a5f55a6551c3cf46d350
+SKU0000393,Eco Computing Item 393,Electronics,Computing,Solace,SUP00097,79.34,192.46,49.776,False,False,2023-11-10,Discontinued,2023-11-10,product_master,9999-12-31,True,6d6286bf152995b8b30f
+SKU0000394,Premium Frozen Item 394,Grocery,Pantry,Aster,SUP00009,48.14,112.34,66.299,False,True,,Active,1900-01-01,product_master,9999-12-31,True,bae1856aa52c7b197e49
+SKU0000395,Compact Snack Item 395,Grocery,Snack,Everpeak,SUP00017,239.1,460.0,35.737,False,False,2026-03-30,Discontinued,2026-03-30,product_master,9999-12-31,True,9be98132409874b39af0
+SKU0000396,Ultra Personal Care Item 396,Health,Wellness,Nimbus,SUP00116,140.96,187.8,38.079,False,False,2024-12-03,Seasonal,2024-12-03,product_master,2026-02-07,False,01299b018622450f4315
+SKU0000396,Ultra Personal Care Item 396,Health,Wellness,Nimbus,SUP00116,140.96,169.48,38.079,False,False,2024-12-03,Active,2026-02-07,catalog_update,9999-12-31,True,2a252baa5485b897bbcd
+SKU0000397,Pro Computing Item 397,Electronics,Smart Home,Cobalt,SUP00074,202.85,304.39,59.132,True,False,,Active,1900-01-01,product_master,9999-12-31,True,5db297fbd344a3e8f417
+SKU0000398,Eco Pantry Item 398,Grocery,Beverage,Solace,SUP00102,292.05,692.55,35.841,False,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,c69848d8682827222280
+SKU0000399,Classic Outerwear Item 399,Apparel,Basics,Everpeak,SUP00068,29.14,57.35,66.907,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,f4e79155ba8621925e06
+SKU0000400,Premium Furniture Item 400,Home,Furniture,Solace,SUP00031,193.77,478.01,8.097,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,5dab24b6d28f768c9d45
+SKU0000401,Pro Organization Item 401,Office,Printing,Northline,SUP00043,119.98,261.0,70.074,True,False,2023-06-08,Discontinued,2023-06-08,product_master,9999-12-31,True,32599a40b57a5052a3b0
+SKU0000402,Classic Lighting Item 402,Home,Furniture,Aster,SUP00092,262.51,417.46,73.437,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,89f4d7d2d76c348bdc50
+SKU0000403,Compact Desk Setup Item 403,Office,Organization,Cobalt,SUP00025,218.14,518.43,69.251,False,False,2022-01-18,Active,2022-01-18,product_master,9999-12-31,True,af119881f36cac76aac5
+SKU0000404,Classic Audio Item 404,Electronics,Computing,Everpeak,SUP00053,36.82,74.63,23.913,False,False,2020-04-09,Active,2020-04-09,product_master,9999-12-31,True,2bed647dae8b37763c29
+SKU0000405,Essential Personal Care Item 405,Health,Medical Supplies,Nimbus,SUP00085,42.44,106.18,52.22,False,False,2026-01-11,Active,2026-01-11,product_master,9999-12-31,True,d16607d79b8fbebdcaf7
+SKU0000406,Eco Audio Item 406,Electronics,Computing,Nimbus,SUP00104,210.16,,24.755,False,False,,Active,1900-01-01,product_master,9999-12-31,True,90f377dd49ae7af5a010
+SKU0000407,Eco Medical Supplies Item 407,Health,Medical Supplies,Nimbus,SUP00022,8.52,11.89,40.468,False,True,2021-09-05,Seasonal,2021-09-05,product_master,9999-12-31,True,387bbf458424132c440f
+SKU0000408,Premium Fitness Item 408,Apparel,Outerwear,Northline,SUP00051,46.55,67.31,18.663,False,True,2020-11-10,Active,2020-11-10,product_master,9999-12-31,True,94303f58e48b5fbaea35
+SKU0000409,Classic Personal Care Item 409,Health,Pharmacy,Aster,SUP00006,102.6,222.59,15.626,False,False,2021-04-13,Seasonal,2021-04-13,product_master,2026-03-11,False,8ed237b37d96b7ef52c1
+SKU0000409,Classic Personal Care Item 409,Health,Pharmacy,Aster,SUP00006,102.6,248.15,15.626,False,False,2021-04-13,Seasonal,2026-03-11,catalog_update,9999-12-31,True,43b8b5c51ab1834e38ee
+SKU0000410,Premium Basics Item 410,Apparel,Basics,Solace,SUP00004,59.8,76.12,55.218,False,False,,Seasonal,1900-01-01,product_master,2026-05-06,False,8f06e08670a5e974249b
+SKU0000410,Premium Basics Item 410,Apparel,Basics,Solace,SUP00004,59.8,82.89,55.218,False,False,,Active,2026-05-06,seasonal_refresh,9999-12-31,True,4b993e46a9dff6ab73bf
+SKU0000411,Essential Basics Item 411,Apparel,Basics,Nimbus,SUP00008,164.32,236.28,22.86,False,False,,Active,1900-01-01,product_master,9999-12-31,True,bb66acc5334fe170db7e
+SKU0000412,Pro Smart Home Item 412,Electronics,Computing,Aster,SUP00119,111.97,201.73,30.647,False,False,2026-01-04,Discontinued,2026-01-04,product_master,9999-12-31,True,3ff11ef0a6c6c14fdf9a
+SKU0000413,Pro Audio Item 413,Electronics,Audio,Cobalt,SUP00019,215.0,392.22,27.091,False,False,2025-03-10,Discontinued,2025-03-10,product_master,2026-04-02,False,9df3d10fd6c8ae9d7db5
+SKU0000413,Pro Audio Item 413,Electronics,Audio,Cobalt,SUP00019,215.0,362.74,27.091,False,False,2025-03-10,Seasonal,2026-04-02,price_change,9999-12-31,True,35ec11ecc5170f6fafa7
+SKU0000414,Eco Accessories Item 414,Electronics,Computing,Cobalt,SUP00076,278.53,374.22,50.498,True,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,a82aabf79b55cadbb648
+SKU0000415,Essential Desk Setup Item 415,Office,Organization,Solace,SUP00112,220.81,276.72,59.812,False,True,2021-03-30,Active,2021-03-30,product_master,9999-12-31,True,f96bc505315607f4b5b0
+SKU0000416,Ultra Kitchen Item 416,Home,Kitchen,Northline,SUP00100,16.56,20.65,33.523,True,False,2022-11-17,Seasonal,2022-11-17,product_master,9999-12-31,True,3b3845dca5df5a15563d
+SKU0000417,Essential Footwear Item 417,Apparel,Fitness,Nimbus,SUP00057,107.86,207.03,25.617,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,abe4eaed2ba9d6eeebf9
+SKU0000418,Premium Computing Item 418,Electronics,Smart Home,Solace,SUP00014,281.99,545.14,32.166,False,False,,Active,1900-01-01,product_master,9999-12-31,True,0d5ce153d3bf4e1b7bbf
+SKU0000419,Premium Kitchen Item 419,Home,Kitchen,Solace,SUP00099,36.77,93.12,22.638,False,False,,Active,1900-01-01,product_master,9999-12-31,True,378d4e05646e2fb4c190
+SKU0000420,Ultra Kitchen Item 420,Home,Storage,Cobalt,SUP00073,158.76,309.14,46.953,False,True,,Seasonal,1900-01-01,product_master,2026-05-21,False,9f4d474c69336198976c
+SKU0000420,Ultra Kitchen Item 420,Home,Storage,Cobalt,SUP00073,158.76,307.14,46.953,False,True,,Discontinued,2026-05-21,price_change,9999-12-31,True,2075b6554849616c5c5a
+SKU0000421,Essential Printing Item 421,Office,Desk Setup,Aster,SUP00109,232.75,502.06,43.365,True,False,,Active,1900-01-01,product_master,2026-03-11,False,624580e71af2ff13bb56
+SKU0000421,Essential Printing Item 421,Office,Desk Setup,Aster,SUP00109,232.75,476.78,43.365,True,False,,Discontinued,2026-03-11,price_change,9999-12-31,True,f08c83c7279a2a92bb54
+SKU0000422,Essential Computing Item 422,Electronics,Accessories,Nimbus,SUP00097,251.12,484.27,0.826,False,False,,Active,1900-01-01,product_master,9999-12-31,True,0b21613dfd4e330a53d5
+SKU0000423,Eco Personal Care Item 423,Health,Pharmacy,Solace,SUP00025,165.22,400.91,4.376,False,True,2024-04-05,Discontinued,2024-04-05,product_master,2026-02-17,False,954a74fe53ecd4522d05
+SKU0000423,Eco Personal Care Item 423,Health,Pharmacy,Solace,SUP00025,165.22,460.08,4.376,False,True,2024-04-05,Active,2026-02-17,price_change,9999-12-31,True,7594fc54f821c745e3a2
+SKU0000424,Essential Beverage Item 424,Grocery,Beverage,Everpeak,SUP00086,241.66,640.41,61.455,False,False,2025-10-23,Discontinued,2025-10-23,product_master,2026-03-14,False,2a321a4250550e09005d
+SKU0000424,Essential Beverage Item 424,Grocery,Beverage,Everpeak,SUP00086,241.66,654.65,61.455,False,False,2025-10-23,Seasonal,2026-03-14,price_change,9999-12-31,True,facc98e512eae59f2d17
+SKU0000425,Premium Snack Item 425,Grocery,Frozen,Aster,SUP00035,235.42,390.52,12.452,True,False,,Active,1900-01-01,product_master,9999-12-31,True,fe5c281ac4c40d5c00c8
+SKU0000426,Essential Lighting Item 426,Home,Storage,Everpeak,SUP00019,3.77,8.84,51.221,False,True,,Seasonal,1900-01-01,product_master,2026-03-06,False,89c18483ca28fe246e15
+SKU0000426,Essential Lighting Item 426,Home,Storage,Everpeak,SUP00019,3.77,9.7,51.221,False,True,,Seasonal,2026-03-06,discontinued,9999-12-31,True,61d92c53ff726be5dd26
+SKU0000427,Eco Printing Item 427,Office,Printing,Northline,SUP00034,97.69,167.01,33.063,True,False,2021-01-26,Discontinued,2021-01-26,product_master,9999-12-31,True,116083df5aaece6ec8ae
+SKU0000428,Essential Computing Item 428,Electronics,Accessories,Cobalt,SUP00018,164.42,205.8,15.311,False,True,,Active,1900-01-01,product_master,9999-12-31,True,281eb93e84437aede17f
+SKU0000429,Ultra Frozen Item 429,Grocery,Snack,Northline,SUP00028,99.71,133.41,67.017,False,True,2025-12-29,Seasonal,2025-12-29,product_master,9999-12-31,True,85b7ed2b1f9b2fe46fc6
+SKU0000430,Pro Desk Setup Item 430,Office,Organization,Aster,SUP00013,14.34,19.64,53.809,False,False,2021-09-03,Discontinued,2021-09-03,product_master,9999-12-31,True,6e767d0826bd72fb616f
+SKU0000431,Eco Furniture Item 431,Home,Furniture,Northline,SUP00118,101.72,139.78,38.096,False,False,2024-06-11,Active,2024-06-11,product_master,9999-12-31,True,6b76bf254c9941b3954d
+SKU0000432,Premium Accessories Item 432,Electronics,Computing,Northline,SUP00058,208.9,416.1,67.064,True,False,,Active,1900-01-01,product_master,9999-12-31,True,865aff3c82b70dc9a69d
+SKU0000433,Compact Stationery Item 433,Office,Stationery,Northline,SUP00040,33.64,57.04,7.25,True,False,2025-02-26,Discontinued,2025-02-26,product_master,9999-12-31,True,a0d3649934664c743b18
+SKU0000434,Classic Organization Item 434,Office,Desk Setup,Everpeak,SUP00014,34.39,58.14,43.507,False,False,,Seasonal,1900-01-01,product_master,2026-02-01,False,c8075c9fa70368023e70
+SKU0000434,Classic Organization Item 434,Office,Desk Setup,Everpeak,SUP00014,34.39,53.49,43.507,False,False,,Active,2026-02-01,price_change,9999-12-31,True,83930271eff6e5ef36b7
+SKU0000435,Premium Accessories Item 435,Electronics,Audio,Everpeak,SUP00056,108.01,285.93,48.185,False,False,2023-07-28,Active,2023-07-28,product_master,9999-12-31,True,eb8eafe7dc36b2666170
+SKU0000436,Pro Beverage Item 436,Grocery,Frozen,Aster,SUP00082,185.82,320.84,62.238,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,3c4e49d414e8f44bc16f
+SKU0000437,Pro Wellness Item 437,Health,Medical Supplies,Cobalt,SUP00005,220.45,589.26,40.757,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,bf57fc39987a93041cd6
+SKU0000438,Essential Smart Home Item 438,Electronics,Computing,Northline,SUP00050,133.72,308.28,55.665,False,True,,Discontinued,1900-01-01,product_master,2026-03-26,False,cc229dcd0b6e1b8c4210
+SKU0000438,Essential Smart Home Item 438,Electronics,Computing,Northline,SUP00050,133.72,301.44,55.665,False,True,,Active,2026-03-26,discontinued,9999-12-31,True,31523dcb3408603f742a
+SKU0000439,Pro Basics Item 439,Apparel,Footwear,Northline,SUP00019,223.94,280.35,16.883,False,False,,Discontinued,1900-01-01,product_master,2026-05-03,False,b8b51afb20fa3370e3c2
+SKU0000439,Pro Basics Item 439,Apparel,Footwear,Northline,SUP00019,223.94,284.13,16.883,False,False,,Seasonal,2026-05-03,seasonal_refresh,9999-12-31,True,18969a4a59b6bf5c12fb
+SKU0000440,Premium Frozen Item 440,Grocery,Snack,Aster,SUP00031,140.15,206.69,57.385,False,True,2020-02-09,Discontinued,2020-02-09,product_master,9999-12-31,True,68d508bc222fc044786c
+SKU0000441,Classic Accessories Item 441,Electronics,Smart Home,Cobalt,SUP00039,216.68,569.58,42.675,False,False,,Active,1900-01-01,product_master,2026-03-23,False,9764f50ee4c2362e3245
+SKU0000441,Classic Accessories Item 441,Electronics,Smart Home,Cobalt,SUP00039,216.68,518.33,42.675,False,False,,Discontinued,2026-03-23,catalog_update,9999-12-31,True,87a028c27c470855eebe
+SKU0000442,Eco Furniture Item 442,Home,Furniture,Northline,SUP00005,,6.65,13.612,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,4a8a1a6cbb7f8766b2e2
+SKU0000443,Compact Footwear Item 443,Apparel,Fitness,Solace,SUP00018,108.92,214.96,35.281,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,26d9988ccd922704a8ab
+SKU0000444,Eco Wellness Item 444,Health,Medical Supplies,Everpeak,SUP00104,234.25,443.81,49.022,False,False,2020-01-04,Active,2020-01-04,product_master,9999-12-31,True,50c592cb30187b6822d2
+SKU0000445,Essential Wellness Item 445,Health,Medical Supplies,Nimbus,SUP00058,263.85,449.62,38.558,False,False,2025-12-14,Active,2025-12-14,product_master,9999-12-31,True,86804c90cd66fe477732
+SKU0000446,Compact Beverage Item 446,Grocery,Pantry,Nimbus,SUP00052,5.69,14.66,21.393,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,dd1974b62829c6b700e7
+SKU0000447,Eco Lighting Item 447,Home,Storage,Nimbus,SUP00084,97.11,172.68,60.783,False,False,2022-12-09,Seasonal,2022-12-09,product_master,2026-04-30,False,36db203d2ba0989d8b6a
+SKU0000447,Eco Lighting Item 447,Home,Storage,Nimbus,SUP00084,97.11,179.64,60.783,False,False,2022-12-09,Seasonal,2026-04-30,seasonal_refresh,9999-12-31,True,10ecf94db395bb6355fe
+SKU0000448,Eco Stationery Item 448,Office,Desk Setup,Solace,SUP00042,218.34,484.93,66.583,False,False,,Active,1900-01-01,product_master,9999-12-31,True,01bec43e15c4e589a677
+SKU0000449,Essential Basics Item 449,Apparel,Fitness,Northline,SUP00010,21.88,43.86,17.017,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,c8df4a897661a88d41c8
+SKU0000450,Premium Organization Item 450,Office,Organization,Solace,SUP00060,120.92,158.04,71.364,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,3f53c97fcf155446386b
+SKU0000451,Compact Medical Supplies Item 451,Health,Personal Care,Solace,SUP00020,282.24,540.7,3.848,False,False,2022-06-19,Active,2022-06-19,product_master,9999-12-31,True,f5ba46095e760f7d8957
+SKU0000452,Essential Fitness Item 452,Apparel,Footwear,Northline,SUP00052,47.74,123.53,1.447,True,False,2023-10-02,Discontinued,2023-10-02,product_master,9999-12-31,True,e5632923b583944fd8a2
+SKU0000453,Pro Storage Item 453,Home,Storage,Aster,SUP00109,280.17,719.47,48.907,False,False,,Active,1900-01-01,product_master,2026-04-21,False,508412e6515148b3c675
+SKU0000453,Pro Storage Item 453,Home,Storage,Aster,SUP00109,280.17,705.77,48.907,False,False,,Seasonal,2026-04-21,catalog_update,9999-12-31,True,dfeb16bf35e1ef134be3
+SKU0000454,Eco Storage Item 454,Home,Kitchen,Aster,SUP00064,182.41,424.3,38.16,True,False,,Active,1900-01-01,product_master,9999-12-31,True,782a988a49f5fd807c30
+SKU0000455,Premium Stationery Item 455,Office,Organization,Solace,SUP00106,130.54,356.84,39.965,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,d8eed6cf93016707523c
+SKU0000456,Essential Basics Item 456,Apparel,Footwear,Solace,SUP00095,294.63,508.95,8.966,True,False,,Active,1900-01-01,product_master,9999-12-31,True,4c482262f11588e5d9ac
+SKU0000457,Eco Personal Care Item 457,Health,Wellness,Everpeak,SUP00066,50.55,129.33,50.493,False,False,2020-02-06,Active,2020-02-06,product_master,9999-12-31,True,f5aa204b2f14418d6e0d
+SKU0000458,Pro Furniture Item 458,Home,Lighting,Solace,SUP00018,175.67,261.56,69.176,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,ef4e67316d5052b0a108
+SKU0000459,Pro Beverage Item 459,Grocery,Snack,Cobalt,SUP00083,220.01,544.77,43.733,False,False,2021-11-28,Seasonal,2021-11-28,product_master,9999-12-31,True,3aeb29cb27655390c0ad
+SKU0000460,Compact Basics Item 460,Apparel,Basics,Cobalt,SUP00037,163.81,221.37,53.121,False,False,2024-02-24,Active,2024-02-24,product_master,9999-12-31,True,4e69800e6d931542b120
+SKU0000461,Compact Furniture Item 461,Home,Lighting,Solace,SUP00056,14.48,29.26,22.433,False,False,2024-08-13,Active,2024-08-13,product_master,9999-12-31,True,2017d58406f23e20f3e6
+SKU0000462,Pro Storage Item 462,Home,Lighting,Cobalt,SUP00005,299.19,432.94,12.261,False,True,2024-07-17,Active,2024-07-17,product_master,9999-12-31,True,56686c3e116ae60cf66e
+SKU0000463,Compact Storage Item 463,Home,Lighting,Cobalt,SUP00072,239.54,329.15,17.967,False,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,c007b6866f10b2622321
+SKU0000464,Essential Audio Item 464,Electronics,Accessories,Aster,SUP00050,103.0,208.27,11.76,False,False,,Active,1900-01-01,product_master,9999-12-31,True,7fc1c27b18432e594632
+SKU0000465,Ultra Pharmacy Item 465,Health,Wellness,Everpeak,SUP00012,160.75,245.31,10.145,False,False,2021-08-13,Seasonal,2021-08-13,product_master,9999-12-31,True,f7c704914ff792cc89d5
+SKU0000466,Compact Basics Item 466,Apparel,Fitness,Nimbus,SUP00118,79.72,203.81,34.428,False,False,2021-12-23,Active,2021-12-23,product_master,9999-12-31,True,c8f93ed754e36807f6f3
+SKU0000467,Essential Medical Supplies Item 467,Health,Wellness,Aster,SUP00039,256.63,479.02,1.405,False,False,2025-11-17,Active,2025-11-17,product_master,2026-02-03,False,65d22b237f17a05807ff
+SKU0000467,Essential Medical Supplies Item 467,Health,Wellness,Aster,SUP00039,256.63,432.5,1.405,False,False,2025-11-17,Discontinued,2026-02-03,price_change,9999-12-31,True,85aa36689c338ab175bd
+SKU0000468,Pro Stationery Item 468,Office,Stationery,Nimbus,SUP00082,112.39,243.57,9.283,False,False,,Active,1900-01-01,product_master,9999-12-31,True,fcd9829f507d7a5f4962
+SKU0000469,Pro Personal Care Item 469,Health,Personal Care,Aster,SUP00057,285.9,436.79,32.352,False,False,,Active,1900-01-01,product_master,9999-12-31,True,5a2fb04a1545b861bb67
+SKU0000470,Ultra Medical Supplies Item 470,Health,Pharmacy,Everpeak,SUP00032,111.12,240.62,38.062,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,d2eb6d9c40c2d0405e97
+SKU0000471,Ultra Pharmacy Item 471,Health,Pharmacy,Cobalt,SUP00107,31.8,43.25,74.53,False,False,2020-08-25,Seasonal,2020-08-25,product_master,9999-12-31,True,405d12793317d15e7d94
+SKU0000472,Eco Computing Item 472,Electronics,Accessories,Northline,SUP00050,60.46,88.12,31.399,False,False,2020-09-08,Discontinued,2020-09-08,product_master,9999-12-31,True,5697b1fa7280072d17d3
+SKU0000473,Pro Accessories Item 473,Electronics,Computing,Solace,SUP00033,141.91,,48.968,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,68ff12ae5634e88db45d
+SKU0000474,Compact Outerwear Item 474,Apparel,Basics,Aster,SUP00085,221.42,405.48,37.886,False,False,,Active,1900-01-01,product_master,9999-12-31,True,4b32a7a79e35e12d5052
+SKU0000475,Premium Stationery Item 475,Office,Organization,Northline,SUP00058,287.1,551.71,14.859,False,False,2021-05-02,Seasonal,2021-05-02,product_master,9999-12-31,True,fcf92806efbb6c130d60
+SKU0000476,Compact Fitness Item 476,Apparel,Footwear,Solace,SUP00076,15.76,29.22,4.705,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,7bf142c5cdeff7a26b5d
+SKU0000477,Essential Footwear Item 477,Apparel,Basics,Aster,SUP00099,57.59,116.4,33.046,False,False,,Active,1900-01-01,product_master,2026-04-04,False,ec4fbfd26453b85d615c
+SKU0000477,Essential Footwear Item 477,Apparel,Basics,Aster,SUP00099,57.59,119.37,33.046,False,False,,Discontinued,2026-04-04,price_change,9999-12-31,True,bdc876d1e0a865c37367
+SKU0000478,Classic Basics Item 478,Apparel,Footwear,Solace,SUP00118,113.13,300.14,47.555,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,0c435e1c63e6fd5abf04
+SKU0000479,Classic Medical Supplies Item 479,Health,Medical Supplies,Cobalt,SUP00021,258.67,558.1,21.346,True,False,2024-05-08,Active,2024-05-08,product_master,2026-05-23,False,dfef62ae2657393a324f
+SKU0000479,Classic Medical Supplies Item 479,Health,Medical Supplies,Cobalt,SUP00021,258.67,569.09,21.346,True,False,2024-05-08,Discontinued,2026-05-23,discontinued,9999-12-31,True,564881be420d3db1eaab
+SKU0000480,Premium Wellness Item 480,Health,Personal Care,Everpeak,SUP00033,288.48,411.69,10.585,True,False,2021-03-16,Seasonal,2021-03-16,product_master,9999-12-31,True,cfcac2172ec06231d6c9
+SKU0000481,Pro Snack Item 481,Grocery,Beverage,Northline,SUP00116,123.51,330.44,15.795,False,False,2025-03-27,Active,2025-03-27,product_master,2026-04-24,False,af315520910232884e7e
+SKU0000481,Pro Snack Item 481,Grocery,Beverage,Northline,SUP00116,123.51,366.43,15.795,False,False,2025-03-27,Seasonal,2026-04-24,discontinued,9999-12-31,True,c11020f053b9fd205dd0
+SKU0000482,Pro Outerwear Item 482,Apparel,Outerwear,Northline,SUP00072,146.9,281.45,43.841,True,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,6476567f7cea1537279d
+SKU0000483,Pro Audio Item 483,Electronics,Audio,Aster,SUP00082,126.24,343.91,38.172,False,True,2024-04-16,Seasonal,2024-04-16,product_master,9999-12-31,True,c6197109b559b0add5a5
+SKU0000484,Eco Lighting Item 484,Home,Lighting,Everpeak,SUP00001,125.25,240.02,22.386,False,False,,Active,1900-01-01,product_master,2026-04-30,False,b13207e9f58ecc56eb8e
+SKU0000484,Eco Lighting Item 484,Home,Lighting,Everpeak,SUP00001,125.25,257.01,22.386,False,False,,Discontinued,2026-04-30,discontinued,9999-12-31,True,37eaa9a7626922cf1c53
+SKU0000485,Essential Wellness Item 485,Health,Personal Care,Cobalt,SUP00115,293.48,529.78,51.658,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,d0e2a187d14ecb014fa1
+SKU0000486,Pro Footwear Item 486,Apparel,Basics,Everpeak,SUP00081,191.96,475.79,27.726,False,False,,Active,1900-01-01,product_master,9999-12-31,True,f817a65ee31041bdfec9
+SKU0000487,Ultra Smart Home Item 487,Electronics,Smart Home,Northline,SUP00031,98.03,214.93,65.998,True,False,,Active,1900-01-01,product_master,9999-12-31,True,387be839cd4a792fd775
+SKU0000488,Compact Medical Supplies Item 488,Health,Pharmacy,Northline,SUP00037,159.38,245.28,33.778,False,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,3729d9813d0a10a6f992
+SKU0000489,Eco Smart Home Item 489,Electronics,Computing,Aster,SUP00077,248.68,,7.39,False,False,,Active,1900-01-01,product_master,9999-12-31,True,96f9128d1cb2c7f0fe11
+SKU0000490,Premium Computing Item 490,Electronics,Audio,Solace,SUP00039,112.73,278.18,58.525,False,False,2026-01-09,Active,2026-01-09,product_master,9999-12-31,True,3ef3a51d8d9e8c7fd923
+SKU0000491,Premium Personal Care Item 491,Health,Personal Care,Cobalt,SUP00018,159.01,434.39,42.515,True,False,,Active,1900-01-01,product_master,9999-12-31,True,7f2441424de672e5e030
+SKU0000492,Premium Personal Care Item 492,Health,Personal Care,Cobalt,SUP00018,141.52,360.38,30.882,False,False,2021-05-26,Discontinued,2021-05-26,product_master,9999-12-31,True,c163d437b191b9a8b6b9
+SKU0000493,Essential Kitchen Item 493,Home,Storage,Cobalt,SUP00012,,120.05,39.486,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,9722ea5d3bebb19842aa
+SKU0000494,Premium Audio Item 494,Electronics,Smart Home,Aster,SUP00048,101.23,249.96,20.969,False,False,2023-07-03,Active,2023-07-03,product_master,9999-12-31,True,a42f004d8a6142e1da77
+SKU0000495,Classic Outerwear Item 495,Apparel,Footwear,Aster,SUP00120,141.52,390.78,34.172,True,False,2024-04-19,Active,2024-04-19,product_master,9999-12-31,True,cda37ae0e475ea77f156
+SKU0000496,Premium Computing Item 496,Electronics,Smart Home,Everpeak,SUP00120,3.1,4.12,43.14,False,False,2021-11-10,Discontinued,2021-11-10,product_master,9999-12-31,True,a1b7d612b23620b1281c
+SKU0000497,Essential Printing Item 497,Office,Desk Setup,Solace,SUP00093,151.59,225.76,9.322,False,False,,Active,1900-01-01,product_master,2026-04-16,False,4c913bc9686c3151668e
+SKU0000497,Essential Printing Item 497,Office,Desk Setup,Solace,SUP00093,151.59,240.98,9.322,False,False,,Seasonal,2026-04-16,price_change,9999-12-31,True,835d295c7f021a9ca36b
+SKU0000498,Essential Smart Home Item 498,Electronics,Accessories,Everpeak,SUP00025,295.03,502.22,44.939,False,False,2022-11-17,Active,2022-11-17,product_master,9999-12-31,True,ff4e3f9d1cc0c1db8317
+SKU0000499,Compact Personal Care Item 499,Health,Wellness,Northline,SUP00023,13.64,29.53,69.047,False,False,,Active,1900-01-01,product_master,9999-12-31,True,3f8170d8fc50063694da
+SKU0000500,Premium Computing Item 500,Electronics,Computing,Aster,SUP00014,21.62,31.29,35.873,False,False,2023-04-16,Seasonal,2023-04-16,product_master,9999-12-31,True,da1ff0d48032cc964ba0
+SKU0000501,Compact Frozen Item 501,Grocery,Pantry,Solace,SUP00024,233.5,552.2,51.657,False,False,,Active,1900-01-01,product_master,9999-12-31,True,d166f167cb81b300a114
+SKU0000502,Classic Stationery Item 502,Office,Organization,Everpeak,SUP00066,297.05,794.78,9.446,False,True,,Active,1900-01-01,product_master,9999-12-31,True,9193c682eba41625f0a4
+SKU0000503,Essential Printing Item 503,Office,Stationery,Aster,SUP00088,16.88,41.65,31.415,False,False,,Active,1900-01-01,product_master,9999-12-31,True,19f35b2c1bd635ad5a19
+SKU0000504,Premium Footwear Item 504,Apparel,Fitness,Northline,SUP00019,93.71,140.19,1.513,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,88cc6b1f6222c9b534bf
+SKU0000505,Ultra Pantry Item 505,Grocery,Pantry,Everpeak,SUP00002,147.45,199.24,18.005,True,True,2024-09-23,Active,2024-09-23,product_master,9999-12-31,True,4f50859af3f5dfe96d6d
+SKU0000506,Ultra Footwear Item 506,Apparel,Fitness,Everpeak,SUP00081,200.54,409.22,28.09,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,6b422fe2da9d148da26f
+SKU0000507,Pro Frozen Item 507,Grocery,Snack,Aster,SUP00104,7.71,16.61,66.587,False,True,,Active,1900-01-01,product_master,9999-12-31,True,62407a594f73196d0366
+SKU0000508,Compact Pharmacy Item 508,Health,Medical Supplies,Everpeak,SUP00004,11.38,21.7,2.823,False,False,,Active,1900-01-01,product_master,9999-12-31,True,f6eab1b08e2e3dbdd316
+SKU0000509,Eco Lighting Item 509,Home,Furniture,Solace,SUP00102,172.71,219.35,52.173,False,False,,Active,1900-01-01,product_master,2026-04-24,False,619c7c732fc316dd2b26
+SKU0000509,Eco Lighting Item 509,Home,Furniture,Solace,SUP00102,172.71,230.33,52.173,False,False,,Seasonal,2026-04-24,discontinued,9999-12-31,True,0025c79e434537cb559d
+SKU0000510,Pro Accessories Item 510,Electronics,Accessories,Solace,SUP00075,285.3,350.99,62.925,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,3e756b7414adf707243a
+SKU0000511,Essential Printing Item 511,Office,Desk Setup,Nimbus,SUP00030,118.6,232.35,72.371,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,2d83b3406529c0f7b52e
+SKU0000512,Pro Organization Item 512,Office,Printing,Cobalt,SUP00105,294.99,697.3,61.257,False,False,,Active,1900-01-01,product_master,9999-12-31,True,fdc7450c20b0b844b0db
+SKU0000513,Pro Frozen Item 513,Grocery,Frozen,Solace,SUP00081,128.13,184.56,4.82,False,False,2022-04-13,Active,2022-04-13,product_master,9999-12-31,True,f726dd3e077d3d655629
+SKU0000514,Compact Kitchen Item 514,Home,Lighting,Solace,SUP00112,222.39,331.36,70.519,False,True,2024-06-06,Active,2024-06-06,product_master,9999-12-31,True,ef856002669856edffbe
+SKU0000515,Eco Basics Item 515,Apparel,Outerwear,Northline,SUP00085,143.97,397.08,21.239,False,False,2022-02-10,Active,2022-02-10,product_master,9999-12-31,True,9200b419fd64c99363fb
+SKU0000516,Ultra Outerwear Item 516,Apparel,Fitness,Everpeak,SUP00017,82.03,130.86,41.604,False,False,2025-01-04,Active,2025-01-04,product_master,9999-12-31,True,cc1b7f2a341dfd5ce582
+SKU0000517,Compact Footwear Item 517,Apparel,Outerwear,Aster,SUP00041,63.69,122.11,17.746,False,False,,Active,1900-01-01,product_master,9999-12-31,True,8614ea4de3fd8da0e3e3
+SKU0000518,Classic Snack Item 518,Grocery,Beverage,Everpeak,SUP00015,123.83,290.85,34.76,True,True,,Active,1900-01-01,product_master,2026-04-21,False,b8d2ee26efacf13e814d
+SKU0000518,Classic Snack Item 518,Grocery,Beverage,Everpeak,SUP00015,123.83,327.37,34.76,True,True,,Seasonal,2026-04-21,discontinued,9999-12-31,True,1d8de319c3cd1026ba30
+SKU0000519,Essential Personal Care Item 519,Health,Personal Care,Northline,SUP00041,22.46,50.74,62.692,True,False,,Active,1900-01-01,product_master,9999-12-31,True,fb3f5ac08e92aca59630
+SKU0000520,Essential Kitchen Item 520,Home,Furniture,Everpeak,SUP00092,125.21,186.67,53.8,False,False,,Active,1900-01-01,product_master,9999-12-31,True,26f22ea6ee1a3f3177a4
+SKU0000521,Pro Stationery Item 521,Office,Stationery,Nimbus,SUP00104,278.47,456.68,58.276,True,False,,Active,1900-01-01,product_master,2026-03-07,False,577c7b5eb668581ee0ce
+SKU0000521,Pro Stationery Item 521,Office,Stationery,Nimbus,SUP00104,278.47,481.31,58.276,True,False,,Discontinued,2026-03-07,seasonal_refresh,9999-12-31,True,8ea7d0facecb24ae30be
+SKU0000522,Essential Stationery Item 522,Office,Printing,Aster,SUP00083,18.75,,73.454,False,False,2020-09-07,Active,2020-09-07,product_master,9999-12-31,True,3d27412a67d8441c4e8b
+SKU0000523,Essential Printing Item 523,Office,Desk Setup,Northline,SUP00038,261.93,656.27,12.396,False,False,2021-08-21,Seasonal,2021-08-21,product_master,9999-12-31,True,951f10eeedbbcaa69de0
+SKU0000524,Premium Pantry Item 524,Grocery,Beverage,Solace,SUP00052,260.06,693.07,33.827,True,False,2020-01-30,Discontinued,2020-01-30,product_master,9999-12-31,True,e3b2ff3a858c7483e441
+SKU0000525,Essential Fitness Item 525,Apparel,Fitness,Everpeak,SUP00048,,343.18,22.101,False,False,,Active,1900-01-01,product_master,2026-05-17,False,9e01d14414b7108a12bc
+SKU0000525,Essential Fitness Item 525,Apparel,Fitness,Everpeak,SUP00048,,338.6,22.101,False,False,,Seasonal,2026-05-17,price_change,9999-12-31,True,98bdaa1e56eb238d0c01
+SKU0000526,Compact Footwear Item 526,Apparel,Fitness,Nimbus,SUP00029,49.91,78.09,53.433,False,True,,Active,1900-01-01,product_master,9999-12-31,True,b2621a7a1ed14dd78e36
+SKU0000527,Compact Storage Item 527,Home,Storage,Northline,SUP00083,70.18,193.94,25.772,False,True,,Active,1900-01-01,product_master,2026-04-03,False,509e41229038905560df
+SKU0000527,Compact Storage Item 527,Home,Storage,Northline,SUP00083,70.18,174.95,25.772,False,True,,Discontinued,2026-04-03,seasonal_refresh,9999-12-31,True,b8a3426edd1e4efef84c
+SKU0000528,Eco Accessories Item 528,Electronics,Computing,Cobalt,SUP00114,112.12,308.73,59.619,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,d7297a12380ad37fd185
+SKU0000529,Ultra Storage Item 529,Home,Lighting,Nimbus,SUP00033,230.58,389.13,36.263,False,False,2021-09-21,Active,2021-09-21,product_master,9999-12-31,True,185f36115e50c0db117d
+SKU0000530,Eco Smart Home Item 530,Electronics,Accessories,Everpeak,SUP00036,286.42,753.65,8.86,True,False,2024-06-11,Seasonal,2024-06-11,product_master,9999-12-31,True,fc68b8a497dc689d31ef
+SKU0000531,Ultra Accessories Item 531,Electronics,Computing,Nimbus,SUP00062,109.37,168.31,33.62,False,False,2022-09-21,Discontinued,2022-09-21,product_master,9999-12-31,True,3e0b59c15e54c5ccd1f3
+SKU0000532,Eco Lighting Item 532,Home,Storage,Nimbus,SUP00069,122.33,307.96,12.565,False,False,2022-05-24,Active,2022-05-24,product_master,9999-12-31,True,67a0ba990a592399d71a
+SKU0000533,Pro Pharmacy Item 533,Health,Wellness,Northline,SUP00032,240.22,584.67,35.828,False,False,2025-11-21,Discontinued,2025-11-21,product_master,9999-12-31,True,0ab498e42d2c284dd3c8
+SKU0000534,Eco Snack Item 534,Grocery,Beverage,Nimbus,SUP00112,271.78,393.88,13.029,True,False,2021-09-10,Discontinued,2021-09-10,product_master,9999-12-31,True,89f768f4039524128bea
+SKU0000535,Essential Wellness Item 535,Health,Personal Care,Aster,SUP00068,241.29,459.74,13.443,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,699b43008c7251c79786
+SKU0000536,Eco Pharmacy Item 536,Health,Medical Supplies,Nimbus,SUP00041,294.16,633.26,34.11,True,False,2023-09-25,Active,2023-09-25,product_master,9999-12-31,True,1b27e74f1ee53f717762
+SKU0000537,Eco Pharmacy Item 537,Health,Pharmacy,Aster,SUP00051,81.91,217.88,35.904,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,34bb0ad1a8defea87a72
+SKU0000538,Ultra Computing Item 538,Electronics,Audio,Aster,SUP00038,227.35,359.07,21.961,False,False,2023-04-25,Active,2023-04-25,product_master,9999-12-31,True,9b71706e3fcce6d2384a
+SKU0000539,Compact Furniture Item 539,Home,Kitchen,Nimbus,SUP00085,222.36,322.25,71.247,False,False,2025-11-23,Active,2025-11-23,product_master,9999-12-31,True,11387ddb34ef648912fe
+SKU0000540,Classic Organization Item 540,Office,Organization,Solace,SUP00019,191.55,483.56,70.451,False,False,,Seasonal,1900-01-01,product_master,2026-03-25,False,3c53bfab8abf6c32a8ec
+SKU0000540,Classic Organization Item 540,Office,Organization,Solace,SUP00019,191.55,448.06,70.451,False,False,,Active,2026-03-25,discontinued,9999-12-31,True,ddfbedcaa7b573c66d7e
+SKU0000541,Compact Furniture Item 541,Home,Furniture,Nimbus,SUP00104,107.87,274.79,16.882,False,True,,Active,1900-01-01,product_master,9999-12-31,True,ce0bfdf6aecd3223c371
+SKU0000542,Premium Smart Home Item 542,Electronics,Computing,Solace,SUP00008,237.74,511.6,74.117,False,False,,Seasonal,1900-01-01,product_master,2026-02-17,False,71b1b55ae985d4c36f4d
+SKU0000542,Premium Smart Home Item 542,Electronics,Computing,Solace,SUP00008,237.74,568.73,74.117,False,False,,Seasonal,2026-02-17,discontinued,9999-12-31,True,22903760d4b038bfac98
+SKU0000543,Essential Footwear Item 543,Apparel,Footwear,Nimbus,SUP00120,12.31,30.88,53.435,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,7bab90135b7d654737e9
+SKU0000544,Compact Frozen Item 544,Grocery,Pantry,Aster,SUP00038,59.49,128.02,16.996,True,False,2022-12-21,Discontinued,2022-12-21,product_master,9999-12-31,True,cc5d7016f313936e4a9a
+SKU0000545,Eco Computing Item 545,Electronics,Smart Home,Aster,SUP00064,192.63,256.79,40.681,False,False,,Active,1900-01-01,product_master,9999-12-31,True,3d15c9fb584ca8214ec2
+SKU0000546,Pro Fitness Item 546,Apparel,Fitness,Nimbus,SUP00093,136.23,165.45,27.722,False,False,,Active,1900-01-01,product_master,9999-12-31,True,d58d7ff4da1982b3f133
+SKU0000547,Compact Organization Item 547,Office,Desk Setup,Aster,SUP00053,3.65,8.57,59.268,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,981d6472b2c2edffbe8d
+SKU0000548,Premium Frozen Item 548,Grocery,Snack,Everpeak,SUP00078,153.7,214.52,24.132,True,True,,Active,1900-01-01,product_master,2026-04-10,False,c3c37dbfe442277a35b8
+SKU0000548,Premium Frozen Item 548,Grocery,Snack,Everpeak,SUP00078,153.7,239.51,24.132,True,True,,Seasonal,2026-04-10,price_change,9999-12-31,True,4b58d6cc2a9da0c3513f
+SKU0000549,Ultra Stationery Item 549,Office,Desk Setup,Northline,SUP00045,93.77,177.06,16.391,False,False,2025-01-10,Seasonal,2025-01-10,product_master,9999-12-31,True,531adbe38c74d63f2957
+SKU0000550,Eco Desk Setup Item 550,Office,Desk Setup,Aster,SUP00093,79.0,174.38,73.792,False,False,2022-01-14,Seasonal,2022-01-14,product_master,9999-12-31,True,0041219c4bd54e88d435
+SKU0000551,Essential Smart Home Item 551,Electronics,Audio,Nimbus,SUP00047,193.76,383.84,50.781,False,False,2022-03-01,Active,2022-03-01,product_master,2026-04-19,False,ff063ebda50c4b6f0237
+SKU0000551,Essential Smart Home Item 551,Electronics,Audio,Nimbus,SUP00047,193.76,388.39,50.781,False,False,2022-03-01,Active,2026-04-19,discontinued,9999-12-31,True,0a57faad411556ed9359
+SKU0000552,Ultra Personal Care Item 552,Health,Pharmacy,Cobalt,SUP00018,64.02,121.29,34.183,True,False,2024-03-13,Discontinued,2024-03-13,product_master,9999-12-31,True,d9e21c61c1815afb9ba5
+SKU0000553,Compact Stationery Item 553,Office,Stationery,Cobalt,SUP_BAD,167.03,,49.547,False,False,2022-12-13,Discontinued,2022-12-13,product_master,2026-02-06,False,27c8c5a80ffa46d76c5d
+SKU0000553,Compact Stationery Item 553,Office,Stationery,Cobalt,SUP_BAD,167.03,,49.547,False,False,2022-12-13,Discontinued,2026-02-06,seasonal_refresh,9999-12-31,True,29182e8d2935ac0585f1
+SKU0000554,Essential Lighting Item 554,Home,Storage,Cobalt,SUP00043,197.11,474.28,64.039,True,False,2025-10-11,Discontinued,2025-10-11,product_master,2026-05-16,False,59f9b337e4b16fc2c65b
+SKU0000554,Essential Lighting Item 554,Home,Storage,Cobalt,SUP00043,197.11,447.32,64.039,True,False,2025-10-11,Active,2026-05-16,catalog_update,9999-12-31,True,4c3f3291788b88289c9b
+SKU0000555,Compact Personal Care Item 555,Health,Pharmacy,Cobalt,SUP00099,265.21,518.96,37.468,True,False,,Active,1900-01-01,product_master,9999-12-31,True,65c247f246f0bcd59870
+SKU0000556,Eco Kitchen Item 556,Home,Kitchen,Solace,SUP00012,228.67,611.56,72.112,True,False,,Seasonal,1900-01-01,product_master,2026-05-17,False,f3ce03052e35398a1e2e
+SKU0000556,Eco Kitchen Item 556,Home,Kitchen,Solace,SUP00012,228.67,675.7,72.112,True,False,,Active,2026-05-17,seasonal_refresh,9999-12-31,True,ba5d23b8e554f1722f12
+SKU0000557,Premium Desk Setup Item 557,Office,Printing,Solace,SUP00029,59.04,111.58,73.569,False,False,2023-11-22,Discontinued,2023-11-22,product_master,9999-12-31,True,97a8fb1239063305719b
+SKU0000558,Pro Beverage Item 558,Grocery,Beverage,Nimbus,SUP00084,68.72,102.58,60.725,True,False,2022-04-12,Discontinued,2022-04-12,product_master,9999-12-31,True,e8803a69a97577949399
+SKU0000559,Eco Basics Item 559,Apparel,Basics,Solace,SUP00100,247.75,593.96,68.302,False,True,,Active,1900-01-01,product_master,9999-12-31,True,a7b7398210e10eed7c61
+SKU0000560,Ultra Printing Item 560,Office,Stationery,Aster,SUP00085,129.95,187.19,58.142,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,37f7099d47358173be38
+SKU0000561,Essential Storage Item 561,Home,Furniture,Solace,SUP00012,144.73,195.16,45.196,False,False,2023-11-23,Active,2023-11-23,product_master,2026-02-15,False,6c6fc23a17c1aae8034c
+SKU0000561,Essential Storage Item 561,Home,Furniture,Solace,SUP00012,144.73,222.18,45.196,False,False,2023-11-23,Active,2026-02-15,catalog_update,9999-12-31,True,9133afd29458015f3ec1
+SKU0000562,Eco Stationery Item 562,Office,Organization,Aster,SUP00092,217.42,594.14,37.798,False,False,2025-06-25,Active,2025-06-25,product_master,9999-12-31,True,22f505824bdebc331bb8
+SKU0000563,Premium Desk Setup Item 563,Office,Organization,Northline,SUP00001,152.19,330.87,41.963,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,9ad74e440c446d7e1e84
+SKU0000564,Pro Furniture Item 564,Home,Furniture,Aster,SUP00013,270.71,602.48,30.829,False,False,2024-08-31,Seasonal,2024-08-31,product_master,9999-12-31,True,6d047c71b40c59ad8554
+SKU0000565,Essential Fitness Item 565,Apparel,Outerwear,Northline,SUP00054,76.53,172.71,37.116,True,False,2026-01-29,Discontinued,2026-01-29,product_master,9999-12-31,True,7833f21ac757e82d4ec0
+SKU0000566,Ultra Kitchen Item 566,Home,Furniture,Northline,SUP00104,124.62,256.46,70.51,False,False,,Active,1900-01-01,product_master,2026-04-03,False,b7d28889fa32ad6f697d
+SKU0000566,Ultra Kitchen Item 566,Home,Furniture,Northline,SUP00104,124.62,259.42,70.51,False,False,,Seasonal,2026-04-03,catalog_update,9999-12-31,True,abeb56b4f434220f1020
+SKU0000567,Ultra Desk Setup Item 567,Office,Organization,Cobalt,SUP00011,87.77,191.66,11.983,True,False,,Active,1900-01-01,product_master,9999-12-31,True,c174e9ce7bbf7f4f3143
+SKU0000568,Compact Stationery Item 568,Office,Desk Setup,Aster,SUP00098,4.53,8.45,11.608,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,9b2639cc541223eee0ac
+SKU0000569,Essential Computing Item 569,Electronics,Audio,Nimbus,SUP00114,17.46,23.91,70.892,False,False,,Active,1900-01-01,product_master,9999-12-31,True,aaad740e6688ea93aaa2
+SKU0000570,Premium Snack Item 570,Grocery,Frozen,Everpeak,SUP00101,289.41,640.21,71.155,False,False,,Active,1900-01-01,product_master,9999-12-31,True,6a0ad00a4fc25f6e28f7
+SKU0000571,Eco Storage Item 571,Home,Storage,Cobalt,SUP00027,48.78,107.12,1.549,False,False,2025-03-31,Seasonal,2025-03-31,product_master,9999-12-31,True,23b51a77534fbd4590a3
+SKU0000572,Classic Snack Item 572,Grocery,Pantry,Aster,SUP00021,284.13,484.87,38.901,False,False,2022-08-20,Seasonal,2022-08-20,product_master,9999-12-31,True,c3ecc43c8548372aca30
+SKU0000573,Eco Outerwear Item 573,Apparel,Fitness,Solace,SUP00119,204.84,279.28,16.088,False,False,2021-06-25,Active,2021-06-25,product_master,9999-12-31,True,cefdcb3e578f0f8b5b72
+SKU0000574,Classic Lighting Item 574,Home,Lighting,Everpeak,SUP00103,237.19,555.08,22.833,False,True,2020-07-25,Active,2020-07-25,product_master,9999-12-31,True,d98387f5851b31ff44b3
+SKU0000575,Pro Computing Item 575,Electronics,Computing,Everpeak,SUP00079,46.73,57.01,56.308,True,False,2021-01-10,Seasonal,2021-01-10,product_master,9999-12-31,True,7ba782696f47a9814781
+SKU0000576,Pro Outerwear Item 576,Apparel,Outerwear,Solace,SUP00105,289.95,790.38,55.627,False,False,,Active,1900-01-01,product_master,2026-05-08,False,fd46fcbd3f3bcad08a45
+SKU0000576,Pro Outerwear Item 576,Apparel,Outerwear,Solace,SUP00105,289.95,787.63,55.627,False,False,,Seasonal,2026-05-08,seasonal_refresh,9999-12-31,True,a4f39692d4216f822745
+SKU0000577,Eco Beverage Item 577,Grocery,Pantry,Northline,SUP00120,233.83,534.13,22.443,False,False,2023-12-14,Active,2023-12-14,product_master,9999-12-31,True,cecf0b76c16159b0d679
+SKU0000578,Pro Pantry Item 578,Grocery,Beverage,Aster,SUP00017,21.43,32.33,12.31,False,True,,Active,1900-01-01,product_master,9999-12-31,True,8316abf0391dc6ac7b76
+SKU0000579,Pro Personal Care Item 579,Health,Medical Supplies,Northline,SUP00119,289.24,566.29,3.105,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,89c65911575a9bb6c6c8
+SKU0000580,Eco Computing Item 580,Electronics,Smart Home,Cobalt,SUP00027,64.94,164.23,41.609,True,False,,Active,1900-01-01,product_master,9999-12-31,True,8203efb1b3e8db789e1c
+SKU0000581,Ultra Desk Setup Item 581,Office,Organization,Cobalt,SUP00031,24.6,43.09,56.387,True,False,2023-11-03,Active,2023-11-03,product_master,9999-12-31,True,90b80d1aee542ceb4f8a
+SKU0000582,Eco Lighting Item 582,Home,Kitchen,Cobalt,SUP_BAD,154.28,199.76,70.062,False,False,2021-10-11,Active,2021-10-11,product_master,9999-12-31,True,f4c5685d0e84026d4d8f
+SKU0000583,Premium Outerwear Item 583,Apparel,Outerwear,Cobalt,SUP00052,130.33,347.59,64.105,False,False,2020-03-17,Active,2020-03-17,product_master,9999-12-31,True,004a66b714c63bffe1c5
+SKU0000584,Ultra Stationery Item 584,Office,Desk Setup,Cobalt,SUP00111,14.66,20.81,41.348,False,False,,Active,1900-01-01,product_master,9999-12-31,True,8e5b97474d37c79db0a3
+SKU0000585,Classic Smart Home Item 585,Electronics,Computing,Aster,SUP00078,185.08,245.56,40.337,False,False,2022-10-18,Active,2022-10-18,product_master,9999-12-31,True,bad4a136381f3e25cf7b
+SKU0000586,Premium Accessories Item 586,Electronics,Accessories,Everpeak,SUP00016,118.76,310.3,72.633,False,False,,Active,1900-01-01,product_master,9999-12-31,True,60180e3c267a9ee0dda7
+SKU0000587,Eco Frozen Item 587,Grocery,Snack,Everpeak,SUP00112,175.49,268.07,28.978,True,False,2024-12-25,Seasonal,2024-12-25,product_master,9999-12-31,True,42b7a628ef64476c4bbf
+SKU0000588,Eco Footwear Item 588,Apparel,Fitness,Cobalt,SUP00027,144.41,312.32,32.326,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,d854f7fb84256247fbdd
+SKU0000589,Classic Storage Item 589,Home,Storage,Nimbus,SUP00063,56.46,75.64,68.82,False,False,,Active,1900-01-01,product_master,9999-12-31,True,c45c1d72b40ad5e0344a
+SKU0000590,Classic Pharmacy Item 590,Health,Pharmacy,Everpeak,SUP00037,131.36,333.04,52.307,False,False,,Seasonal,1900-01-01,product_master,2026-04-18,False,a25f1941ad468cbd2385
+SKU0000590,Classic Pharmacy Item 590,Health,Pharmacy,Everpeak,SUP00037,131.36,343.33,52.307,False,False,,Discontinued,2026-04-18,seasonal_refresh,9999-12-31,True,29f365ac48a60592d102
+SKU0000591,Premium Furniture Item 591,Home,Lighting,Solace,SUP00021,65.08,99.97,69.472,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,8423c9dadae853c3cbed
+SKU0000592,Pro Audio Item 592,Electronics,Computing,Northline,SUP00021,298.69,429.95,31.295,False,True,2024-05-03,Seasonal,2024-05-03,product_master,9999-12-31,True,7d2651333408a35903c8
+SKU0000593,Premium Furniture Item 593,Home,Lighting,Nimbus,SUP00096,197.98,253.75,18.916,False,False,2025-02-01,Active,2025-02-01,product_master,9999-12-31,True,e39a721452b2a4709c74
+SKU0000594,Essential Kitchen Item 594,Home,Kitchen,Aster,SUP00115,102.78,147.41,73.573,True,True,,Discontinued,1900-01-01,product_master,9999-12-31,True,77f5d6febc318c46043f
+SKU0000595,Pro Accessories Item 595,Electronics,Computing,Nimbus,SUP00099,192.33,432.46,69.762,False,False,2020-03-14,Seasonal,2020-03-14,product_master,9999-12-31,True,669d1e00e3c7ad5e4adf
+SKU0000596,Essential Frozen Item 596,Grocery,Beverage,Northline,SUP00119,6.93,17.78,6.964,False,False,2020-08-21,Active,2020-08-21,product_master,9999-12-31,True,0c633d99af6fde0fc5f1
+SKU0000597,Classic Lighting Item 597,Home,Furniture,Cobalt,SUP00011,183.29,304.59,25.138,False,True,2022-07-01,Active,2022-07-01,product_master,9999-12-31,True,389049dc8d5be3977d6e
+SKU0000598,Essential Basics Item 598,Apparel,Basics,Cobalt,SUP00041,41.64,110.68,27.971,True,False,,Active,1900-01-01,product_master,9999-12-31,True,eada9379d6c9fd9d1ae2
+SKU0000599,Essential Storage Item 599,Home,Storage,Nimbus,SUP00014,20.32,33.96,3.787,False,True,2021-02-08,Active,2021-02-08,product_master,9999-12-31,True,d3283f33ea68b2f444d3
+SKU0000600,Premium Medical Supplies Item 600,Health,Wellness,Nimbus,SUP00007,233.33,525.15,60.321,False,True,2021-05-04,Active,2021-05-04,product_master,9999-12-31,True,800f654db45817faf758
+SKU0000601,Pro Desk Setup Item 601,Office,Printing,Cobalt,SUP00120,86.37,132.11,52.461,True,False,2023-05-06,Active,2023-05-06,product_master,2026-04-06,False,31421f7ed38c8d78a3d6
+SKU0000601,Pro Desk Setup Item 601,Office,Printing,Cobalt,SUP00120,86.37,125.32,52.461,True,False,2023-05-06,Seasonal,2026-04-06,catalog_update,9999-12-31,True,45ca673e74b258ca2d29
+SKU0000602,Compact Outerwear Item 602,Apparel,Outerwear,Everpeak,SUP00022,62.28,143.28,6.743,False,True,2025-03-18,Seasonal,2025-03-18,product_master,9999-12-31,True,2c1609a6186bfbf0adc2
+SKU0000603,Ultra Storage Item 603,Home,Kitchen,Solace,SUP00106,234.88,482.02,48.048,False,True,2026-02-14,Active,2026-02-14,product_master,9999-12-31,True,741a71d56f692e54e927
+SKU0000604,Classic Pharmacy Item 604,Health,Wellness,Everpeak,SUP00118,253.92,358.16,70.553,False,False,2026-03-15,Discontinued,2026-03-15,product_master,9999-12-31,True,d39394cd0922fba18807
+SKU0000605,Essential Snack Item 605,Grocery,Frozen,Nimbus,SUP00036,76.45,152.98,65.024,False,False,2022-08-27,Seasonal,2022-08-27,product_master,9999-12-31,True,5888e62ffa7a2f2ebc46
+SKU0000606,Compact Medical Supplies Item 606,Health,Pharmacy,Cobalt,SUP00115,100.02,276.2,51.137,False,False,2021-05-15,Seasonal,2021-05-15,product_master,2026-02-01,False,ec65c07f7ec11b7effe6
+SKU0000606,Compact Medical Supplies Item 606,Health,Pharmacy,Cobalt,SUP00115,100.02,301.65,51.137,False,False,2021-05-15,Seasonal,2026-02-01,catalog_update,9999-12-31,True,6c71cec2f843d3f24e9f
+SKU0000607,Ultra Pharmacy Item 607,Health,Personal Care,Cobalt,SUP00054,144.65,403.88,6.626,False,False,2021-08-30,Active,2021-08-30,product_master,9999-12-31,True,3b23fbb3af2051da618c
+SKU0000608,Essential Furniture Item 608,Home,Furniture,Cobalt,SUP00067,220.53,337.51,3.739,True,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,6f57a1712b4b5e67bbf0
+SKU0000609,Ultra Stationery Item 609,Office,Desk Setup,Solace,SUP00013,212.09,498.61,41.347,False,True,2023-07-01,Active,2023-07-01,product_master,2026-04-04,False,58d4d51da5260d567dc2
+SKU0000609,Ultra Stationery Item 609,Office,Desk Setup,Solace,SUP00013,212.09,514.84,41.347,False,True,2023-07-01,Seasonal,2026-04-04,catalog_update,9999-12-31,True,728f7a9773dbcd3a5c11
+SKU0000610,Premium Computing Item 610,Electronics,Accessories,Aster,SUP00111,108.47,237.25,19.322,False,False,2024-06-30,Active,2024-06-30,product_master,2026-03-08,False,5f61aa70208ddf22653c
+SKU0000610,Premium Computing Item 610,Electronics,Accessories,Aster,SUP00111,108.47,222.21,19.322,False,False,2024-06-30,Seasonal,2026-03-08,price_change,9999-12-31,True,80b027b37dd490afbc08
+SKU0000611,Essential Accessories Item 611,Electronics,Accessories,Aster,SUP00031,185.61,459.95,60.629,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,38197f7b1500c07ba3f6
+SKU0000612,Premium Wellness Item 612,Health,Medical Supplies,Aster,SUP00027,198.19,504.04,51.694,False,False,2024-04-21,Seasonal,2024-04-21,product_master,9999-12-31,True,effc0958d8e45fa49b36
+SKU0000613,Eco Frozen Item 613,Grocery,Beverage,Northline,SUP00111,23.69,39.33,74.648,False,False,2020-05-27,Discontinued,2020-05-27,product_master,9999-12-31,True,6219119cda6a5f14f60d
+SKU0000614,Classic Basics Item 614,Apparel,Footwear,Northline,SUP00005,25.52,51.38,44.11,True,True,2025-06-18,Active,2025-06-18,product_master,9999-12-31,True,4bb4e38bef8dc4a9ec53
+SKU0000615,Eco Audio Item 615,Electronics,Accessories,Aster,SUP00018,282.28,373.1,61.062,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,69ff1d9db3f30f8851ce
+SKU0000616,Premium Medical Supplies Item 616,Health,Wellness,Nimbus,SUP00092,94.64,193.23,28.874,True,False,,Active,1900-01-01,product_master,9999-12-31,True,62c2f35e57a2629c48a5
+SKU0000617,Premium Organization Item 617,Office,Printing,Cobalt,SUP00113,233.25,541.63,10.922,False,True,,Active,1900-01-01,product_master,9999-12-31,True,65ed411ebb263337576c
+SKU0000618,Premium Snack Item 618,Grocery,Frozen,Northline,SUP00026,17.24,45.78,57.473,False,True,2021-09-08,Discontinued,2021-09-08,product_master,2026-03-21,False,1b890369c9a5d53185d3
+SKU0000618,Premium Snack Item 618,Grocery,Frozen,Northline,SUP00026,17.24,46.33,57.473,False,True,2021-09-08,Seasonal,2026-03-21,seasonal_refresh,9999-12-31,True,a87c49a6ac98cb5e46e5
+SKU0000619,Pro Footwear Item 619,Apparel,Outerwear,Cobalt,SUP00063,285.44,616.57,0.867,True,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,8c40fd19e477ee9ea06f
+SKU0000620,Essential Printing Item 620,Office,Desk Setup,Nimbus,SUP00008,35.41,65.73,32.024,False,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,8e138f268741c5f5502d
+SKU0000621,Pro Fitness Item 621,Apparel,Footwear,Nimbus,SUP00001,165.88,205.52,18.93,False,True,,Active,1900-01-01,product_master,9999-12-31,True,13502854443a669af2e2
+SKU0000622,Pro Beverage Item 622,Grocery,Frozen,Aster,SUP00063,100.24,260.08,52.266,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,286ecd8e3bf5b2c6d153
+SKU0000623,Essential Stationery Item 623,Office,Organization,Solace,SUP00096,142.18,374.07,53.527,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,f56c3e13fbc3f9777763
+SKU0000624,Eco Stationery Item 624,Office,Desk Setup,Everpeak,SUP00071,25.03,54.62,45.799,False,False,,Active,1900-01-01,product_master,9999-12-31,True,fd22b805c2eb63f89649
+SKU0000625,Ultra Basics Item 625,Apparel,Footwear,Nimbus,SUP00075,245.97,431.95,39.109,True,True,2022-05-06,Active,2022-05-06,product_master,9999-12-31,True,f029fdd30530142ee3e1
+SKU0000626,Eco Outerwear Item 626,Apparel,Fitness,Aster,SUP00080,22.25,53.45,43.974,False,True,2024-02-25,Seasonal,2024-02-25,product_master,2026-02-24,False,1bb5fddfdaf9594f37c9
+SKU0000626,Eco Outerwear Item 626,Apparel,Fitness,Aster,SUP00080,22.25,57.84,43.974,False,True,2024-02-25,Discontinued,2026-02-24,price_change,9999-12-31,True,d2e45786bf16365a90d3
+SKU0000627,Classic Medical Supplies Item 627,Health,Medical Supplies,Northline,SUP00031,9.16,20.82,59.297,False,True,2025-04-17,Seasonal,2025-04-17,product_master,9999-12-31,True,a88c0c8b9c5599356d5f
+SKU0000628,Compact Furniture Item 628,Home,Lighting,Everpeak,SUP00029,143.58,367.74,60.181,False,False,2020-08-13,Active,2020-08-13,product_master,9999-12-31,True,24dea80e7b62fa27af83
+SKU0000629,Ultra Frozen Item 629,Grocery,Pantry,Cobalt,SUP00005,42.15,74.35,62.719,False,False,2025-08-06,Active,2025-08-06,product_master,9999-12-31,True,ff590ab8081b3561c2f9
+SKU0000630,Premium Fitness Item 630,Apparel,Fitness,Northline,SUP00051,262.31,332.95,53.512,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,a319ae4ed86e5bc3e263
+SKU0000631,Compact Desk Setup Item 631,Office,Printing,Aster,SUP00084,212.84,383.9,40.914,False,True,2022-06-11,Discontinued,2022-06-11,product_master,9999-12-31,True,4e2f06ef7fbba5257567
+SKU0000632,Essential Stationery Item 632,Office,Organization,Aster,SUP00096,135.05,334.48,7.815,False,False,2024-05-15,Seasonal,2024-05-15,product_master,9999-12-31,True,426d8080d1c8ed4691da
+SKU0000633,Eco Personal Care Item 633,Health,Personal Care,Northline,SUP00094,50.73,73.07,42.662,False,False,2022-02-10,Discontinued,2022-02-10,product_master,9999-12-31,True,a4e83ef9726fac5608a3
+SKU0000634,Premium Printing Item 634,Office,Desk Setup,Northline,SUP00021,184.66,428.97,66.704,False,False,,Active,1900-01-01,product_master,9999-12-31,True,bbe7965228cf293006bb
+SKU0000635,Essential Organization Item 635,Office,Desk Setup,Nimbus,SUP00071,64.74,126.98,44.602,False,False,2021-04-15,Discontinued,2021-04-15,product_master,2026-04-17,False,a19cc2acc4141368471c
+SKU0000635,Essential Organization Item 635,Office,Desk Setup,Nimbus,SUP00071,64.74,140.9,44.602,False,False,2021-04-15,Active,2026-04-17,price_change,9999-12-31,True,ffd47b924f33653f0df6
+SKU0000636,Essential Outerwear Item 636,Apparel,Fitness,Nimbus,SUP00031,47.9,109.88,45.548,False,False,2021-07-30,Active,2021-07-30,product_master,9999-12-31,True,b3d44597eea2a065743c
+SKU0000637,Essential Audio Item 637,Electronics,Audio,Nimbus,SUP00083,34.31,48.05,58.692,False,False,2024-07-15,Discontinued,2024-07-15,product_master,2026-02-02,False,8909fb8790cc4584ea57
+SKU0000637,Essential Audio Item 637,Electronics,Audio,Nimbus,SUP00083,34.31,53.54,58.692,False,False,2024-07-15,Active,2026-02-02,catalog_update,9999-12-31,True,6e8434679d43f2c633a2
+SKU0000638,Classic Footwear Item 638,Apparel,Basics,Solace,SUP00015,225.27,291.9,45.977,True,False,2021-07-29,Discontinued,2021-07-29,product_master,9999-12-31,True,4c9ef3e8c2a11c879a3a
+SKU0000639,Premium Beverage Item 639,Grocery,Snack,Nimbus,SUP00023,203.15,505.09,66.197,False,False,,Active,1900-01-01,product_master,9999-12-31,True,e75c210e379b50850614
+SKU0000640,Classic Computing Item 640,Electronics,Computing,Nimbus,SUP00052,136.35,381.36,63.778,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,462d70d87ae93655649b
+SKU0000641,Premium Frozen Item 641,Grocery,Snack,Solace,SUP00120,175.09,476.84,27.585,False,False,2023-01-08,Seasonal,2023-01-08,product_master,9999-12-31,True,de4e1b0755932ec932a0
+SKU0000642,Eco Footwear Item 642,Apparel,Basics,Solace,SUP00030,270.26,550.1,71.949,False,False,2020-04-22,Discontinued,2020-04-22,product_master,9999-12-31,True,9f1f4d959237803d415a
+SKU0000643,Ultra Furniture Item 643,Home,Lighting,Cobalt,SUP00097,250.98,325.47,2.898,False,False,,Active,1900-01-01,product_master,9999-12-31,True,0ec8f080885253a0675c
+SKU0000644,Ultra Furniture Item 644,Home,Lighting,Solace,SUP00009,85.52,163.8,21.487,False,False,2023-05-26,Active,2023-05-26,product_master,9999-12-31,True,10449c66dfc10f6b3f4d
+SKU0000645,Classic Furniture Item 645,Home,Furniture,Everpeak,SUP00010,160.8,306.02,48.255,False,False,2024-05-07,Discontinued,2024-05-07,product_master,9999-12-31,True,a5e0460fb67ec3fd6070
+SKU0000646,Classic Wellness Item 646,Health,Wellness,Solace,SUP00013,172.09,217.88,2.384,False,True,2024-08-25,Discontinued,2024-08-25,product_master,9999-12-31,True,25b658c6a8458a22e68b
+SKU0000647,Classic Smart Home Item 647,Electronics,Computing,Northline,SUP00015,238.12,360.52,18.039,True,False,,Discontinued,1900-01-01,product_master,2026-03-02,False,55d863e025f77aca6f72
+SKU0000647,Classic Smart Home Item 647,Electronics,Computing,Northline,SUP00015,238.12,350.46,18.039,True,False,,Seasonal,2026-03-02,discontinued,9999-12-31,True,4fc4d7c2c7ccefa13bfb
+SKU0000648,Essential Pantry Item 648,Grocery,Beverage,Everpeak,SUP00071,189.22,368.01,46.141,False,False,2022-10-06,Active,2022-10-06,product_master,9999-12-31,True,bda3bec5fe4d01653944
+SKU0000649,Classic Personal Care Item 649,Health,Personal Care,Cobalt,SUP00093,127.15,340.34,66.734,True,False,,Active,1900-01-01,product_master,2026-02-04,False,aa61882a4f981efe81e3
+SKU0000649,Classic Personal Care Item 649,Health,Personal Care,Cobalt,SUP00093,127.15,326.31,66.734,True,False,,Discontinued,2026-02-04,discontinued,9999-12-31,True,588794aaa3f6e54ee05a
+SKU0000650,Essential Snack Item 650,Grocery,Pantry,Cobalt,SUP00021,14.28,31.62,42.542,False,False,2022-02-05,Active,2022-02-05,product_master,9999-12-31,True,5ca1af16b372aae4b381
+SKU0000651,Eco Lighting Item 651,Home,Storage,Northline,SUP00043,114.63,315.67,26.02,False,False,2025-12-13,Active,2025-12-13,product_master,9999-12-31,True,f4bf4fa64f031599f895
+SKU0000652,Classic Audio Item 652,Electronics,Audio,Everpeak,SUP00007,223.07,501.39,42.557,True,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,8faa5bb3e5ba200ea3c1
+SKU0000653,Pro Stationery Item 653,Office,Organization,Northline,SUP00083,55.07,94.21,57.204,True,False,2020-12-29,Active,2020-12-29,product_master,9999-12-31,True,71fe4e45d3f25e8ae086
+SKU0000654,Classic Stationery Item 654,Office,Printing,Nimbus,SUP00073,164.46,366.24,46.897,False,False,2024-05-02,Active,2024-05-02,product_master,9999-12-31,True,ac4d13cb838ec09342c8
+SKU0000655,Ultra Stationery Item 655,Office,Desk Setup,Solace,SUP00043,255.89,713.68,60.449,True,False,2022-03-15,Active,2022-03-15,product_master,2026-05-19,False,0ab50ebc2687af2f5eae
+SKU0000655,Ultra Stationery Item 655,Office,Desk Setup,Solace,SUP00043,255.89,741.17,60.449,True,False,2022-03-15,Active,2026-05-19,price_change,9999-12-31,True,5ddd84f0752d10e29828
+SKU0000656,Classic Basics Item 656,Apparel,Outerwear,Solace,SUP00042,49.5,70.67,23.841,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,c27b1532e58d7c0f98b9
+SKU0000657,Ultra Pantry Item 657,Grocery,Frozen,Solace,SUP00039,216.77,402.47,38.16,False,False,,Active,1900-01-01,product_master,9999-12-31,True,24e570e6e79d3e6cf93c
+SKU0000658,Ultra Frozen Item 658,Grocery,Pantry,Aster,SUP00055,162.42,302.76,68.886,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,bc7a51bba29749243e66
+SKU0000659,Essential Desk Setup Item 659,Office,Printing,Northline,SUP00040,217.93,573.36,64.228,False,False,2025-08-30,Seasonal,2025-08-30,product_master,2026-04-26,False,dcc78e4aa453ef9661ca
+SKU0000659,Essential Desk Setup Item 659,Office,Printing,Northline,SUP00040,217.93,587.52,64.228,False,False,2025-08-30,Discontinued,2026-04-26,price_change,9999-12-31,True,052ee0881ece60f27bc6
+SKU0000660,Pro Footwear Item 660,Apparel,Footwear,Aster,SUP00090,16.29,27.81,42.512,True,True,,Active,1900-01-01,product_master,2026-03-08,False,7bbc2201aad835dcbd8f
+SKU0000660,Pro Footwear Item 660,Apparel,Footwear,Aster,SUP00090,16.29,30.36,42.512,True,True,,Active,2026-03-08,catalog_update,9999-12-31,True,de8a08e241d39cce061d
+SKU0000661,Premium Fitness Item 661,Apparel,Footwear,Nimbus,SUP00103,24.97,35.11,6.52,False,False,2022-05-14,Active,2022-05-14,product_master,2026-02-20,False,79b298bda58ab2c9ce15
+SKU0000661,Premium Fitness Item 661,Apparel,Footwear,Nimbus,SUP00103,24.97,40.17,6.52,False,False,2022-05-14,Discontinued,2026-02-20,discontinued,9999-12-31,True,0981fb3390255992c3aa
+SKU0000662,Ultra Kitchen Item 662,Home,Lighting,Cobalt,SUP00044,114.05,200.48,12.529,True,False,2025-08-30,Seasonal,2025-08-30,product_master,9999-12-31,True,a398a6f7f44c2ab9d099
+SKU0000663,Classic Accessories Item 663,Electronics,Computing,Nimbus,SUP00033,112.15,214.05,13.56,False,False,2024-07-06,Active,2024-07-06,product_master,9999-12-31,True,9bb7d08aedc9e1de532b
+SKU0000664,Premium Audio Item 664,Electronics,Accessories,Aster,SUP00111,237.21,638.8,24.016,False,False,2020-05-25,Discontinued,2020-05-25,product_master,2026-04-09,False,68d2cb554628fd1924b4
+SKU0000664,Premium Audio Item 664,Electronics,Accessories,Aster,SUP00111,237.21,709.08,24.016,False,False,2020-05-25,Seasonal,2026-04-09,price_change,9999-12-31,True,ae419a66fdc79d27ef9b
+SKU0000665,Ultra Fitness Item 665,Apparel,Fitness,Everpeak,SUP00061,100.23,183.14,69.075,False,True,2025-08-20,Active,2025-08-20,product_master,9999-12-31,True,f07e6a6937e051b658e4
+SKU0000666,Eco Pantry Item 666,Grocery,Beverage,Everpeak,SUP00036,191.23,319.6,47.567,True,False,2020-09-14,Discontinued,2020-09-14,product_master,2026-04-17,False,c3d33fa3bf75fe7e7650
+SKU0000666,Eco Pantry Item 666,Grocery,Beverage,Everpeak,SUP00036,191.23,335.62,47.567,True,False,2020-09-14,Seasonal,2026-04-17,catalog_update,9999-12-31,True,9fa02b62e0e36050a012
+SKU0000667,Eco Pharmacy Item 667,Health,Personal Care,Everpeak,SUP00109,282.23,443.76,35.35,False,False,2025-08-30,Discontinued,2025-08-30,product_master,9999-12-31,True,a628d4bf5c2575e27562
+SKU0000668,Ultra Storage Item 668,Home,Kitchen,Nimbus,SUP00069,156.75,216.27,31.542,False,True,,Seasonal,1900-01-01,product_master,9999-12-31,True,a9a27b604613299eeb80
+SKU0000669,Ultra Computing Item 669,Electronics,Smart Home,Cobalt,SUP00002,67.35,166.62,5.452,False,False,2023-08-07,Discontinued,2023-08-07,product_master,9999-12-31,True,0e6d9eb1526b0d6b5df6
+SKU0000670,Essential Accessories Item 670,Electronics,Smart Home,Solace,SUP00022,,292.11,28.215,False,True,2021-06-29,Active,2021-06-29,product_master,2026-03-07,False,7ba81485c3f8f08ecbab
+SKU0000670,Essential Accessories Item 670,Electronics,Smart Home,Solace,SUP00022,,331.01,28.215,False,True,2021-06-29,Discontinued,2026-03-07,price_change,9999-12-31,True,7db76af8d7a2e672e79e
+SKU0000671,Essential Outerwear Item 671,Apparel,Outerwear,Nimbus,SUP00051,44.98,56.34,28.735,True,False,,Discontinued,1900-01-01,product_master,2026-02-16,False,5a1e108bbee677c39ae6
+SKU0000671,Essential Outerwear Item 671,Apparel,Outerwear,Nimbus,SUP00051,44.98,53.06,28.735,True,False,,Active,2026-02-16,catalog_update,9999-12-31,True,342f2a8c1249763ea007
+SKU0000672,Compact Pantry Item 672,Grocery,Pantry,Cobalt,SUP00062,87.45,201.76,33.954,True,True,,Seasonal,1900-01-01,product_master,2026-03-23,False,47f67b4a917742b38693
+SKU0000672,Compact Pantry Item 672,Grocery,Pantry,Cobalt,SUP00062,87.45,226.13,33.954,True,True,,Discontinued,2026-03-23,catalog_update,9999-12-31,True,b1199d139efb5174ae4e
+SKU0000673,Ultra Snack Item 673,Grocery,Frozen,Solace,SUP00070,116.56,235.05,20.318,False,False,,Discontinued,1900-01-01,product_master,2026-02-27,False,2211ad42ba62ba5584c9
+SKU0000673,Ultra Snack Item 673,Grocery,Frozen,Solace,SUP00070,116.56,213.68,20.318,False,False,,Discontinued,2026-02-27,catalog_update,9999-12-31,True,1fa1401b3bda44595ac6
+SKU0000674,Ultra Pantry Item 674,Grocery,Beverage,Aster,SUP00055,99.69,147.5,34.332,False,False,2020-11-26,Seasonal,2020-11-26,product_master,9999-12-31,True,663b24fb1db4b9b7521a
+SKU0000675,Eco Personal Care Item 675,Health,Pharmacy,Cobalt,SUP00081,38.43,98.92,2.576,True,False,2021-06-25,Active,2021-06-25,product_master,9999-12-31,True,c23e3969e7c08d9f3a56
+SKU0000676,Compact Pharmacy Item 676,Health,Medical Supplies,Nimbus,SUP00095,230.94,446.89,55.729,False,False,2024-08-10,Active,2024-08-10,product_master,9999-12-31,True,cf2d549c572617aa9b36
+SKU0000677,Classic Desk Setup Item 677,Office,Stationery,Aster,SUP00023,105.86,243.95,28.234,False,False,,Active,1900-01-01,product_master,9999-12-31,True,8995f52c39b88b2b0040
+SKU0000678,Classic Medical Supplies Item 678,Health,Pharmacy,Nimbus,SUP00116,120.32,310.18,48.259,False,True,,Seasonal,1900-01-01,product_master,2026-04-03,False,cd5296623ab8504312df
+SKU0000678,Classic Medical Supplies Item 678,Health,Pharmacy,Nimbus,SUP00116,120.32,356.18,48.259,False,True,,Discontinued,2026-04-03,catalog_update,9999-12-31,True,55a73d1c6c4bdb1d0f19
+SKU0000679,Compact Organization Item 679,Office,Organization,Nimbus,SUP00056,130.56,364.05,3.932,False,False,2024-08-05,Seasonal,2024-08-05,product_master,9999-12-31,True,655f3c8fc933ae3e33d0
+SKU0000680,Premium Medical Supplies Item 680,Health,Wellness,Aster,SUP00117,199.06,547.55,72.567,False,False,,Active,1900-01-01,product_master,9999-12-31,True,01eec4b99496bbf8cfdb
+SKU0000681,Classic Snack Item 681,Grocery,Pantry,Cobalt,SUP00012,203.38,340.58,61.355,True,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,f1344369df64daa3f70c
+SKU0000682,Classic Wellness Item 682,Health,Medical Supplies,Nimbus,SUP00033,63.61,105.0,43.116,False,False,,Discontinued,1900-01-01,product_master,2026-05-17,False,f2f8d0451d748eba1cab
+SKU0000682,Classic Wellness Item 682,Health,Medical Supplies,Nimbus,SUP00033,63.61,120.24,43.116,False,False,,Seasonal,2026-05-17,seasonal_refresh,9999-12-31,True,574dc0eb2452b249a878
+SKU0000683,Pro Pantry Item 683,Grocery,Beverage,Everpeak,SUP00023,62.71,101.39,30.531,False,True,,Active,1900-01-01,product_master,9999-12-31,True,60a737069e05b5dad872
+SKU0000684,Compact Personal Care Item 684,Health,Pharmacy,Solace,SUP00010,116.84,164.34,26.189,False,True,2024-07-01,Discontinued,2024-07-01,product_master,9999-12-31,True,fea680196a884b1f9da5
+SKU0000685,Ultra Wellness Item 685,Health,Wellness,Everpeak,SUP00047,278.17,612.67,32.157,False,True,,Active,1900-01-01,product_master,9999-12-31,True,c1aa8dcff39a60fc9e10
+SKU0000686,Essential Snack Item 686,Grocery,Beverage,Solace,SUP00118,188.65,474.82,18.862,False,False,2025-03-10,Active,2025-03-10,product_master,9999-12-31,True,7cdf613af3d1e5606a58
+SKU0000687,Ultra Personal Care Item 687,Health,Personal Care,Northline,SUP00027,27.8,58.95,56.849,False,False,2020-11-17,Seasonal,2020-11-17,product_master,9999-12-31,True,1d04323a671832862a44
+SKU0000688,Classic Medical Supplies Item 688,Health,Pharmacy,Solace,SUP00075,8.45,17.21,18.436,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,b83e51c20fdce927d063
+SKU0000689,Classic Kitchen Item 689,Home,Storage,Everpeak,SUP00052,91.62,240.01,74.044,True,True,2020-01-14,Discontinued,2020-01-14,product_master,9999-12-31,True,5018cd9916c07b24de99
+SKU0000690,Premium Kitchen Item 690,Home,Furniture,Aster,SUP00077,160.08,269.92,46.607,False,False,2024-04-04,Active,2024-04-04,product_master,9999-12-31,True,5815ff9e962842f88a3f
+SKU0000691,Premium Outerwear Item 691,Apparel,Outerwear,Everpeak,SUP00114,147.15,336.45,5.889,False,False,,Active,1900-01-01,product_master,9999-12-31,True,a430dc5342e899fac285
+SKU0000692,Essential Audio Item 692,Electronics,Computing,Solace,SUP00024,38.68,95.57,32.974,False,False,2022-11-28,Active,2022-11-28,product_master,9999-12-31,True,d70978007e114332023c
+SKU0000693,Essential Storage Item 693,Home,Furniture,Northline,SUP00093,105.49,290.61,38.403,False,False,,Discontinued,1900-01-01,product_master,9999-12-31,True,022ff0292ffd332a1518
+SKU0000694,Essential Stationery Item 694,Office,Printing,Aster,SUP00036,212.43,348.04,6.177,False,False,,Active,1900-01-01,product_master,9999-12-31,True,da5b883ff6800feac900
+SKU0000695,Pro Computing Item 695,Electronics,Smart Home,Cobalt,SUP00014,78.44,172.28,47.167,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,23b38dbe8f32a68651ed
+SKU0000696,Classic Fitness Item 696,Apparel,Fitness,Everpeak,SUP00020,56.63,103.16,3.225,False,True,2020-06-30,Active,2020-06-30,product_master,9999-12-31,True,6cc55935f4205781fecd
+SKU0000697,Compact Smart Home Item 697,Electronics,Accessories,Cobalt,SUP00098,193.75,490.64,47.333,False,False,2020-02-24,Active,2020-02-24,product_master,9999-12-31,True,99e5865087cf931ef3b5
+SKU0000698,Ultra Smart Home Item 698,Electronics,Smart Home,Aster,SUP00033,69.01,186.13,16.563,True,False,,Seasonal,1900-01-01,product_master,9999-12-31,True,c2b629cd112b96fc9d07
+SKU0000699,Premium Basics Item 699,Apparel,Outerwear,Everpeak,SUP00106,174.32,469.19,69.95,False,True,2020-12-16,Active,2020-12-16,product_master,9999-12-31,True,e65bcc87655d7d7a83b2
+SKU0000700,Compact Desk Setup Item 700,Office,Stationery,Northline,SUP00085,119.45,249.84,2.367,False,False,,Active,1900-01-01,product_master,9999-12-31,True,c2a841d0b9394b81f3ab
