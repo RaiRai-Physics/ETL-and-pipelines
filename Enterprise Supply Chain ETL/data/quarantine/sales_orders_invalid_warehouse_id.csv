@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,requested_ship_date,promised_delivery_date,sales_channel,order_status,order_priority,currency,ship_from_warehouse_id,created_ts,source_system,batch_id,quarantine_reason
+SO00000045,CUST000335,2026-04-08,2026-04-13,2026-04-12,B2B Portal,Shipped,Critical,USD,WH_BAD,2026-04-08 10:03:00,marketplace,BATCH_20260602_A,Sales order references missing warehouse
+SO00000132,CUST000119,2026-04-28,2026-05-02,2026-05-12,B2B Portal,Shipped,Normal,EUR,WH_BAD,2026-04-28 16:08:00,edi_gateway,BATCH_20260601_A,Sales order references missing warehouse
+SO00000381,CUST000341,2026-02-15,2026-02-27,2026-03-03,EDI,Shipped,Low,CAD,WH_BAD,2026-02-15 01:36:00,oms,BATCH_20260601_B,Sales order references missing warehouse
+SO00000973,CUST000439,,2026-04-19,2026-04-16,B2B Portal,Shipped,Low,CAD,WH_BAD,2026-04-13 21:55:00,edi_gateway,BATCH_20260602_A,Sales order references missing warehouse
+SO00001984,CUST000274,,2026-01-14,2026-01-26,Marketplace,Shipped,High,MXN,WH_BAD,2026-01-12 00:49:00,erp,BATCH_20260601_A,Sales order references missing warehouse
+SO00002021,CUST000281,2026-02-15,2026-02-26,2026-02-28,EDI,Created,Low,EUR,WH_BAD,2026-02-15 08:36:00,erp,BATCH_20260601_A,Sales order references missing warehouse
+SO00002309,CUST000168,,2026-01-29,2026-02-03,Retail Store,Partially Shipped,Critical,USD,WH_BAD,2026-01-21 19:37:00,erp,BATCH_20260601_B,Sales order references missing warehouse
+SO00002406,CUST000433,,2026-01-26,2026-01-29,Retail Store,Booked,Normal,CAD,WH_BAD,2026-01-25 16:43:00,erp,BATCH_20260601_B,Sales order references missing warehouse

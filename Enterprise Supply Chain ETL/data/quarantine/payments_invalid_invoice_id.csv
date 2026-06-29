@@ -1,0 +1,6 @@
+payment_id,invoice_id,payment_date,payment_amount,payment_method,payment_status,quarantine_reason
+PAY00000165,INV_UNKNOWN,,23345.88,Wire,Posted,Payment missing invoice
+PAY00000591,INV_UNKNOWN,,19804.38,Check,Reversed,Payment missing invoice
+PAY00001251,INV_UNKNOWN,2026-08-15,4309.76,Wire,Reversed,Payment missing invoice
+PAY00001598,INV_UNKNOWN,2026-06-14,22816.51,ACH,Posted,Payment missing invoice
+PAY00001869,INV_UNKNOWN,,14437.23,ACH,Posted,Payment missing invoice

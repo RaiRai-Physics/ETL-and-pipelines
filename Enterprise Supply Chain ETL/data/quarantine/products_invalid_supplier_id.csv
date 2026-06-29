@@ -1,0 +1,13 @@
+product_id,product_name,category,subcategory,brand,supplier_id,standard_cost,list_price,unit_weight_lbs,hazmat_flag,temperature_controlled_flag,launch_date,product_status,quarantine_reason
+SKU0000022,Essential Basics Item 22,Apparel,Footwear,Solace,SUP_BAD,299.83,528.34,24.978,False,False,2025-03-30,Active,Product references missing supplier
+SKU0000033,Essential Outerwear Item 33,Apparel,Footwear,Northline,SUP_BAD,,28.35,31.28,True,False,2022-08-31,Active,Product references missing supplier
+SKU0000058,Compact Organization Item 58,Office,Organization,Aster,SUP_BAD,170.69,448.59,3.828,True,False,2025-01-21,Active,Product references missing supplier
+SKU0000162,Premium Audio Item 162,Electronics,Smart Home,Nimbus,SUP_BAD,211.39,463.08,12.782,True,False,,Discontinued,Product references missing supplier
+SKU0000185,Pro Smart Home Item 185,Electronics,Smart Home,Solace,SUP_BAD,134.83,174.23,65.071,False,False,2022-11-13,Discontinued,Product references missing supplier
+SKU0000318,Eco Medical Supplies Item 318,Health,Wellness,Cobalt,SUP_BAD,275.06,507.23,12.364,True,False,,Seasonal,Product references missing supplier
+SKU0000322,Compact Printing Item 322,Office,Stationery,Solace,SUP_BAD,78.74,216.72,72.29,True,True,2024-09-01,Seasonal,Product references missing supplier
+SKU0000323,Eco Pantry Item 323,Grocery,Beverage,Cobalt,SUP_BAD,282.77,504.52,3.715,False,False,,Seasonal,Product references missing supplier
+SKU0000368,Eco Personal Care Item 368,Health,Personal Care,Northline,SUP_BAD,139.37,248.13,30.15,False,False,,Discontinued,Product references missing supplier
+SKU0000372,Premium Pharmacy Item 372,Health,Medical Supplies,Cobalt,SUP_BAD,212.91,419.34,0.784,False,False,2024-07-31,Seasonal,Product references missing supplier
+SKU0000553,Compact Stationery Item 553,Office,Stationery,Cobalt,SUP_BAD,167.03,,49.547,False,False,2022-12-13,Discontinued,Product references missing supplier
+SKU0000582,Eco Lighting Item 582,Home,Kitchen,Cobalt,SUP_BAD,154.28,199.76,70.062,False,False,2021-10-11,Active,Product references missing supplier

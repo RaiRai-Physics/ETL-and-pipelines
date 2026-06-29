@@ -1,0 +1,4 @@
+receipt_line_id,receipt_id,po_line_id,product_id,received_qty,rejected_qty,damage_reason,valid_received_qty,quarantine_reason
+RCL0000000182,RCV_UNKNOWN,POL0000000558,SKU0000099,50.0,5.0,Incorrect item,True,Receipt line references missing receipt
+RCL0000000390,RCV_UNKNOWN,POL0000001332,SKU0000285,50.0,2.0,Damaged packaging,True,Receipt line references missing receipt
+RCL0000000433,RCV_UNKNOWN,POL0000000657,SKU0000382,275.0,0.0,Incorrect item,True,Receipt line references missing receipt

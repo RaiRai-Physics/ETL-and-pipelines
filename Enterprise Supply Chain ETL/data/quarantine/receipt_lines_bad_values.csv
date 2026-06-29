@@ -1,0 +1,9 @@
+receipt_line_id,receipt_id,po_line_id,product_id,received_qty,rejected_qty,damage_reason,valid_received_qty,quarantine_reason
+RCL0000000118,RCV00000066,POL0000001340,SKU0000127,,0.0,,False,Receipt line invalid qty
+RCL0000000206,RCV00000116,POL0000001622,SKU0000617,,0.0,Temperature breach,False,Receipt line invalid qty
+RCL0000000347,RCV00000192,POL0000000245,SKU0000482,,0.0,Incorrect item,False,Receipt line invalid qty
+RCL0000000674,RCV00000364,POL0000001495,SKU0000136,,0.0,Incorrect item,False,Receipt line invalid qty
+RCL0000000746,RCV00000403,POL0000001403,SKU0000609,,5.0,Damaged packaging,False,Receipt line invalid qty
+RCL0000000966,RCV00000529,POL0000001299,SKU0000433,,0.0,Temperature breach,False,Receipt line invalid qty
+RCL0000001014,RCV00000558,POL0000000556,SKU0000346,,1.0,,False,Receipt line invalid qty
+RCL0000001085,RCV00000593,POL0000000977,SKU0000546,,0.0,Damaged packaging,False,Receipt line invalid qty

@@ -1,0 +1,20 @@
+po_line_id,po_id,line_number,product_id,ordered_qty,unit_cost,line_status,valid_quantity,valid_unit_cost,quarantine_reason
+POL0000000181,PO00000065,3,SKU_UNKNOWN,50.0,83.39,Partial,True,True,PO line references missing product
+POL0000000199,PO00000072,3,SKU_UNKNOWN,250.0,64.94,Received,True,True,PO line references missing product
+POL0000000202,PO00000073,2,SKU_UNKNOWN,100.0,66.92,Open,True,True,PO line references missing product
+POL0000000210,PO00000076,2,SKU_UNKNOWN,-5.0,25.77,Cancelled,False,True,PO line references missing product
+POL0000000444,PO00000174,2,SKU_UNKNOWN,100.0,113.13,Partial,True,True,PO line references missing product
+POL0000000489,PO00000194,1,SKU_UNKNOWN,100.0,62.67,Received,True,True,PO line references missing product
+POL0000000550,PO00000219,2,SKU_UNKNOWN,500.0,144.73,Open,True,True,PO line references missing product
+POL0000000566,PO00000226,1,SKU_UNKNOWN,500.0,156.75,Cancelled,True,True,PO line references missing product
+POL0000000585,PO00000233,2,SKU_UNKNOWN,500.0,42.15,Received,True,True,PO line references missing product
+POL0000000772,PO00000304,3,SKU_UNKNOWN,500.0,142.18,Received,True,True,PO line references missing product
+POL0000000775,PO00000305,2,SKU_UNKNOWN,100.0,118.76,Open,True,True,PO line references missing product
+POL0000000993,PO00000390,1,SKU_UNKNOWN,100.0,217.93,Open,True,True,PO line references missing product
+POL0000001057,PO00000413,1,SKU_UNKNOWN,250.0,44.17,Open,True,True,PO line references missing product
+POL0000001366,PO00000536,2,SKU_UNKNOWN,-5.0,94.64,Received,False,True,PO line references missing product
+POL0000001407,PO00000557,1,SKU_UNKNOWN,250.0,46.73,Open,True,True,PO line references missing product
+POL0000001621,PO00000637,1,SKU_UNKNOWN,500.0,233.83,Open,True,True,PO line references missing product
+POL0000001684,PO00000663,1,SKU_UNKNOWN,100.0,52.31,Partial,True,True,PO line references missing product
+POL0000001774,PO00000702,1,SKU_UNKNOWN,50.0,108.01,Open,True,True,PO line references missing product
+POL0000001895,PO00000754,1,SKU_UNKNOWN,1000.0,98.03,Open,True,True,PO line references missing product

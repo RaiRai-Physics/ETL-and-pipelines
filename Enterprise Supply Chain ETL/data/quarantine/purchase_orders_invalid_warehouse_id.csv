@@ -1,0 +1,3 @@
+po_id,supplier_id,warehouse_id,po_date,expected_receipt_date,po_status,currency,created_by,source_system,quarantine_reason
+PO00000252,SUP00074,WH_UNKNOWN,2026-02-02,2026-03-19,Created,USD,planner_a,erp,PO references missing warehouse
+PO00000498,SUP00073,WH_UNKNOWN,2026-04-03,2026-04-10,Cancelled,EUR,planner_a,erp,PO references missing warehouse

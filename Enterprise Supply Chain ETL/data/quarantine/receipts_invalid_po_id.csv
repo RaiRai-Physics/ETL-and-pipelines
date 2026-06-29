@@ -1,0 +1,2 @@
+receipt_id,po_id,warehouse_id,receipt_date,receipt_status,inspection_status,source_system,quarantine_reason
+RCV00000324,PO_UNKNOWN,WH0011,2025-12-07,Rejected,Pending,wms,Receipt references missing PO

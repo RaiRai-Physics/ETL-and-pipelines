@@ -1,0 +1,8 @@
+invoice_id,order_id,customer_id,invoice_date,due_date,invoice_amount,currency,invoice_status,quarantine_reason
+INV00000101,SO_UNKNOWN,CUST000094,2026-04-10,2026-06-09,30749.55,USD,Open,Invoice missing order
+INV00000293,SO_UNKNOWN,CUST000435,2026-03-26,2026-04-10,17909.7,EUR,Open,Invoice missing order
+INV00000568,SO_UNKNOWN,CUST000334,,2026-03-26,29559.07,EUR,Partially Paid,Invoice missing order
+INV00000818,SO_UNKNOWN,CUST000345,,2026-03-01,6804.55,CAD,Open,Invoice missing order
+INV00000856,SO_UNKNOWN,CUST000038,2026-04-17,2026-05-02,9486.56,MXN,Open,Invoice missing order
+INV00001344,SO_UNKNOWN,CUST000086,2026-05-24,2026-06-23,31860.1,USD,Open,Invoice missing order
+INV00001588,SO_UNKNOWN,CUST000286,2026-05-08,2026-06-07,24722.56,MXN,Open,Invoice missing order

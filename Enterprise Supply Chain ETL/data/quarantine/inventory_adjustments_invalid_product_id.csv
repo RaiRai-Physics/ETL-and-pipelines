@@ -1,0 +1,6 @@
+adjustment_id,warehouse_id,product_id,adjustment_ts,adjustment_qty,adjustment_reason,approved_by,adjustment_date,requires_review,quarantine_reason
+ADJ00000127,WH0004,SKU_UNKNOWN,,-5.0,Found Inventory,ops_lead,,False,Adjustment missing product
+ADJ00000250,WH0025,SKU_UNKNOWN,,,Cycle Count,mgr_2,,False,Adjustment missing product
+ADJ00000311,WH0012,SKU_UNKNOWN,2026-02-07 17:34:00,-5.0,System Correction,mgr_1,2026-02-07,False,Adjustment missing product
+ADJ00000520,WH0025,SKU_UNKNOWN,,-5.0,Found Inventory,mgr_1,,False,Adjustment missing product
+ADJ00000643,WH0015,SKU_UNKNOWN,,5.0,Found Inventory,ops_lead,,False,Adjustment missing product

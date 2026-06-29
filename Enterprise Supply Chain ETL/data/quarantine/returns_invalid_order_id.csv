@@ -1,0 +1,8 @@
+return_id,order_id,order_line_id,product_id,return_date,return_reason,return_qty,refund_amount,return_status,quarantine_reason
+RET00000033,SO_UNKNOWN,SOL0000000374,SKU0000362,2026-03-19,Quality Issue,2.0,525.01,Approved,Return missing order
+RET00000145,SO_UNKNOWN,SOL0000006450,SKU0000232,2026-03-08,Quality Issue,3.0,99.78,Approved,Return missing order
+RET00000146,SO_UNKNOWN,SOL0000002279,SKU0000516,2026-05-15,Customer Cancelled,3.0,235.8,Approved,Return missing order
+RET00000181,SO_UNKNOWN,SOL0000003891,SKU0000089,2026-02-12,Quality Issue,3.0,48.7,Approved,Return missing order
+RET00000217,SO_UNKNOWN,SOL0000002843,SKU0000586,2026-04-25,Late Delivery,1.0,123.81,Requested,Return missing order
+RET00000439,SO_UNKNOWN,SOL0000005760,SKU0000094,2026-05-16,Quality Issue,1.0,230.61,Requested,Return missing order
+RET00000463,SO_UNKNOWN,SOL0000005904,SKU0000612,2026-03-07,Late Delivery,1.0,7.79,Approved,Return missing order

@@ -1,0 +1,29 @@
+event_id,shipment_id,event_ts,event_type,event_location,event_notes,quarantine_reason
+SE0000000640,SHP_UNKNOWN,2026-02-19 19:33:00,Arrived Hub,Atlanta Dc,Capacity issue,Event references missing shipment
+SE0000000928,SHP_UNKNOWN,2026-04-26 22:48:00,Out For Delivery,Atlanta Dc,Capacity issue,Event references missing shipment
+SE0000001084,SHP_UNKNOWN,2026-03-11 22:10:00,Packed,Vancouver Dc,Capacity issue,Event references missing shipment
+SE0000001522,SHP_UNKNOWN,2026-02-11 03:05:00,Arrived Hub,Miami Dc,Scanned,Event references missing shipment
+SE0000002102,SHP_UNKNOWN,2026-02-05 09:10:00,Exception,Vancouver Hub,Delay due to weather,Event references missing shipment
+SE0000002672,SHP_UNKNOWN,2026-01-24 22:37:00,Delivered,Vancouver Dc,Scanned,Event references missing shipment
+SE0000002921,SHP_UNKNOWN,2026-05-07 15:38:00,Departed Warehouse,Vancouver Hub,,Event references missing shipment
+SE0000003069,SHP_UNKNOWN,2026-02-20 05:02:00,Picked,Guadalajara Dc,,Event references missing shipment
+SE0000003754,SHP_UNKNOWN,2026-05-12 12:17:00,Out For Delivery,Chicago Dc,Capacity issue,Event references missing shipment
+SE0000004184,SHP_UNKNOWN,2026-02-05 21:07:00,Packed,Denver Crossdock,Delay due to weather,Event references missing shipment
+SE0000004279,SHP_UNKNOWN,2026-04-07 14:54:00,Exception,Chicago Dc,Delay due to weather,Event references missing shipment
+SE0000004347,SHP_UNKNOWN,2026-06-02 05:28:00,Packed,Miami Fulfillment,OK,Event references missing shipment
+SE0000004519,SHP_UNKNOWN,2026-03-06 02:55:00,Packed,Chicago Dc,,Event references missing shipment
+SE0000004877,SHP_UNKNOWN,2026-04-02 10:11:00,Packed,Denver Hub,OK,Event references missing shipment
+SE0000005140,SHP_UNKNOWN,2026-01-31 11:33:00,Out For Delivery,Guadalajara Dc,Capacity issue,Event references missing shipment
+SE0000005207,SHP_UNKNOWN,2026-05-02 13:04:00,Packed,Chicago Dc,Capacity issue,Event references missing shipment
+SE0000005439,SHP_UNKNOWN,2026-02-17 14:00:00,Picked,Guadalajara Dc,Delay due to weather,Event references missing shipment
+SE0000005549,SHP_UNKNOWN,2026-04-22 07:40:00,Exception,Chicago Dc,,Event references missing shipment
+SE0000005677,SHP_UNKNOWN,2026-05-06 18:19:00,Out For Delivery,Denver Hub,Capacity issue,Event references missing shipment
+SE0000006117,SHP_UNKNOWN,2026-03-12 08:37:00,Arrived Hub,Denver Crossdock,Delay due to weather,Event references missing shipment
+SE0000006702,SHP_UNKNOWN,2026-05-27 23:36:00,Packed,Atlanta Dc,Capacity issue,Event references missing shipment
+SE0000006715,SHP_UNKNOWN,2026-01-18 03:12:00,Departed Warehouse,Seattle Fulfillment,Delay due to weather,Event references missing shipment
+SE0000006737,SHP_UNKNOWN,2026-01-25 07:18:00,Exception,Guadalajara Fulfillment,OK,Event references missing shipment
+SE0000007178,SHP_UNKNOWN,2026-05-06 13:05:00,Picked,Denver Hub,,Event references missing shipment
+SE0000007425,SHP_UNKNOWN,2026-05-17 22:15:00,Picked,Atlanta Dc,Capacity issue,Event references missing shipment
+SE0000007784,SHP_UNKNOWN,2026-01-04 09:11:00,Out For Delivery,Denver Hub,Scanned,Event references missing shipment
+SE0000008094,SHP_UNKNOWN,2026-01-18 17:34:00,Departed Warehouse,Denver Hub,Scanned,Event references missing shipment
+SE0000008811,SHP_UNKNOWN,2026-05-14 21:33:00,Delivered,Atlanta Crossdock,OK,Event references missing shipment

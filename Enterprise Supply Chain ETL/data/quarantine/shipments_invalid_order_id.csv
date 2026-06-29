@@ -1,0 +1,9 @@
+shipment_id,order_id,warehouse_id,carrier_id,ship_ts,delivery_ts,tracking_number,shipment_status,shipping_cost,distance_miles,promised_delivery_date,delivery_date,ship_date,transit_days,is_late_delivery,quarantine_reason
+SHP00000086,SO_UNKNOWN,WH0021,CAR0017,2026-03-26 17:19:00,2026-04-03 09:19:00,TRK8876564265,Delivered,0.0,,2026-03-30,2026-04-03,2026-03-26,7.666666666666667,True,Shipment references missing order
+SHP00000303,SO_UNKNOWN,WH0001,CAR0013,,2026-05-07 02:02:00,TRK1901578971,Delivered,0.0,,2026-04-30,2026-05-07,,,True,Shipment references missing order
+SHP00000573,SO_UNKNOWN,WH0009,CAR0011,2026-05-03 16:58:00,2026-05-05 13:58:00,TRK4453674275,Delivered,0.0,2867.49,2026-05-08,2026-05-05,2026-05-03,1.875,False,Shipment references missing order
+SHP00000855,SO_UNKNOWN,WH0001,CAR0013,,2026-03-07 20:51:00,TRK6999721565,In Transit,330.9,,2026-03-08,2026-03-07,,,False,Shipment references missing order
+SHP00000977,SO_UNKNOWN,WH0002,CAR0014,,2026-05-14 01:11:00,TRK9554291150,In Transit,336.1,,2026-05-09,2026-05-14,,,True,Shipment references missing order
+SHP00001422,SO_UNKNOWN,WH0025,CAR0019,2026-03-24 11:32:00,2026-03-29 22:32:00,TRK6528821056,Delivered,0.0,,2026-04-10,2026-03-29,2026-03-24,5.458333333333333,False,Shipment references missing order
+SHP00001440,SO_UNKNOWN,WH0018,CAR0008,,2026-05-11 02:26:00,TRK2807449774,Lost,0.0,2392.39,2026-05-09,2026-05-11,,,True,Shipment references missing order
+SHP00001853,SO_UNKNOWN,WH0018,CAR0013,,2026-01-25 04:13:00,TRK1635192205,Created,10.61,,2026-01-19,2026-01-25,,,True,Shipment references missing order
