@@ -1,0 +1,2 @@
+CREATE TABLE dim_customer_scd2 (customer_sk VARCHAR, customer_id VARCHAR, customer_name VARCHAR, customer_segment VARCHAR, risk_tier VARCHAR, effective_start_date DATE, effective_end_date DATE, is_current BOOLEAN);
+CREATE TABLE fact_sales_order_lines (order_line_id VARCHAR, order_id VARCHAR, product_id VARCHAR, customer_id VARCHAR, order_date DATE, net_sales_usd DECIMAL(18,2), gross_margin_usd DECIMAL(18,2));
