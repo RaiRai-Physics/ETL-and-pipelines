@@ -1,0 +1,2 @@
+pipeline_name,run_timestamp_utc,raw_file_count,raw_total_rows,silver_total_rows,quarantine_total_rows,gold_table_count,status
+enterprise_supply_chain_etl_project,2026-06-20T05:01:25.111886+00:00,22,60329,60315,4060,28,SUCCESS
