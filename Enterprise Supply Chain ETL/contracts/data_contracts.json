@@ -1,0 +1,37 @@
+{
+  "sales_orders": {
+    "primary_key": [
+      "order_id"
+    ],
+    "foreign_keys": {
+      "customer_id": "customers.customer_id",
+      "ship_from_warehouse_id": "warehouses.warehouse_id"
+    }
+  },
+  "sales_order_lines": {
+    "primary_key": [
+      "order_line_id"
+    ],
+    "foreign_keys": {
+      "order_id": "sales_orders.order_id",
+      "product_id": "products.product_id"
+    }
+  },
+  "shipments": {
+    "primary_key": [
+      "shipment_id"
+    ],
+    "foreign_keys": {
+      "order_id": "sales_orders.order_id",
+      "carrier_id": "carriers.carrier_id"
+    }
+  },
+  "products": {
+    "primary_key": [
+      "product_id"
+    ],
+    "foreign_keys": {
+      "supplier_id": "suppliers.supplier_id"
+    }
+  }
+}
