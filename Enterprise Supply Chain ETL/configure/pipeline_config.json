@@ -1,0 +1,13 @@
+{
+  "project_name": "enterprise_supply_chain_etl_project",
+  "bronze_path": "data/bronze/python",
+  "silver_path": "data/silver/python",
+  "gold_path": "data/gold/python",
+  "quarantine_path": "data/quarantine/python",
+  "report_path": "reports/python",
+  "metadata_path": "metadata",
+  "base_currency": "USD",
+  "large_order_threshold_usd": 25000,
+  "low_fill_rate_threshold": 0.9,
+  "inventory_adjustment_review_threshold_abs_qty": 25
+}
