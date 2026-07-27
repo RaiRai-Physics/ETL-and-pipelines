@@ -1,0 +1,257 @@
+asset_id,site_id,asset_type,manufacturer,model_number,install_date,rated_capacity_kw,asset_status,criticality,_bronze_loaded_at_utc,_source_file
+AST000001,SITE0001,Solar Inverter,NovaPower,MDL-144,2018-03-25,1559.30,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000002,SITE0001,Solar Inverter,HelioTech,MDL-779,2024-10-29,3074.65,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000003,SITE0001,Solar Inverter,VoltEdge,MDL-902,2017-10-03,1244.90,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000004,SITE0001,Solar Inverter,EcoDyn,MDL-214,2016-05-02,348.68,Retired,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000005,SITE0001,Solar Inverter,VoltEdge,MDL-766,03/23/2025,2819.31,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000006,SITE0001,Solar Inverter,VoltEdge,MDL-144,08/01/2022,151.09,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000007,SITE0001,Solar Inverter,NovaPower,MDL-644,2019-12-11,3414.81,Retired,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000008,SITE0001,Solar Inverter,AeroFlux,MDL-984,2015-11-10,2398.28,Standby,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000009,SITE0002,Battery Rack,AeroFlux,MDL-160,2018-05-13,424.36,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000010,SITE0002,Battery Rack,AeroFlux,MDL-528,05/31/2022,130.80,active ,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000011,SITE0002,Battery Rack,HelioTech,MDL-901,01/05/2025,2741.48,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000012,SITE0002,Battery Rack,VoltEdge,MDL-306,2021-03-24,2723.71,Active,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000013,SITE0002,Battery Rack,HelioTech,MDL-276,09/01/2020,2042.71,Retired,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000014,SITE0002,Battery Rack,HelioTech,MDL-431,2023-01-10,3137.51,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000015,SITE0002,Battery Rack,AeroFlux,MDL-325,2024-09-23,3336.84,Retired,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000016,SITE0003,Solar Inverter,VoltEdge,MDL-668,02/20/2024,2595.44,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000017,SITE0003,Solar Inverter,NovaPower,MDL-127,2019-10-23,3056.64,Retired,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000018,SITE0003,Solar Inverter,GridWorks,MDL-561,2023-02-13,3006.08,Standby,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000019,SITE0003,Solar Inverter,NovaPower,MDL-278,02/02/2022,406.19,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000020,SITE0003,Solar Inverter,EcoDyn,MDL-706,2019-02-12,3310.28,active ,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000021,SITE0003,Solar Inverter,GridWorks,MDL-286,02/24/2020,3124.88,Active,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000022,SITE0003,Solar Inverter,VoltEdge,MDL-900,04/08/2016,2823.22,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000023,SITE0003,Solar Inverter,EcoDyn,MDL-742,01/16/2022,1966.45,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000024,SITE0004,Solar Inverter,AeroFlux,MDL-317,01/30/2019,1966.25,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000025,SITE0004,Solar Inverter,NovaPower,MDL-952,06/13/2015,2213.10,active ,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000026,SITE0004,Solar Inverter,GridWorks,MDL-801,09/03/2021,1858.68,active ,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000027,SITE0004,Solar Inverter,HelioTech,MDL-830,2016-10-22,2298.15,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000028,SITE0004,Solar Inverter,HelioTech,MDL-138,2017-03-25,1350.26,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000029,SITE0004,Solar Inverter,VoltEdge,MDL-189,04/26/2018,3170.10,Retired,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000030,SITE0004,Solar Inverter,EcoDyn,MDL-964,2015-05-10,1126.98,Active,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000031,SITE0004,Solar Inverter,VoltEdge,MDL-833,08/15/2017,2637.58,active ,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000032,SITE0005,Transformer,GridWorks,MDL-892,12/05/2020,3489.24,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000033,SITE0005,Feeder,NovaPower,MDL-451,2019-01-03,2627.56,Active,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000034,SITE0005,Transformer,NovaPower,MDL-442,01/04/2016,849.20,Retired,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000035,SITE0005,Transformer,EcoDyn,MDL-930,01/15/2025,2632.29,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000036,SITE0005,Transformer,AeroFlux,MDL-511,2020-04-30,2912.33,Active,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000037,SITE0005,feeder,AeroFlux,MDL-916,2015-06-30,1256.30,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000038,SITE0005,Feeder,EcoDyn,MDL-671,07/20/2021,661.11,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000039,SITE0005,feeder,HelioTech,MDL-221,10/26/2021,1206.66,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000040,SITE0005,feeder,GridWorks,MDL-433,2016-02-19,3405.37,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000041,SITE0005,Transformer,AeroFlux,MDL-775,03/29/2020,3383.31,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000042,SITE0006,Solar Inverter,EcoDyn,MDL-343,03/26/2020,3256.83,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000043,SITE0006,Solar Inverter,VoltEdge,MDL-562,2016-10-25,1429.20,active ,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000044,SITE0006,Solar Inverter,EcoDyn,MDL-329,2022-06-08,1490.92,Standby,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000045,SITE0006,Solar Inverter,EcoDyn,MDL-777,2016-03-03,1370.87,Active,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000046,SITE0006,Solar Inverter,EcoDyn,MDL-991,07/03/2019,746.65,active ,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000047,SITE0006,Solar Inverter,EcoDyn,MDL-220,02/25/2025,2699.62,active ,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000048,SITE0006,Solar Inverter,VoltEdge,MDL-562,2022-12-15,1584.55,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000049,SITE0006,Solar Inverter,VoltEdge,MDL-385,2025-09-28,1169.42,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000050,SITE0007,Wind Turbine,HelioTech,MDL-142,2015-09-12,552.43,active ,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000051,SITE0007,Wind Turbine,VoltEdge,MDL-944,01/16/2023,2616.73,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000052,SITE0007,Wind Turbine,VoltEdge,MDL-508,2020-10-17,1125.85,Standby,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000053,SITE0007,Wind Turbine,NovaPower,MDL-414,2024-11-03,2146.73,Active,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000054,SITE_BAD,Wind Turbine,GridWorks,MDL-901,02/18/2023,2711.47,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000055,SITE0007,Wind Turbine,GridWorks,MDL-438,2024-10-26,1616.35,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000056,SITE0007,Wind Turbine,VoltEdge,MDL-620,2022-10-21,2020.95,Active,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000057,SITE0007,Wind Turbine,VoltEdge,MDL-850,2017-10-13,840.86,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000058,SITE0008,Transformer,GridWorks,MDL-650,10/29/2020,2153.20,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000059,SITE0008,Feeder,NovaPower,MDL-633,2025-04-20,2599.40,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000060,SITE0008,Transformer,VoltEdge,MDL-489,2018-07-02,2860.68,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000061,SITE0008,Feeder,GridWorks,MDL-774,2022-06-08,3203.11,Standby,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000062,SITE0008,Feeder,GridWorks,MDL-214,2016-02-03,861.60,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000063,SITE0008,Transformer,AeroFlux,MDL-144,2016-03-24,2711.22,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000064,SITE0008,Transformer,NovaPower,MDL-261,01/30/2017,1856.24,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000065,SITE0008,Transformer,AeroFlux,MDL-851,2016-06-14,1355.87,Active,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000066,SITE0008,Feeder,NovaPower,MDL-431,2022-03-13,3244.11,Retired,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000067,SITE0008,Feeder,VoltEdge,MDL-390,2025-01-08,2316.11,Retired,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000068,SITE0009,Battery Rack,AeroFlux,MDL-240,2022-12-29,2124.23,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000069,SITE0009,Battery Rack,HelioTech,MDL-655,2021-02-10,3409.48,Retired,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000070,SITE0009,Battery Rack,VoltEdge,MDL-600,11/22/2025,298.39,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000071,SITE0009,Battery Rack,AeroFlux,MDL-226,04/27/2015,1677.83,active ,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000072,SITE0009,Battery Rack,VoltEdge,MDL-296,2023-01-01,1214.29,Retired,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000073,SITE0009,Battery Rack,AeroFlux,MDL-281,11/26/2019,1202.68,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000074,SITE0009,Battery Rack,NovaPower,MDL-384,2018-05-24,1675.38,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000075,SITE0010,Feeder,EcoDyn,MDL-503,03/15/2016,2200.44,Standby,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000076,SITE0010,Feeder,NovaPower,MDL-435,08/15/2022,3189.38,Standby,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000077,SITE0010,Feeder,EcoDyn,MDL-534,04/08/2017,977.71,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000078,SITE0010,Feeder,EcoDyn,MDL-435,09/09/2017,2660.28,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000079,SITE0010,Transformer,AeroFlux,MDL-814,2024-12-31,474.14,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000080,SITE0010,Feeder,HelioTech,MDL-202,2020-07-12,2041.34,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000081,SITE0010,Feeder,VoltEdge,MDL-833,2020-04-04,1193.07,active ,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000082,SITE0010,Transformer,GridWorks,MDL-584,09/26/2016,1453.28,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000083,SITE0010,Transformer,VoltEdge,MDL-564,02/26/2017,1303.88,Retired,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000084,SITE0010,Feeder,NovaPower,MDL-615,10/14/2020,2297.02,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000085,SITE0011,Wind Turbine,NovaPower,MDL-552,2018-06-10,1705.37,active ,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000086,SITE0011,Wind Turbine,EcoDyn,MDL-686,2015-06-10,2889.92,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000087,SITE0011,Wind Turbine,HelioTech,MDL-189,2015-03-06,1056.42,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000088,SITE0011,Wind Turbine,NovaPower,MDL-448,2020-12-21,2535.71,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000089,SITE0011,Wind Turbine,EcoDyn,MDL-945,2018-05-25,1190.20,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000090,SITE0011,Wind Turbine,HelioTech,MDL-658,09/13/2015,2942.94,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000091,SITE0011,Wind Turbine,AeroFlux,MDL-965,04/10/2022,2627.71,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000092,SITE0011,Wind Turbine,GridWorks,MDL-726,08/03/2016,2731.28,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000093,SITE0012,Wind Turbine,EcoDyn,MDL-350,01/09/2020,2115.94,Retired,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000094,SITE0012,Wind Turbine,NovaPower,MDL-452,09/10/2018,1956.79,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000095,SITE0012,Wind Turbine,EcoDyn,MDL-182,2021-07-14,2533.48,Retired,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000096,SITE0012,Wind Turbine,GridWorks,MDL-624,04/12/2017,2834.98,Standby,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000097,SITE0012,Wind Turbine,EcoDyn,MDL-274,2016-03-05,203.88,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000098,SITE0012,Wind Turbine,AeroFlux,MDL-119,2017-04-25,1044.33,Retired,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000099,SITE0012,Wind Turbine,VoltEdge,MDL-910,2022-07-06,3208.20,Active,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000100,SITE0012,Wind Turbine,EcoDyn,MDL-451,2017-06-08,1974.84,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000101,SITE0013,Feeder,NovaPower,MDL-885,08/18/2020,407.01,active ,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000102,SITE0013,Transformer,VoltEdge,MDL-700,2015-04-14,1785.22,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000103,SITE0013,Feeder,AeroFlux,MDL-331,10/11/2024,895.07,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000104,SITE0013,Transformer,NovaPower,MDL-198,2020-08-12,1504.01,Retired,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000105,SITE0013,Transformer,HelioTech,MDL-332,2021-11-29,2219.34,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000106,SITE0013,Feeder,HelioTech,MDL-406,2019-03-26,1001.35,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000107,SITE0013,Transformer,HelioTech,MDL-210,2022-05-31,1436.82,active ,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000108,SITE0013,Feeder,HelioTech,MDL-193,01/02/2025,2106.53,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000109,SITE0013,Transformer,HelioTech,MDL-128,11/22/2023,2253.61,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000110,SITE0013,Transformer,GridWorks,MDL-831,2023-08-24,1688.13,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000111,SITE0014,Wind Turbine,EcoDyn,MDL-673,2018-01-11,755.18,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000112,SITE0014,Wind Turbine,VoltEdge,MDL-590,2019-04-17,2425.78,Active,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000113,SITE0014,Wind Turbine,HelioTech,MDL-803,10/10/2025,226.33,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000114,SITE0014,Wind Turbine,GridWorks,MDL-890,2024-05-24,1054.80,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000115,SITE0014,Wind Turbine,GridWorks,MDL-310,2017-09-25,2360.74,active ,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000116,SITE0014,Wind Turbine,GridWorks,MDL-420,2022-04-26,767.98,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000117,SITE0014,Wind Turbine,EcoDyn,MDL-295,06/04/2022,249.87,Active,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000118,SITE0014,Wind Turbine,EcoDyn,MDL-804,12/28/2024,2173.55,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000119,SITE0015,Solar Inverter,EcoDyn,MDL-112,2016-05-23,1376.25,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000120,SITE0015,Solar Inverter,VoltEdge,MDL-891,07/04/2023,1011.92,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000121,SITE0015,Solar Inverter,GridWorks,MDL-416,2015-02-13,626.91,Standby,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000122,SITE0015,Solar Inverter,VoltEdge,MDL-181,2016-08-25,796.74,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000123,SITE0015,Solar Inverter,VoltEdge,MDL-377,04/30/2018,2296.75,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000124,SITE0015,Solar Inverter,AeroFlux,MDL-519,2020-10-20,1640.93,Retired,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000125,SITE0015,Solar Inverter,HelioTech,MDL-831,2025-05-29,324.86,Standby,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000126,SITE0015,Solar Inverter,NovaPower,MDL-519,10/15/2016,1604.15,Retired,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000127,SITE0016,Transformer,GridWorks,MDL-453,05/08/2023,2484.24,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000128,SITE0016,Feeder,HelioTech,MDL-344,10/11/2015,1101.69,active ,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000129,SITE0016,Transformer,AeroFlux,MDL-923,2016-07-19,503.10,Active,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000130,SITE0016,Feeder,HelioTech,MDL-168,2016-11-03,1807.45,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000131,SITE0016,Feeder,EcoDyn,MDL-271,12/30/2021,1489.34,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000132,SITE0016,Transformer,HelioTech,MDL-959,02/14/2025,102.68,Active,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000133,SITE0016,Feeder,GridWorks,MDL-221,06/11/2019,2862.41,active ,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000134,SITE0016,Transformer,EcoDyn,MDL-640,2022-05-21,629.99,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000135,SITE0016,Feeder,HelioTech,MDL-164,2022-04-24,586.56,active ,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000136,SITE0016,Feeder,AeroFlux,MDL-160,07/22/2016,3010.34,Retired,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000137,SITE0017,Solar Inverter,NovaPower,MDL-188,2021-05-06,1050.16,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000138,SITE0017,Solar Inverter,VoltEdge,MDL-869,10/28/2020,2246.05,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000139,SITE0017,Solar Inverter,AeroFlux,MDL-899,04/11/2016,2980.86,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000140,SITE0017,Solar Inverter,EcoDyn,MDL-922,2019-05-18,1715.73,active ,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000141,SITE0017,Solar Inverter,VoltEdge,MDL-877,12/02/2022,2853.93,Active,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000142,SITE0017,Solar Inverter,VoltEdge,MDL-743,09/07/2025,686.93,Standby,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000143,SITE0017,Solar Inverter,GridWorks,MDL-370,2018-11-01,2011.18,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000144,SITE0017,Solar Inverter,NovaPower,MDL-142,03/11/2018,3245.04,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000145,SITE0018,Feeder,NovaPower,MDL-523,2023-05-05,2200.65,Active,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000146,SITE0018,Transformer,VoltEdge,MDL-398,2024-10-07,3409.87,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000147,SITE0018,Transformer,VoltEdge,MDL-120,2019-07-17,155.24,active ,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000148,SITE0018,Feeder,AeroFlux,MDL-651,2015-05-02,1382.43,Retired,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000149,SITE0018,Feeder,NovaPower,MDL-614,2015-08-31,2932.31,Active,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000150,SITE0018,Feeder,AeroFlux,MDL-778,01/31/2024,3084.71,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000151,SITE0018,Transformer,GridWorks,MDL-163,2017-08-18,879.23,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000152,SITE0018,Feeder,HelioTech,MDL-369,05/17/2016,2754.48,Retired,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000153,SITE0018,Transformer,HelioTech,MDL-475,2018-11-28,3246.67,Retired,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000154,SITE0018,Feeder,NovaPower,MDL-706,2021-11-10,1557.30,Retired,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000155,SITE0019,Solar Inverter,AeroFlux,MDL-233,02/10/2019,745.18,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000156,SITE0019,solar inverter,AeroFlux,MDL-912,06/13/2022,3387.91,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000157,SITE0019,Solar Inverter,GridWorks,MDL-909,2020-06-22,3134.27,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000158,SITE0019,Solar Inverter,GridWorks,MDL-988,2023-04-22,1015.54,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000159,SITE0019,Solar Inverter,EcoDyn,MDL-302,02/05/2016,542.43,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000160,SITE0019,Solar Inverter,NovaPower,MDL-629,01/04/2023,3440.20,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000161,SITE0019,Solar Inverter,NovaPower,MDL-925,2023-11-25,3091.68,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000162,SITE0019,Solar Inverter,GridWorks,MDL-202,2019-05-31,1343.49,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000163,SITE0020,Feeder,EcoDyn,MDL-191,2022-05-06,,Active,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000164,SITE0020,Feeder,NovaPower,MDL-217,2017-08-20,1837.49,Retired,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000165,SITE0020,Transformer,HelioTech,MDL-567,09/11/2015,1690.86,Retired,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000166,SITE0020,Feeder,VoltEdge,MDL-178,05/25/2016,125.28,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000167,SITE0020,Feeder,AeroFlux,MDL-785,2020-09-16,2443.38,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000168,SITE0020,Transformer,GridWorks,MDL-489,2018-07-14,2433.70,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000169,SITE0020,Feeder,AeroFlux,MDL-255,2022-03-27,2822.52,active ,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000170,SITE0020,feeder,VoltEdge,MDL-847,06/13/2022,1185.04,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000171,SITE0020,Transformer,HelioTech,MDL-380,2020-06-13,2646.38,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000172,SITE0020,Transformer,HelioTech,MDL-192,12/08/2016,2163.77,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000173,SITE0021,Feeder,AeroFlux,MDL-268,11/09/2021,809.00,Retired,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000174,SITE0021,Feeder,EcoDyn,MDL-846,2021-05-27,1136.98,active ,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000175,SITE0021,Transformer,EcoDyn,MDL-816,05/21/2015,3275.31,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000176,SITE0021,Feeder,EcoDyn,MDL-966,2018-10-31,1405.75,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000177,SITE0021,Transformer,NovaPower,MDL-324,09/27/2018,1201.63,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000178,SITE0021,Feeder,NovaPower,MDL-767,2025-10-12,896.70,Retired,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000179,SITE0021,Feeder,AeroFlux,MDL-732,05/13/2021,740.39,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000180,SITE0021,Feeder,EcoDyn,MDL-583,2015-07-11,1667.75,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000181,SITE0021,Transformer,GridWorks,MDL-448,11/05/2025,1138.50,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000182,SITE0021,Transformer,VoltEdge,MDL-666,01/30/2020,3010.60,active ,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000183,SITE0022,Solar Inverter,HelioTech,MDL-655,04/22/2025,2844.58,Retired,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000184,SITE0022,Solar Inverter,EcoDyn,MDL-633,2022-07-17,733.28,active ,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000185,SITE0022,Solar Inverter,EcoDyn,MDL-568,07/30/2019,3473.22,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000186,SITE0022,Solar Inverter,VoltEdge,MDL-621,04/10/2021,2019.10,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000187,SITE0022,Solar Inverter,NovaPower,MDL-889,2022-06-24,742.89,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000188,SITE0022,Solar Inverter,EcoDyn,MDL-747,09/08/2018,294.41,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000189,SITE0022,Solar Inverter,AeroFlux,MDL-221,06/12/2018,3091.20,Retired,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000190,SITE0022,Solar Inverter,HelioTech,MDL-595,2021-06-02,264.18,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000191,SITE0023,Battery Rack,GridWorks,MDL-762,2015-06-24,1473.80,Retired,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000192,SITE0023,Battery Rack,EcoDyn,MDL-833,05/08/2020,518.24,active ,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000193,SITE0023,Battery Rack,GridWorks,MDL-283,01/05/2016,1737.95,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000194,SITE0023,Battery Rack,GridWorks,MDL-414,07/22/2023,934.45,Retired,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000195,SITE0023,Battery Rack,NovaPower,MDL-103,02/10/2021,1395.80,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000196,SITE0023,Battery Rack,HelioTech,MDL-125,09/27/2025,906.00,Active,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000197,SITE0023,Battery Rack,EcoDyn,MDL-733,2017-01-31,2823.10,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000198,SITE0024,Solar Inverter,AeroFlux,MDL-931,05/16/2016,3336.61,Standby,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000199,SITE0024,Solar Inverter,EcoDyn,MDL-247,06/26/2020,3074.75,active ,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000200,SITE0024,Solar Inverter,HelioTech,MDL-915,2023-09-06,1694.11,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000201,SITE0024,Solar Inverter,EcoDyn,MDL-921,2021-03-31,2558.30,Retired,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000202,SITE0024,Solar Inverter,GridWorks,MDL-462,03/19/2017,1319.83,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000203,SITE0024,Solar Inverter,HelioTech,MDL-478,02/01/2019,1058.23,Retired,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000204,SITE0024,Solar Inverter,AeroFlux,MDL-474,03/18/2022,1612.31,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000205,SITE0024,Solar Inverter,NovaPower,MDL-754,10/25/2024,1663.85,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000206,SITE0025,Battery Rack,GridWorks,MDL-455,2020-01-19,2464.05,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000207,SITE0025,Battery Rack,VoltEdge,MDL-162,01/01/2015,3029.41,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000208,SITE0025,Battery Rack,HelioTech,MDL-621,04/24/2019,2678.54,Active,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000209,SITE0025,Battery Rack,NovaPower,MDL-964,2017-06-13,2395.15,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000210,SITE0025,Battery Rack,GridWorks,MDL-511,2019-12-31,1149.80,Standby,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000211,SITE0025,Battery Rack,AeroFlux,MDL-664,03/16/2022,2734.81,Active,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000212,SITE0025,Battery Rack,NovaPower,MDL-958,02/22/2021,1769.49,active ,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000213,SITE0026,Transformer,GridWorks,MDL-547,2021-03-20,1519.99,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000214,SITE0026,Transformer,GridWorks,MDL-335,11/02/2020,1108.59,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000215,SITE0026,Transformer,EcoDyn,MDL-592,09/20/2022,884.76,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000216,SITE0026,Transformer,AeroFlux,MDL-979,2022-07-06,241.48,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000217,SITE0026,Feeder,HelioTech,MDL-115,2016-11-02,3127.50,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000218,SITE0026,Transformer,HelioTech,MDL-870,2017-04-09,718.23,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000219,SITE0026,Feeder,HelioTech,MDL-444,03/25/2025,1171.84,active ,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000220,SITE0026,Feeder,NovaPower,MDL-138,03/11/2019,1236.69,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000221,SITE0026,Transformer,HelioTech,MDL-652,10/05/2022,682.61,Standby,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000222,SITE0026,Feeder,NovaPower,MDL-757,08/20/2019,375.29,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000223,SITE0027,transformer,NovaPower,MDL-673,07/30/2024,258.42,active ,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000224,SITE0027,Feeder,EcoDyn,MDL-515,2025-08-01,3285.90,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000225,SITE0027,Transformer,VoltEdge,MDL-642,2019-03-29,1275.70,Retired,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000226,SITE0027,Transformer,AeroFlux,MDL-344,2015-10-27,209.30,active ,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000227,SITE0027,Feeder,HelioTech,MDL-828,09/13/2017,2814.19,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000228,SITE0027,Transformer,NovaPower,MDL-462,03/21/2017,1835.24,Retired,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000229,SITE0027,Feeder,VoltEdge,MDL-853,12/13/2020,3069.52,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000230,SITE0027,Transformer,VoltEdge,MDL-570,2025-10-20,2090.97,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000231,SITE0027,Feeder,HelioTech,MDL-725,07/02/2015,3254.60,active ,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000232,SITE0027,Feeder,NovaPower,MDL-667,08/01/2019,1615.06,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000233,SITE0028,Solar Inverter,VoltEdge,MDL-180,2019-08-21,805.64,Active,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000234,SITE0028,Solar Inverter,NovaPower,MDL-263,11/17/2025,3465.79,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000235,SITE0028,Solar Inverter,NovaPower,MDL-141,2024-07-29,1930.73,active ,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000236,SITE0028,Solar Inverter,HelioTech,MDL-403,2015-06-19,472.14,Active,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000237,SITE0028,Solar Inverter,AeroFlux,MDL-603,2022-04-25,2223.40,Active,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000238,SITE0028,Solar Inverter,NovaPower,MDL-183,06/21/2016,2956.48,Retired,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000239,SITE0028,Solar Inverter,VoltEdge,MDL-941,2020-05-26,1022.41,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000240,SITE0028,Solar Inverter,HelioTech,MDL-936,2015-07-07,596.52,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000241,SITE0029,Solar Inverter,VoltEdge,MDL-480,12/23/2023,522.12,Standby,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000242,SITE0029,Solar Inverter,AeroFlux,MDL-189,01/14/2021,2412.32,Retired,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000243,SITE0029,Solar Inverter,GridWorks,MDL-742,11/18/2016,1891.65,Retired,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000244,SITE0029,Solar Inverter,EcoDyn,MDL-709,10/04/2015,1637.17,Maintenance,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000245,SITE0029,Solar Inverter,EcoDyn,MDL-359,2024-04-05,1345.06,active ,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000246,SITE_BAD,Solar Inverter,NovaPower,MDL-743,02/04/2018,179.82,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000247,SITE0029,Solar Inverter,HelioTech,MDL-609,2019-04-13,782.01,Maintenance,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000248,SITE0029,Solar Inverter,VoltEdge,MDL-295,2025-05-16,3348.88,active ,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000249,SITE0030,Wind Turbine,EcoDyn,MDL-422,01/30/2015,367.45,Maintenance,Critical,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000250,SITE0030,Wind Turbine,EcoDyn,MDL-397,2021-11-08,328.67,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000251,SITE0030,Wind Turbine,EcoDyn,MDL-719,11/30/2018,2927.10,Maintenance,Medium,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000252,SITE0030,Wind Turbine,EcoDyn,MDL-355,11/25/2024,1604.64,Maintenance,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000253,SITE0030,Wind Turbine,GridWorks,MDL-369,09/12/2021,3253.63,Standby,Low,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000254,SITE0030,Wind Turbine,VoltEdge,MDL-594,04/18/2024,1681.19,Standby,medium ,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000255,SITE0030,Wind Turbine,AeroFlux,MDL-966,2019-09-27,2241.89,Active,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
+AST000256,SITE0030,Wind Turbine,NovaPower,MDL-854,02/07/2015,3337.96,Standby,High,2026-07-13T04:58:50.029701+00:00,data/raw/master/assets.csv
