@@ -1,0 +1,31 @@
+site_id,site_name,site_type,city,state,region,commission_date,rated_capacity_mw,grid_zone,active_flag
+SITE0001,Boston Solar Farm 1,Solar Farm,Boston,MA,Northeast,2018-08-26,51.13,MISO,True
+SITE0002,Albany Battery Storage 2,Battery Storage,Albany,NY,Northeast,,55.301,SPP,True
+SITE0003,Seattle Solar Farm 3,Solar Farm,Seattle,WA,West,2020-11-26,35.427,SPP,True
+SITE0004,Springfield Solar Farm 4,Solar Farm,Springfield,IL,Midwest,2023-09-11,117.545,MISO,True
+SITE0005,Springfield Substation 5,Substation,Springfield,IL,Midwest,,255.091,MISO,True
+SITE0006,Austin Solar Farm 6,Solar Farm,Austin,TX,South,2017-11-17,47.89,CAISO,True
+SITE0007,Phoenix Wind Farm 7,Wind Farm,Phoenix,AZ,West,2023-07-09,119.214,PJM,False
+SITE0008,Atlanta Substation 8,Substation,Atlanta,GA,South,2024-12-07,231.277,ERCOT,True
+SITE0009,Denver Battery Storage 9,Battery Storage,Denver,CO,West,,11.907,CAISO,True
+SITE0010,Atlanta Substation 10,Substation,Atlanta,GA,South,2019-11-09,50.714,MISO,True
+SITE0011,Phoenix Wind Farm 11,Wind Farm,Phoenix,AZ,West,2016-02-29,162.774,ERCOT,False
+SITE0012,Seattle Wind Farm 12,Wind Farm,Seattle,WA,West,2023-07-24,62.545,ERCOT,False
+SITE0013,Phoenix Substation 13,Substation,Phoenix,AZ,West,2024-09-10,283.603,CAISO,True
+SITE0014,Seattle Wind Farm 14,Wind Farm,Seattle,WA,West,,148.337,MISO,False
+SITE0015,Dallas Solar Farm 15,Solar Farm,Dallas,TX,South,,48.084,PJM,False
+SITE0016,Springfield Substation 16,Substation,Springfield,IL,Midwest,,133.599,ERCOT,True
+SITE0017,Springfield Solar Farm 17,Solar Farm,Springfield,IL,Midwest,2025-04-04,79.323,PJM,True
+SITE0018,Phoenix Substation 18,Substation,Phoenix,AZ,West,2022-11-02,170.15,SPP,True
+SITE0019,Austin Solar Farm 19,Solar Farm,Austin,TX,South,2021-05-14,78.541,PJM,False
+SITE0020,Atlanta Substation 20,Substation,Atlanta,GA,South,2016-01-06,119.987,CAISO,True
+SITE0021,Springfield Substation 21,Substation,Springfield,IL,Midwest,,174.949,ERCOT,True
+SITE0022,Phoenix Solar Farm 22,Solar Farm,Phoenix,AZ,West,2023-10-30,80.359,PJM,False
+SITE0023,Atlanta Battery Storage 23,Battery Storage,Atlanta,GA,South,2023-03-23,67.397,PJM,True
+SITE0024,Chicago Solar Farm 24,Solar Farm,Chicago,IL,Midwest,2022-07-07,41.945,CAISO,True
+SITE0025,Boston Battery Storage 25,Battery Storage,Boston,MA,Northeast,2020-12-15,32.584,CAISO,False
+SITE0026,Albany Substation 26,Substation,Albany,NY,Northeast,,66.224,ERCOT,True
+SITE0027,Atlanta Substation 27,Substation,Atlanta,GA,South,2023-11-14,158.027,SPP,True
+SITE0028,Atlanta Solar Farm 28,Solar Farm,Atlanta,GA,South,,67.247,CAISO,True
+SITE0029,Springfield Solar Farm 29,Solar Farm,Springfield,IL,Midwest,,18.997,CAISO,True
+SITE0030,Phoenix Wind Farm 30,Wind Farm,Phoenix,AZ,West,,124.509,CAISO,True

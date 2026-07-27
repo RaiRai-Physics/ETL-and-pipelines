@@ -1,0 +1,257 @@
+asset_id,site_id,asset_type,manufacturer,model_number,install_date,rated_capacity_kw,asset_status,criticality
+AST000001,SITE0001,Solar Inverter,Novapower,MDL-144,2018-03-25,1559.3,Maintenance,Medium
+AST000002,SITE0001,Solar Inverter,Heliotech,MDL-779,2024-10-29,3074.65,Standby,Medium
+AST000003,SITE0001,Solar Inverter,Voltedge,MDL-902,2017-10-03,1244.9,Maintenance,Critical
+AST000004,SITE0001,Solar Inverter,Ecodyn,MDL-214,2016-05-02,348.68,Retired,Medium
+AST000005,SITE0001,Solar Inverter,Voltedge,MDL-766,,2819.31,Standby,Medium
+AST000006,SITE0001,Solar Inverter,Voltedge,MDL-144,,151.09,Maintenance,High
+AST000007,SITE0001,Solar Inverter,Novapower,MDL-644,2019-12-11,3414.81,Retired,Medium
+AST000008,SITE0001,Solar Inverter,Aeroflux,MDL-984,2015-11-10,2398.28,Standby,Low
+AST000009,SITE0002,Battery Rack,Aeroflux,MDL-160,2018-05-13,424.36,Active,Medium
+AST000010,SITE0002,Battery Rack,Aeroflux,MDL-528,,130.8,Active,Low
+AST000011,SITE0002,Battery Rack,Heliotech,MDL-901,,2741.48,Maintenance,Medium
+AST000012,SITE0002,Battery Rack,Voltedge,MDL-306,2021-03-24,2723.71,Active,Low
+AST000013,SITE0002,Battery Rack,Heliotech,MDL-276,,2042.71,Retired,Medium
+AST000014,SITE0002,Battery Rack,Heliotech,MDL-431,2023-01-10,3137.51,Maintenance,High
+AST000015,SITE0002,Battery Rack,Aeroflux,MDL-325,2024-09-23,3336.84,Retired,Medium
+AST000016,SITE0003,Solar Inverter,Voltedge,MDL-668,,2595.44,Maintenance,Low
+AST000017,SITE0003,Solar Inverter,Novapower,MDL-127,2019-10-23,3056.64,Retired,Critical
+AST000018,SITE0003,Solar Inverter,Gridworks,MDL-561,2023-02-13,3006.08,Standby,Low
+AST000019,SITE0003,Solar Inverter,Novapower,MDL-278,,406.19,Maintenance,Critical
+AST000020,SITE0003,Solar Inverter,Ecodyn,MDL-706,2019-02-12,3310.28,Active,High
+AST000021,SITE0003,Solar Inverter,Gridworks,MDL-286,,3124.88,Active,Low
+AST000022,SITE0003,Solar Inverter,Voltedge,MDL-900,,2823.22,Active,Medium
+AST000023,SITE0003,Solar Inverter,Ecodyn,MDL-742,,1966.45,Active,Medium
+AST000024,SITE0004,Solar Inverter,Aeroflux,MDL-317,,1966.25,Active,Medium
+AST000025,SITE0004,Solar Inverter,Novapower,MDL-952,,2213.1,Active,Critical
+AST000026,SITE0004,Solar Inverter,Gridworks,MDL-801,,1858.68,Active,Low
+AST000027,SITE0004,Solar Inverter,Heliotech,MDL-830,2016-10-22,2298.15,Maintenance,Low
+AST000028,SITE0004,Solar Inverter,Heliotech,MDL-138,2017-03-25,1350.26,Active,Medium
+AST000029,SITE0004,Solar Inverter,Voltedge,MDL-189,,3170.1,Retired,High
+AST000030,SITE0004,Solar Inverter,Ecodyn,MDL-964,2015-05-10,1126.98,Active,Medium
+AST000031,SITE0004,Solar Inverter,Voltedge,MDL-833,,2637.58,Active,High
+AST000032,SITE0005,Transformer,Gridworks,MDL-892,,3489.24,Maintenance,Medium
+AST000033,SITE0005,Feeder,Novapower,MDL-451,2019-01-03,2627.56,Active,Critical
+AST000034,SITE0005,Transformer,Novapower,MDL-442,,849.2,Retired,Low
+AST000035,SITE0005,Transformer,Ecodyn,MDL-930,,2632.29,Maintenance,Medium
+AST000036,SITE0005,Transformer,Aeroflux,MDL-511,2020-04-30,2912.33,Active,Low
+AST000037,SITE0005,Feeder,Aeroflux,MDL-916,2015-06-30,1256.3,Standby,High
+AST000038,SITE0005,Feeder,Ecodyn,MDL-671,,661.11,Maintenance,Medium
+AST000039,SITE0005,Feeder,Heliotech,MDL-221,,1206.66,Active,High
+AST000040,SITE0005,Feeder,Gridworks,MDL-433,2016-02-19,3405.37,Maintenance,Medium
+AST000041,SITE0005,Transformer,Aeroflux,MDL-775,,3383.31,Maintenance,Low
+AST000042,SITE0006,Solar Inverter,Ecodyn,MDL-343,,3256.83,Maintenance,Critical
+AST000043,SITE0006,Solar Inverter,Voltedge,MDL-562,2016-10-25,1429.2,Active,Critical
+AST000044,SITE0006,Solar Inverter,Ecodyn,MDL-329,2022-06-08,1490.92,Standby,Low
+AST000045,SITE0006,Solar Inverter,Ecodyn,MDL-777,2016-03-03,1370.87,Active,Medium
+AST000046,SITE0006,Solar Inverter,Ecodyn,MDL-991,,746.65,Active,High
+AST000047,SITE0006,Solar Inverter,Ecodyn,MDL-220,,2699.62,Active,High
+AST000048,SITE0006,Solar Inverter,Voltedge,MDL-562,2022-12-15,1584.55,Maintenance,Medium
+AST000049,SITE0006,Solar Inverter,Voltedge,MDL-385,2025-09-28,1169.42,Maintenance,Medium
+AST000050,SITE0007,Wind Turbine,Heliotech,MDL-142,2015-09-12,552.43,Active,Medium
+AST000051,SITE0007,Wind Turbine,Voltedge,MDL-944,,2616.73,Maintenance,Low
+AST000052,SITE0007,Wind Turbine,Voltedge,MDL-508,2020-10-17,1125.85,Standby,Low
+AST000053,SITE0007,Wind Turbine,Novapower,MDL-414,2024-11-03,2146.73,Active,Low
+AST000054,SITE_BAD,Wind Turbine,Gridworks,MDL-901,,2711.47,Maintenance,Medium
+AST000055,SITE0007,Wind Turbine,Gridworks,MDL-438,2024-10-26,1616.35,Active,Medium
+AST000056,SITE0007,Wind Turbine,Voltedge,MDL-620,2022-10-21,2020.95,Active,Low
+AST000057,SITE0007,Wind Turbine,Voltedge,MDL-850,2017-10-13,840.86,Standby,Medium
+AST000058,SITE0008,Transformer,Gridworks,MDL-650,,2153.2,Maintenance,Medium
+AST000059,SITE0008,Feeder,Novapower,MDL-633,2025-04-20,2599.4,Active,Medium
+AST000060,SITE0008,Transformer,Voltedge,MDL-489,2018-07-02,2860.68,Maintenance,Critical
+AST000061,SITE0008,Feeder,Gridworks,MDL-774,2022-06-08,3203.11,Standby,Low
+AST000062,SITE0008,Feeder,Gridworks,MDL-214,2016-02-03,861.6,Maintenance,Low
+AST000063,SITE0008,Transformer,Aeroflux,MDL-144,2016-03-24,2711.22,Active,Medium
+AST000064,SITE0008,Transformer,Novapower,MDL-261,,1856.24,Standby,Medium
+AST000065,SITE0008,Transformer,Aeroflux,MDL-851,2016-06-14,1355.87,Active,Medium
+AST000066,SITE0008,Feeder,Novapower,MDL-431,2022-03-13,3244.11,Retired,Critical
+AST000067,SITE0008,Feeder,Voltedge,MDL-390,2025-01-08,2316.11,Retired,Low
+AST000068,SITE0009,Battery Rack,Aeroflux,MDL-240,2022-12-29,2124.23,Maintenance,Critical
+AST000069,SITE0009,Battery Rack,Heliotech,MDL-655,2021-02-10,3409.48,Retired,High
+AST000070,SITE0009,Battery Rack,Voltedge,MDL-600,,298.39,Active,High
+AST000071,SITE0009,Battery Rack,Aeroflux,MDL-226,,1677.83,Active,Low
+AST000072,SITE0009,Battery Rack,Voltedge,MDL-296,2023-01-01,1214.29,Retired,Critical
+AST000073,SITE0009,Battery Rack,Aeroflux,MDL-281,,1202.68,Active,Medium
+AST000074,SITE0009,Battery Rack,Novapower,MDL-384,2018-05-24,1675.38,Standby,High
+AST000075,SITE0010,Feeder,Ecodyn,MDL-503,,2200.44,Standby,Critical
+AST000076,SITE0010,Feeder,Novapower,MDL-435,,3189.38,Standby,Critical
+AST000077,SITE0010,Feeder,Ecodyn,MDL-534,,977.71,Standby,Medium
+AST000078,SITE0010,Feeder,Ecodyn,MDL-435,,2660.28,Maintenance,High
+AST000079,SITE0010,Transformer,Aeroflux,MDL-814,2024-12-31,474.14,Maintenance,Critical
+AST000080,SITE0010,Feeder,Heliotech,MDL-202,2020-07-12,2041.34,Maintenance,Low
+AST000081,SITE0010,Feeder,Voltedge,MDL-833,2020-04-04,1193.07,Active,Medium
+AST000082,SITE0010,Transformer,Gridworks,MDL-584,,1453.28,Maintenance,Medium
+AST000083,SITE0010,Transformer,Voltedge,MDL-564,,1303.88,Retired,Low
+AST000084,SITE0010,Feeder,Novapower,MDL-615,,2297.02,Active,Medium
+AST000085,SITE0011,Wind Turbine,Novapower,MDL-552,2018-06-10,1705.37,Active,Critical
+AST000086,SITE0011,Wind Turbine,Ecodyn,MDL-686,2015-06-10,2889.92,Standby,Medium
+AST000087,SITE0011,Wind Turbine,Heliotech,MDL-189,2015-03-06,1056.42,Standby,Medium
+AST000088,SITE0011,Wind Turbine,Novapower,MDL-448,2020-12-21,2535.71,Active,High
+AST000089,SITE0011,Wind Turbine,Ecodyn,MDL-945,2018-05-25,1190.2,Active,Medium
+AST000090,SITE0011,Wind Turbine,Heliotech,MDL-658,,2942.94,Active,High
+AST000091,SITE0011,Wind Turbine,Aeroflux,MDL-965,,2627.71,Standby,Medium
+AST000092,SITE0011,Wind Turbine,Gridworks,MDL-726,,2731.28,Standby,Medium
+AST000093,SITE0012,Wind Turbine,Ecodyn,MDL-350,,2115.94,Retired,High
+AST000094,SITE0012,Wind Turbine,Novapower,MDL-452,,1956.79,Active,High
+AST000095,SITE0012,Wind Turbine,Ecodyn,MDL-182,2021-07-14,2533.48,Retired,Medium
+AST000096,SITE0012,Wind Turbine,Gridworks,MDL-624,,2834.98,Standby,Critical
+AST000097,SITE0012,Wind Turbine,Ecodyn,MDL-274,2016-03-05,203.88,Standby,Medium
+AST000098,SITE0012,Wind Turbine,Aeroflux,MDL-119,2017-04-25,1044.33,Retired,Critical
+AST000099,SITE0012,Wind Turbine,Voltedge,MDL-910,2022-07-06,3208.2,Active,Low
+AST000100,SITE0012,Wind Turbine,Ecodyn,MDL-451,2017-06-08,1974.84,Active,Medium
+AST000101,SITE0013,Feeder,Novapower,MDL-885,,407.01,Active,Low
+AST000102,SITE0013,Transformer,Voltedge,MDL-700,2015-04-14,1785.22,Standby,Medium
+AST000103,SITE0013,Feeder,Aeroflux,MDL-331,,895.07,Active,Medium
+AST000104,SITE0013,Transformer,Novapower,MDL-198,2020-08-12,1504.01,Retired,High
+AST000105,SITE0013,Transformer,Heliotech,MDL-332,2021-11-29,2219.34,Maintenance,Low
+AST000106,SITE0013,Feeder,Heliotech,MDL-406,2019-03-26,1001.35,Standby,High
+AST000107,SITE0013,Transformer,Heliotech,MDL-210,2022-05-31,1436.82,Active,Low
+AST000108,SITE0013,Feeder,Heliotech,MDL-193,,2106.53,Active,Medium
+AST000109,SITE0013,Transformer,Heliotech,MDL-128,,2253.61,Standby,Medium
+AST000110,SITE0013,Transformer,Gridworks,MDL-831,2023-08-24,1688.13,Maintenance,High
+AST000111,SITE0014,Wind Turbine,Ecodyn,MDL-673,2018-01-11,755.18,Active,High
+AST000112,SITE0014,Wind Turbine,Voltedge,MDL-590,2019-04-17,2425.78,Active,Medium
+AST000113,SITE0014,Wind Turbine,Heliotech,MDL-803,,226.33,Standby,High
+AST000114,SITE0014,Wind Turbine,Gridworks,MDL-890,2024-05-24,1054.8,Standby,High
+AST000115,SITE0014,Wind Turbine,Gridworks,MDL-310,2017-09-25,2360.74,Active,Low
+AST000116,SITE0014,Wind Turbine,Gridworks,MDL-420,2022-04-26,767.98,Standby,Medium
+AST000117,SITE0014,Wind Turbine,Ecodyn,MDL-295,,249.87,Active,Low
+AST000118,SITE0014,Wind Turbine,Ecodyn,MDL-804,,2173.55,Standby,Medium
+AST000119,SITE0015,Solar Inverter,Ecodyn,MDL-112,2016-05-23,1376.25,Maintenance,Critical
+AST000120,SITE0015,Solar Inverter,Voltedge,MDL-891,,1011.92,Standby,Medium
+AST000121,SITE0015,Solar Inverter,Gridworks,MDL-416,2015-02-13,626.91,Standby,Critical
+AST000122,SITE0015,Solar Inverter,Voltedge,MDL-181,2016-08-25,796.74,Standby,Medium
+AST000123,SITE0015,Solar Inverter,Voltedge,MDL-377,,2296.75,Standby,Medium
+AST000124,SITE0015,Solar Inverter,Aeroflux,MDL-519,2020-10-20,1640.93,Retired,Critical
+AST000125,SITE0015,Solar Inverter,Heliotech,MDL-831,2025-05-29,324.86,Standby,Critical
+AST000126,SITE0015,Solar Inverter,Novapower,MDL-519,,1604.15,Retired,Medium
+AST000127,SITE0016,Transformer,Gridworks,MDL-453,,2484.24,Maintenance,Critical
+AST000128,SITE0016,Feeder,Heliotech,MDL-344,,1101.69,Active,Low
+AST000129,SITE0016,Transformer,Aeroflux,MDL-923,2016-07-19,503.1,Active,Critical
+AST000130,SITE0016,Feeder,Heliotech,MDL-168,2016-11-03,1807.45,Standby,Medium
+AST000131,SITE0016,Feeder,Ecodyn,MDL-271,,1489.34,Active,Medium
+AST000132,SITE0016,Transformer,Heliotech,MDL-959,,102.68,Active,Medium
+AST000133,SITE0016,Feeder,Gridworks,MDL-221,,2862.41,Active,Low
+AST000134,SITE0016,Transformer,Ecodyn,MDL-640,2022-05-21,629.99,Maintenance,Low
+AST000135,SITE0016,Feeder,Heliotech,MDL-164,2022-04-24,586.56,Active,Medium
+AST000136,SITE0016,Feeder,Aeroflux,MDL-160,,3010.34,Retired,High
+AST000137,SITE0017,Solar Inverter,Novapower,MDL-188,2021-05-06,1050.16,Active,Medium
+AST000138,SITE0017,Solar Inverter,Voltedge,MDL-869,,2246.05,Maintenance,Critical
+AST000139,SITE0017,Solar Inverter,Aeroflux,MDL-899,,2980.86,Maintenance,Medium
+AST000140,SITE0017,Solar Inverter,Ecodyn,MDL-922,2019-05-18,1715.73,Active,Medium
+AST000141,SITE0017,Solar Inverter,Voltedge,MDL-877,,2853.93,Active,Low
+AST000142,SITE0017,Solar Inverter,Voltedge,MDL-743,,686.93,Standby,Critical
+AST000143,SITE0017,Solar Inverter,Gridworks,MDL-370,2018-11-01,2011.18,Standby,Medium
+AST000144,SITE0017,Solar Inverter,Novapower,MDL-142,,3245.04,Active,Medium
+AST000145,SITE0018,Feeder,Novapower,MDL-523,2023-05-05,2200.65,Active,Critical
+AST000146,SITE0018,Transformer,Voltedge,MDL-398,2024-10-07,3409.87,Active,High
+AST000147,SITE0018,Transformer,Voltedge,MDL-120,2019-07-17,155.24,Active,Medium
+AST000148,SITE0018,Feeder,Aeroflux,MDL-651,2015-05-02,1382.43,Retired,Low
+AST000149,SITE0018,Feeder,Novapower,MDL-614,2015-08-31,2932.31,Active,Critical
+AST000150,SITE0018,Feeder,Aeroflux,MDL-778,,3084.71,Standby,High
+AST000151,SITE0018,Transformer,Gridworks,MDL-163,2017-08-18,879.23,Maintenance,High
+AST000152,SITE0018,Feeder,Heliotech,MDL-369,,2754.48,Retired,High
+AST000153,SITE0018,Transformer,Heliotech,MDL-475,2018-11-28,3246.67,Retired,High
+AST000154,SITE0018,Feeder,Novapower,MDL-706,2021-11-10,1557.3,Retired,Medium
+AST000155,SITE0019,Solar Inverter,Aeroflux,MDL-233,,745.18,Maintenance,High
+AST000156,SITE0019,Solar Inverter,Aeroflux,MDL-912,,3387.91,Maintenance,Medium
+AST000157,SITE0019,Solar Inverter,Gridworks,MDL-909,2020-06-22,3134.27,Maintenance,Medium
+AST000158,SITE0019,Solar Inverter,Gridworks,MDL-988,2023-04-22,1015.54,Active,High
+AST000159,SITE0019,Solar Inverter,Ecodyn,MDL-302,,542.43,Maintenance,Medium
+AST000160,SITE0019,Solar Inverter,Novapower,MDL-629,,3440.2,Maintenance,High
+AST000161,SITE0019,Solar Inverter,Novapower,MDL-925,2023-11-25,3091.68,Maintenance,Critical
+AST000162,SITE0019,Solar Inverter,Gridworks,MDL-202,2019-05-31,1343.49,Maintenance,Low
+AST000163,SITE0020,Feeder,Ecodyn,MDL-191,2022-05-06,,Active,Medium
+AST000164,SITE0020,Feeder,Novapower,MDL-217,2017-08-20,1837.49,Retired,Medium
+AST000165,SITE0020,Transformer,Heliotech,MDL-567,,1690.86,Retired,Critical
+AST000166,SITE0020,Feeder,Voltedge,MDL-178,,125.28,Maintenance,Medium
+AST000167,SITE0020,Feeder,Aeroflux,MDL-785,2020-09-16,2443.38,Standby,Medium
+AST000168,SITE0020,Transformer,Gridworks,MDL-489,2018-07-14,2433.7,Active,Medium
+AST000169,SITE0020,Feeder,Aeroflux,MDL-255,2022-03-27,2822.52,Active,High
+AST000170,SITE0020,Feeder,Voltedge,MDL-847,,1185.04,Maintenance,Low
+AST000171,SITE0020,Transformer,Heliotech,MDL-380,2020-06-13,2646.38,Standby,High
+AST000172,SITE0020,Transformer,Heliotech,MDL-192,,2163.77,Maintenance,Medium
+AST000173,SITE0021,Feeder,Aeroflux,MDL-268,,809.0,Retired,Medium
+AST000174,SITE0021,Feeder,Ecodyn,MDL-846,2021-05-27,1136.98,Active,Critical
+AST000175,SITE0021,Transformer,Ecodyn,MDL-816,,3275.31,Active,Medium
+AST000176,SITE0021,Feeder,Ecodyn,MDL-966,2018-10-31,1405.75,Standby,Medium
+AST000177,SITE0021,Transformer,Novapower,MDL-324,,1201.63,Maintenance,Medium
+AST000178,SITE0021,Feeder,Novapower,MDL-767,2025-10-12,896.7,Retired,High
+AST000179,SITE0021,Feeder,Aeroflux,MDL-732,,740.39,Active,High
+AST000180,SITE0021,Feeder,Ecodyn,MDL-583,2015-07-11,1667.75,Active,Medium
+AST000181,SITE0021,Transformer,Gridworks,MDL-448,,1138.5,Standby,Medium
+AST000182,SITE0021,Transformer,Voltedge,MDL-666,,3010.6,Active,Critical
+AST000183,SITE0022,Solar Inverter,Heliotech,MDL-655,,2844.58,Retired,Medium
+AST000184,SITE0022,Solar Inverter,Ecodyn,MDL-633,2022-07-17,733.28,Active,Medium
+AST000185,SITE0022,Solar Inverter,Ecodyn,MDL-568,,3473.22,Standby,Medium
+AST000186,SITE0022,Solar Inverter,Voltedge,MDL-621,,2019.1,Standby,Medium
+AST000187,SITE0022,Solar Inverter,Novapower,MDL-889,2022-06-24,742.89,Standby,High
+AST000188,SITE0022,Solar Inverter,Ecodyn,MDL-747,,294.41,Maintenance,High
+AST000189,SITE0022,Solar Inverter,Aeroflux,MDL-221,,3091.2,Retired,Low
+AST000190,SITE0022,Solar Inverter,Heliotech,MDL-595,2021-06-02,264.18,Active,Medium
+AST000191,SITE0023,Battery Rack,Gridworks,MDL-762,2015-06-24,1473.8,Retired,Medium
+AST000192,SITE0023,Battery Rack,Ecodyn,MDL-833,,518.24,Active,Low
+AST000193,SITE0023,Battery Rack,Gridworks,MDL-283,,1737.95,Active,Medium
+AST000194,SITE0023,Battery Rack,Gridworks,MDL-414,,934.45,Retired,Critical
+AST000195,SITE0023,Battery Rack,Novapower,MDL-103,,1395.8,Maintenance,Medium
+AST000196,SITE0023,Battery Rack,Heliotech,MDL-125,,906.0,Active,Medium
+AST000197,SITE0023,Battery Rack,Ecodyn,MDL-733,2017-01-31,2823.1,Active,Medium
+AST000198,SITE0024,Solar Inverter,Aeroflux,MDL-931,,3336.61,Standby,Critical
+AST000199,SITE0024,Solar Inverter,Ecodyn,MDL-247,,3074.75,Active,Medium
+AST000200,SITE0024,Solar Inverter,Heliotech,MDL-915,2023-09-06,1694.11,Maintenance,Medium
+AST000201,SITE0024,Solar Inverter,Ecodyn,MDL-921,2021-03-31,2558.3,Retired,Medium
+AST000202,SITE0024,Solar Inverter,Gridworks,MDL-462,,1319.83,Maintenance,Critical
+AST000203,SITE0024,Solar Inverter,Heliotech,MDL-478,,1058.23,Retired,High
+AST000204,SITE0024,Solar Inverter,Aeroflux,MDL-474,,1612.31,Standby,High
+AST000205,SITE0024,Solar Inverter,Novapower,MDL-754,,1663.85,Maintenance,High
+AST000206,SITE0025,Battery Rack,Gridworks,MDL-455,2020-01-19,2464.05,Active,High
+AST000207,SITE0025,Battery Rack,Voltedge,MDL-162,,3029.41,Maintenance,High
+AST000208,SITE0025,Battery Rack,Heliotech,MDL-621,,2678.54,Active,Medium
+AST000209,SITE0025,Battery Rack,Novapower,MDL-964,2017-06-13,2395.15,Active,Medium
+AST000210,SITE0025,Battery Rack,Gridworks,MDL-511,2019-12-31,1149.8,Standby,Critical
+AST000211,SITE0025,Battery Rack,Aeroflux,MDL-664,,2734.81,Active,Critical
+AST000212,SITE0025,Battery Rack,Novapower,MDL-958,,1769.49,Active,Medium
+AST000213,SITE0026,Transformer,Gridworks,MDL-547,2021-03-20,1519.99,Maintenance,High
+AST000214,SITE0026,Transformer,Gridworks,MDL-335,,1108.59,Maintenance,Critical
+AST000215,SITE0026,Transformer,Ecodyn,MDL-592,,884.76,Active,Medium
+AST000216,SITE0026,Transformer,Aeroflux,MDL-979,2022-07-06,241.48,Maintenance,Low
+AST000217,SITE0026,Feeder,Heliotech,MDL-115,2016-11-02,3127.5,Maintenance,Low
+AST000218,SITE0026,Transformer,Heliotech,MDL-870,2017-04-09,718.23,Standby,High
+AST000219,SITE0026,Feeder,Heliotech,MDL-444,,1171.84,Active,Critical
+AST000220,SITE0026,Feeder,Novapower,MDL-138,,1236.69,Maintenance,Low
+AST000221,SITE0026,Transformer,Heliotech,MDL-652,,682.61,Standby,Critical
+AST000222,SITE0026,Feeder,Novapower,MDL-757,,375.29,Standby,Medium
+AST000223,SITE0027,Transformer,Novapower,MDL-673,,258.42,Active,Medium
+AST000224,SITE0027,Feeder,Ecodyn,MDL-515,2025-08-01,3285.9,Active,Medium
+AST000225,SITE0027,Transformer,Voltedge,MDL-642,2019-03-29,1275.7,Retired,High
+AST000226,SITE0027,Transformer,Aeroflux,MDL-344,2015-10-27,209.3,Active,Medium
+AST000227,SITE0027,Feeder,Heliotech,MDL-828,,2814.19,Active,High
+AST000228,SITE0027,Transformer,Novapower,MDL-462,,1835.24,Retired,Medium
+AST000229,SITE0027,Feeder,Voltedge,MDL-853,,3069.52,Standby,Medium
+AST000230,SITE0027,Transformer,Voltedge,MDL-570,2025-10-20,2090.97,Maintenance,Medium
+AST000231,SITE0027,Feeder,Heliotech,MDL-725,,3254.6,Active,High
+AST000232,SITE0027,Feeder,Novapower,MDL-667,,1615.06,Maintenance,Medium
+AST000233,SITE0028,Solar Inverter,Voltedge,MDL-180,2019-08-21,805.64,Active,Medium
+AST000234,SITE0028,Solar Inverter,Novapower,MDL-263,,3465.79,Maintenance,Low
+AST000235,SITE0028,Solar Inverter,Novapower,MDL-141,2024-07-29,1930.73,Active,High
+AST000236,SITE0028,Solar Inverter,Heliotech,MDL-403,2015-06-19,472.14,Active,Medium
+AST000237,SITE0028,Solar Inverter,Aeroflux,MDL-603,2022-04-25,2223.4,Active,Medium
+AST000238,SITE0028,Solar Inverter,Novapower,MDL-183,,2956.48,Retired,Low
+AST000239,SITE0028,Solar Inverter,Voltedge,MDL-941,2020-05-26,1022.41,Standby,High
+AST000240,SITE0028,Solar Inverter,Heliotech,MDL-936,2015-07-07,596.52,Maintenance,Medium
+AST000241,SITE0029,Solar Inverter,Voltedge,MDL-480,,522.12,Standby,Medium
+AST000242,SITE0029,Solar Inverter,Aeroflux,MDL-189,,2412.32,Retired,Medium
+AST000243,SITE0029,Solar Inverter,Gridworks,MDL-742,,1891.65,Retired,Low
+AST000244,SITE0029,Solar Inverter,Ecodyn,MDL-709,,1637.17,Maintenance,High
+AST000245,SITE0029,Solar Inverter,Ecodyn,MDL-359,2024-04-05,1345.06,Active,High
+AST000246,SITE_BAD,Solar Inverter,Novapower,MDL-743,,179.82,Maintenance,Medium
+AST000247,SITE0029,Solar Inverter,Heliotech,MDL-609,2019-04-13,782.01,Maintenance,Low
+AST000248,SITE0029,Solar Inverter,Voltedge,MDL-295,2025-05-16,3348.88,Active,Low
+AST000249,SITE0030,Wind Turbine,Ecodyn,MDL-422,,367.45,Maintenance,Critical
+AST000250,SITE0030,Wind Turbine,Ecodyn,MDL-397,2021-11-08,328.67,Maintenance,Medium
+AST000251,SITE0030,Wind Turbine,Ecodyn,MDL-719,,2927.1,Maintenance,Medium
+AST000252,SITE0030,Wind Turbine,Ecodyn,MDL-355,,1604.64,Maintenance,Medium
+AST000253,SITE0030,Wind Turbine,Gridworks,MDL-369,,3253.63,Standby,Low
+AST000254,SITE0030,Wind Turbine,Voltedge,MDL-594,,1681.19,Standby,Medium
+AST000255,SITE0030,Wind Turbine,Aeroflux,MDL-966,2019-09-27,2241.89,Active,High
+AST000256,SITE0030,Wind Turbine,Novapower,MDL-854,,3337.96,Standby,High
