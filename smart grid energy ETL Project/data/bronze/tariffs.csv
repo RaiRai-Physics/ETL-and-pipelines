@@ -1,0 +1,6 @@
+tariff_id,tariff_name,segment,effective_start_date,effective_end_date,energy_rate_per_kwh,demand_rate_per_kw,fixed_monthly_charge,tou_flag,_bronze_loaded_at_utc,_source_file
+TAR001,Residential Standard,Residential,2025-01-01,9999-12-31,0.145,0,12.00,N,2026-07-13T04:58:50.043072+00:00,data/raw/master/tariffs.csv
+TAR002,Residential TOU,Residential,2025-01-01,9999-12-31,0.110,0,15.00,Y,2026-07-13T04:58:50.043072+00:00,data/raw/master/tariffs.csv
+TAR003,Commercial Standard,Commercial,2025-01-01,9999-12-31,0.125,11.50,45.00,N,2026-07-13T04:58:50.043072+00:00,data/raw/master/tariffs.csv
+TAR004,Industrial Demand,Industrial,2025-01-01,9999-12-31,0.095,18.75,250.00,Y,2026-07-13T04:58:50.043072+00:00,data/raw/master/tariffs.csv
+TAR005,Municipal Service,Municipal,2025-01-01,9999-12-31,0.105,8.25,100.00,N,2026-07-13T04:58:50.043072+00:00,data/raw/master/tariffs.csv

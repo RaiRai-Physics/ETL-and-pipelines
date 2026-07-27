@@ -1,0 +1,31 @@
+site_id,site_name,site_type,city,state,region,commission_date,rated_capacity_mw,grid_zone,active_flag,_bronze_loaded_at_utc,_source_file
+SITE0001,Boston Solar Farm 1,Solar Farm,Boston,MA,Northeast,08/26/2018,51.130,MISO,Yes,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0002,Albany Battery Storage 2,Battery Storage,Albany,NY,Northeast,2019-08-22,55.301,SPP,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0003,Seattle Solar Farm 3,Solar Farm,Seattle,WA,West,11/26/2020,35.427,SPP,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0004,Springfield Solar Farm 4,Solar Farm,Springfield,IL,Midwest,09/11/2023,117.545,MISO,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0005,Springfield Substation 5,Substation,Springfield,IL,Midwest,2018-03-15,255.091,MISO,Yes,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0006,Austin Solar Farm 6,Solar Farm,Austin,TX,South,11/17/2017,47.890,CAISO,1,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0007,Phoenix Wind Farm 7,Wind Farm,Phoenix,AZ,West,07/09/2023,119.214,PJM,N,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0008,Atlanta Substation 8,Substation,Atlanta,GA,South,12/07/2024,231.277,ERCOT,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0009,Denver Battery Storage 9,Battery Storage,Denver,CO,West,2023-04-08,11.907,CAISO,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0010,Atlanta Substation 10,Substation,Atlanta,GA,South,11/09/2019,50.714,MISO,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0011,Phoenix Wind Farm 11,Wind Farm,Phoenix,AZ,West,02/29/2016,162.774,ERCOT,N,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0012,Seattle Wind Farm 12,Wind Farm,Seattle,WA,West,07/24/2023,62.545,ERCOT,N,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0013,Phoenix Substation 13,Substation,Phoenix,AZ,West,09/10/2024,283.603,CAISO,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0014,Seattle Wind Farm 14,Wind Farm,Seattle,WA,West,2014-09-01,148.337,MISO,N,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0015,Dallas Solar Farm 15,Solar Farm,Dallas,TX,South,2016-12-26,48.084,PJM,N,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0016,Springfield Substation 16,Substation,Springfield,IL,Midwest,2016-01-06,133.599,ERCOT,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0017,Springfield Solar Farm 17,Solar Farm,Springfield,IL,Midwest,04/04/2025,79.323,PJM,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0018,Phoenix Substation 18,substation,Phoenix,AZ,West,11/02/2022,170.150,SPP,Yes,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0019,Austin Solar Farm 19,Solar Farm,Austin,TX,South,05/14/2021,78.541,PJM,N,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0020,Atlanta Substation 20,Substation,Atlanta,GA,South,01/06/2016,119.987,CAISO,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0021,Springfield Substation 21,Substation,Springfield,IL,Midwest,2024-04-18,174.949,ERCOT,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0022,Phoenix Solar Farm 22,Solar Farm,Phoenix,AZ,West,10/30/2023,80.359,PJM,N,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0023,Atlanta Battery Storage 23,Battery Storage,Atlanta,GA,South,03/23/2023,67.397,PJM,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0024,Chicago Solar Farm 24,Solar Farm,Chicago,IL,Midwest,07/07/2022,41.945,CAISO,1,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0025,Boston Battery Storage 25,Battery Storage,Boston,MA,Northeast,12/15/2020,32.584,CAISO,N,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0026,Albany Substation 26,Substation,Albany,NY,Northeast,2018-06-05,66.224,ERCOT,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0027,Atlanta Substation 27,Substation,Atlanta,GA,South,11/14/2023,158.027,SPP,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0028,Atlanta Solar Farm 28,Solar Farm,Atlanta,GA,South,2020-06-05,67.247,CAISO,Y,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0029,Springfield Solar Farm 29,Solar Farm,Springfield,IL,Midwest,2018-07-10,18.997,CAISO,1,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
+SITE0030,Phoenix Wind Farm 30,Wind Farm,Phoenix,AZ,West,2014-03-09,124.509,CAISO,1,2026-07-13T04:58:50.027140+00:00,data/raw/master/sites.csv
