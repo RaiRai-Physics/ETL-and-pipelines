@@ -1,0 +1,6 @@
+tariff_id,tariff_name,segment,effective_start_date,effective_end_date,energy_rate_per_kwh,demand_rate_per_kw,fixed_monthly_charge,tou_flag
+TAR001,Residential Standard,Residential,2025-01-01,,0.145,0.0,12.0,False
+TAR002,Residential TOU,Residential,2025-01-01,,0.11,0.0,15.0,True
+TAR003,Commercial Standard,Commercial,2025-01-01,,0.125,11.5,45.0,False
+TAR004,Industrial Demand,Industrial,2025-01-01,,0.095,18.75,250.0,True
+TAR005,Municipal Service,Municipal,2025-01-01,,0.105,8.25,100.0,False

@@ -1,0 +1,340 @@
+asset_id,site_id,asset_type,manufacturer,model_number,install_date,rated_capacity_kw,asset_status,criticality,effective_start_date,record_source,effective_end_date,is_current,asset_sk
+AST000001,SITE0001,Solar Inverter,Novapower,MDL-144,2018-03-25,1559.3,Maintenance,Medium,2018-03-25,asset_master,9999-12-31,True,78ccef0be8a316099dc0
+AST000002,SITE0001,Solar Inverter,Heliotech,MDL-779,2024-10-29,3074.65,Maintenance,Medium,2026-02-09,maintenance_review,9999-12-31,True,e57be1cbbeb5b6a672b2
+AST000003,SITE0001,Solar Inverter,Voltedge,MDL-902,2017-10-03,1244.9,Active,Critical,2026-05-31,condition_update,9999-12-31,True,7cdb69ff4b82baec90c9
+AST000004,SITE0001,Solar Inverter,Ecodyn,MDL-214,2016-05-02,348.68,Retired,Medium,2016-05-02,asset_master,9999-12-31,True,a0111c6926511a1ff153
+AST000005,SITE0001,Solar Inverter,Voltedge,MDL-766,,2819.31,Standby,Low,2026-04-05,condition_update,9999-12-31,True,2d7eec35ca9af4e84689
+AST000005,SITE0001,Solar Inverter,Voltedge,MDL-766,,2819.31,Standby,Medium,,asset_master,9999-12-31,True,5bb4d583252486e83911
+AST000006,SITE0001,Solar Inverter,Voltedge,MDL-144,,151.09,Maintenance,High,,asset_master,9999-12-31,True,4752b66669e48aa10783
+AST000007,SITE0001,Solar Inverter,Novapower,MDL-644,2019-12-11,3414.81,Retired,Medium,2019-12-11,asset_master,9999-12-31,True,bb01c41c4f7ba05ec4fb
+AST000008,SITE0001,Solar Inverter,Aeroflux,MDL-984,2015-11-10,2398.28,Retired,Medium,2026-02-01,capacity_change,9999-12-31,True,e305e10a3112f869a77e
+AST000009,SITE0002,Battery Rack,Aeroflux,MDL-160,2018-05-13,424.36,Active,Medium,2018-05-13,asset_master,9999-12-31,True,9b68a506f76111644fa9
+AST000010,SITE0002,Battery Rack,Aeroflux,MDL-528,,130.8,Active,Low,2026-03-22,maintenance_review,9999-12-31,True,f0cc88879b0cc7442dc0
+AST000010,SITE0002,Battery Rack,Aeroflux,MDL-528,,130.8,Active,Low,,asset_master,9999-12-31,True,961159dcdd9f60531572
+AST000011,SITE0002,Battery Rack,Heliotech,MDL-901,,2741.48,Maintenance,Medium,,asset_master,9999-12-31,True,4230bec02ba804af5651
+AST000012,SITE0002,Battery Rack,Voltedge,MDL-306,2021-03-24,2723.71,Retired,High,2026-02-26,condition_update,9999-12-31,True,d2494a544d4fa1df3ca1
+AST000013,SITE0002,Battery Rack,Heliotech,MDL-276,,2042.71,Maintenance,Medium,2026-04-22,maintenance_review,9999-12-31,True,2befc0f1525b4d6fa099
+AST000013,SITE0002,Battery Rack,Heliotech,MDL-276,,2042.71,Retired,Medium,,asset_master,9999-12-31,True,f544aa54eda2885d3d49
+AST000014,SITE0002,Battery Rack,Heliotech,MDL-431,2023-01-10,3137.51,Maintenance,High,2023-01-10,asset_master,9999-12-31,True,5407ab76202e17cee7a9
+AST000015,SITE0002,Battery Rack,Aeroflux,MDL-325,2024-09-23,3336.84,Retired,Medium,2024-09-23,asset_master,9999-12-31,True,8e245937df4cfa0c63af
+AST000016,SITE0003,Solar Inverter,Voltedge,MDL-668,,2595.44,Maintenance,Low,,asset_master,9999-12-31,True,639f9a4e21d835df22c1
+AST000017,SITE0003,Solar Inverter,Novapower,MDL-127,2019-10-23,3056.64,Maintenance,Medium,2026-05-10,maintenance_review,9999-12-31,True,b19a433c501ce32b3a26
+AST000018,SITE0003,Solar Inverter,Gridworks,MDL-561,2023-02-13,3006.08,Standby,Low,2023-02-13,asset_master,9999-12-31,True,adddc0129839d1f0d71f
+AST000019,SITE0003,Solar Inverter,Novapower,MDL-278,,406.19,Maintenance,Critical,,asset_master,9999-12-31,True,0b3a1b4e1165ba7c46c0
+AST000020,SITE0003,Solar Inverter,Ecodyn,MDL-706,2019-02-12,3310.28,Active,Low,2026-03-04,retirement,9999-12-31,True,542856800a42deb86948
+AST000021,SITE0003,Solar Inverter,Gridworks,MDL-286,,3124.88,Active,Low,,asset_master,9999-12-31,True,32e3f587af5664ed3d91
+AST000022,SITE0003,Solar Inverter,Voltedge,MDL-900,,2823.22,Standby,High,2026-03-06,condition_update,9999-12-31,True,5f104da3457fd877d38e
+AST000022,SITE0003,Solar Inverter,Voltedge,MDL-900,,2823.22,Active,Medium,,asset_master,9999-12-31,True,5c4bdd726aecd84be3d8
+AST000023,SITE0003,Solar Inverter,Ecodyn,MDL-742,,1966.45,Active,Medium,,asset_master,9999-12-31,True,a441225faf01f8bb0c14
+AST000024,SITE0004,Solar Inverter,Aeroflux,MDL-317,,1966.25,Standby,High,2026-02-03,maintenance_review,9999-12-31,True,257caf5eea1f11a91a6f
+AST000024,SITE0004,Solar Inverter,Aeroflux,MDL-317,,1966.25,Active,Medium,,asset_master,9999-12-31,True,8c541f8ef6f2e7313cd2
+AST000025,SITE0004,Solar Inverter,Novapower,MDL-952,,2213.1,Retired,Medium,2026-05-29,condition_update,9999-12-31,True,dd88ab9d82687f952f5c
+AST000025,SITE0004,Solar Inverter,Novapower,MDL-952,,2213.1,Active,Critical,,asset_master,9999-12-31,True,858e47f7d125009a3827
+AST000026,SITE0004,Solar Inverter,Gridworks,MDL-801,,1858.68,Retired,Medium,2026-04-04,condition_update,9999-12-31,True,b08d966edb022c44620c
+AST000026,SITE0004,Solar Inverter,Gridworks,MDL-801,,1858.68,Active,Low,,asset_master,9999-12-31,True,825c9bf32427ffcd8379
+AST000027,SITE0004,Solar Inverter,Heliotech,MDL-830,2016-10-22,2298.15,Maintenance,Low,2016-10-22,asset_master,9999-12-31,True,046c463b937b231cddab
+AST000028,SITE0004,Solar Inverter,Heliotech,MDL-138,2017-03-25,1350.26,Active,Medium,2017-03-25,asset_master,9999-12-31,True,d564ea4f9ee3a5167691
+AST000029,SITE0004,Solar Inverter,Voltedge,MDL-189,,3170.1,Maintenance,Low,2026-04-24,condition_update,9999-12-31,True,d5c859d522bce54ad901
+AST000029,SITE0004,Solar Inverter,Voltedge,MDL-189,,3170.1,Retired,High,,asset_master,9999-12-31,True,30e860b20e68bbc239b6
+AST000030,SITE0004,Solar Inverter,Ecodyn,MDL-964,2015-05-10,1126.98,Maintenance,Medium,2026-05-12,capacity_change,9999-12-31,True,795c20ff3dccf4b47bc5
+AST000031,SITE0004,Solar Inverter,Voltedge,MDL-833,,2637.58,Active,High,,asset_master,9999-12-31,True,28f90814512a15322530
+AST000032,SITE0005,Transformer,Gridworks,MDL-892,,3489.24,Maintenance,Medium,,asset_master,9999-12-31,True,5d0767ac8c09fcf94292
+AST000033,SITE0005,Feeder,Novapower,MDL-451,2019-01-03,2627.56,Maintenance,Critical,2026-02-26,capacity_change,9999-12-31,True,3cfaf917bdeb5f12971f
+AST000034,SITE0005,Transformer,Novapower,MDL-442,,849.2,Retired,Low,,asset_master,9999-12-31,True,7e174bd76e2acd06d6d9
+AST000035,SITE0005,Transformer,Ecodyn,MDL-930,,2632.29,Maintenance,Medium,,asset_master,9999-12-31,True,93890c9e18274d113c39
+AST000036,SITE0005,Transformer,Aeroflux,MDL-511,2020-04-30,2912.33,Retired,Medium,2026-04-12,retirement,9999-12-31,True,85408e33133fc72cf130
+AST000037,SITE0005,Feeder,Aeroflux,MDL-916,2015-06-30,1256.3,Standby,High,2015-06-30,asset_master,9999-12-31,True,53b5825855a8b2a520e7
+AST000038,SITE0005,Feeder,Ecodyn,MDL-671,,661.11,Maintenance,Medium,,asset_master,9999-12-31,True,adc73d026fb7920d8842
+AST000039,SITE0005,Feeder,Heliotech,MDL-221,,1206.66,Active,High,,asset_master,9999-12-31,True,3c35ee33afd7d93ef888
+AST000040,SITE0005,Feeder,Gridworks,MDL-433,2016-02-19,3405.37,Maintenance,Medium,2016-02-19,asset_master,9999-12-31,True,2e698ac137b040d50ffb
+AST000041,SITE0005,Transformer,Aeroflux,MDL-775,,3383.31,Maintenance,Critical,2026-04-22,condition_update,9999-12-31,True,1d480e20b2d1f528d2a2
+AST000041,SITE0005,Transformer,Aeroflux,MDL-775,,3383.31,Maintenance,Low,,asset_master,9999-12-31,True,4040e365eda376782034
+AST000042,SITE0006,Solar Inverter,Ecodyn,MDL-343,,3256.83,Standby,Medium,2026-04-28,condition_update,9999-12-31,True,1f00f23fb8494f947073
+AST000042,SITE0006,Solar Inverter,Ecodyn,MDL-343,,3256.83,Maintenance,Critical,,asset_master,9999-12-31,True,7d4da6eaf7f17864f0ce
+AST000043,SITE0006,Solar Inverter,Voltedge,MDL-562,2016-10-25,1429.2,Active,High,2026-03-27,condition_update,9999-12-31,True,d75e1b9fae7245eb9f35
+AST000044,SITE0006,Solar Inverter,Ecodyn,MDL-329,2022-06-08,1490.92,Standby,Low,2022-06-08,asset_master,9999-12-31,True,11beb32cae211b38b3d3
+AST000045,SITE0006,Solar Inverter,Ecodyn,MDL-777,2016-03-03,1370.87,Maintenance,Low,2026-05-17,maintenance_review,9999-12-31,True,03b644a3785c9732e0f4
+AST000046,SITE0006,Solar Inverter,Ecodyn,MDL-991,,746.65,Active,High,,asset_master,9999-12-31,True,d4947692e7d575e99b99
+AST000047,SITE0006,Solar Inverter,Ecodyn,MDL-220,,2699.62,Active,High,,asset_master,9999-12-31,True,a577e2e48ccd1ae60213
+AST000048,SITE0006,Solar Inverter,Voltedge,MDL-562,2022-12-15,1584.55,Maintenance,Low,2026-02-26,capacity_change,9999-12-31,True,aa9c91e8256c1deb6e74
+AST000049,SITE0006,Solar Inverter,Voltedge,MDL-385,2025-09-28,1169.42,Maintenance,Medium,2025-09-28,asset_master,9999-12-31,True,9a0f5f4dcc8ed66821e2
+AST000050,SITE0007,Wind Turbine,Heliotech,MDL-142,2015-09-12,552.43,Active,Medium,2015-09-12,asset_master,9999-12-31,True,76de2fb84bf5a8209fe7
+AST000051,SITE0007,Wind Turbine,Voltedge,MDL-944,,2616.73,Maintenance,Low,,asset_master,9999-12-31,True,fc7f121e497486f84ea8
+AST000052,SITE0007,Wind Turbine,Voltedge,MDL-508,2020-10-17,1125.85,Active,High,2026-05-07,maintenance_review,9999-12-31,True,9484d372aa117cb57a43
+AST000053,SITE0007,Wind Turbine,Novapower,MDL-414,2024-11-03,2146.73,Active,Low,2024-11-03,asset_master,9999-12-31,True,633496cfe36df277d9c2
+AST000054,SITE_BAD,Wind Turbine,Gridworks,MDL-901,,2711.47,Active,High,2026-05-16,capacity_change,9999-12-31,True,b6c5de878845e1cdcede
+AST000054,SITE_BAD,Wind Turbine,Gridworks,MDL-901,,2711.47,Maintenance,Medium,,asset_master,9999-12-31,True,e8bc474de38ca62e0f08
+AST000055,SITE0007,Wind Turbine,Gridworks,MDL-438,2024-10-26,1616.35,Standby,Medium,2026-05-20,condition_update,9999-12-31,True,4855eeae23a35a10cecc
+AST000056,SITE0007,Wind Turbine,Voltedge,MDL-620,2022-10-21,2020.95,Active,Low,2022-10-21,asset_master,9999-12-31,True,3db0a3eaa38dd82f85a5
+AST000057,SITE0007,Wind Turbine,Voltedge,MDL-850,2017-10-13,840.86,Standby,Medium,2017-10-13,asset_master,9999-12-31,True,0d331926fc04f561d1b1
+AST000058,SITE0008,Transformer,Gridworks,MDL-650,,2153.2,Active,High,2026-02-17,maintenance_review,9999-12-31,True,f64061fa2b11d785c19f
+AST000058,SITE0008,Transformer,Gridworks,MDL-650,,2153.2,Maintenance,Medium,,asset_master,9999-12-31,True,f5c6f294b8ca042803b2
+AST000059,SITE0008,Feeder,Novapower,MDL-633,2025-04-20,2599.4,Maintenance,Low,2026-05-22,condition_update,9999-12-31,True,2324e996191283baaeae
+AST000060,SITE0008,Transformer,Voltedge,MDL-489,2018-07-02,2860.68,Maintenance,Critical,2018-07-02,asset_master,9999-12-31,True,17178b82e02229e6492e
+AST000061,SITE0008,Feeder,Gridworks,MDL-774,2022-06-08,3203.11,Maintenance,Medium,2026-03-21,retirement,9999-12-31,True,5943b4e3b59b5d99a0a9
+AST000062,SITE0008,Feeder,Gridworks,MDL-214,2016-02-03,861.6,Active,High,2026-04-08,condition_update,9999-12-31,True,d3c3a1ab63ec411164d4
+AST000063,SITE0008,Transformer,Aeroflux,MDL-144,2016-03-24,2711.22,Retired,High,2026-02-24,capacity_change,9999-12-31,True,23b8071bdf75c09a8b53
+AST000064,SITE0008,Transformer,Novapower,MDL-261,,1856.24,Retired,Critical,2026-02-02,retirement,9999-12-31,True,8bd880ea0b9e6fc68d61
+AST000064,SITE0008,Transformer,Novapower,MDL-261,,1856.24,Standby,Medium,,asset_master,9999-12-31,True,400b821978446582fb10
+AST000065,SITE0008,Transformer,Aeroflux,MDL-851,2016-06-14,1355.87,Active,Critical,2026-05-09,retirement,9999-12-31,True,57ded62f2fb7488b5aa6
+AST000066,SITE0008,Feeder,Novapower,MDL-431,2022-03-13,3244.11,Active,Critical,2026-04-24,condition_update,9999-12-31,True,10a5f1e3f71769cf6695
+AST000067,SITE0008,Feeder,Voltedge,MDL-390,2025-01-08,2316.11,Retired,Low,2025-01-08,asset_master,9999-12-31,True,c65bbc8588acdfd07e2a
+AST000068,SITE0009,Battery Rack,Aeroflux,MDL-240,2022-12-29,2124.23,Maintenance,Critical,2022-12-29,asset_master,9999-12-31,True,7ccf24fe6e4a940543e1
+AST000069,SITE0009,Battery Rack,Heliotech,MDL-655,2021-02-10,3409.48,Maintenance,Low,2026-02-14,retirement,9999-12-31,True,b0b88f540f46ae571d41
+AST000070,SITE0009,Battery Rack,Voltedge,MDL-600,,298.39,Active,High,,asset_master,9999-12-31,True,813ad4eb59ca65d06b41
+AST000071,SITE0009,Battery Rack,Aeroflux,MDL-226,,1677.83,Active,Low,,asset_master,9999-12-31,True,e7aabc8b283e904173de
+AST000072,SITE0009,Battery Rack,Voltedge,MDL-296,2023-01-01,1214.29,Active,Low,2026-03-21,maintenance_review,9999-12-31,True,0073427a00bef8697b40
+AST000073,SITE0009,Battery Rack,Aeroflux,MDL-281,,1202.68,Standby,High,2026-03-26,maintenance_review,9999-12-31,True,ba49021c6408c69513ed
+AST000073,SITE0009,Battery Rack,Aeroflux,MDL-281,,1202.68,Active,Medium,,asset_master,9999-12-31,True,b85bf0d0a78ce2ee286b
+AST000074,SITE0009,Battery Rack,Novapower,MDL-384,2018-05-24,1675.38,Maintenance,Critical,2026-05-21,capacity_change,9999-12-31,True,07c6cd11d778f3a6de8b
+AST000075,SITE0010,Feeder,Ecodyn,MDL-503,,2200.44,Standby,Critical,2026-03-20,condition_update,9999-12-31,True,5e24bce19bead5fbdf93
+AST000075,SITE0010,Feeder,Ecodyn,MDL-503,,2200.44,Standby,Critical,,asset_master,9999-12-31,True,75d88a9733b67f6f8a7d
+AST000076,SITE0010,Feeder,Novapower,MDL-435,,3189.38,Active,High,2026-04-23,condition_update,9999-12-31,True,aeba41c81b97453c5adc
+AST000076,SITE0010,Feeder,Novapower,MDL-435,,3189.38,Standby,Critical,,asset_master,9999-12-31,True,20ab4cca3a76828df0c2
+AST000077,SITE0010,Feeder,Ecodyn,MDL-534,,977.71,Active,Medium,2026-03-31,retirement,9999-12-31,True,e23879dd0fe16c3bcd46
+AST000077,SITE0010,Feeder,Ecodyn,MDL-534,,977.71,Standby,Medium,,asset_master,9999-12-31,True,b86af53d89fb4a7fab5f
+AST000078,SITE0010,Feeder,Ecodyn,MDL-435,,2660.28,Active,High,2026-04-18,condition_update,9999-12-31,True,4e14ce89c4b722e15be7
+AST000078,SITE0010,Feeder,Ecodyn,MDL-435,,2660.28,Maintenance,High,,asset_master,9999-12-31,True,8211becaf4158d15a787
+AST000079,SITE0010,Transformer,Aeroflux,MDL-814,2024-12-31,474.14,Maintenance,High,2026-03-22,retirement,9999-12-31,True,a0cda8071dc8e56ca039
+AST000080,SITE0010,Feeder,Heliotech,MDL-202,2020-07-12,2041.34,Standby,Critical,2026-05-20,maintenance_review,9999-12-31,True,b5af101b877859dca90f
+AST000081,SITE0010,Feeder,Voltedge,MDL-833,2020-04-04,1193.07,Active,Medium,2020-04-04,asset_master,9999-12-31,True,1db350d8b7eac1bf8fde
+AST000082,SITE0010,Transformer,Gridworks,MDL-584,,1453.28,Maintenance,Medium,,asset_master,9999-12-31,True,bbdfff1dfe3708ebbc8e
+AST000083,SITE0010,Transformer,Voltedge,MDL-564,,1303.88,Maintenance,Critical,2026-04-24,retirement,9999-12-31,True,4c70e95196dbd2be83c6
+AST000083,SITE0010,Transformer,Voltedge,MDL-564,,1303.88,Retired,Low,,asset_master,9999-12-31,True,bcb83d1fd3a92cb8ffbd
+AST000084,SITE0010,Feeder,Novapower,MDL-615,,2297.02,Maintenance,High,2026-04-29,capacity_change,9999-12-31,True,eaf15ea84a35f592360c
+AST000084,SITE0010,Feeder,Novapower,MDL-615,,2297.02,Active,Medium,,asset_master,9999-12-31,True,714665909d121f769a49
+AST000085,SITE0011,Wind Turbine,Novapower,MDL-552,2018-06-10,1705.37,Active,Critical,2018-06-10,asset_master,9999-12-31,True,748740494a85d8b3a9ae
+AST000086,SITE0011,Wind Turbine,Ecodyn,MDL-686,2015-06-10,2889.92,Standby,Medium,2015-06-10,asset_master,9999-12-31,True,e37bd255861848377945
+AST000087,SITE0011,Wind Turbine,Heliotech,MDL-189,2015-03-06,1056.42,Standby,Medium,2015-03-06,asset_master,9999-12-31,True,ed8a0b317ff4df51ab9e
+AST000088,SITE0011,Wind Turbine,Novapower,MDL-448,2020-12-21,2535.71,Standby,Medium,2026-04-12,maintenance_review,9999-12-31,True,111490a82633fb9224c0
+AST000089,SITE0011,Wind Turbine,Ecodyn,MDL-945,2018-05-25,1190.2,Active,Medium,2018-05-25,asset_master,9999-12-31,True,ec0c51c6265069371df4
+AST000090,SITE0011,Wind Turbine,Heliotech,MDL-658,,2942.94,Maintenance,Low,2026-03-27,capacity_change,9999-12-31,True,ec93552d8083b8e65337
+AST000090,SITE0011,Wind Turbine,Heliotech,MDL-658,,2942.94,Active,High,,asset_master,9999-12-31,True,33d2d2cffdec46f1665b
+AST000091,SITE0011,Wind Turbine,Aeroflux,MDL-965,,2627.71,Retired,Critical,2026-03-02,retirement,9999-12-31,True,a55396be5bd630c761a9
+AST000091,SITE0011,Wind Turbine,Aeroflux,MDL-965,,2627.71,Standby,Medium,,asset_master,9999-12-31,True,46692fc9c6706415256d
+AST000092,SITE0011,Wind Turbine,Gridworks,MDL-726,,2731.28,Retired,Low,2026-04-23,condition_update,9999-12-31,True,cc40d676ab607d6039ce
+AST000092,SITE0011,Wind Turbine,Gridworks,MDL-726,,2731.28,Standby,Medium,,asset_master,9999-12-31,True,e1921026cee07d1fc6ce
+AST000093,SITE0012,Wind Turbine,Ecodyn,MDL-350,,2115.94,Maintenance,Critical,2026-02-18,condition_update,9999-12-31,True,bbf2dd196ed58ce988bc
+AST000093,SITE0012,Wind Turbine,Ecodyn,MDL-350,,2115.94,Retired,High,,asset_master,9999-12-31,True,7593c3b166cb21d3bf6f
+AST000094,SITE0012,Wind Turbine,Novapower,MDL-452,,1956.79,Standby,Medium,2026-03-27,condition_update,9999-12-31,True,bf30a049f6595f028dba
+AST000094,SITE0012,Wind Turbine,Novapower,MDL-452,,1956.79,Active,High,,asset_master,9999-12-31,True,a63048d08fe556d5d2c7
+AST000095,SITE0012,Wind Turbine,Ecodyn,MDL-182,2021-07-14,2533.48,Retired,Medium,2021-07-14,asset_master,9999-12-31,True,3d0dea75793df3ad9474
+AST000096,SITE0012,Wind Turbine,Gridworks,MDL-624,,2834.98,Retired,Critical,2026-03-23,retirement,9999-12-31,True,514b8e3c042e2a3e629c
+AST000096,SITE0012,Wind Turbine,Gridworks,MDL-624,,2834.98,Standby,Critical,,asset_master,9999-12-31,True,b7f3afc5b9c172116af4
+AST000097,SITE0012,Wind Turbine,Ecodyn,MDL-274,2016-03-05,203.88,Standby,High,2026-02-16,capacity_change,9999-12-31,True,8680206c206871c1157f
+AST000098,SITE0012,Wind Turbine,Aeroflux,MDL-119,2017-04-25,1044.33,Standby,High,2026-02-15,condition_update,9999-12-31,True,e292ae37e3d4401234c5
+AST000099,SITE0012,Wind Turbine,Voltedge,MDL-910,2022-07-06,3208.2,Maintenance,Medium,2026-05-28,condition_update,9999-12-31,True,9d494aa2257235f52b4d
+AST000100,SITE0012,Wind Turbine,Ecodyn,MDL-451,2017-06-08,1974.84,Active,Medium,2017-06-08,asset_master,9999-12-31,True,5e4d5c3ea2075276607f
+AST000101,SITE0013,Feeder,Novapower,MDL-885,,407.01,Standby,High,2026-03-17,maintenance_review,9999-12-31,True,4fcbcf11cda06a3a2ed5
+AST000101,SITE0013,Feeder,Novapower,MDL-885,,407.01,Active,Low,,asset_master,9999-12-31,True,4d4ea7445b1f49c40f74
+AST000102,SITE0013,Transformer,Voltedge,MDL-700,2015-04-14,1785.22,Retired,Medium,2026-04-23,capacity_change,9999-12-31,True,4fd39b0b11c152658938
+AST000103,SITE0013,Feeder,Aeroflux,MDL-331,,895.07,Standby,High,2026-04-14,condition_update,9999-12-31,True,01fa2bf5f532b793715d
+AST000103,SITE0013,Feeder,Aeroflux,MDL-331,,895.07,Active,Medium,,asset_master,9999-12-31,True,7a72efb3719ad7162484
+AST000104,SITE0013,Transformer,Novapower,MDL-198,2020-08-12,1504.01,Standby,Medium,2026-05-27,condition_update,9999-12-31,True,216587df51ddf81f2781
+AST000105,SITE0013,Transformer,Heliotech,MDL-332,2021-11-29,2219.34,Maintenance,Low,2021-11-29,asset_master,9999-12-31,True,3b9ec55dad35d4622ac1
+AST000106,SITE0013,Feeder,Heliotech,MDL-406,2019-03-26,1001.35,Standby,Critical,2026-02-09,retirement,9999-12-31,True,38d2b5eb25ecfad588ee
+AST000107,SITE0013,Transformer,Heliotech,MDL-210,2022-05-31,1436.82,Retired,Critical,2026-04-26,capacity_change,9999-12-31,True,b51fcbcd41f73aaf66d6
+AST000108,SITE0013,Feeder,Heliotech,MDL-193,,2106.53,Maintenance,Critical,2026-02-18,retirement,9999-12-31,True,3866242cdc96e919f82b
+AST000108,SITE0013,Feeder,Heliotech,MDL-193,,2106.53,Active,Medium,,asset_master,9999-12-31,True,a64b3901bdc545333a5a
+AST000109,SITE0013,Transformer,Heliotech,MDL-128,,2253.61,Standby,Medium,,asset_master,9999-12-31,True,317283da1062b3ec334a
+AST000110,SITE0013,Transformer,Gridworks,MDL-831,2023-08-24,1688.13,Maintenance,High,2023-08-24,asset_master,9999-12-31,True,c553abe64216cbf7070e
+AST000111,SITE0014,Wind Turbine,Ecodyn,MDL-673,2018-01-11,755.18,Active,High,2018-01-11,asset_master,9999-12-31,True,b353053723b4a67abe4e
+AST000112,SITE0014,Wind Turbine,Voltedge,MDL-590,2019-04-17,2425.78,Retired,High,2026-02-03,maintenance_review,9999-12-31,True,21f48bfec4cc3d14e181
+AST000113,SITE0014,Wind Turbine,Heliotech,MDL-803,,226.33,Standby,High,,asset_master,9999-12-31,True,a3c48fc8c6b8c7bb194f
+AST000114,SITE0014,Wind Turbine,Gridworks,MDL-890,2024-05-24,1054.8,Standby,High,2024-05-24,asset_master,9999-12-31,True,632e6fd52ce69232a339
+AST000115,SITE0014,Wind Turbine,Gridworks,MDL-310,2017-09-25,2360.74,Active,Low,2017-09-25,asset_master,9999-12-31,True,2ad1cd7baf1a630beeaf
+AST000116,SITE0014,Wind Turbine,Gridworks,MDL-420,2022-04-26,767.98,Standby,Medium,2022-04-26,asset_master,9999-12-31,True,bed22bf490f3bf2ed0b9
+AST000117,SITE0014,Wind Turbine,Ecodyn,MDL-295,,249.87,Active,Critical,2026-03-11,condition_update,9999-12-31,True,f5d66e25adc4fff78c75
+AST000117,SITE0014,Wind Turbine,Ecodyn,MDL-295,,249.87,Active,Low,,asset_master,9999-12-31,True,302fcea1dbbc27e0af0d
+AST000118,SITE0014,Wind Turbine,Ecodyn,MDL-804,,2173.55,Standby,Medium,,asset_master,9999-12-31,True,2ecf059eea887afb82b2
+AST000119,SITE0015,Solar Inverter,Ecodyn,MDL-112,2016-05-23,1376.25,Active,Critical,2026-05-06,capacity_change,9999-12-31,True,25c7df8706933c7ccfa2
+AST000120,SITE0015,Solar Inverter,Voltedge,MDL-891,,1011.92,Standby,Medium,2026-04-29,capacity_change,9999-12-31,True,d36218d47c7c191f6764
+AST000120,SITE0015,Solar Inverter,Voltedge,MDL-891,,1011.92,Standby,Medium,,asset_master,9999-12-31,True,0c474c254e041043c964
+AST000121,SITE0015,Solar Inverter,Gridworks,MDL-416,2015-02-13,626.91,Standby,Low,2026-02-07,capacity_change,9999-12-31,True,02536feb8beefa0cfbf6
+AST000122,SITE0015,Solar Inverter,Voltedge,MDL-181,2016-08-25,796.74,Maintenance,High,2026-02-07,capacity_change,9999-12-31,True,57dcf21996534115b872
+AST000123,SITE0015,Solar Inverter,Voltedge,MDL-377,,2296.75,Standby,Medium,,asset_master,9999-12-31,True,b549976729d49fa54bbb
+AST000124,SITE0015,Solar Inverter,Aeroflux,MDL-519,2020-10-20,1640.93,Maintenance,High,2026-02-19,condition_update,9999-12-31,True,4470a892dc0a8936cb85
+AST000125,SITE0015,Solar Inverter,Heliotech,MDL-831,2025-05-29,324.86,Retired,Low,2026-05-15,capacity_change,9999-12-31,True,747fc8505f5de052bf1e
+AST000126,SITE0015,Solar Inverter,Novapower,MDL-519,,1604.15,Active,Low,2026-05-29,condition_update,9999-12-31,True,f6e1a9983cdc5a8658f7
+AST000126,SITE0015,Solar Inverter,Novapower,MDL-519,,1604.15,Retired,Medium,,asset_master,9999-12-31,True,4a65825dfa664264e26c
+AST000127,SITE0016,Transformer,Gridworks,MDL-453,,2484.24,Maintenance,Critical,,asset_master,9999-12-31,True,26657e1887804fe4b812
+AST000128,SITE0016,Feeder,Heliotech,MDL-344,,1101.69,Maintenance,Medium,2026-02-21,condition_update,9999-12-31,True,e33f418b5c08c8a24fc6
+AST000128,SITE0016,Feeder,Heliotech,MDL-344,,1101.69,Active,Low,,asset_master,9999-12-31,True,abd900ff88375f72ae07
+AST000129,SITE0016,Transformer,Aeroflux,MDL-923,2016-07-19,503.1,Standby,High,2026-04-07,retirement,9999-12-31,True,42b8b1e116c57e0a87c9
+AST000130,SITE0016,Feeder,Heliotech,MDL-168,2016-11-03,1807.45,Standby,Medium,2016-11-03,asset_master,9999-12-31,True,c8f45ac4128af05db543
+AST000131,SITE0016,Feeder,Ecodyn,MDL-271,,1489.34,Active,Medium,,asset_master,9999-12-31,True,2d623a429254d1f1c7e7
+AST000132,SITE0016,Transformer,Heliotech,MDL-959,,102.68,Active,Medium,,asset_master,9999-12-31,True,753d33548a56db6e34e5
+AST000133,SITE0016,Feeder,Gridworks,MDL-221,,2862.41,Active,Low,,asset_master,9999-12-31,True,6403f37b8912bf9cb9f8
+AST000134,SITE0016,Transformer,Ecodyn,MDL-640,2022-05-21,629.99,Maintenance,Low,2022-05-21,asset_master,9999-12-31,True,307e1de77046ff14fca8
+AST000135,SITE0016,Feeder,Heliotech,MDL-164,2022-04-24,586.56,Active,Medium,2022-04-24,asset_master,9999-12-31,True,75526adbcbccadad44c3
+AST000136,SITE0016,Feeder,Aeroflux,MDL-160,,3010.34,Active,Medium,2026-02-09,capacity_change,9999-12-31,True,ae98d0bd346a91d84ccc
+AST000136,SITE0016,Feeder,Aeroflux,MDL-160,,3010.34,Retired,High,,asset_master,9999-12-31,True,928a8e8c9b0be1620f59
+AST000137,SITE0017,Solar Inverter,Novapower,MDL-188,2021-05-06,1050.16,Active,Medium,2021-05-06,asset_master,9999-12-31,True,b5a2d92ecaa8122fbb31
+AST000138,SITE0017,Solar Inverter,Voltedge,MDL-869,,2246.05,Standby,Low,2026-04-17,maintenance_review,9999-12-31,True,99a29d8083c78f83c627
+AST000138,SITE0017,Solar Inverter,Voltedge,MDL-869,,2246.05,Maintenance,Critical,,asset_master,9999-12-31,True,34d8156a75a0f20cfa95
+AST000139,SITE0017,Solar Inverter,Aeroflux,MDL-899,,2980.86,Active,Critical,2026-05-03,condition_update,9999-12-31,True,3317e20fa62b776e7e9b
+AST000139,SITE0017,Solar Inverter,Aeroflux,MDL-899,,2980.86,Maintenance,Medium,,asset_master,9999-12-31,True,0d85763781d1eec40cf3
+AST000140,SITE0017,Solar Inverter,Ecodyn,MDL-922,2019-05-18,1715.73,Active,Medium,2019-05-18,asset_master,9999-12-31,True,b451584043ce854595b1
+AST000141,SITE0017,Solar Inverter,Voltedge,MDL-877,,2853.93,Active,Low,,asset_master,9999-12-31,True,5c0889aa84bac922ee62
+AST000142,SITE0017,Solar Inverter,Voltedge,MDL-743,,686.93,Standby,High,2026-05-29,maintenance_review,9999-12-31,True,2aa1849d8423f8a3e7fa
+AST000142,SITE0017,Solar Inverter,Voltedge,MDL-743,,686.93,Standby,Critical,,asset_master,9999-12-31,True,bc60297cec34c7909f59
+AST000143,SITE0017,Solar Inverter,Gridworks,MDL-370,2018-11-01,2011.18,Active,High,2026-04-02,capacity_change,9999-12-31,True,9f75f0843ff6817e0709
+AST000144,SITE0017,Solar Inverter,Novapower,MDL-142,,3245.04,Active,Medium,,asset_master,9999-12-31,True,9dd11b926bec25fa2b12
+AST000145,SITE0018,Feeder,Novapower,MDL-523,2023-05-05,2200.65,Active,Medium,2026-05-23,maintenance_review,9999-12-31,True,8d437d3a093ee11659b4
+AST000146,SITE0018,Transformer,Voltedge,MDL-398,2024-10-07,3409.87,Active,High,2024-10-07,asset_master,9999-12-31,True,9d6cfe4f6c5f2c922e24
+AST000147,SITE0018,Transformer,Voltedge,MDL-120,2019-07-17,155.24,Active,High,2026-03-09,capacity_change,9999-12-31,True,2c37bf18f1ba6105d3fe
+AST000148,SITE0018,Feeder,Aeroflux,MDL-651,2015-05-02,1382.43,Retired,Low,2015-05-02,asset_master,9999-12-31,True,cc997e4d9a47be595913
+AST000149,SITE0018,Feeder,Novapower,MDL-614,2015-08-31,2932.31,Maintenance,Critical,2026-04-27,capacity_change,9999-12-31,True,bfb9ef328daf935991d3
+AST000150,SITE0018,Feeder,Aeroflux,MDL-778,,3084.71,Standby,High,2026-03-02,condition_update,9999-12-31,True,3dba7d6b6086b5ee05b4
+AST000150,SITE0018,Feeder,Aeroflux,MDL-778,,3084.71,Standby,High,,asset_master,9999-12-31,True,1368173e3dba970852b2
+AST000151,SITE0018,Transformer,Gridworks,MDL-163,2017-08-18,879.23,Maintenance,High,2017-08-18,asset_master,9999-12-31,True,c8aa27774d8f6ee2fe6f
+AST000152,SITE0018,Feeder,Heliotech,MDL-369,,2754.48,Retired,High,,asset_master,9999-12-31,True,595f08ee3c3fcbdb7c09
+AST000153,SITE0018,Transformer,Heliotech,MDL-475,2018-11-28,3246.67,Active,Low,2026-05-28,retirement,9999-12-31,True,9c08f6af99c324c210fe
+AST000154,SITE0018,Feeder,Novapower,MDL-706,2021-11-10,1557.3,Retired,Medium,2026-05-08,condition_update,9999-12-31,True,72818ae1859c3a34776f
+AST000155,SITE0019,Solar Inverter,Aeroflux,MDL-233,,745.18,Maintenance,Critical,2026-03-19,maintenance_review,9999-12-31,True,2d4dafcc8c33589b0050
+AST000155,SITE0019,Solar Inverter,Aeroflux,MDL-233,,745.18,Maintenance,High,,asset_master,9999-12-31,True,84b2658d923106722f89
+AST000156,SITE0019,Solar Inverter,Aeroflux,MDL-912,,3387.91,Active,Critical,2026-02-28,maintenance_review,9999-12-31,True,93d882294d8d7700b3c3
+AST000156,SITE0019,Solar Inverter,Aeroflux,MDL-912,,3387.91,Maintenance,Medium,,asset_master,9999-12-31,True,18725505127b7f90bd94
+AST000157,SITE0019,Solar Inverter,Gridworks,MDL-909,2020-06-22,3134.27,Standby,Low,2026-02-04,maintenance_review,9999-12-31,True,89adc6f0730d723ff1c8
+AST000158,SITE0019,Solar Inverter,Gridworks,MDL-988,2023-04-22,1015.54,Retired,Low,2026-02-09,retirement,9999-12-31,True,3e73e852b6039ba10378
+AST000159,SITE0019,Solar Inverter,Ecodyn,MDL-302,,542.43,Active,Medium,2026-04-18,condition_update,9999-12-31,True,baeed85ba9080e091219
+AST000159,SITE0019,Solar Inverter,Ecodyn,MDL-302,,542.43,Maintenance,Medium,,asset_master,9999-12-31,True,5e52192227f806d583f5
+AST000160,SITE0019,Solar Inverter,Novapower,MDL-629,,3440.2,Maintenance,High,,asset_master,9999-12-31,True,50387cdb62be5e4f6ebc
+AST000161,SITE0019,Solar Inverter,Novapower,MDL-925,2023-11-25,3091.68,Active,Critical,2026-02-06,condition_update,9999-12-31,True,e53ea6b7b645b7f99f97
+AST000162,SITE0019,Solar Inverter,Gridworks,MDL-202,2019-05-31,1343.49,Maintenance,Low,2019-05-31,asset_master,9999-12-31,True,60b28324caa6a39fc711
+AST000163,SITE0020,Feeder,Ecodyn,MDL-191,2022-05-06,,Active,Medium,2022-05-06,asset_master,9999-12-31,True,8c1bf79ec28621da144c
+AST000164,SITE0020,Feeder,Novapower,MDL-217,2017-08-20,1837.49,Retired,Medium,2017-08-20,asset_master,9999-12-31,True,8994a900448d2d7dfc98
+AST000165,SITE0020,Transformer,Heliotech,MDL-567,,1690.86,Standby,Medium,2026-03-05,maintenance_review,9999-12-31,True,06829811831ba90f405e
+AST000165,SITE0020,Transformer,Heliotech,MDL-567,,1690.86,Retired,Critical,,asset_master,9999-12-31,True,94c7820ed9edcd96f3a5
+AST000166,SITE0020,Feeder,Voltedge,MDL-178,,125.28,Active,Low,2026-02-03,condition_update,9999-12-31,True,c2cff8248a2581874c16
+AST000166,SITE0020,Feeder,Voltedge,MDL-178,,125.28,Maintenance,Medium,,asset_master,9999-12-31,True,f0e4b113160539c1daf4
+AST000167,SITE0020,Feeder,Aeroflux,MDL-785,2020-09-16,2443.38,Retired,Low,2026-03-16,condition_update,9999-12-31,True,d671d17daa597ee46efd
+AST000168,SITE0020,Transformer,Gridworks,MDL-489,2018-07-14,2433.7,Active,Medium,2018-07-14,asset_master,9999-12-31,True,254a53270e007390d837
+AST000169,SITE0020,Feeder,Aeroflux,MDL-255,2022-03-27,2822.52,Standby,Low,2026-05-28,maintenance_review,9999-12-31,True,1b7c8d658b0e5d438731
+AST000170,SITE0020,Feeder,Voltedge,MDL-847,,1185.04,Retired,High,2026-04-16,maintenance_review,9999-12-31,True,7c3ea1ec16ca3609f982
+AST000170,SITE0020,Feeder,Voltedge,MDL-847,,1185.04,Maintenance,Low,,asset_master,9999-12-31,True,7549e8cdf4c85fc01958
+AST000171,SITE0020,Transformer,Heliotech,MDL-380,2020-06-13,2646.38,Standby,High,2020-06-13,asset_master,9999-12-31,True,0c90cef3b15911795b43
+AST000172,SITE0020,Transformer,Heliotech,MDL-192,,2163.77,Retired,Low,2026-05-10,maintenance_review,9999-12-31,True,2e43ff97b7863f3afa97
+AST000172,SITE0020,Transformer,Heliotech,MDL-192,,2163.77,Maintenance,Medium,,asset_master,9999-12-31,True,5105a158605dd1c41542
+AST000173,SITE0021,Feeder,Aeroflux,MDL-268,,809.0,Active,High,2026-05-13,condition_update,9999-12-31,True,339fda8fa4193894f9cc
+AST000173,SITE0021,Feeder,Aeroflux,MDL-268,,809.0,Retired,Medium,,asset_master,9999-12-31,True,d7a31695243d402c715e
+AST000174,SITE0021,Feeder,Ecodyn,MDL-846,2021-05-27,1136.98,Active,Critical,2021-05-27,asset_master,9999-12-31,True,2579bc12af5dab7b01b9
+AST000175,SITE0021,Transformer,Ecodyn,MDL-816,,3275.31,Retired,Medium,2026-03-25,condition_update,9999-12-31,True,7456f95f218a4f89dae0
+AST000175,SITE0021,Transformer,Ecodyn,MDL-816,,3275.31,Active,Medium,,asset_master,9999-12-31,True,b7cffa3ab6b161e523dd
+AST000176,SITE0021,Feeder,Ecodyn,MDL-966,2018-10-31,1405.75,Maintenance,Critical,2026-04-06,maintenance_review,9999-12-31,True,b575e505eac20de2a8a1
+AST000177,SITE0021,Transformer,Novapower,MDL-324,,1201.63,Standby,High,2026-05-11,capacity_change,9999-12-31,True,4cb3f17c298825017aab
+AST000177,SITE0021,Transformer,Novapower,MDL-324,,1201.63,Maintenance,Medium,,asset_master,9999-12-31,True,1037b95b7b22310ddc15
+AST000178,SITE0021,Feeder,Novapower,MDL-767,2025-10-12,896.7,Retired,High,2025-10-12,asset_master,9999-12-31,True,6e7be713eb9d996f1144
+AST000179,SITE0021,Feeder,Aeroflux,MDL-732,,740.39,Active,Critical,2026-03-12,maintenance_review,9999-12-31,True,76be38ae0d98d3ee5304
+AST000179,SITE0021,Feeder,Aeroflux,MDL-732,,740.39,Active,High,,asset_master,9999-12-31,True,66fb1de7f332f673b3d4
+AST000180,SITE0021,Feeder,Ecodyn,MDL-583,2015-07-11,1667.75,Active,Medium,2015-07-11,asset_master,9999-12-31,True,769bdf06ce3d36f3b00a
+AST000181,SITE0021,Transformer,Gridworks,MDL-448,,1138.5,Standby,Medium,2026-05-30,condition_update,9999-12-31,True,f42602cb6fdfb6f7e9f7
+AST000181,SITE0021,Transformer,Gridworks,MDL-448,,1138.5,Standby,Medium,,asset_master,9999-12-31,True,8d3a19529c83e52ab9a6
+AST000182,SITE0021,Transformer,Voltedge,MDL-666,,3010.6,Maintenance,High,2026-03-07,capacity_change,9999-12-31,True,7087f9ed58fd75b666c9
+AST000182,SITE0021,Transformer,Voltedge,MDL-666,,3010.6,Active,Critical,,asset_master,9999-12-31,True,bb82e2fd477baadd4f1b
+AST000183,SITE0022,Solar Inverter,Heliotech,MDL-655,,2844.58,Retired,Medium,,asset_master,9999-12-31,True,31ced5ab64827894e4e3
+AST000184,SITE0022,Solar Inverter,Ecodyn,MDL-633,2022-07-17,733.28,Active,Medium,2022-07-17,asset_master,9999-12-31,True,90f27a15394a7db74a99
+AST000185,SITE0022,Solar Inverter,Ecodyn,MDL-568,,3473.22,Standby,Medium,,asset_master,9999-12-31,True,dd6c36a400f1cfbda257
+AST000186,SITE0022,Solar Inverter,Voltedge,MDL-621,,2019.1,Maintenance,High,2026-04-11,condition_update,9999-12-31,True,495650db9983b4c56dc4
+AST000186,SITE0022,Solar Inverter,Voltedge,MDL-621,,2019.1,Standby,Medium,,asset_master,9999-12-31,True,100126969bb21e2833b9
+AST000187,SITE0022,Solar Inverter,Novapower,MDL-889,2022-06-24,742.89,Retired,High,2026-03-23,maintenance_review,9999-12-31,True,15b718b5dc52fde240d5
+AST000188,SITE0022,Solar Inverter,Ecodyn,MDL-747,,294.41,Active,Low,2026-02-24,condition_update,9999-12-31,True,aaf027187a0fbf8e924f
+AST000188,SITE0022,Solar Inverter,Ecodyn,MDL-747,,294.41,Maintenance,High,,asset_master,9999-12-31,True,fd9a67c663c2ffcd2785
+AST000189,SITE0022,Solar Inverter,Aeroflux,MDL-221,,3091.2,Active,Medium,2026-02-08,retirement,9999-12-31,True,718fb23d1b471eb28feb
+AST000189,SITE0022,Solar Inverter,Aeroflux,MDL-221,,3091.2,Retired,Low,,asset_master,9999-12-31,True,827296674d6dd1267c78
+AST000190,SITE0022,Solar Inverter,Heliotech,MDL-595,2021-06-02,264.18,Standby,Low,2026-04-17,capacity_change,9999-12-31,True,ae360e9289f7cd2b5de8
+AST000191,SITE0023,Battery Rack,Gridworks,MDL-762,2015-06-24,1473.8,Retired,Medium,2015-06-24,asset_master,9999-12-31,True,ce34e23b3d2265fbe5c1
+AST000192,SITE0023,Battery Rack,Ecodyn,MDL-833,,518.24,Standby,High,2026-05-29,retirement,9999-12-31,True,bdd8943f8986979003a7
+AST000192,SITE0023,Battery Rack,Ecodyn,MDL-833,,518.24,Active,Low,,asset_master,9999-12-31,True,69a777cb3053267afaa1
+AST000193,SITE0023,Battery Rack,Gridworks,MDL-283,,1737.95,Maintenance,High,2026-03-14,maintenance_review,9999-12-31,True,d49449d27a3e50ab3612
+AST000193,SITE0023,Battery Rack,Gridworks,MDL-283,,1737.95,Active,Medium,,asset_master,9999-12-31,True,7386a89b4a762a8f563d
+AST000194,SITE0023,Battery Rack,Gridworks,MDL-414,,934.45,Active,Low,2026-03-29,capacity_change,9999-12-31,True,ff1f31c51a0df264ed08
+AST000194,SITE0023,Battery Rack,Gridworks,MDL-414,,934.45,Retired,Critical,,asset_master,9999-12-31,True,7533286714a060502333
+AST000195,SITE0023,Battery Rack,Novapower,MDL-103,,1395.8,Retired,Low,2026-04-15,capacity_change,9999-12-31,True,1ec98751efb1aadbfccf
+AST000195,SITE0023,Battery Rack,Novapower,MDL-103,,1395.8,Maintenance,Medium,,asset_master,9999-12-31,True,278db624801d21d385da
+AST000196,SITE0023,Battery Rack,Heliotech,MDL-125,,906.0,Retired,Medium,2026-03-07,retirement,9999-12-31,True,c60c25c16c90e7259a2f
+AST000196,SITE0023,Battery Rack,Heliotech,MDL-125,,906.0,Active,Medium,,asset_master,9999-12-31,True,630884afd00c99c38ee5
+AST000197,SITE0023,Battery Rack,Ecodyn,MDL-733,2017-01-31,2823.1,Maintenance,Medium,2026-04-05,maintenance_review,9999-12-31,True,631df6cdd5b1c371dad3
+AST000198,SITE0024,Solar Inverter,Aeroflux,MDL-931,,3336.61,Retired,Critical,2026-03-24,condition_update,9999-12-31,True,e6550e057a25dfda1063
+AST000198,SITE0024,Solar Inverter,Aeroflux,MDL-931,,3336.61,Standby,Critical,,asset_master,9999-12-31,True,4fe9bb828f959dcdafa0
+AST000199,SITE0024,Solar Inverter,Ecodyn,MDL-247,,3074.75,Active,Medium,2026-03-31,capacity_change,9999-12-31,True,75e6477049824e716a59
+AST000199,SITE0024,Solar Inverter,Ecodyn,MDL-247,,3074.75,Active,Medium,,asset_master,9999-12-31,True,190d54dd39af0b1fc1b0
+AST000200,SITE0024,Solar Inverter,Heliotech,MDL-915,2023-09-06,1694.11,Standby,Low,2026-03-29,capacity_change,9999-12-31,True,6c46af6fd64f227ce740
+AST000201,SITE0024,Solar Inverter,Ecodyn,MDL-921,2021-03-31,2558.3,Retired,Medium,2021-03-31,asset_master,9999-12-31,True,b50175c02f5bd91bcf56
+AST000202,SITE0024,Solar Inverter,Gridworks,MDL-462,,1319.83,Retired,High,2026-05-15,capacity_change,9999-12-31,True,3b354aedd56cb86f10b2
+AST000202,SITE0024,Solar Inverter,Gridworks,MDL-462,,1319.83,Maintenance,Critical,,asset_master,9999-12-31,True,e7143c53ae72ede8abee
+AST000203,SITE0024,Solar Inverter,Heliotech,MDL-478,,1058.23,Standby,High,2026-05-19,retirement,9999-12-31,True,2edd84a9b6a548596999
+AST000203,SITE0024,Solar Inverter,Heliotech,MDL-478,,1058.23,Retired,High,,asset_master,9999-12-31,True,41e29b78fd83404f4dfa
+AST000204,SITE0024,Solar Inverter,Aeroflux,MDL-474,,1612.31,Retired,Low,2026-02-05,retirement,9999-12-31,True,8a9ba6e31565fb416084
+AST000204,SITE0024,Solar Inverter,Aeroflux,MDL-474,,1612.31,Standby,High,,asset_master,9999-12-31,True,c0274fdf22960e59de8c
+AST000205,SITE0024,Solar Inverter,Novapower,MDL-754,,1663.85,Maintenance,High,,asset_master,9999-12-31,True,e85976824e61b63a1bd9
+AST000206,SITE0025,Battery Rack,Gridworks,MDL-455,2020-01-19,2464.05,Active,High,2020-01-19,asset_master,9999-12-31,True,213cc674eb7366701617
+AST000207,SITE0025,Battery Rack,Voltedge,MDL-162,,3029.41,Maintenance,Low,2026-02-01,condition_update,9999-12-31,True,612ca72f26fa0474e798
+AST000207,SITE0025,Battery Rack,Voltedge,MDL-162,,3029.41,Maintenance,High,,asset_master,9999-12-31,True,29b2cbabd057e7b985ab
+AST000208,SITE0025,Battery Rack,Heliotech,MDL-621,,2678.54,Retired,High,2026-03-30,capacity_change,9999-12-31,True,7876a7bfff38f55d4773
+AST000208,SITE0025,Battery Rack,Heliotech,MDL-621,,2678.54,Active,Medium,,asset_master,9999-12-31,True,c2a38753121a1536bf3e
+AST000209,SITE0025,Battery Rack,Novapower,MDL-964,2017-06-13,2395.15,Retired,Low,2026-02-11,condition_update,9999-12-31,True,d81018ad15ab1140b0df
+AST000210,SITE0025,Battery Rack,Gridworks,MDL-511,2019-12-31,1149.8,Standby,Critical,2019-12-31,asset_master,9999-12-31,True,e76f1d4e56a91b61464e
+AST000211,SITE0025,Battery Rack,Aeroflux,MDL-664,,2734.81,Active,Critical,,asset_master,9999-12-31,True,f0d002e0759b10c3fe2b
+AST000212,SITE0025,Battery Rack,Novapower,MDL-958,,1769.49,Active,Medium,,asset_master,9999-12-31,True,a8e072503c4db902bdb1
+AST000213,SITE0026,Transformer,Gridworks,MDL-547,2021-03-20,1519.99,Maintenance,High,2021-03-20,asset_master,9999-12-31,True,6ecff2fd3844e79ffa34
+AST000214,SITE0026,Transformer,Gridworks,MDL-335,,1108.59,Maintenance,Critical,,asset_master,9999-12-31,True,702c9b01feed12dd5046
+AST000215,SITE0026,Transformer,Ecodyn,MDL-592,,884.76,Standby,Low,2026-05-18,capacity_change,9999-12-31,True,e30c8dd9006219ae941e
+AST000215,SITE0026,Transformer,Ecodyn,MDL-592,,884.76,Active,Medium,,asset_master,9999-12-31,True,071709f46181dac7118f
+AST000216,SITE0026,Transformer,Aeroflux,MDL-979,2022-07-06,241.48,Maintenance,Low,2026-05-17,condition_update,9999-12-31,True,e6493e25c81c2a6b2cb9
+AST000217,SITE0026,Feeder,Heliotech,MDL-115,2016-11-02,3127.5,Maintenance,High,2026-02-08,maintenance_review,9999-12-31,True,4b74e1e23aa3ec41db4f
+AST000218,SITE0026,Transformer,Heliotech,MDL-870,2017-04-09,718.23,Standby,High,2017-04-09,asset_master,9999-12-31,True,ab37ada506d91a4d1512
+AST000219,SITE0026,Feeder,Heliotech,MDL-444,,1171.84,Active,Medium,2026-02-23,condition_update,9999-12-31,True,45446c0e34d1088a3a8f
+AST000219,SITE0026,Feeder,Heliotech,MDL-444,,1171.84,Active,Critical,,asset_master,9999-12-31,True,a1799baaf582a324c48e
+AST000220,SITE0026,Feeder,Novapower,MDL-138,,1236.69,Maintenance,Low,,asset_master,9999-12-31,True,03a55f0efef58e8df85c
+AST000221,SITE0026,Transformer,Heliotech,MDL-652,,682.61,Standby,Low,2026-04-04,maintenance_review,9999-12-31,True,5ddce0caf9a6fd4b8ebc
+AST000221,SITE0026,Transformer,Heliotech,MDL-652,,682.61,Standby,Critical,,asset_master,9999-12-31,True,cc293f4682445f2d35be
+AST000222,SITE0026,Feeder,Novapower,MDL-757,,375.29,Maintenance,Low,2026-02-09,retirement,9999-12-31,True,47ebef740de80a833905
+AST000222,SITE0026,Feeder,Novapower,MDL-757,,375.29,Standby,Medium,,asset_master,9999-12-31,True,ced5fe969fd451f797e6
+AST000223,SITE0027,Transformer,Novapower,MDL-673,,258.42,Active,Medium,,asset_master,9999-12-31,True,61413bcbfb11494209be
+AST000224,SITE0027,Feeder,Ecodyn,MDL-515,2025-08-01,3285.9,Active,Medium,2025-08-01,asset_master,9999-12-31,True,e528654598ae3beef96a
+AST000225,SITE0027,Transformer,Voltedge,MDL-642,2019-03-29,1275.7,Retired,High,2019-03-29,asset_master,9999-12-31,True,a68f0b44606905a16475
+AST000226,SITE0027,Transformer,Aeroflux,MDL-344,2015-10-27,209.3,Active,Medium,2015-10-27,asset_master,9999-12-31,True,4e8c77b7d2e024ca5bea
+AST000227,SITE0027,Feeder,Heliotech,MDL-828,,2814.19,Standby,Low,2026-04-06,capacity_change,9999-12-31,True,00d2b6cd1a4a4a395243
+AST000227,SITE0027,Feeder,Heliotech,MDL-828,,2814.19,Active,High,,asset_master,9999-12-31,True,56647fbe3f6f9837cb4c
+AST000228,SITE0027,Transformer,Novapower,MDL-462,,1835.24,Retired,Critical,2026-04-16,retirement,9999-12-31,True,3a4a8b57502f864dcfbc
+AST000228,SITE0027,Transformer,Novapower,MDL-462,,1835.24,Retired,Medium,,asset_master,9999-12-31,True,c186561a4ec26e75e3a3
+AST000229,SITE0027,Feeder,Voltedge,MDL-853,,3069.52,Standby,Medium,,asset_master,9999-12-31,True,4e1ce88fe3ddf543954c
+AST000230,SITE0027,Transformer,Voltedge,MDL-570,2025-10-20,2090.97,Maintenance,Low,2026-03-03,condition_update,9999-12-31,True,dec23639ac9f1232b6f7
+AST000231,SITE0027,Feeder,Heliotech,MDL-725,,3254.6,Standby,Critical,2026-05-28,maintenance_review,9999-12-31,True,3d757d403081a4217d25
+AST000231,SITE0027,Feeder,Heliotech,MDL-725,,3254.6,Active,High,,asset_master,9999-12-31,True,3845457b4423a5996901
+AST000232,SITE0027,Feeder,Novapower,MDL-667,,1615.06,Maintenance,Medium,2026-05-16,maintenance_review,9999-12-31,True,1db761d5243c705b325d
+AST000232,SITE0027,Feeder,Novapower,MDL-667,,1615.06,Maintenance,Medium,,asset_master,9999-12-31,True,39a1535e093b4a45d090
+AST000233,SITE0028,Solar Inverter,Voltedge,MDL-180,2019-08-21,805.64,Retired,Critical,2026-05-26,maintenance_review,9999-12-31,True,545df4614a47df489c15
+AST000234,SITE0028,Solar Inverter,Novapower,MDL-263,,3465.79,Maintenance,Critical,2026-02-16,maintenance_review,9999-12-31,True,fe269ce0247b1e30e435
+AST000234,SITE0028,Solar Inverter,Novapower,MDL-263,,3465.79,Maintenance,Low,,asset_master,9999-12-31,True,65e1b52cd598c6f42180
+AST000235,SITE0028,Solar Inverter,Novapower,MDL-141,2024-07-29,1930.73,Active,High,2024-07-29,asset_master,9999-12-31,True,565061dbb5c86b9df29c
+AST000236,SITE0028,Solar Inverter,Heliotech,MDL-403,2015-06-19,472.14,Active,Medium,2015-06-19,asset_master,9999-12-31,True,f347907c720b818f942c
+AST000237,SITE0028,Solar Inverter,Aeroflux,MDL-603,2022-04-25,2223.4,Maintenance,Medium,2026-02-13,capacity_change,9999-12-31,True,0b1919dc1020ce21bcf6
+AST000238,SITE0028,Solar Inverter,Novapower,MDL-183,,2956.48,Retired,Low,,asset_master,9999-12-31,True,ac26710308fbf7994735
+AST000239,SITE0028,Solar Inverter,Voltedge,MDL-941,2020-05-26,1022.41,Maintenance,Low,2026-05-29,maintenance_review,9999-12-31,True,3adc2cda5ac614fecf5e
+AST000240,SITE0028,Solar Inverter,Heliotech,MDL-936,2015-07-07,596.52,Maintenance,Medium,2015-07-07,asset_master,9999-12-31,True,ab216f0a38d1ececdf50
+AST000241,SITE0029,Solar Inverter,Voltedge,MDL-480,,522.12,Standby,Critical,2026-04-16,capacity_change,9999-12-31,True,c095a0e1211a5770e6e2
+AST000241,SITE0029,Solar Inverter,Voltedge,MDL-480,,522.12,Standby,Medium,,asset_master,9999-12-31,True,856860d1ba7c522af643
+AST000242,SITE0029,Solar Inverter,Aeroflux,MDL-189,,2412.32,Maintenance,Medium,2026-02-26,retirement,9999-12-31,True,81b3fa384636b6c7e5ba
+AST000242,SITE0029,Solar Inverter,Aeroflux,MDL-189,,2412.32,Retired,Medium,,asset_master,9999-12-31,True,c9db281ca925668024ca
+AST000243,SITE0029,Solar Inverter,Gridworks,MDL-742,,1891.65,Retired,Low,2026-03-13,capacity_change,9999-12-31,True,ffb0a7047819b324d198
+AST000243,SITE0029,Solar Inverter,Gridworks,MDL-742,,1891.65,Retired,Low,,asset_master,9999-12-31,True,35c55c77b0c0d3edd2a7
+AST000244,SITE0029,Solar Inverter,Ecodyn,MDL-709,,1637.17,Standby,Critical,2026-05-26,maintenance_review,9999-12-31,True,8c2d00eba2989558cc9c
+AST000244,SITE0029,Solar Inverter,Ecodyn,MDL-709,,1637.17,Maintenance,High,,asset_master,9999-12-31,True,b026249189c5c1234fe5
+AST000245,SITE0029,Solar Inverter,Ecodyn,MDL-359,2024-04-05,1345.06,Retired,High,2026-02-22,retirement,9999-12-31,True,47623a0b9be51bd88a9a
+AST000246,SITE_BAD,Solar Inverter,Novapower,MDL-743,,179.82,Maintenance,Medium,,asset_master,9999-12-31,True,ca6879adcf25e60f2f12
+AST000247,SITE0029,Solar Inverter,Heliotech,MDL-609,2019-04-13,782.01,Maintenance,Low,2019-04-13,asset_master,9999-12-31,True,dd4d3f7c437950846165
+AST000248,SITE0029,Solar Inverter,Voltedge,MDL-295,2025-05-16,3348.88,Retired,Critical,2026-05-10,capacity_change,9999-12-31,True,bda5d5284c21195b820d
+AST000249,SITE0030,Wind Turbine,Ecodyn,MDL-422,,367.45,Standby,Critical,2026-05-08,retirement,9999-12-31,True,5e9462cd37e17c78e7b7
+AST000249,SITE0030,Wind Turbine,Ecodyn,MDL-422,,367.45,Maintenance,Critical,,asset_master,9999-12-31,True,2655230e4067e9e63257
+AST000250,SITE0030,Wind Turbine,Ecodyn,MDL-397,2021-11-08,328.67,Retired,Medium,2026-04-04,retirement,9999-12-31,True,648da0aaeb1a49706b87
+AST000251,SITE0030,Wind Turbine,Ecodyn,MDL-719,,2927.1,Maintenance,Medium,,asset_master,9999-12-31,True,9d0898b73d7a645ca7aa
+AST000252,SITE0030,Wind Turbine,Ecodyn,MDL-355,,1604.64,Maintenance,Medium,,asset_master,9999-12-31,True,68f81388b58b92af2a52
+AST000253,SITE0030,Wind Turbine,Gridworks,MDL-369,,3253.63,Maintenance,Medium,2026-02-12,retirement,9999-12-31,True,352e2b385ed648c2f45c
+AST000253,SITE0030,Wind Turbine,Gridworks,MDL-369,,3253.63,Standby,Low,,asset_master,9999-12-31,True,84332a8f23a54ec85dfa
+AST000254,SITE0030,Wind Turbine,Voltedge,MDL-594,,1681.19,Standby,Medium,2026-04-15,maintenance_review,9999-12-31,True,586513dd2609cec117da
+AST000254,SITE0030,Wind Turbine,Voltedge,MDL-594,,1681.19,Standby,Medium,,asset_master,9999-12-31,True,ebc701cd9b72b57c79b2
+AST000255,SITE0030,Wind Turbine,Aeroflux,MDL-966,2019-09-27,2241.89,Retired,Critical,2026-05-27,capacity_change,9999-12-31,True,a443e04ce9c6b22f83fb
+AST000256,SITE0030,Wind Turbine,Novapower,MDL-854,,3337.96,Active,Low,2026-04-23,condition_update,9999-12-31,True,a9960b3b14f436e1fb04
+AST000256,SITE0030,Wind Turbine,Novapower,MDL-854,,3337.96,Standby,High,,asset_master,9999-12-31,True,fa25ee5322a88b9d82d4
