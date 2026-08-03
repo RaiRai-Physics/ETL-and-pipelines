@@ -1,0 +1,2 @@
+pipeline_name,run_timestamp_utc,raw_file_count,raw_total_rows,silver_total_rows,quarantine_total_rows,gold_table_count,status
+smart_grid_energy_etl_project,2026-07-13T04:59:02.080355+00:00,20,498174,498173,1015,32,SUCCESS

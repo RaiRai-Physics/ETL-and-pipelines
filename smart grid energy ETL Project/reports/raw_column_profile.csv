@@ -1,0 +1,163 @@
+table_name,column_name,blank_count,distinct_count,sample_values
+asset_cdc,cdc_id,0,150,ACDC0000001 | ACDC0000002 | ACDC0000003 | ACDC0000004 | ACDC0000005
+asset_cdc,asset_id,0,150,AST000217 | AST000024 | AST000155 | AST000193 | AST000189
+asset_cdc,effective_ts,0,150,2026-02-08 07:24:50 | 2026-02-03 15:59:29 | 2026-03-19 02:10:13 | 2026-03-14 17:55:41 | 2026-02-08 07:04:17
+asset_cdc,operation,0,2,UPDATE | RETIRE
+asset_cdc,new_asset_status,0,4,Maintenance | Standby | Active | Retired
+asset_cdc,new_criticality,0,4,High | Critical | Medium | Low
+asset_cdc,change_reason,0,4,maintenance_review | retirement | condition_update | capacity_change
+customer_cdc,cdc_id,0,200,CCDC0000001 | CCDC0000002 | CCDC0000003 | CCDC0000004 | CCDC0000005
+customer_cdc,customer_id,0,200,CUST0000468 | CUST0000457 | CUST0000456 | CUST0000186 | CUST0000462
+customer_cdc,effective_ts,0,200,2026-05-21 14:38:20 | 2026-05-07 01:11:45 | 2026-03-21 02:49:38 | 2026-04-05 15:04:43 | 2026-04-24 13:25:52
+customer_cdc,operation,0,1,UPDATE
+customer_cdc,new_segment,0,4,Commercial | Municipal | Residential | Industrial
+customer_cdc,new_credit_class,0,4,A | D | C | B
+customer_cdc,new_autopay_flag,0,2,N | Y
+customer_cdc,change_reason,0,4,credit_review | usage_change | customer_request | annual_review
+bills,bill_id,0,1600,BILL00000001 | BILL00000002 | BILL00000003 | BILL00000004 | BILL00000005
+bills,customer_id,0,801,CUST0000001 | CUST0000002 | CUST0000003 | CUST0000004 | CUST0000005
+bills,billing_month,0,2,2026-04-01 | 2026-05-01
+bills,bill_date,0,2,2026-04-28 | 2026-05-28
+bills,due_date,0,2,2026-05-18 | 2026-06-17
+bills,energy_charge,0,1600,1332.17 | 17224.91 | 11053.91 | 14880.18 | 8039.05
+bills,demand_charge,0,1594,204.95 | 2649.99 | 1700.60 | 2289.26 | 1236.78
+bills,fixed_charge,0,1575,51.24 | 662.50 | 425.15 | 572.31 | 309.19
+bills,tax_amount,0,1595,119.55 | 1545.83 | 992.02 | 1335.40 | 721.45
+bills,total_amount,0,1595,1707.91 | 22083.22 | 14171.68 | 19077.15 | 10306.47
+bills,bill_status,0,5,Paid | Cancelled | Past Due | open | Open
+payments,payment_id,0,1431,PAY00000001 | PAY00000002 | PAY00000003 | PAY00000004 | PAY00000005
+payments,bill_id,0,1430,BILL00000001 | BILL00000002 | BILL00000003 | BILL00000004 | BILL00000005
+payments,payment_date,0,9,2026-05-08 | 2026-06-17 | 2026-05-03 | 2026-06-02 | 2026-06-22
+payments,payment_amount,0,1431,1280.93 | 22083.22 | 7085.84 | 14307.87 | 5153.24
+payments,payment_method,0,5,ach | Cash | Check | ACH | Card
+payments,payment_status,0,5,Reversed | posted | Pending | Failed | Posted
+assets,asset_id,0,256,AST000001 | AST000002 | AST000003 | AST000004 | AST000005
+assets,site_id,0,31,SITE0001 | SITE0002 | SITE0003 | SITE0004 | SITE0005
+assets,asset_type,0,8,Solar Inverter | Battery Rack | Transformer | Feeder | feeder
+assets,manufacturer,0,6,NovaPower | HelioTech | VoltEdge | EcoDyn | AeroFlux
+assets,model_number,0,219,MDL-144 | MDL-779 | MDL-902 | MDL-214 | MDL-766
+assets,install_date,0,253,2018-03-25 | 2024-10-29 | 2017-10-03 | 2016-05-02 | 03/23/2025
+assets,rated_capacity_kw,1,256,1559.30 | 3074.65 | 1244.90 | 348.68 | 2819.31
+assets,asset_status,0,5,Maintenance | Standby | Retired | Active | active
+assets,criticality,0,5,medium | Critical | Medium | High | Low
+customer_tariffs,customer_tariff_id,0,800,CT0000001 | CT0000002 | CT0000003 | CT0000004 | CT0000005
+customer_tariffs,customer_id,0,800,CUST0000001 | CUST0000002 | CUST0000003 | CUST0000004 | CUST0000005
+customer_tariffs,tariff_id,0,5,TAR005 | TAR004 | TAR002 | TAR003 | TAR001
+customer_tariffs,effective_start_date,0,334,2025-10-15 | 2025-04-10 | 2025-05-06 | 2025-03-07 | 2025-07-16
+customer_tariffs,effective_end_date,0,1,9999-12-31
+customers,customer_id,0,800,CUST0000001 | CUST0000002 | CUST0000003 | CUST0000004 | CUST0000005
+customers,customer_name,0,800,Urban Homes 1 | Green Manufacturing 2 | Sunrise Manufacturing 3 | North Manufacturing 4 | Green Retail 5
+customers,segment,160,5,Municipal | Industrial |  | Commercial | Residential
+customers,city,0,14,Phoenix | Austin | Denver | Seattle | Dallas
+customers,state,0,8,AZ | TX | CO | WA | NY
+customers,region,0,4,West | South | Northeast | Midwest
+customers,signup_date,0,771,2025-09-06 | 2023-05-12 | 2022-07-28 | 2019-07-13 | 01/10/2021
+customers,credit_class,0,5,B | A | C | D | a
+customers,autopay_flag,0,6,Yes | Y | N | 0 | No
+customers,active_flag,0,3,N | Y | True
+meters,meter_id,0,1000,MTR0000001 | MTR0000002 | MTR0000003 | MTR0000004 | MTR0000005
+meters,customer_id,0,578,CUST0000408 | CUST0000075 | CUST0000305 | CUST0000644 | CUST0000562
+meters,site_id,0,31,SITE0017 | SITE0028 | SITE0029 | SITE0003 | SITE0015
+meters,meter_type,0,5,Commercial Meter | Industrial Meter | smart meter | Smart Meter | Net Meter
+meters,install_date,0,924,2020-10-19 | 2023-03-15 | 2022-04-06 | 08/15/2021 | 08/03/2024
+meters,multiplier,0,4,10 | bad | 100 | 1
+meters,status,0,4,Disconnected | Active | Inactive | active
+meters,firmware_version,172,5,v1.3 |  | v1.2 | v2.1 | v2.0
+sites,site_id,0,30,SITE0001 | SITE0002 | SITE0003 | SITE0004 | SITE0005
+sites,site_name,0,30,Boston Solar Farm 1 | Albany Battery Storage 2 | Seattle Solar Farm 3 | Springfield Solar Farm 4 | Springfield Substation 5
+sites,site_type,0,5,Solar Farm | Battery Storage | Substation | Wind Farm | substation
+sites,city,0,10,Boston | Albany | Seattle | Springfield | Austin
+sites,state,0,8,MA | NY | WA | IL | TX
+sites,region,0,4,Northeast | West | Midwest | South
+sites,commission_date,0,30,08/26/2018 | 2019-08-22 | 11/26/2020 | 09/11/2023 | 2018-03-15
+sites,rated_capacity_mw,0,30,51.130 | 55.301 | 35.427 | 117.545 | 255.091
+sites,grid_zone,0,5,MISO | SPP | CAISO | PJM | ERCOT
+sites,active_flag,0,4,Yes | Y | 1 | N
+tariffs,tariff_id,0,5,TAR001 | TAR002 | TAR003 | TAR004 | TAR005
+tariffs,tariff_name,0,5,Residential Standard | Residential TOU | Commercial Standard | Industrial Demand | Municipal Service
+tariffs,segment,0,4,Residential | Commercial | Industrial | Municipal
+tariffs,effective_start_date,0,1,2025-01-01
+tariffs,effective_end_date,0,1,9999-12-31
+tariffs,energy_rate_per_kwh,0,5,0.145 | 0.110 | 0.125 | 0.095 | 0.105
+tariffs,demand_rate_per_kw,0,4,0 | 11.50 | 18.75 | 8.25
+tariffs,fixed_monthly_charge,0,5,12.00 | 15.00 | 45.00 | 250.00 | 100.00
+tariffs,tou_flag,0,2,N | Y
+demand_response_events,event_id,0,80,DRE000001 | DRE000002 | DRE000003 | DRE000004 | DRE000005
+demand_response_events,region,0,4,Midwest | West | Northeast | South
+demand_response_events,event_start_ts,0,80,2026-05-02 21:43:35 | 2026-04-15 02:53:08 | 2026-04-27 00:20:04 | 2026-04-04 22:44:53 | 2026-05-25 10:38:20
+demand_response_events,event_end_ts,0,80,2026-05-03 00:43:35 | 2026-04-15 05:53:08 | 2026-04-27 04:20:04 | 2026-04-05 00:44:53 | 2026-05-25 14:38:20
+demand_response_events,target_reduction_mw,0,80,65.460 | 99.866 | 115.450 | 92.646 | 48.385
+demand_response_events,actual_reduction_mw,0,80,81.567 | 52.704 | 10.837 | 38.515 | 17.468
+demand_response_events,event_status,0,4,Cancelled | completed | Active | Completed
+outages,outage_id,0,500,OUT0000001 | OUT0000002 | OUT0000003 | OUT0000004 | OUT0000005
+outages,site_id,0,31,SITE0009 | SITE0018 | SITE0017 | SITE0004 | SITE0011
+outages,asset_id,0,217,AST000071 | AST000146 | AST000138 | AST000028 | AST000091
+outages,outage_start_ts,0,500,2026-05-12 16:58:25 | 2026-05-17 14:41:10 | 2026-03-20 14:37:55 | 2026-03-11 18:15:12 | 2026-04-30 22:17:34
+outages,outage_end_ts,20,481,2026-05-13 04:58:25 | 2026-05-20 14:41:10 | 2026-03-21 14:37:55 | 2026-03-12 18:15:12 | 2026-04-30 22:47:34
+outages,outage_type,0,5,Weather | Forced | forced | Planned | Grid Event
+outages,cause_code,0,5,Equipment Failure | Storm | Unknown | Maintenance | Protection Trip
+outages,customers_affected,0,497,5294 | 5471 | 8060 | 8519 | 1969
+outages,estimated_energy_not_served_mwh,0,500,126.191 | 336.351 | 314.859 | 188.139 | 340.908
+outages,outage_status,0,4,Open | Investigating | Closed | closed
+work_orders,work_order_id,0,700,WO00000001 | WO00000002 | WO00000003 | WO00000004 | WO00000005
+work_orders,asset_id,0,240,AST000089 | AST000233 | AST000231 | AST000001 | AST000021
+work_orders,site_id,0,31,SITE0011 | SITE0028 | SITE0027 | SITE0001 | SITE0003
+work_orders,created_date,0,150,2026-03-31 | 2026-03-14 | 2026-05-26 | 2026-05-14 | 2026-05-22
+work_orders,scheduled_date,0,156,2026-04-01 | 2026-03-16 | 2026-06-05 | 2026-05-23 | 2026-06-01
+work_orders,completed_date,82,173, | 2026-03-16 | 2026-05-31 | 2026-06-03 | 2026-06-21
+work_orders,maintenance_type,0,5,Inspection | preventive | Preventive | Corrective | Emergency
+work_orders,priority,0,5,Medium | High | medium | Low | Critical
+work_orders,status,0,5,Completed | In Progress | open | Cancelled | Open
+work_orders,labor_hours,0,661,29.26 | 59.95 | 73.61 | 25.03 | 29.60
+work_orders,parts_cost,0,700,5974.95 | 27995.62 | 21359.77 | 44271.95 | 40478.67
+calendar,date_key,0,181,20260101 | 20260102 | 20260103 | 20260104 | 20260105
+calendar,calendar_date,0,181,2026-01-01 | 2026-01-02 | 2026-01-03 | 2026-01-04 | 2026-01-05
+calendar,year,0,1,2026
+calendar,quarter,0,2,1 | 2
+calendar,month,0,6,1 | 2 | 3 | 4 | 5
+calendar,week_of_year,0,27,1 | 2 | 3 | 4 | 5
+calendar,day_of_week,0,7,4 | 5 | 6 | 7 | 1
+calendar,is_weekend,0,2,N | Y
+energy_market_prices,market_ts,0,1464,2026-04-01 00:00:00 | 2026-04-01 01:00:00 | 2026-04-01 02:00:00 | 2026-04-01 03:00:00 | 2026-04-01 04:00:00
+energy_market_prices,grid_zone,0,5,MISO | ERCOT | PJM | CAISO | SPP
+energy_market_prices,day_ahead_price_mwh,0,7139,117.182 | 25.028 | 86.648 | 112.904 | 105.073
+energy_market_prices,real_time_price_mwh,0,7212,49.188 | 36.263 | -18.733 | 157.109 | 106.035
+energy_market_prices,congestion_price_mwh,0,7074,44.620 | -4.032 | 42.671 | 1.421 | -4.653
+asset_telemetry,telemetry_id,0,117120,AT0000000001 | AT0000000002 | AT0000000003 | AT0000000004 | AT0000000005
+asset_telemetry,asset_id,0,81,AST000001 | AST_BAD | AST000002 | AST000003 | AST000004
+asset_telemetry,reading_ts,0,1464,2026-04-01 00:00:00 | 2026-04-01 01:00:00 | 2026-04-01 02:00:00 | 2026-04-01 03:00:00 | 2026-04-01 04:00:00
+asset_telemetry,power_output_kw,0,101939,13.240 | 0.000 | 11.286 | 471.120 | 388.989
+asset_telemetry,temperature_c,0,39292,42.641 | 58.629 | 49.133 | 34.971 | 44.340
+asset_telemetry,vibration_mm_s,0,4768,1.352 | 0.872 | 1.210 | 1.806 | 1.842
+asset_telemetry,frequency_hz,0,3178,60.0117 | 59.9232 | 60.0135 | 59.9706 | 60.0849
+asset_telemetry,status_code,0,4,TRIP | NORMAL | WARNING | normal
+generation_forecast,forecast_id,0,29280,FC0000000001 | FC0000000002 | FC0000000003 | FC0000000004 | FC0000000005
+generation_forecast,site_id,0,20,SITE0001 | SITE0002 | SITE0003 | SITE0004 | SITE0006
+generation_forecast,forecast_ts,0,1464,2026-04-01 00:00:00 | 2026-04-01 01:00:00 | 2026-04-01 02:00:00 | 2026-04-01 03:00:00 | 2026-04-01 04:00:00
+generation_forecast,forecast_generation_mw,0,28434,3.1267 | 1.9387 | 7.7580 | 0.6861 | 0.1923
+generation_forecast,model_version,0,3,gen-v4.0 | gen-v3.1 | gen-v3.2
+generation_forecast,created_ts,0,1482,2026-03-31 00:00:00 | 2026-03-31 19:00:00 | 2026-03-31 20:00:00 | 2026-03-31 15:00:00 | 2026-03-31 04:00:00
+generation_readings,generation_id,0,29280,GEN0000000001 | GEN0000000002 | GEN0000000003 | GEN0000000004 | GEN0000000005
+generation_readings,site_id,0,20,SITE0001 | SITE0002 | SITE0003 | SITE0004 | SITE0006
+generation_readings,reading_ts,0,1464,2026-04-01 00:00:00 | 2026-04-01 01:00:00 | 2026-04-01 02:00:00 | 2026-04-01 03:00:00 | 2026-04-01 04:00:00
+generation_readings,generation_mw,0,24573,4.4449 | 1.7319 | 7.4578 | 0.0000 | 0.2335
+generation_readings,available_capacity_mw,0,28648,45.0764 | 45.9540 | 46.7670 | 45.4261 | 49.0512
+generation_readings,curtailment_mw,0,15000,0.0000 | 1.0444 | 0.8039 | 0.7943 | 0.7156
+generation_readings,source_system,0,1,scada
+meter_readings,reading_id,0,263520,MR0000000001 | MR0000000002 | MR0000000003 | MR0000000004 | MR0000000005
+meter_readings,meter_id,0,181,MTR0000001 | MTR0000002 | MTR0000003 | MTR_BAD | MTR0000004
+meter_readings,reading_ts,0,1465,2026-04-01 00:00:00 | 2026-04-01 01:00:00 | 2026-04-01 02:00:00 | 2026-04-01 03:00:00 | 2026-04-01 04:00:00
+meter_readings,kwh,0,177586,32.4393 | 27.9285 | 31.8556 | 12.8612 | 32.3529
+meter_readings,kw_demand,0,182013,29.3868 | 28.8610 | 31.3905 | 15.0646 | 44.3371
+meter_readings,voltage,0,2787,244.73 | 229.91 | 234.97 | 252.58 | 241.84
+meter_readings,power_factor,0,1679,0.9432 | 0.9696 | 0.9838 | 0.9438 | 0.9053
+meter_readings,quality_flag,0,4,GOOD | good | MISSING | ESTIMATED
+meter_readings,source_system,0,1,ami_headend
+meter_readings,ingestion_batch_id,0,3,AMI_20260602_A | AMI_20260601_B | AMI_20260601_A
+weather_hourly,site_id,0,30,SITE0001 | SITE0002 | SITE0003 | SITE0004 | SITE0005
+weather_hourly,weather_ts,0,1464,2026-04-01 00:00:00 | 2026-04-01 01:00:00 | 2026-04-01 02:00:00 | 2026-04-01 03:00:00 | 2026-04-01 04:00:00
+weather_hourly,temperature_c,0,24824,18.053 | 32.411 | -7.254 | 15.947 | 1.725
+weather_hourly,wind_speed_mps,0,10517,5.837 | 8.144 | 5.486 | 1.270 | 5.715
+weather_hourly,solar_irradiance_wm2,0,33994,0.000 | 124.965 | 98.944 | 234.877 | 607.916
+weather_hourly,humidity_pct,0,31465,61.609 | 41.250 | 35.998 | 75.184 | 68.511
+weather_hourly,weather_condition,0,6,Cloudy | clear | Clear | Rain | Storm
