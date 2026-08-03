@@ -1,0 +1,4 @@
+outage_id,site_id,asset_id,outage_start_ts,outage_end_ts,outage_type,cause_code,customers_affected,estimated_energy_not_served_mwh,outage_status,duration_hours,quarantine_reason
+OUT0000236,SITE0018,AST_UNKNOWN,2026-01-30 01:14:06,2026-01-30 02:14:06,Weather,Storm,13637,215.363,Closed,1.0,Outage references missing asset
+OUT0000320,SITE0003,AST_UNKNOWN,2026-03-20 04:29:49,2026-03-20 12:29:49,Forced,Equipment Failure,8102,221.913,Open,8.0,Outage references missing asset
+OUT0000356,SITE0008,AST_UNKNOWN,2026-04-03 18:53:00,2026-04-04 06:53:00,Forced,Equipment Failure,11167,269.471,Investigating,12.0,Outage references missing asset

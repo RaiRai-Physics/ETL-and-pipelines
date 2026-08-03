@@ -1,0 +1,2 @@
+work_order_id,asset_id,site_id,created_date,scheduled_date,completed_date,maintenance_type,priority,status,labor_hours,parts_cost,quarantine_reason
+WO00000514,AST_BAD,SITE0026,2026-05-02,2026-05-03,2026-06-11,Preventive,Low,Cancelled,26.59,33983.14,Work order references missing asset

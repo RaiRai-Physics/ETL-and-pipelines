@@ -1,0 +1,4 @@
+meter_id,customer_id,site_id,meter_type,install_date,multiplier,status,firmware_version,quarantine_reason
+MTR0000612,CUST_BAD,SITE0022,Net Meter,2025-03-08,,Active,v1.3,Meter references missing customer
+MTR0000863,CUST_BAD,SITE0004,Smart Meter,2020-12-14,10.0,Active,v2.0,Meter references missing customer
+MTR0000907,CUST_BAD,SITE0002,Smart Meter,2021-03-11,1.0,Disconnected,v1.2,Meter references missing customer

@@ -1,0 +1,6 @@
+bill_id,customer_id,billing_month,bill_date,due_date,energy_charge,demand_charge,fixed_charge,tax_amount,total_amount,bill_status,quarantine_reason
+BILL00000375,CUST_BAD,2026-04-01,2026-04-28,2026-05-18,15800.06,2430.78,607.69,1417.95,20256.49,Cancelled,Bill references missing customer
+BILL00000463,CUST_BAD,2026-04-01,2026-04-28,2026-05-18,9869.91,1518.45,379.61,885.76,12653.73,Open,Bill references missing customer
+BILL00000555,CUST_BAD,2026-04-01,2026-04-28,2026-05-18,18839.9,2898.45,724.61,1690.76,24153.72,Cancelled,Bill references missing customer
+BILL00000992,CUST_BAD,2026-05-01,2026-05-28,2026-06-17,11722.23,1803.42,450.85,1051.99,15028.5,Cancelled,Bill references missing customer
+BILL00001103,CUST_BAD,2026-04-01,2026-04-28,2026-05-18,18717.59,2879.63,719.91,1679.78,23996.9,Open,Bill references missing customer

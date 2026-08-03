@@ -1,0 +1,3 @@
+asset_id,site_id,asset_type,manufacturer,model_number,install_date,rated_capacity_kw,asset_status,criticality,quarantine_reason
+AST000054,SITE_BAD,Wind Turbine,Gridworks,MDL-901,,2711.47,Maintenance,Medium,Asset references missing site
+AST000246,SITE_BAD,Solar Inverter,Novapower,MDL-743,,179.82,Maintenance,Medium,Asset references missing site

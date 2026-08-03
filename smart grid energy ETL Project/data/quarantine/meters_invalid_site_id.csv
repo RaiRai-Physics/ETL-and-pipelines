@@ -1,0 +1,7 @@
+meter_id,customer_id,site_id,meter_type,install_date,multiplier,status,firmware_version,quarantine_reason
+MTR0000025,CUST0000173,SITE_UNKNOWN,Industrial Meter,,10.0,Disconnected,v1.3,Meter references missing site
+MTR0000103,CUST0000042,SITE_UNKNOWN,Smart Meter,,100.0,Disconnected,v1.2,Meter references missing site
+MTR0000172,CUST0000398,SITE_UNKNOWN,Smart Meter,,100.0,Active,v2.1,Meter references missing site
+MTR0000400,CUST0000205,SITE_UNKNOWN,Industrial Meter,2024-07-12,100.0,Inactive,v1.2,Meter references missing site
+MTR0000572,CUST0000671,SITE_UNKNOWN,Industrial Meter,2025-08-20,1.0,Active,v1.3,Meter references missing site
+MTR0000626,CUST0000650,SITE_UNKNOWN,Smart Meter,2024-07-13,1.0,Active,v2.1,Meter references missing site

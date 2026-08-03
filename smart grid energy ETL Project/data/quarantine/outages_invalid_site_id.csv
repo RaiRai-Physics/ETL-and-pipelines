@@ -1,0 +1,4 @@
+outage_id,site_id,asset_id,outage_start_ts,outage_end_ts,outage_type,cause_code,customers_affected,estimated_energy_not_served_mwh,outage_status,duration_hours,quarantine_reason
+OUT0000023,SITE_BAD,AST000240,2026-04-02 02:21:46,2026-04-02 03:21:46,Forced,Protection Trip,2389,291.762,Closed,1.0,Outage references missing site
+OUT0000168,SITE_BAD,AST000056,2026-03-26 06:41:18,2026-03-28 06:41:18,Weather,Protection Trip,16515,78.246,Investigating,48.0,Outage references missing site
+OUT0000272,SITE_BAD,AST000074,2026-02-03 05:09:36,2026-02-03 17:09:36,Grid Event,Unknown,11075,239.121,Closed,12.0,Outage references missing site
