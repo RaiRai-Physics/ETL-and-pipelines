@@ -1,0 +1,17 @@
+{
+  "project_name": "smart_grid_energy_etl_project",
+  "environment": "local",
+  "bronze_path": "data/bronze/python",
+  "silver_path": "data/silver/python",
+  "quarantine_path": "data/quarantine/python",
+  "gold_path": "data/gold/python",
+  "report_path": "reports/python",
+  "metadata_path": "metadata",
+  "telemetry_temperature_alert_c": 75.0,
+  "telemetry_vibration_alert_mm_s": 5.0,
+  "meter_negative_kwh_invalid": true,
+  "outage_major_customer_threshold": 5000,
+  "forecast_error_alert_pct": 0.25,
+  "past_due_as_of_date": "2026-06-15",
+  "default_watermark": "1900-01-01 00:00:00"
+}
