@@ -1,0 +1,45 @@
+{
+  "meter_readings": {
+    "primary_key": [
+      "reading_id"
+    ],
+    "required_columns": [
+      "reading_id",
+      "meter_id",
+      "reading_ts",
+      "kwh"
+    ],
+    "foreign_keys": {
+      "meter_id": "meters.meter_id"
+    }
+  },
+  "asset_telemetry": {
+    "primary_key": [
+      "telemetry_id"
+    ],
+    "required_columns": [
+      "telemetry_id",
+      "asset_id",
+      "reading_ts"
+    ],
+    "foreign_keys": {
+      "asset_id": "assets.asset_id"
+    }
+  },
+  "generation_readings": {
+    "primary_key": [
+      "generation_id"
+    ],
+    "foreign_keys": {
+      "site_id": "sites.site_id"
+    }
+  },
+  "bills": {
+    "primary_key": [
+      "bill_id"
+    ],
+    "foreign_keys": {
+      "customer_id": "customers.customer_id"
+    }
+  }
+}
