@@ -1,0 +1,7 @@
+{
+  "last_successful_run_utc": "2026-07-13T04:59:02.081859+00:00",
+  "meter_reading_watermark": "2026-05-31 23:00:00",
+  "asset_telemetry_watermark": "2026-05-31 23:00:00",
+  "generation_watermark": "2026-05-31 23:00:00",
+  "status": "SUCCESS"
+}
