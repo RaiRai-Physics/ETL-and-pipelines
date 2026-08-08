@@ -1,6 +1,6 @@
-# Walmart-Style Omnichannel Retail ETL Project
+# Walmart Retail ETL Project
 
-This is a fully synthetic portfolio project inspired by big-box retail transaction patterns. It is **not official Walmart data** and does not represent Walmart internal systems.
+This is a fully synthetic project inspired by retail transaction patterns. It is **not official Walmart data** and does not represent Walmart internal systems.
 
 ## Business Scenario
 
@@ -35,7 +35,7 @@ Omnichannel marts + exceptions + reconciliation
 
 ## Scale
 
-The generated project contains 18 raw CSV datasets and tens of thousands of transaction-level rows. The Python pipeline is pre-run, so you can inspect gold outputs immediately.
+The project contains 18 raw CSV datasets and tens of thousands of transaction-level rows. 
 
 ## Key Engineering Features
 
@@ -112,6 +112,3 @@ pytest
 - `recon_pos_sales_vs_payments.csv`
 - exception reports for payment mismatches, stockouts, high-value baskets, suspicious returns, and late shipments.
 
-## Resume Bullet
-
-Built a production-style omnichannel retail ETL pipeline using Python, PySpark, and SQL to process POS, e-commerce, inventory, payment, returns, promotions, and CDC data; implemented SCD Type 2 dimensions, data-quality quarantine, reconciliation, inventory analytics, customer 360, and operational exception marts.
