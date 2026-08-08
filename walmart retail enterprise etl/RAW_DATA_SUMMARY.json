@@ -1,0 +1,20 @@
+{
+  "data/raw/cdc/customer_cdc.csv": 220,
+  "data/raw/cdc/price_cdc.csv": 150,
+  "data/raw/inventory/inventory_adjustments.csv": 800,
+  "data/raw/inventory/inventory_snapshots.csv": 20000,
+  "data/raw/master/associates.csv": 500,
+  "data/raw/master/customers.csv": 1801,
+  "data/raw/master/products.csv": 601,
+  "data/raw/master/promotions.csv": 60,
+  "data/raw/master/stores.csv": 25,
+  "data/raw/master/suppliers.csv": 80,
+  "data/raw/reference/calendar.csv": 181,
+  "data/raw/transactions/online_order_lines.csv": 6638,
+  "data/raw/transactions/online_orders.csv": 2200,
+  "data/raw/transactions/payments.csv": 9454,
+  "data/raw/transactions/pos_transaction_lines.csv": 31562,
+  "data/raw/transactions/pos_transactions.csv": 9001,
+  "data/raw/transactions/returns.csv": 600,
+  "data/raw/transactions/shipments.csv": 750
+}
