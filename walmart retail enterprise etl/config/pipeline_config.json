@@ -1,0 +1,15 @@
+{
+  "project_name": "walmart_style_retail_etl_project",
+  "environment": "local",
+  "bronze_path": "data/bronze/python",
+  "silver_path": "data/silver/python",
+  "quarantine_path": "data/quarantine/python",
+  "gold_path": "data/gold/python",
+  "report_path": "reports/python",
+  "metadata_path": "metadata",
+  "high_value_basket_threshold": 500,
+  "suspicious_return_rate_threshold": 0.35,
+  "low_stock_threshold": 5,
+  "payment_match_tolerance": 0.01,
+  "default_watermark": "1900-01-01 00:00:00"
+}
