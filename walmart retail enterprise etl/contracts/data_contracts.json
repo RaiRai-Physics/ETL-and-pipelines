@@ -1,0 +1,73 @@
+{
+  "products": {
+    "primary_key": [
+      "product_id"
+    ],
+    "foreign_keys": {
+      "supplier_id": "suppliers.supplier_id"
+    }
+  },
+  "associates": {
+    "primary_key": [
+      "associate_id"
+    ],
+    "foreign_keys": {
+      "store_id": "stores.store_id"
+    }
+  },
+  "pos_transactions": {
+    "primary_key": [
+      "transaction_id"
+    ],
+    "foreign_keys": {
+      "store_id": "stores.store_id",
+      "associate_id": "associates.associate_id"
+    }
+  },
+  "pos_transaction_lines": {
+    "primary_key": [
+      "transaction_line_id"
+    ],
+    "foreign_keys": {
+      "transaction_id": "pos_transactions.transaction_id",
+      "product_id": "products.product_id"
+    }
+  },
+  "payments": {
+    "primary_key": [
+      "payment_id"
+    ],
+    "foreign_keys": {
+      "transaction_id": "pos_transactions.transaction_id"
+    }
+  },
+  "online_orders": {
+    "primary_key": [
+      "online_order_id"
+    ],
+    "foreign_keys": {
+      "customer_id": "customers.customer_id",
+      "fulfillment_store_id": "stores.store_id"
+    }
+  },
+  "online_order_lines": {
+    "primary_key": [
+      "online_order_line_id"
+    ],
+    "foreign_keys": {
+      "online_order_id": "online_orders.online_order_id",
+      "product_id": "products.product_id"
+    }
+  },
+  "inventory_snapshots": {
+    "primary_key": [
+      "snapshot_date",
+      "store_id",
+      "product_id"
+    ],
+    "foreign_keys": {
+      "store_id": "stores.store_id",
+      "product_id": "products.product_id"
+    }
+  }
+}
