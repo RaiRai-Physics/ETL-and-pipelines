@@ -1,0 +1,7 @@
+{
+  "last_successful_run_utc": "2026-08-08T04:42:28.832649+00:00",
+  "pos_transaction_watermark": "2026-05-31 23:30:00",
+  "online_order_watermark": "2026-05-31 23:41:21",
+  "inventory_adjustment_watermark": "2026-05-31 23:39:57",
+  "status": "SUCCESS"
+}
