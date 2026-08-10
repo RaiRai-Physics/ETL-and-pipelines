@@ -1,0 +1,2 @@
+pipeline_name,run_timestamp_utc,raw_file_count,raw_total_rows,silver_total_rows,quarantine_total_rows,gold_table_count,status
+walmart_style_retail_etl_project,2026-08-08T04:42:28.831879+00:00,18,84623,84613,13126,29,SUCCESS

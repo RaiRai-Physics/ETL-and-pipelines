@@ -1,0 +1,150 @@
+table_name,column_name,blank_count,distinct_count,sample_values
+customer_cdc,cdc_id,0,220,CCDC0000001 | CCDC0000002 | CCDC0000003 | CCDC0000004 | CCDC0000005
+customer_cdc,customer_id,0,220,CUST00001713 | CUST00000880 | CUST00001610 | CUST00000094 | CUST00001500
+customer_cdc,effective_ts,0,220,2026-04-12 23:27:57 | 2026-04-09 09:35:43 | 2026-05-27 20:47:22 | 2026-04-05 00:01:23 | 2026-05-13 10:52:53
+customer_cdc,operation,0,1,UPDATE
+customer_cdc,new_loyalty_tier,0,4,Gold | Plus | Basic | Silver
+customer_cdc,new_active_flag,0,2,Y | N
+customer_cdc,change_reason,0,4,spend_review | customer_request | loyalty_upgrade | inactive_cleanup
+price_cdc,cdc_id,0,150,PCDC0000001 | PCDC0000002 | PCDC0000003 | PCDC0000004 | PCDC0000005
+price_cdc,product_id,0,150,SKU0000046 | SKU0000006 | SKU0000054 | SKU0000577 | SKU0000017
+price_cdc,effective_ts,0,150,2026-04-26 04:24:02 | 2026-05-17 12:56:14 | 2026-05-04 08:26:59 | 2026-04-19 16:53:39 | 2026-05-13 23:13:32
+price_cdc,operation,0,2,DISCONTINUE | UPDATE
+price_cdc,new_regular_price,0,150,870.94 | 793.16 | 201.61 | 30.20 | 92.77
+price_cdc,new_product_status,0,3,Active | Discontinued | Seasonal
+price_cdc,change_reason,0,4,market_price | rollback | clearance | vendor_cost_change
+inventory_adjustments,adjustment_id,0,800,ADJ00000001 | ADJ00000002 | ADJ00000003 | ADJ00000004 | ADJ00000005
+inventory_adjustments,store_id,0,26,STR0005 | STR0022 | STR0021 | STR0010 | STR0013
+inventory_adjustments,product_id,0,448,SKU0000349 | SKU0000418 | SKU0000321 | SKU0000071 | SKU0000310
+inventory_adjustments,adjustment_ts,0,800,2026-04-21 14:24:34 | 2026-04-07 08:17:38 | 2026-05-21 04:22:28 | 2026-05-11 12:07:42 | 2026-05-01 07:49:10
+inventory_adjustments,adjustment_qty,0,10,5 | 2 | 20 | -20 | 1
+inventory_adjustments,adjustment_reason,0,5,Damage | Found Inventory | Cycle Count | System Correction | Shrink
+inventory_adjustments,approved_by,167,5,mgr_1 | mgr_2 | inventory_lead |  | controller
+inventory_snapshots,snapshot_date,0,5,2026-04-01 | 2026-04-15 | 2026-05-01 | 2026-05-15 | 2026-05-31
+inventory_snapshots,store_id,0,25,STR0001 | STR0002 | STR0003 | STR0004 | STR0005
+inventory_snapshots,product_id,0,581,SKU0000122 | SKU0000499 | SKU0000298 | SKU0000088 | SKU0000487
+inventory_snapshots,on_hand_qty,0,502,182 | 400 | 392 | 410 | 293
+inventory_snapshots,reserved_qty,0,61,40 | 17 | 31 | 45 | 49
+inventory_snapshots,on_order_qty,0,201,195 | 81 | 92 | 110 | 56
+inventory_snapshots,reorder_point,0,5,10 | 30 | 75 | 20 | 50
+inventory_snapshots,safety_stock_qty,0,4,20 | 10 | 5 | 30
+inventory_snapshots,inventory_status,0,5,healthy | Overstock | Healthy | Low | Stockout
+associates,associate_id,0,500,ASC000001 | ASC000002 | ASC000003 | ASC000004 | ASC000005
+associates,store_id,0,26,STR0017 | STR0004 | STR0015 | STR0019 | STR0012
+associates,role,0,5,Cashier | Stock Associate | Store Manager | Customer Service | Department Lead
+associates,hire_date,0,468,2022-03-18 | 2021-05-01 | 2025-10-23 | 2021-08-25 | 2018-12-02
+associates,employment_status,0,4,Leave | Active | Terminated | active
+customers,customer_id,0,1800,CUST00000001 | CUST00000002 | CUST00000003 | CUST00000004 | CUST00000005
+customers,customer_name,0,1800,Taylor Brown 1 | Casey Brown 2 | Taylor Lee 3 | Jordan Kim 4 | Taylor Lee 5
+customers,email,10,1791,customer1@example.com | customer2@example.com | customer3@example.com | customer4@example.com | customer5@example.com
+customers,city,0,17,Aurora | Savannah | Austin | Seattle | Los Angeles
+customers,state,0,8,CO | GA | TX | WA | CA
+customers,region,0,4,West | South | Northeast | Midwest
+customers,signup_date,0,1503,2020-08-31 | 06/16/2022 | 08/09/2020 | 2025-06-07 | 2020-04-20
+customers,loyalty_tier,326,6,Basic | Plus |  | gold | Gold
+customers,household_size,229,8,bad | 5 | 4 | 1 | 
+customers,active_flag,0,4,Y | N | True | Yes
+products,product_id,0,600,SKU0000001 | SKU0000002 | SKU0000003 | SKU0000004 | SKU0000005
+products,upc,0,600,420876442491 | 793495953767 | 361933686194 | 750164815182 | 487344913586
+products,product_name,0,600,Premium Car Care Item 1 | Smart Bedding Item 2 | Family Decor Item 3 | Everyday Decor Item 4 | Everyday Storage Item 5
+products,department,0,11,Automotive | Home | Office | Apparel | Electronics
+products,subcategory,0,29,Car Care | Bedding | Decor | Storage | School Supplies
+products,brand,0,7,NorthPeak | GreatHome | UrbanBasics | HealthyYou | TechLine
+products,supplier_id,0,76,SUP00030 | SUP00036 | SUP00038 | SUP00003 | SUP00050
+products,standard_cost,3,594,252.44 | 428.69 | 167.55 | 262.75 | 58.85
+products,regular_price,0,598,332.22 | 1062.46 | 269.12 | 411.62 | 129.56
+products,tax_category,0,4,Food Exempt | Taxable | Pharmacy Exempt | taxable
+products,product_status,0,4,Active | Seasonal | Discontinued | active
+products,launch_date,0,565,2018-03-11 | 06/02/2020 | 06/04/2018 | 2024-03-02 | 2022-05-06
+promotions,promotion_id,0,60,PRM00001 | PRM00002 | PRM00003 | PRM00004 | PRM00005
+promotions,promotion_name,0,60,Rollback Campaign 1 | Percent Off Campaign 2 | Dollar Off Campaign 3 | Dollar Off Campaign 4 | Clearance Campaign 5
+promotions,promotion_type,0,5,Rollback | Percent Off | Dollar Off | Clearance | BOGO
+promotions,discount_value,0,5,15 | 20 | 5 | 10 | 25
+promotions,start_date,0,42,2026-03-01 | 2026-03-04 | 2026-03-09 | 2026-04-03 | 2026-05-12
+promotions,end_date,0,46,2026-03-15 | 2026-03-18 | 2026-03-23 | 2026-04-10 | 2026-05-19
+promotions,channel,0,3,Online | Omnichannel | Store
+promotions,active_flag,0,4,Y | Yes | N | 1
+stores,store_id,0,25,STR0001 | STR0002 | STR0003 | STR0004 | STR0005
+stores,store_name,0,25,Peoria Neighborhood Market 1 | Miami Supercenter 2 | Peoria Neighborhood Market 3 | Dallas Supercenter 4 | Sacramento Neighborhood Market 5
+stores,store_format,0,3,Neighborhood Market | Supercenter | Discount Store
+stores,city,0,14,Peoria | Miami | Dallas | Sacramento | Denver
+stores,state,0,8,IL | FL | TX | CA | CO
+stores,region,0,4,Midwest | South | West | Northeast
+stores,open_date,0,25,2005-08-11 | 2023-01-20 | 05/27/2019 | 02/25/2025 | 02/05/2015
+stores,square_feet,0,6,180000 | 120000 | 65000 | 45000 | 90000
+stores,active_flag,0,4,N | Y | Yes | 1
+suppliers,supplier_id,0,80,SUP00001 | SUP00002 | SUP00003 | SUP00004 | SUP00005
+suppliers,supplier_name,0,80,Value Supply 1 | Summit Supply 2 | North Supply 3 | Summit Supply 4 | Global Supply 5
+suppliers,country,0,6,CHN | USA | MEX | IND | CAN
+suppliers,supplier_tier,0,5,Backup | Strategic | Preferred | preferred | Standard
+suppliers,lead_time_days,8,9,7 | 30 |  | 3 | bad
+suppliers,on_time_rate,0,79,0.9151 | 0.8904 | 0.7593 | 0.8661 | 0.7640
+suppliers,defect_rate,1,77,0.0536 | 0.0587 | 0.0356 | 0.0380 | 0.0061
+suppliers,active_flag,0,4,1 | Y | N | Yes
+calendar,date_key,0,181,20260101 | 20260102 | 20260103 | 20260104 | 20260105
+calendar,calendar_date,0,181,2026-01-01 | 2026-01-02 | 2026-01-03 | 2026-01-04 | 2026-01-05
+calendar,year,0,1,2026
+calendar,quarter,0,2,1 | 2
+calendar,month,0,6,1 | 2 | 3 | 4 | 5
+calendar,week_of_year,0,27,1 | 2 | 3 | 4 | 5
+calendar,day_of_week,0,7,4 | 5 | 6 | 7 | 1
+calendar,is_weekend,0,2,N | Y
+calendar,is_holiday,0,2,Y | N
+online_order_lines,online_order_line_id,0,6638,OL0000000001 | OL0000000002 | OL0000000003 | OL0000000004 | OL0000000005
+online_order_lines,online_order_id,0,2200,WEB00000001 | WEB00000002 | WEB00000003 | WEB00000004 | WEB00000005
+online_order_lines,line_number,0,5,1 | 2 | 3 | 4 | 5
+online_order_lines,product_id,0,581,SKU0000575 | SKU0000405 | SKU0000199 | SKU0000116 | SKU0000539
+online_order_lines,quantity,938,6,1 | 2 | -1 | 3 | 4
+online_order_lines,unit_price,0,605,795.41 | 810.44 | 46.13 | 910.20 | 415.73
+online_order_lines,discount_amount,942,6,5 | 1 | 0 | 2 | bad
+online_order_lines,line_status,0,5,Shipped | Open | Cancelled | Allocated | Picked
+online_orders,online_order_id,0,2200,WEB00000001 | WEB00000002 | WEB00000003 | WEB00000004 | WEB00000005
+online_orders,customer_id,0,1270,CUST00000042 | CUST00001673 | CUST00000647 | CUST00000094 | CUST00000836
+online_orders,order_ts,0,2200,2026-04-15 08:47:10 | 2026-05-17 08:20:06 | 2026-05-20 20:51:49 | 2026-05-19 09:33:38 | 2026-05-09 01:58:36
+online_orders,fulfillment_type,0,3,Pickup | Delivery | Ship to Home
+online_orders,fulfillment_store_id,0,26,STR0001 | STR0009 | STR0011 | STR0006 | STR0021
+online_orders,order_status,0,7,Cancelled | Shipped | delivered | Placed | Processing
+online_orders,device_type,0,3,iOS | Web | Android
+payments,payment_id,0,9454,PAY000000001 | PAY000000002 | PAY000000003 | PAY000000004 | PAY000000005
+payments,transaction_id,0,8983,TXN000000001 | TXN000000002 | TXN000000003 | TXN000000004 | TXN000000005
+payments,payment_method,0,6,Mobile Pay | Cash | Debit Card | Credit Card | credit card
+payments,payment_status,0,4,Approved | Declined | approved | Reversed
+payments,payment_amount,0,8574,231.83 | 190.75 | 184.76 | 307.25 | 341.81
+pos_transaction_lines,transaction_line_id,0,31561,TL0000000001 | TL0000000002 | TL0000000003 | TL0000000004 | TL0000000005
+pos_transaction_lines,transaction_id,0,9000,TXN000000001 | TXN000000002 | TXN000000003 | TXN000000004 | TXN000000005
+pos_transaction_lines,line_number,0,6,1 | 2 | 3 | 4 | 5
+pos_transaction_lines,product_id,0,581,SKU0000410 | SKU0000115 | SKU0000201 | SKU0000336 | SKU0000042
+pos_transaction_lines,quantity,3180,7, | 1 | 4 | 2 | 3
+pos_transaction_lines,unit_price,170,3016,249.43 | 13.76 | 328.43 | 404.16 | 125.20
+pos_transaction_lines,regular_price,0,745,249.43 | 14.48 | 345.72 | 505.20 | 131.79
+pos_transaction_lines,promotion_id,27686,61, | PRM00051 | PRM00014 | PRM00050 | PRM00037
+pos_transaction_lines,coupon_amount,4464,6,1 | bad | 0 | 5 | 2
+pos_transaction_lines,tax_amount,0,9105,0.00 | 1.24 | 29.56 | 145.50 | 22.54
+pos_transaction_lines,line_status,0,3,Sold | Voided | sold
+pos_transactions,transaction_id,0,9000,TXN000000001 | TXN000000002 | TXN000000003 | TXN000000004 | TXN000000005
+pos_transactions,store_id,0,26,STR0016 | STR0009 | STR0012 | STR0013 | STR0014
+pos_transactions,register_id,0,28,REG012 | REG026 | REG022 | REG019 | REG006
+pos_transactions,associate_id,0,498,ASC000283 | ASC000245 | ASC000313 | ASC000435 | ASC000498
+pos_transactions,customer_id,2495,1751,CUST00001322 | CUST00000883 | CUST00000465 | CUST00000679 | CUST00000469
+pos_transactions,transaction_ts,0,8890,04/02/2026 20:32 | 2026-05-16 13:18:59 | 04/14/2026 11:04 | 2026-05-11 07:52:53 | 2026-05-11 19:45:27
+pos_transactions,transaction_type,0,3,SALE | VOID | sale
+pos_transactions,sales_channel,0,2,Pickup | Store
+pos_transactions,receipt_status,0,4,completed | Completed | Suspended | Voided
+pos_transactions,batch_id,0,3,POS_B | POS_C | POS_A
+returns,return_id,0,600,RET00000001 | RET00000002 | RET00000003 | RET00000004 | RET00000005
+returns,original_transaction_id,0,580,TXN000002830 | TXN000000520 | TXN000004685 | TXN000005975 | TXN000003258
+returns,transaction_line_id,0,594,TL0000009781 | TL0000001795 | TL0000016380 | TL0000020994 | TL0000011274
+returns,store_id,0,25,STR0007 | STR0024 | STR0002 | STR0025 | STR0004
+returns,product_id,0,374,SKU0000386 | SKU0000544 | SKU0000344 | SKU0000190 | SKU0000208
+returns,return_date,0,67,2026-04-15 | 2026-05-25 | 2026-04-11 | 2026-05-08 | 2026-04-20
+returns,return_qty,0,4,1 | 2 | 3 | bad
+returns,refund_amount,198,200, | bad | 112.97 | 187.33 | 121.93
+returns,return_reason,0,5,Changed Mind | Damaged | Price Adjustment | Wrong Item | Defective
+returns,return_status,0,4,Completed | completed | Rejected | Pending
+shipments,shipment_id,0,750,SHP00000009 | SHP00000010 | SHP00000012 | SHP00000018 | SHP00000021
+shipments,online_order_id,0,747,WEB00000009 | WEB00000010 | WEB00000012 | WEB00000018 | WEB00000021
+shipments,carrier,0,4,UPS | FedEx | Regional | USPS
+shipments,ship_ts,0,750,2026-05-21 19:14:46 | 2026-05-18 00:26:01 | 2026-05-14 10:12:34 | 2026-04-08 15:15:13 | 2026-04-04 04:34:06
+shipments,delivery_ts,20,731,2026-05-27 19:14:46 | 2026-05-19 00:26:01 | 2026-05-19 10:12:34 | 2026-04-15 15:15:13 | 2026-04-06 04:34:06
+shipments,shipping_cost,194,174, | free | 23.29 | bad | 3.74
+shipments,shipment_status,0,5,delivered | Delayed | Delivered | Lost | In Transit
