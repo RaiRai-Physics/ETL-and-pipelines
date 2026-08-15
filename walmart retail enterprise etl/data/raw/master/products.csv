@@ -1,0 +1,602 @@
+product_id,upc,product_name,department,subcategory,brand,supplier_id,standard_cost,regular_price,tax_category,product_status,launch_date
+SKU0000001,420876442491,Premium Car Care Item 1,Automotive,Car Care,NorthPeak,SUP00030,252.44,332.22,Food Exempt,Active,2018-03-11
+SKU0000002,793495953767,Smart Bedding Item 2,Home,Bedding,GreatHome,SUP00036,428.69,1062.46,Taxable,Seasonal,06/02/2020
+SKU0000003,361933686194,Family Decor Item 3,Home,Decor,UrbanBasics,SUP00038,167.55,269.12,Pharmacy Exempt,Active,06/04/2018
+SKU0000004,750164815182,Everyday Decor Item 4,Home,Decor,GreatHome,SUP00003,262.75,411.62,Food Exempt,Active,2024-03-02
+SKU0000005,487344913586,Everyday Storage Item 5,Home,Storage,UrbanBasics,SUP00050,58.85,129.56,Food Exempt,Active,2022-05-06
+SKU0000006,344037135175,Everyday School Supplies Item 6,Office,School Supplies,GreatHome,SUP00008,424.82,732.82,Pharmacy Exempt,Discontinued,2021-03-09
+SKU0000007,667128882108,Smart Shoes Item 7,Apparel,Shoes,GreatHome,SUP00048,174.80,378.86,Taxable,active ,2021-12-19
+SKU0000008,196817432775,Smart Computers Item 8,Electronics,Computers,HealthyYou,SUP00017,145.54,247.63,Taxable,Active,11/05/2019
+SKU0000009,949889426865,Everyday Produce Item 9,Grocery,Produce,HealthyYou,SUP00045,19.64,41.87,Pharmacy Exempt,active ,01/25/2020
+SKU0000010,517539968756,Family Men Item 10,Apparel,Men,NorthPeak,SUP00001,193.50,502.78,Pharmacy Exempt,Seasonal,05/17/2026
+SKU0000011,177427934372,Premium Stationery Item 11,Office,Stationery,HealthyYou,SUP00003,72.59,112.26,Food Exempt,Active,08/24/2022
+SKU0000012,831490914214,Classic Pharmacy Item 12,Health & Beauty,Pharmacy,UrbanBasics,SUP00057,393.69,895.36,Food Exempt,active ,2020-01-16
+SKU0000013,137882667007,Smart Pharmacy Item 13,Health & Beauty,Pharmacy,NorthPeak,SUP00025,191.56,343.89,Pharmacy Exempt,Active,08/23/2023
+SKU0000014,634765334223,Family Shoes Item 14,Apparel,Shoes,NorthPeak,SUP00017,140.55,357.47,taxable ,active ,2020-03-08
+SKU0000015,894319981521,Everyday Gaming Item 15,Electronics,Gaming,TechLine,SUP00066,10.84,12.63,Food Exempt,Discontinued,06/18/2025
+SKU0000016,150957226209,Classic Decor Item 16,Home,Decor,HealthyYou,SUP00001,294.07,579.13,taxable ,Discontinued,07/10/2025
+SKU0000017,147395284996,Smart Fitness Item 17,Sports,Fitness,NorthPeak,SUP00031,66.57,99.36,Food Exempt,active ,2021-07-23
+SKU0000018,855040992864,Value Kitchen Item 18,Home,Kitchen,TechLine,SUP00042,309.53,685.31,Food Exempt,Active,2024-12-05
+SKU0000019,966339181322,Everyday Pharmacy Item 19,Health & Beauty,Pharmacy,GreatHome,SUP00021,61.04,115.04,taxable ,Active,09/15/2024
+SKU0000020,172834573053,Everyday Printing Item 20,Office,Printing,GreatHome,SUP00027,329.36,812.30,Pharmacy Exempt,Active,2025-02-28
+SKU0000021,674740164761,Value Outdoor Item 21,Sports,Outdoor,HealthyYou,SUP00046,377.32,748.96,Food Exempt,Discontinued,07/03/2025
+SKU0000022,843267900659,Family Printing Item 22,Office,Printing,NorthPeak,SUP00049,185.15,269.66,Pharmacy Exempt,Discontinued,10/11/2018
+SKU0000023,646557166526,Everyday Gaming Item 23,Electronics,Gaming,TechLine,SUP00010,238.28,264.07,Pharmacy Exempt,Active,12/05/2023
+SKU0000024,582864521593,Family Fitness Item 24,Sports,Fitness,NorthPeak,SUP00044,223.46,349.75,Food Exempt,active ,12/13/2021
+SKU0000025,114958418698,Classic Tires Item 25,Automotive,Tires,TechLine,SUP00021,311.00,564.60,taxable ,Seasonal,07/06/2025
+SKU0000026,516113325880,Everyday Fitness Item 26,Sports,Fitness,GreatHome,SUP00048,167.33,354.26,Pharmacy Exempt,Active,2019-12-04
+SKU0000027,867822712012,Value Fitness Item 27,Sports,Fitness,TechLine,SUP00056,446.36,684.34,Pharmacy Exempt,Active,01/25/2022
+SKU0000028,379969289787,Value Produce Item 28,Grocery,Produce,ValuePlus,SUP00048,241.93,320.01,Pharmacy Exempt,active ,02/26/2018
+SKU0000029,884595515051,Smart School Supplies Item 29,Office,School Supplies,GreatHome,SUP00068,419.05,532.01,taxable ,Discontinued,12/04/2020
+SKU0000030,308237909186,Classic Computers Item 30,Electronics,Computers,HealthyYou,SUP00074,149.20,341.80,Food Exempt,Discontinued,08/14/2020
+SKU0000031,675429381719,Family School Supplies Item 31,Office,School Supplies,HealthyYou,SUP00002,196.94,289.05,Pharmacy Exempt,Active,09/04/2019
+SKU0000032,295449382718,Family School Supplies Item 32,Office,School Supplies,HealthyYou,SUP00025,134.43,308.29,Pharmacy Exempt,Discontinued,2019-07-15
+SKU0000033,787213467567,Classic Kitchen Item 33,Home,Kitchen,HealthyYou,SUP00009,437.33,711.31,Taxable,Active,2024-03-30
+SKU0000034,494986332586,Family Women Item 34,Apparel,Women,ValuePlus,SUP00056,20.42,54.75,Food Exempt,Discontinued,09/04/2020
+SKU0000035,115000316672,Smart Wellness Item 35,Health & Beauty,Wellness,TechLine,SUP00012,172.98,231.61,Food Exempt,Active,2018-05-31
+SKU0000036,748963113994,Classic Dairy Item 36,Grocery,Dairy,HealthyYou,SUP00006,80.10,110.17,taxable ,Active,10/26/2022
+SKU0000037,574593920538,Family Shoes Item 37,Apparel,Shoes,HealthyYou,SUP00001,143.95,166.08,Food Exempt,Discontinued,04/26/2026
+SKU0000038,881061565366,Value Audio Item 38,Electronics,Audio,NorthPeak,SUP00014,376.01,914.63,taxable ,Seasonal,04/20/2019
+SKU0000039,714707972151,Classic Audio Item 39,Electronics,Audio,UrbanBasics,SUP00049,83.24,132.22,taxable ,Seasonal,02/05/2022
+SKU0000040,299039772586,Value Fitness Item 40,Sports,Fitness,GreatHome,SUP00036,59.19,124.99,Taxable,Seasonal,2022-06-11
+SKU0000041,520729507246,Family Pantry Item 41,Grocery,Pantry,GreatHome,SUP00023,152.46,177.60,Pharmacy Exempt,Discontinued,2025-08-21
+SKU0000042,807714826450,Everyday Printing Item 42,Office,Printing,TechLine,SUP00001,117.28,131.79,Taxable,Active,2023-05-30
+SKU0000043,508002046455,Smart Kids Item 43,Apparel,Kids,UrbanBasics,SUP00062,303.25,563.66,Food Exempt,active ,05/16/2023
+SKU0000044,695016071167,Family Bedding Item 44,Home,Bedding,HealthyYou,SUP00042,397.67,836.26,Food Exempt,Active,2022-05-16
+SKU0000045,489190490011,Family Pantry Item 45,Grocery,Pantry,TechLine,SUP00012,392.40,943.16,taxable ,active ,07/21/2018
+SKU0000046,972673983105,Smart Pantry Item 46,Grocery,Pantry,HealthyYou,SUP00059,329.67,790.95,taxable ,active ,2020-06-23
+SKU0000047,753693111531,Family Men Item 47,apparel,Men,FreshWay,SUP00010,11.17,21.74,taxable ,Active,06/09/2019
+SKU0000048,834497305775,Classic Storage Item 48,Home,Storage,TechLine,SUP00003,378.70,888.44,Pharmacy Exempt,Active,2020-05-18
+SKU0000049,946649982901,Premium Bedding Item 49,Home,Bedding,ValuePlus,SUP00061,447.38,761.14,Pharmacy Exempt,active ,04/25/2026
+SKU0000050,621422856407,Premium Outdoor Item 50,Sports,Outdoor,HealthyYou,SUP00004,427.63,565.87,Pharmacy Exempt,Seasonal,2023-01-24
+SKU0000051,120900611975,Everyday Kitchen Item 51,Home,Kitchen,TechLine,SUP00037,36.76,49.06,Food Exempt,Active,09/06/2020
+SKU0000052,473436668855,Family Pharmacy Item 52,Health & Beauty,Pharmacy,FreshWay,SUP00028,196.43,342.09,Pharmacy Exempt,Discontinued,02/14/2024
+SKU0000053,764280459429,Value Frozen Item 53,Grocery,Frozen,NorthPeak,SUP00004,107.60,276.92,Pharmacy Exempt,Seasonal,2020-01-05
+SKU0000054,270644790339,Everyday Kids Item 54,Apparel,Kids,ValuePlus,SUP00024,78.52,208.20,Food Exempt,active ,11/22/2018
+SKU0000055,197387244623,Premium Shoes Item 55,Apparel,Shoes,ValuePlus,SUP00062,31.30,63.35,Pharmacy Exempt,Discontinued,01/17/2026
+SKU0000056,360150858192,Classic Personal Care Item 56,Health & Beauty,Personal Care,GreatHome,SUP00031,252.23,501.32,Taxable,Seasonal,04/20/2024
+SKU0000057,858473404170,Smart Pharmacy Item 57,Health & Beauty,Pharmacy,UrbanBasics,SUP00067,112.21,208.40,Pharmacy Exempt,Active,2021-11-15
+SKU0000058,856531909625,Smart Men Item 58,Apparel,Men,UrbanBasics,SUP00034,311.48,834.85,Pharmacy Exempt,Discontinued,2022-08-13
+SKU0000059,981329577583,Family Accessories Item 59,Electronics,Accessories,NorthPeak,SUP00019,207.31,420.24,Taxable,active ,03/31/2023
+SKU0000060,559160644200,Everyday Cycling Item 60,Sports,Cycling,HealthyYou,SUP00074,394.22,897.42,taxable ,Active,2024-03-10
+SKU0000061,670754309504,Value Men Item 61,Apparel,Men,TechLine,SUP00013,83.47,165.97,Food Exempt,Discontinued,2023-08-09
+SKU0000062,985485413131,Premium Dairy Item 62,Grocery,Dairy,ValuePlus,SUP00071,324.53,366.28,Pharmacy Exempt,Active,03/15/2021
+SKU0000063,468517431453,Smart Accessories Item 63,Automotive,Accessories,GreatHome,SUP00028,412.24,997.81,Pharmacy Exempt,Seasonal,05/13/2022
+SKU0000064,914612198313,Everyday Fitness Item 64,Sports,Fitness,TechLine,SUP00071,17.75,23.81,Food Exempt,Discontinued,2019-03-23
+SKU0000065,361774249792,Family Audio Item 65,Electronics,Audio,GreatHome,SUP00066,115.06,174.66,Pharmacy Exempt,active ,2025-03-08
+SKU0000066,871134129751,Value Audio Item 66,Electronics,Audio,UrbanBasics,SUP00046,402.01,651.90,Food Exempt,Discontinued,2018-06-09
+SKU0000067,963252454789,Premium Shoes Item 67,Apparel,Shoes,FreshWay,SUP00043,303.81,774.41,Taxable,Discontinued,12/11/2024
+SKU0000068,680255304439,Value Women Item 68,Apparel,Women,ValuePlus,SUP00048,179.94,202.94,taxable ,Active,09/03/2019
+SKU0000069,552039792438,Smart Men Item 69,Apparel,Men,UrbanBasics,SUP00014,399.05,545.82,taxable ,Discontinued,2024-02-25
+SKU0000070,666255709111,Family Decor Item 70,Home,Decor,NorthPeak,SUP00033,166.15,293.15,Taxable,active ,07/04/2018
+SKU0000071,786381903472,Smart Shoes Item 71,Apparel,Shoes,NorthPeak,SUP00010,230.32,454.76,Taxable,Seasonal,12/07/2020
+SKU0000072,154906711138,Value Produce Item 72,Grocery,Produce,GreatHome,SUP00041,334.64,697.80,Pharmacy Exempt,Active,2023-06-09
+SKU0000073,467699401682,Smart Outdoor Item 73,Sports,Outdoor,ValuePlus,SUP00058,295.92,399.91,Taxable,Active,2020-07-12
+SKU0000074,960850286590,Premium Kitchen Item 74,Home,Kitchen,NorthPeak,SUP00064,339.33,418.22,Pharmacy Exempt,Discontinued,2024-04-08
+SKU0000075,907124559742,Premium Fitness Item 75,Sports,Fitness,NorthPeak,SUP00070,95.23,215.49,Food Exempt,Active,2021-01-28
+SKU0000076,767388073060,Value Personal Care Item 76,Health & Beauty,Personal Care,HealthyYou,SUP00035,297.80,376.92,Food Exempt,active ,04/12/2025
+SKU0000077,360248294123,Premium Stationery Item 77,Office,Stationery,TechLine,SUP00002,436.01,1163.09,Food Exempt,Discontinued,05/05/2023
+SKU0000078,533976087952,Value Outdoor Item 78,Sports,Outdoor,UrbanBasics,SUP00015,26.96,46.70,Taxable,Discontinued,2021-06-16
+SKU0000079,253066898302,Smart School Supplies Item 79,Office,School Supplies,FreshWay,SUP00052,284.51,745.80,Pharmacy Exempt,active ,07/29/2018
+SKU0000080,492721064576,Smart Computers Item 80,Electronics,Computers,HealthyYou,SUP00041,310.58,433.14,Pharmacy Exempt,active ,09/24/2019
+SKU0000081,888528553929,Smart Women Item 81,Apparel,Women,TechLine,SUP00070,199.39,528.22,Pharmacy Exempt,Active,10/13/2021
+SKU0000082,713643922069,Family Kids Item 82,Apparel,Kids,UrbanBasics,SUP00031,189.35,367.62,taxable ,active ,2025-12-18
+SKU0000083,957990701068,Smart Pantry Item 83,Grocery,Pantry,TechLine,SUP00052,241.61,501.55,Pharmacy Exempt,Active,2019-01-04
+SKU0000084,456216810912,Everyday Gaming Item 84,Electronics,Gaming,HealthyYou,SUP00074,208.61,444.18,taxable ,Active,07/27/2024
+SKU0000085,566306077424,Premium Accessories Item 85,Automotive,Accessories,HealthyYou,SUP00029,152.60,372.20,Taxable,Seasonal,07/07/2020
+SKU0000086,641966777004,Premium Accessories Item 86,Electronics,Accessories,NorthPeak,SUP00032,326.28,609.71,Taxable,Seasonal,09/16/2020
+SKU0000087,921265060780,Value Storage Item 87,Home,Storage,ValuePlus,SUP00011,237.92,640.94,taxable ,active ,2022-07-07
+SKU0000088,775886995146,Smart Audio Item 88,Electronics,Audio,HealthyYou,SUP00055,389.68,475.62,Food Exempt,active ,03/07/2024
+SKU0000089,372178053057,Classic Accessories Item 89,Automotive,Accessories,HealthyYou,SUP00075,56.99,137.95,Food Exempt,Discontinued,07/07/2018
+SKU0000090,467734041921,Premium Bedding Item 90,Home,Bedding,NorthPeak,SUP00009,309.03,710.58,Pharmacy Exempt,Discontinued,06/08/2024
+SKU0000091,629197598595,Everyday Kids Item 91,Apparel,Kids,TechLine,SUP00007,83.66,190.56,Pharmacy Exempt,active ,10/20/2019
+SKU0000092,961211771329,Value Beverages Item 92,Grocery,Beverages,ValuePlus,SUP00013,305.94,417.78,Pharmacy Exempt,active ,2023-10-18
+SKU0000093,209571932275,Smart Pantry Item 93,Grocery,Pantry,GreatHome,SUP00026,366.92,881.36,Taxable,Discontinued,2026-04-30
+SKU0000094,839223526771,Family Accessories Item 94,Automotive,Accessories,UrbanBasics,SUP00055,36.27,90.52,taxable ,Active,2023-03-26
+SKU0000095,374923427567,Premium Stationery Item 95,Office,Stationery,GreatHome,SUP00053,216.54,325.16,Food Exempt,Seasonal,2018-03-13
+SKU0000096,153989019448,Value Storage Item 96,Home,Storage,NorthPeak,SUP00016,38.83,83.21,taxable ,active ,2024-05-03
+SKU0000097,180696267986,Family Computers Item 97,Electronics,Computers,TechLine,SUP00013,434.37,619.42,Food Exempt,Seasonal,2023-06-19
+SKU0000098,116285812536,Classic Fitness Item 98,Sports,Fitness,HealthyYou,SUP00065,36.33,58.75,Pharmacy Exempt,Active,03/24/2018
+SKU0000099,358205212187,Premium Shoes Item 99,Apparel,Shoes,FreshWay,SUP00029,30.06,79.39,taxable ,Active,05/22/2020
+SKU0000100,225887342825,Value Decor Item 100,Home,Decor,ValuePlus,SUP00022,90.97,151.55,Taxable,active ,07/03/2019
+SKU0000101,818880996303,Everyday Printing Item 101,Office,Printing,FreshWay,SUP00042,344.70,730.64,Pharmacy Exempt,Seasonal,2025-09-13
+SKU0000102,918340413439,Value Stationery Item 102,Office,Stationery,NorthPeak,SUP00047,209.18,418.37,Food Exempt,Active,2019-02-07
+SKU0000103,558639684410,Premium Storage Item 103,Home,Storage,UrbanBasics,SUP00040,195.77,421.57,Food Exempt,Seasonal,2025-06-06
+SKU0000104,839963280476,Smart Pharmacy Item 104,Health & Beauty,Pharmacy,UrbanBasics,SUP00066,329.91,843.04,Pharmacy Exempt,active ,2020-02-24
+SKU0000105,462459045997,Everyday Bedding Item 105,Home,Bedding,GreatHome,SUP00009,127.37,162.00,Pharmacy Exempt,Seasonal,2023-01-09
+SKU0000106,811001570918,Premium Storage Item 106,Home,Storage,HealthyYou,SUP00075,27.83,43.63,Taxable,active ,2021-07-03
+SKU0000107,596289303463,Smart Men Item 107,Apparel,Men,GreatHome,SUP00024,324.95,486.66,Pharmacy Exempt,Active,2021-08-07
+SKU0000108,421289179328,Premium Produce Item 108,Grocery,Produce,GreatHome,SUP00062,235.40,601.15,taxable ,Seasonal,2018-10-04
+SKU0000109,787316921715,Value Men Item 109,Apparel,Men,FreshWay,SUP00002,382.09,874.15,Pharmacy Exempt,Discontinued,2021-12-19
+SKU0000110,329476725863,Everyday Kids Item 110,Apparel,Kids,ValuePlus,SUP00052,383.96,611.54,taxable ,Seasonal,08/15/2019
+SKU0000111,197107625076,Classic Decor Item 111,Home,Decor,TechLine,SUP00002,298.38,557.52,Food Exempt,Active,2019-12-26
+SKU0000112,188406954968,Family Tires Item 112,Automotive,Tires,NorthPeak,SUP00037,184.22,314.02,Food Exempt,Discontinued,2025-08-10
+SKU0000113,598971503219,Classic Kids Item 113,Apparel,Kids,GreatHome,SUP00026,220.12,313.01,taxable ,Discontinued,11/15/2025
+SKU0000114,437535756918,Value Audio Item 114,Electronics,Audio,NorthPeak,SUP00060,165.57,233.27,Food Exempt,Seasonal,12/06/2021
+SKU0000115,677166778798,Smart Printing Item 115,Office,Printing,UrbanBasics,SUP00074,10.18,14.48,Food Exempt,Discontinued,2018-01-08
+SKU0000116,233828186633,Value Printing Item 116,Office,Printing,HealthyYou,SUP00031,419.57,910.20,Food Exempt,Discontinued,04/08/2026
+SKU0000117,454901067000,Premium Women Item 117,Apparel,Women,HealthyYou,SUP00029,436.75,1135.60,Pharmacy Exempt,Seasonal,09/04/2023
+SKU0000118,835156677330,Value Kitchen Item 118,Home,Kitchen,NorthPeak,SUP00035,221.26,545.00,taxable ,active ,09/21/2024
+SKU0000119,530326555882,Everyday Tires Item 119,Automotive,Tires,UrbanBasics,SUP00012,359.64,400.66,Food Exempt,Active,2019-05-14
+SKU0000120,447029097360,Premium Pharmacy Item 120,Health & Beauty,Pharmacy,TechLine,SUP00069,304.15,401.12,Food Exempt,Seasonal,2025-08-22
+SKU0000121,592995755173,Everyday Wellness Item 121,Health & Beauty,Wellness,UrbanBasics,SUP00050,127.42,bad,Pharmacy Exempt,active ,03/05/2024
+SKU0000122,464916223227,Classic Kitchen Item 122,Home,Kitchen,TechLine,SUP00047,261.16,466.78,Food Exempt,Seasonal,12/16/2022
+SKU0000123,155858760664,Everyday Gaming Item 123,Electronics,Gaming,ValuePlus,SUP00015,70.55,96.72,Taxable,Discontinued,2019-02-25
+SKU0000124,208487751324,Family Cosmetics Item 124,Health & Beauty,Cosmetics,FreshWay,SUP00006,398.69,749.94,Taxable,Discontinued,2019-03-06
+SKU0000125,783681714342,Everyday Outdoor Item 125,Sports,Outdoor,ValuePlus,SUP00061,239.97,482.59,Taxable,Discontinued,2021-07-05
+SKU0000126,157579841487,Family Bedding Item 126,Home,Bedding,ValuePlus,SUP00047,241.86,465.60,Food Exempt,Discontinued,2021-06-07
+SKU0000127,625527284931,Classic Kitchen Item 127,Home,Kitchen,ValuePlus,SUP00010,395.27,551.32,Food Exempt,Active,2024-01-06
+SKU0000128,210875233179,Premium Shoes Item 128,Apparel,Shoes,FreshWay,SUP00010,379.28,883.53,Pharmacy Exempt,active ,2022-10-30
+SKU0000129,456466811735,Premium Pharmacy Item 129,Health & Beauty,Pharmacy,TechLine,SUP00074,423.68,642.00,Food Exempt,active ,2022-05-12
+SKU0000130,935931891659,Smart Cycling Item 130,Sports,Cycling,TechLine,SUP00067,317.31,686.38,Pharmacy Exempt,Seasonal,2022-01-08
+SKU0000131,972376097166,Classic Accessories Item 131,Automotive,Accessories,HealthyYou,SUP00065,234.41,397.27,taxable ,Discontinued,2019-08-18
+SKU0000132,692477167395,Value Cycling Item 132,Sports,Cycling,HealthyYou,SUP00071,64.20,72.62,Taxable,Active,2020-10-17
+SKU0000133,369184408936,Classic Cosmetics Item 133,Health & Beauty,Cosmetics,ValuePlus,SUP00037,235.28,591.50,taxable ,active ,2020-11-27
+SKU0000134,416392948029,Premium Personal Care Item 134,Health & Beauty,Personal Care,HealthyYou,SUP00046,395.71,512.89,Taxable,Discontinued,09/25/2023
+SKU0000135,660187694133,Value School Supplies Item 135,Office,School Supplies,UrbanBasics,SUP00065,65.65,78.16,taxable ,Active,07/29/2023
+SKU0000136,533599618499,Everyday Decor Item 136,Home,Decor,UrbanBasics,SUP00029,256.97,558.45,Taxable,Active,08/14/2021
+SKU0000137,680975899872,Everyday Fitness Item 137,Sports,Fitness,NorthPeak,SUP00074,179.67,352.75,Food Exempt,Active,2021-11-26
+SKU0000138,696155902970,Smart Audio Item 138,Electronics,Audio,NorthPeak,SUP00001,159.41,394.84,Taxable,Active,10/31/2022
+SKU0000139,249090871748,Classic Outdoor Item 139,Sports,Outdoor,NorthPeak,SUP00044,332.16,768.63,taxable ,Discontinued,05/08/2019
+SKU0000140,885177957938,Classic Accessories Item 140,Electronics,Accessories,HealthyYou,SUP00055,188.03,477.46,Taxable,active ,07/11/2025
+SKU0000141,744022342312,Classic Printing Item 141,Office,Printing,ValuePlus,SUP00017,420.78,593.87,Food Exempt,Discontinued,2020-10-11
+SKU0000142,911833739377,Smart Accessories Item 142,Automotive,Accessories,NorthPeak,SUP00022,324.44,518.66,taxable ,Discontinued,2026-05-20
+SKU0000143,542730641237,Premium Kids Item 143,Apparel,Kids,FreshWay,SUP00020,247.83,661.18,Pharmacy Exempt,active ,03/19/2026
+SKU0000144,328939290541,Classic Pharmacy Item 144,Health & Beauty,Pharmacy,NorthPeak,SUP00012,416.10,552.42,Taxable,Discontinued,2020-02-21
+SKU0000145,944194635140,Value Gaming Item 145,Electronics,Gaming,TechLine,SUP00011,224.85,450.89,taxable ,active ,2019-11-30
+SKU0000146,271710150988,Smart Fitness Item 146,Sports,Fitness,TechLine,SUP00075,33.43,42.14,Pharmacy Exempt,active ,02/26/2019
+SKU0000147,940264260323,Family Shoes Item 147,Apparel,Shoes,GreatHome,SUP00065,304.51,473.33,Pharmacy Exempt,active ,02/15/2020
+SKU0000148,775173385232,Premium Personal Care Item 148,Health & Beauty,Personal Care,TechLine,SUP00034,263.36,504.39,Taxable,Discontinued,2022-10-10
+SKU0000149,911723020607,Family Storage Item 149,Home,Storage,HealthyYou,SUP00007,338.75,843.59,Taxable,Seasonal,2020-06-13
+SKU0000150,346928205903,Smart Pantry Item 150,Grocery,Pantry,NorthPeak,SUP00057,437.57,1180.75,taxable ,Seasonal,2023-03-11
+SKU0000151,932254470980,Smart Accessories Item 151,Electronics,Accessories,FreshWay,SUP00018,241.40,377.52,taxable ,Seasonal,2025-11-13
+SKU0000152,316522039031,Smart Car Care Item 152,Automotive,Car Care,GreatHome,SUP00007,299.11,471.64,Food Exempt,active ,2022-09-25
+SKU0000153,984874664519,Premium Decor Item 153,Home,Decor,GreatHome,SUP00061,87.35,191.97,taxable ,Discontinued,2018-03-29
+SKU0000154,524670994496,Value Kitchen Item 154,Home,Kitchen,UrbanBasics,SUP00017,78.49,111.76,Taxable,active ,12/12/2022
+SKU0000155,919244185920,Value Personal Care Item 155,Health & Beauty,Personal Care,GreatHome,SUP00016,336.34,403.07,Taxable,Discontinued,2020-09-13
+SKU0000156,202180580056,Premium Bedding Item 156,Home,Bedding,UrbanBasics,SUP00049,326.81,464.17,taxable ,Discontinued,2025-11-11
+SKU0000157,919555045346,Value Gaming Item 157,Electronics,Gaming,GreatHome,SUP00072,411.15,486.13,Food Exempt,active ,2019-09-08
+SKU0000158,437642678252,Classic Kids Item 158,Apparel,Kids,FreshWay,SUP00030,107.29,142.05,Taxable,active ,2024-09-09
+SKU0000159,613987365211,Value Men Item 159,Apparel,Men,HealthyYou,SUP00037,209.78,563.01,Pharmacy Exempt,Seasonal,2019-06-12
+SKU0000160,999129340375,Premium Women Item 160,Apparel,Women,ValuePlus,SUP00024,439.98,665.27,Food Exempt,active ,04/13/2025
+SKU0000161,623116974409,Classic Kids Item 161,Apparel,Kids,ValuePlus,SUP00044,418.75,562.10,Taxable,Discontinued,2018-06-22
+SKU0000162,549044697622,Premium Women Item 162,Apparel,Women,HealthyYou,SUP00069,161.93,326.52,Food Exempt,Discontinued,2022-08-08
+SKU0000163,826891236982,Everyday Audio Item 163,Electronics,Audio,NorthPeak,SUP00020,202.72,462.78,Taxable,Seasonal,2018-03-23
+SKU0000164,304712127389,Family Shoes Item 164,Apparel,Shoes,NorthPeak,SUP00009,321.07,714.59,Pharmacy Exempt,Seasonal,2019-11-22
+SKU0000165,671949636051,Smart Frozen Item 165,Grocery,Frozen,ValuePlus,SUP00024,328.59,577.01,Pharmacy Exempt,active ,2025-03-26
+SKU0000166,268547500905,Family Computers Item 166,Electronics,Computers,HealthyYou,SUP00061,125.51,155.22,Food Exempt,Seasonal,2026-05-02
+SKU0000167,484165645078,Everyday Stationery Item 167,Office,Stationery,ValuePlus,SUP00073,314.67,721.50,Taxable,Active,2023-06-04
+SKU0000168,752733914711,Everyday Car Care Item 168,Automotive,Car Care,GreatHome,SUP00043,292.27,635.65,taxable ,Seasonal,01/05/2018
+SKU0000169,257205238627,Value Computers Item 169,Electronics,Computers,GreatHome,SUP00017,332.89,445.53,taxable ,active ,11/02/2024
+SKU0000170,188142068321,Family Personal Care Item 170,Health & Beauty,Personal Care,GreatHome,SUP00001,327.23,371.22,Taxable,active ,2018-08-14
+SKU0000171,177155572001,Value Kitchen Item 171,Home,Kitchen,UrbanBasics,SUP00012,344.60,442.68,Food Exempt,Active,2020-12-27
+SKU0000172,588573776190,Everyday Accessories Item 172,Electronics,Accessories,ValuePlus,SUP00042,112.00,283.45,Pharmacy Exempt,Active,10/06/2018
+SKU0000173,824069589765,Smart Decor Item 173,Home,Decor,ValuePlus,SUP00075,116.05,230.48,taxable ,active ,2018-07-31
+SKU0000174,611685686047,Premium Decor Item 174,Home,Decor,FreshWay,SUP00048,231.23,498.93,taxable ,Seasonal,10/08/2023
+SKU0000175,342060293312,Family Bedding Item 175,Home,Bedding,FreshWay,SUP00032,366.71,980.41,Pharmacy Exempt,Active,11/04/2022
+SKU0000176,889578061855,Premium Men Item 176,Apparel,Men,UrbanBasics,SUP00009,314.52,507.04,Taxable,Discontinued,2022-03-10
+SKU0000177,351073692725,Premium Wellness Item 177,Health & Beauty,Wellness,UrbanBasics,SUP00047,26.37,70.95,Pharmacy Exempt,Discontinued,2025-09-30
+SKU0000178,923113474214,Family Fitness Item 178,Sports,Fitness,GreatHome,SUP00028,404.99,924.12,Pharmacy Exempt,active ,04/01/2026
+SKU0000179,284079204986,Value Men Item 179,Apparel,Men,TechLine,SUP00037,239.25,501.88,taxable ,Active,2020-01-31
+SKU0000180,950799993734,Premium Gaming Item 180,Electronics,Gaming,HealthyYou,SUP00015,234.00,408.40,taxable ,Seasonal,2022-05-17
+SKU0000181,833861465307,Classic Frozen Item 181,Grocery,Frozen,TechLine,SUP00052,73.96,198.31,Taxable,Discontinued,2022-12-08
+SKU0000182,605368340463,Smart School Supplies Item 182,Office,School Supplies,HealthyYou,SUP00003,338.91,708.99,Taxable,Active,03/27/2019
+SKU0000183,748929203744,Everyday Cosmetics Item 183,Health & Beauty,Cosmetics,FreshWay,SUP00029,442.34,750.79,Pharmacy Exempt,active ,09/25/2023
+SKU0000184,282033020831,Classic Wellness Item 184,Health & Beauty,Wellness,ValuePlus,SUP00026,338.10,757.42,Food Exempt,Discontinued,2018-05-21
+SKU0000185,290460100603,Smart School Supplies Item 185,Office,School Supplies,ValuePlus,SUP00046,65.65,129.15,Food Exempt,active ,2019-02-22
+SKU0000186,124219542168,Value Outdoor Item 186,Sports,Outdoor,UrbanBasics,SUP00017,197.57,368.53,Taxable,active ,01/25/2026
+SKU0000187,548310318226,Family Kids Item 187,Apparel,Kids,HealthyYou,SUP00031,146.14,179.90,Pharmacy Exempt,Discontinued,03/01/2024
+SKU0000188,432044365189,Smart Tires Item 188,Automotive,Tires,GreatHome,SUP00011,422.26,1056.55,Taxable,Seasonal,05/02/2019
+SKU0000189,130607475302,Everyday Beverages Item 189,Grocery,Beverages,TechLine,SUP00067,132.35,241.14,Pharmacy Exempt,Seasonal,2020-03-27
+SKU0000190,900743100617,Value Cycling Item 190,Sports,Cycling,ValuePlus,SUP00021,211.47,351.52,Pharmacy Exempt,Seasonal,2024-04-08
+SKU0000191,787036049096,Smart Cycling Item 191,Sports,Cycling,HealthyYou,SUP00038,142.97,356.17,Taxable,active ,02/15/2018
+SKU0000192,465349751010,Premium Kids Item 192,Apparel,Kids,GreatHome,SUP00012,236.67,611.62,Taxable,Seasonal,2020-03-19
+SKU0000193,888140171000,Value Printing Item 193,Office,Printing,NorthPeak,SUP00067,446.84,674.80,Pharmacy Exempt,active ,2020-02-19
+SKU0000194,453012984910,Premium Wellness Item 194,Health & Beauty,Wellness,ValuePlus,SUP00004,239.83,281.87,Food Exempt,Discontinued,06/12/2023
+SKU0000195,841206075845,Premium Produce Item 195,Grocery,Produce,ValuePlus,SUP00002,408.85,838.72,Taxable,Active,08/12/2020
+SKU0000196,583372627157,Family Produce Item 196,Grocery,Produce,ValuePlus,SUP00069,267.88,442.02,Pharmacy Exempt,Active,02/12/2025
+SKU0000197,916617671977,Smart Outdoor Item 197,Sports,Outdoor,UrbanBasics,SUP00041,402.55,718.88,Pharmacy Exempt,Discontinued,2024-10-26
+SKU0000198,467526715558,Everyday Frozen Item 198,Grocery,Frozen,GreatHome,SUP00026,48.50,60.77,Food Exempt,active ,2025-10-21
+SKU0000199,770052377413,Value School Supplies Item 199,Office,School Supplies,TechLine,SUP00016,18.42,46.13,Food Exempt,Active,09/16/2023
+SKU0000200,905682340976,Value Computers Item 200,Electronics,Computers,GreatHome,SUP_BAD,351.50,631.21,Pharmacy Exempt,Active,2025-07-14
+SKU0000201,195151207255,Premium Decor Item 201,Home,Decor,FreshWay,SUP00045,313.66,345.72,Food Exempt,Discontinued,2024-12-04
+SKU0000202,895280225393,Smart Outdoor Item 202,Sports,Outdoor,GreatHome,SUP00016,297.36,507.12,Pharmacy Exempt,Seasonal,2023-01-04
+SKU0000203,686240561366,Value Car Care Item 203,Automotive,Car Care,NorthPeak,SUP00029,362.92,864.55,Pharmacy Exempt,Discontinued,01/02/2020
+SKU0000204,786850777081,Premium Storage Item 204,Home,Storage,ValuePlus,SUP00033,238.95,627.47,taxable ,Active,10/16/2022
+SKU0000205,730475068319,Premium Accessories Item 205,Automotive,Accessories,HealthyYou,SUP00009,74.38,108.28,Food Exempt,active ,2019-12-31
+SKU0000206,958271783556,Classic Women Item 206,Apparel,Women,ValuePlus,SUP00031,299.49,548.65,Taxable,active ,2023-09-06
+SKU0000207,298047513642,Premium Printing Item 207,Office,Printing,HealthyYou,SUP00067,279.18,541.74,Pharmacy Exempt,Seasonal,2019-01-16
+SKU0000208,479248112408,Smart Tires Item 208,Automotive,Tires,NorthPeak,SUP00036,123.53,145.43,Pharmacy Exempt,Active,04/05/2018
+SKU0000209,821746183370,Classic Cosmetics Item 209,Health & Beauty,Cosmetics,HealthyYou,SUP_BAD,198.43,331.76,Pharmacy Exempt,Discontinued,08/01/2021
+SKU0000210,698479199113,Premium Bedding Item 210,Home,Bedding,HealthyYou,SUP00048,97.44,129.37,Food Exempt,Discontinued,2023-05-01
+SKU0000211,732225974440,Smart Stationery Item 211,Office,Stationery,GreatHome,SUP00014,244.77,512.10,Food Exempt,Active,06/26/2022
+SKU0000212,916771101777,Family Dairy Item 212,Grocery,Dairy,TechLine,SUP00028,251.54,417.54,taxable ,Active,2022-12-27
+SKU0000213,616827293000,Premium Printing Item 213,Office,Printing,FreshWay,SUP00042,422.84,1021.27,Pharmacy Exempt,Active,03/30/2024
+SKU0000214,846733081793,Classic Car Care Item 214,Automotive,Car Care,TechLine,SUP00017,316.87,491.09,Pharmacy Exempt,active ,2020-02-10
+SKU0000215,107337890419,Value Cycling Item 215,Sports,Cycling,ValuePlus,SUP00074,386.72,872.80,taxable ,Discontinued,03/12/2018
+SKU0000216,277511888599,Value Fitness Item 216,Sports,Fitness,ValuePlus,SUP00006,292.62,601.59,Pharmacy Exempt,active ,12/29/2021
+SKU0000217,568888695198,Value Tires Item 217,Automotive,Tires,GreatHome,SUP00038,256.51,513.46,Food Exempt,Active,11/06/2023
+SKU0000218,333473046895,Premium Tires Item 218,Automotive,Tires,UrbanBasics,SUP00008,336.59,388.94,Taxable,active ,08/15/2018
+SKU0000219,677390959578,Classic Accessories Item 219,Electronics,Accessories,GreatHome,SUP00037,388.26,802.89,Pharmacy Exempt,Active,2023-12-03
+SKU0000220,752320159916,Classic Car Care Item 220,Automotive,Car Care,GreatHome,SUP00003,243.05,383.12,Taxable,Active,11/19/2025
+SKU0000221,226989578296,Value Accessories Item 221,Automotive,Accessories,UrbanBasics,SUP00064,317.99,426.23,Food Exempt,Discontinued,11/28/2020
+SKU0000222,297689283815,Value Car Care Item 222,Automotive,Car Care,NorthPeak,SUP00071,207.19,504.98,Taxable,Discontinued,02/08/2020
+SKU0000223,348849914068,Everyday Printing Item 223,Office,Printing,FreshWay,SUP00021,448.35,908.65,taxable ,Seasonal,10/03/2018
+SKU0000224,669252836715,Smart Audio Item 224,Electronics,Audio,ValuePlus,SUP00032,181.56,281.48,Pharmacy Exempt,Discontinued,11/19/2024
+SKU0000225,344097167246,Family Women Item 225,Apparel,Women,FreshWay,SUP00029,392.34,458.74,Pharmacy Exempt,active ,01/08/2020
+SKU0000226,979687063407,Everyday Pharmacy Item 226,Health & Beauty,Pharmacy,FreshWay,SUP00046,101.49,212.68,Taxable,Seasonal,2019-12-27
+SKU0000227,100020871131,Classic Kids Item 227,Apparel,Kids,TechLine,SUP00062,171.66,226.59,Taxable,Seasonal,09/16/2025
+SKU0000228,220854702013,Premium Cosmetics Item 228,Health & Beauty,Cosmetics,ValuePlus,SUP00045,163.86,374.33,Taxable,Discontinued,2019-05-02
+SKU0000229,797469342625,Classic Accessories Item 229,Electronics,Accessories,UrbanBasics,SUP00024,417.86,905.99,taxable ,active ,05/12/2023
+SKU0000230,146390307922,Family Stationery Item 230,Office,Stationery,HealthyYou,SUP00023,204.28,541.24,Food Exempt,Seasonal,08/13/2024
+SKU0000231,422724669103,Value Cycling Item 231,Sports,Cycling,UrbanBasics,SUP00030,168.96,328.79,Pharmacy Exempt,Active,08/12/2019
+SKU0000232,666461427062,Premium Tires Item 232,Automotive,Tires,TechLine,SUP00005,398.61,461.17,Food Exempt,Seasonal,10/13/2020
+SKU0000233,374469881026,Smart Pharmacy Item 233,Health & Beauty,Pharmacy,GreatHome,SUP00012,315.26,741.96,Food Exempt,Seasonal,05/23/2022
+SKU0000234,678691676675,Classic Wellness Item 234,Health & Beauty,Wellness,ValuePlus,SUP00011,242.63,534.08,Taxable,Active,2026-05-20
+SKU0000235,322834381734,Premium Dairy Item 235,Grocery,Dairy,ValuePlus,SUP00007,178.65,234.88,Taxable,Seasonal,05/20/2021
+SKU0000236,753413647146,Everyday Storage Item 236,Home,Storage,FreshWay,SUP00035,64.05,70.14,Taxable,Active,2021-05-11
+SKU0000237,444302334706,Value Outdoor Item 237,Sports,Outdoor,HealthyYou,SUP00034,380.53,892.35,Food Exempt,Discontinued,2018-01-19
+SKU0000238,709296838289,Value Men Item 238,Apparel,Men,UrbanBasics,SUP00049,263.73,682.92,Pharmacy Exempt,Seasonal,2025-04-16
+SKU0000239,400577019148,Family Kids Item 239,Apparel,Kids,ValuePlus,SUP00004,123.88,211.81,taxable ,active ,10/30/2025
+SKU0000240,411019653756,Smart Personal Care Item 240,Health & Beauty,Personal Care,TechLine,SUP00069,282.05,439.36,Taxable,Discontinued,12/29/2024
+SKU0000241,436981565712,Smart Cosmetics Item 241,Health & Beauty,Cosmetics,GreatHome,SUP00032,33.71,bad,Taxable,Active,04/18/2018
+SKU0000242,530396838456,Smart Women Item 242,Apparel,Women,ValuePlus,SUP00050,4.84,12.72,Pharmacy Exempt,active ,02/06/2018
+SKU0000243,783344678202,Everyday Pantry Item 243,Grocery,Pantry,GreatHome,SUP00030,91.29,136.35,Food Exempt,active ,2023-04-29
+SKU0000244,393857211024,Premium Women Item 244,Apparel,Women,FreshWay,SUP00073,284.65,434.65,taxable ,Seasonal,02/14/2025
+SKU0000245,454769708267,Value Frozen Item 245,Grocery,Frozen,TechLine,SUP00013,305.79,378.16,taxable ,Discontinued,01/29/2024
+SKU0000246,140635925296,Everyday Printing Item 246,Office,Printing,FreshWay,SUP00023,109.33,188.87,Food Exempt,Discontinued,2023-03-25
+SKU0000247,428955576630,Family Accessories Item 247,Electronics,Accessories,ValuePlus,SUP00022,314.81,423.85,Taxable,Seasonal,08/01/2024
+SKU0000248,829332208205,Family Car Care Item 248,Automotive,Car Care,GreatHome,SUP00031,284.10,411.14,Food Exempt,Seasonal,2023-07-08
+SKU0000249,280458484169,Premium Shoes Item 249,Apparel,Shoes,TechLine,SUP00054,40.42,104.50,Taxable,Seasonal,2025-01-19
+SKU0000250,271797275618,Family Pharmacy Item 250,Health & Beauty,Pharmacy,UrbanBasics,SUP00027,,328.34,Taxable,Discontinued,2020-05-12
+SKU0000251,397056659691,Family Cycling Item 251,Sports,Cycling,UrbanBasics,SUP00067,301.63,380.38,Food Exempt,Active,07/15/2020
+SKU0000252,954317706101,Everyday Men Item 252,Apparel,Men,UrbanBasics,SUP00045,36.31,64.86,taxable ,Seasonal,11/21/2022
+SKU0000253,966805474510,Smart Accessories Item 253,Electronics,Accessories,TechLine,SUP00059,348.46,779.26,taxable ,Active,2025-03-09
+SKU0000254,379823590826,Smart Women Item 254,Apparel,Women,GreatHome,SUP00020,188.76,285.81,Food Exempt,active ,2023-01-28
+SKU0000255,121338130267,Classic Fitness Item 255,Sports,Fitness,HealthyYou,SUP00049,204.44,483.13,Food Exempt,Discontinued,01/10/2022
+SKU0000256,384228032853,Premium Bedding Item 256,Home,Bedding,HealthyYou,SUP00028,252.64,580.40,Pharmacy Exempt,Seasonal,02/04/2022
+SKU0000257,127550964005,Everyday Printing Item 257,Office,Printing,TechLine,SUP00034,348.92,789.30,Food Exempt,Seasonal,2022-06-01
+SKU0000258,119935214673,Family Men Item 258,Apparel,Men,FreshWay,SUP00074,92.38,170.31,Pharmacy Exempt,active ,2020-09-15
+SKU0000259,140255228979,Family Storage Item 259,Home,Storage,NorthPeak,SUP00004,22.79,31.00,Food Exempt,active ,2023-03-28
+SKU0000260,623218072670,Everyday Fitness Item 260,Sports,Fitness,HealthyYou,SUP00050,244.03,305.67,Pharmacy Exempt,active ,09/30/2023
+SKU0000261,924871154713,Everyday Fitness Item 261,Sports,Fitness,NorthPeak,SUP00070,241.76,315.85,Pharmacy Exempt,Discontinued,01/31/2022
+SKU0000262,538252071001,Classic Stationery Item 262,Office,Stationery,GreatHome,SUP00047,73.17,103.67,Food Exempt,Discontinued,01/10/2019
+SKU0000263,403589002350,Classic Stationery Item 263,Office,Stationery,FreshWay,SUP00026,46.66,99.40,Taxable,Discontinued,01/06/2018
+SKU0000264,543721740522,Smart Kids Item 264,Apparel,Kids,TechLine,SUP00001,102.47,125.80,Taxable,Seasonal,2018-08-07
+SKU0000265,622099514460,Classic Kitchen Item 265,Home,Kitchen,UrbanBasics,SUP00015,174.54,215.52,Taxable,active ,2024-04-05
+SKU0000266,962706250633,Classic Fitness Item 266,Sports,Fitness,GreatHome,SUP00007,99.84,238.34,Pharmacy Exempt,Seasonal,03/25/2019
+SKU0000267,358201170506,Everyday Stationery Item 267,Office,Stationery,HealthyYou,SUP00050,53.94,85.77,Food Exempt,active ,07/20/2023
+SKU0000268,867611002111,Value Shoes Item 268,Apparel,Shoes,TechLine,SUP00054,374.94,431.07,Food Exempt,Active,2025-01-19
+SKU0000269,881224384180,Everyday Car Care Item 269,Automotive,Car Care,TechLine,SUP00054,126.78,197.54,Food Exempt,Active,05/07/2022
+SKU0000270,308318295965,Classic Kitchen Item 270,Home,Kitchen,UrbanBasics,SUP00051,157.30,302.32,Taxable,Seasonal,2020-08-02
+SKU0000271,794224705320,Premium Pharmacy Item 271,Health & Beauty,Pharmacy,GreatHome,SUP00015,406.41,861.62,Pharmacy Exempt,active ,2021-08-23
+SKU0000272,342665987682,Smart Audio Item 272,Electronics,Audio,NorthPeak,SUP00047,43.87,93.35,Pharmacy Exempt,Seasonal,09/24/2025
+SKU0000273,412041391680,Family Storage Item 273,Home,Storage,ValuePlus,SUP00024,177.50,326.38,Taxable,active ,2025-04-27
+SKU0000274,251881475724,Everyday Tires Item 274,Automotive,Tires,HealthyYou,SUP00022,36.36,58.67,Food Exempt,active ,12/26/2019
+SKU0000275,492361214987,Premium Personal Care Item 275,Health & Beauty,Personal Care,GreatHome,SUP00005,419.98,964.64,Pharmacy Exempt,active ,10/24/2018
+SKU0000276,537176668896,Smart Pantry Item 276,Grocery,Pantry,TechLine,SUP00073,367.69,418.45,taxable ,Seasonal,03/06/2023
+SKU0000277,182398789872,Smart Men Item 277,Apparel,Men,FreshWay,SUP00066,107.46,244.44,Pharmacy Exempt,Discontinued,11/25/2024
+SKU0000278,417846732514,Classic Tires Item 278,Automotive,Tires,UrbanBasics,SUP00017,371.25,597.37,Food Exempt,Active,2021-08-23
+SKU0000279,310693707720,Everyday Shoes Item 279,Apparel,Shoes,FreshWay,SUP00014,306.18,648.89,taxable ,Discontinued,03/25/2025
+SKU0000280,543468975415,Value Printing Item 280,Office,Printing,TechLine,SUP00012,53.06,59.18,Pharmacy Exempt,active ,2018-02-16
+SKU0000281,599406867725,Premium Fitness Item 281,Sports,Fitness,NorthPeak,SUP00014,314.05,780.39,Taxable,Discontinued,2022-03-01
+SKU0000282,776168675022,Family Car Care Item 282,Automotive,Car Care,ValuePlus,SUP00011,424.41,558.61,taxable ,active ,2019-10-05
+SKU0000283,558465832612,Everyday Kids Item 283,Apparel,Kids,GreatHome,SUP00043,372.27,540.31,Food Exempt,Discontinued,09/15/2025
+SKU0000284,963726717382,Value Storage Item 284,Home,Storage,HealthyYou,SUP00024,208.44,389.78,taxable ,active ,2023-03-08
+SKU0000285,969317630502,Smart School Supplies Item 285,Office,School Supplies,HealthyYou,SUP00056,147.22,381.71,taxable ,Discontinued,03/01/2022
+SKU0000286,654144155436,Family Kitchen Item 286,Home,Kitchen,NorthPeak,SUP00018,292.43,579.21,Taxable,Discontinued,01/25/2024
+SKU0000287,866219860092,Premium Printing Item 287,Office,Printing,ValuePlus,SUP00048,92.38,200.59,Pharmacy Exempt,Seasonal,12/12/2025
+SKU0000288,792585983992,Value Storage Item 288,Home,Storage,UrbanBasics,SUP00029,141.23,292.40,taxable ,Active,08/14/2023
+SKU0000289,453106373602,Everyday Fitness Item 289,Sports,Fitness,HealthyYou,SUP00024,406.88,942.08,taxable ,Seasonal,2021-04-27
+SKU0000290,717416516863,Value Tires Item 290,Automotive,Tires,UrbanBasics,SUP00018,68.11,106.66,Food Exempt,active ,2021-01-25
+SKU0000291,146609440077,Value Decor Item 291,Home,Decor,TechLine,SUP00072,210.18,370.09,Food Exempt,Discontinued,10/03/2018
+SKU0000292,281764579292,Everyday Cosmetics Item 292,Health & Beauty,Cosmetics,ValuePlus,SUP00047,74.77,119.04,Pharmacy Exempt,active ,2018-12-04
+SKU0000293,725650257621,Classic Kitchen Item 293,Home,Kitchen,GreatHome,SUP00005,376.82,786.60,Taxable,Seasonal,01/18/2026
+SKU0000294,763832843530,Premium Pantry Item 294,Grocery,Pantry,HealthyYou,SUP00075,89.25,170.43,Pharmacy Exempt,active ,2024-05-16
+SKU0000295,960060142804,Smart Tires Item 295,Automotive,Tires,TechLine,SUP00056,146.27,326.51,Food Exempt,active ,2024-04-04
+SKU0000296,618528271500,Family Fitness Item 296,Sports,Fitness,ValuePlus,SUP00066,266.73,377.31,taxable ,Discontinued,01/13/2018
+SKU0000297,301623293477,Everyday Stationery Item 297,Office,Stationery,GreatHome,SUP00055,164.21,250.67,Pharmacy Exempt,active ,09/22/2025
+SKU0000298,915124193774,Classic Audio Item 298,Electronics,Audio,FreshWay,SUP00057,146.80,287.32,Taxable,Active,10/21/2022
+SKU0000299,354635814266,Premium Cosmetics Item 299,Health & Beauty,Cosmetics,ValuePlus,SUP00045,19.56,27.89,Taxable,active ,2023-06-19
+SKU0000300,695207507389,Premium Kitchen Item 300,Home,Kitchen,UrbanBasics,SUP00071,390.62,604.68,Pharmacy Exempt,Active,2023-11-11
+SKU0000301,688443695562,Smart Cosmetics Item 301,Health & Beauty,Cosmetics,TechLine,SUP00052,111.44,143.85,Pharmacy Exempt,Active,2023-02-27
+SKU0000302,340333806360,Everyday Car Care Item 302,Automotive,Car Care,UrbanBasics,SUP00063,7.36,8.30,taxable ,Discontinued,2025-07-22
+SKU0000303,738956698399,Premium School Supplies Item 303,Office,School Supplies,NorthPeak,SUP00072,129.08,283.37,Food Exempt,active ,2024-01-16
+SKU0000304,218081140266,Everyday Decor Item 304,Home,Decor,GreatHome,SUP00003,335.09,586.29,taxable ,active ,05/15/2020
+SKU0000305,803184839269,Premium Cycling Item 305,Sports,Cycling,TechLine,SUP00041,356.84,416.71,Taxable,Discontinued,2025-09-12
+SKU0000306,235938992874,Smart Accessories Item 306,Electronics,Accessories,UrbanBasics,SUP00011,236.41,555.51,Food Exempt,Seasonal,08/08/2021
+SKU0000307,220439006451,Premium Cycling Item 307,Sports,Cycling,TechLine,SUP00008,222.47,293.76,Pharmacy Exempt,active ,2020-03-11
+SKU0000308,606397887278,Premium Men Item 308,Apparel,Men,NorthPeak,SUP00063,212.19,497.51,taxable ,Active,2021-09-07
+SKU0000309,169429875673,Premium Bedding Item 309,Home,Bedding,NorthPeak,SUP00038,203.55,420.75,Taxable,Seasonal,2020-06-11
+SKU0000310,489112566141,Value Kids Item 310,Apparel,Kids,TechLine,SUP00017,107.07,278.57,Taxable,active ,10/04/2024
+SKU0000311,143855971294,Everyday Kitchen Item 311,Home,Kitchen,ValuePlus,SUP00002,134.34,205.50,taxable ,Active,09/05/2019
+SKU0000312,368071845375,Value Men Item 312,Apparel,Men,ValuePlus,SUP00063,199.42,340.27,Pharmacy Exempt,Discontinued,07/27/2021
+SKU0000313,589924676006,Everyday Gaming Item 313,Electronics,Gaming,HealthyYou,SUP00051,31.59,77.02,taxable ,Active,03/03/2020
+SKU0000314,933180267606,Family Stationery Item 314,Office,Stationery,TechLine,SUP00004,45.88,53.34,taxable ,Discontinued,02/08/2023
+SKU0000315,803893985315,Smart Pharmacy Item 315,Health & Beauty,Pharmacy,ValuePlus,SUP00028,197.72,481.09,Food Exempt,Discontinued,2020-10-05
+SKU0000316,638060858863,Family Produce Item 316,Grocery,Produce,NorthPeak,SUP00014,395.15,483.36,taxable ,Active,01/28/2026
+SKU0000317,787385337374,Everyday Outdoor Item 317,Sports,Outdoor,NorthPeak,SUP00009,72.82,95.59,taxable ,Active,04/30/2024
+SKU0000318,467886159575,Classic Car Care Item 318,Automotive,Car Care,NorthPeak,SUP00023,81.19,93.25,Taxable,Seasonal,05/03/2022
+SKU0000319,623181779404,Classic Fitness Item 319,Sports,Fitness,TechLine,SUP00057,442.30,547.30,Food Exempt,Active,2021-04-05
+SKU0000320,492096490674,Family Audio Item 320,Electronics,Audio,FreshWay,SUP00046,21.42,56.10,Food Exempt,Seasonal,2019-03-12
+SKU0000321,852464080048,Everyday Cosmetics Item 321,Health & Beauty,Cosmetics,ValuePlus,SUP00070,138.64,309.90,taxable ,Discontinued,05/19/2025
+SKU0000322,902777023990,Premium Accessories Item 322,Electronics,Accessories,NorthPeak,SUP00053,319.73,836.44,Pharmacy Exempt,active ,01/01/2026
+SKU0000323,505202649845,Everyday Accessories Item 323,Electronics,Accessories,ValuePlus,SUP00057,295.42,325.52,taxable ,Seasonal,11/04/2021
+SKU0000324,727334239901,Smart Kids Item 324,Apparel,Kids,FreshWay,SUP00055,105.33,268.84,taxable ,Active,2023-10-27
+SKU0000325,207105265395,Family School Supplies Item 325,Office,School Supplies,HealthyYou,SUP00013,248.11,537.91,taxable ,Discontinued,2024-03-05
+SKU0000326,393369910595,Family Men Item 326,Apparel,Men,ValuePlus,SUP00042,137.56,255.75,taxable ,Seasonal,2020-04-20
+SKU0000327,278542794901,Family Accessories Item 327,Automotive,Accessories,HealthyYou,SUP00002,338.13,806.92,Pharmacy Exempt,Discontinued,02/14/2021
+SKU0000328,209503024897,Value Personal Care Item 328,Health & Beauty,Personal Care,UrbanBasics,SUP00024,337.06,827.24,Food Exempt,Active,04/29/2020
+SKU0000329,626886507853,Everyday Fitness Item 329,Sports,Fitness,TechLine,SUP00033,327.16,869.20,Pharmacy Exempt,Discontinued,07/17/2021
+SKU0000330,653853169057,Premium Shoes Item 330,Apparel,Shoes,ValuePlus,SUP00073,15.02,19.00,Pharmacy Exempt,Active,05/22/2021
+SKU0000331,840594233777,Everyday Men Item 331,Apparel,Men,GreatHome,SUP00044,88.32,206.99,Pharmacy Exempt,Seasonal,03/19/2023
+SKU0000332,365688754166,Premium Women Item 332,Apparel,Women,TechLine,SUP00048,239.10,461.54,Pharmacy Exempt,Discontinued,2022-12-01
+SKU0000333,855488252540,Smart Decor Item 333,Home,Decor,GreatHome,SUP00055,95.21,205.47,Taxable,Discontinued,10/22/2019
+SKU0000334,375480377081,Value Shoes Item 334,Apparel,Shoes,NorthPeak,SUP00050,301.52,472.46,taxable ,active ,2026-05-13
+SKU0000335,221189375277,Everyday Men Item 335,Apparel,Men,UrbanBasics,SUP00017,219.15,437.19,taxable ,active ,2021-11-29
+SKU0000336,252011185748,Premium Outdoor Item 336,Sports,Outdoor,ValuePlus,SUP00036,299.87,505.20,Pharmacy Exempt,Active,06/25/2024
+SKU0000337,777314209989,Everyday Cosmetics Item 337,Health & Beauty,Cosmetics,UrbanBasics,SUP00065,284.73,678.01,Taxable,Active,2022-08-11
+SKU0000338,586238344787,Value Pharmacy Item 338,Health & Beauty,Pharmacy,NorthPeak,SUP00066,401.18,705.63,Food Exempt,Discontinued,06/07/2025
+SKU0000339,768199967092,Classic Outdoor Item 339,Sports,Outdoor,TechLine,SUP00022,57.59,73.79,Taxable,active ,2019-05-14
+SKU0000340,917711193586,Classic Fitness Item 340,Sports,Fitness,HealthyYou,SUP00031,378.20,674.52,Food Exempt,Seasonal,2024-09-29
+SKU0000341,271838051971,Value Pharmacy Item 341,Health & Beauty,Pharmacy,UrbanBasics,SUP00005,87.10,208.79,Food Exempt,Active,01/08/2021
+SKU0000342,184323529651,Everyday Accessories Item 342,Electronics,Accessories,GreatHome,SUP00013,82.02,194.40,Taxable,active ,2020-10-01
+SKU0000343,112645134446,Value Car Care Item 343,Automotive,Car Care,TechLine,SUP00069,368.75,440.04,Food Exempt,Seasonal,07/02/2020
+SKU0000344,551554940309,Smart Men Item 344,Apparel,Men,TechLine,SUP00001,27.79,43.43,taxable ,active ,2021-08-10
+SKU0000345,296769722789,Value Printing Item 345,Office,Printing,HealthyYou,SUP00048,226.96,322.74,taxable ,Seasonal,2023-01-10
+SKU0000346,624270246360,Value Pantry Item 346,Grocery,Pantry,ValuePlus,SUP00004,146.73,254.59,Food Exempt,Discontinued,2025-03-19
+SKU0000347,462401495092,Smart Stationery Item 347,Office,Stationery,UrbanBasics,SUP00035,111.96,261.01,taxable ,active ,2024-09-22
+SKU0000348,903828861739,Value Men Item 348,Apparel,Men,TechLine,SUP00025,200.44,465.11,Food Exempt,Discontinued,01/04/2019
+SKU0000349,168105923655,Classic Gaming Item 349,Electronics,Gaming,ValuePlus,SUP00065,36.61,87.84,Pharmacy Exempt,active ,03/03/2026
+SKU0000350,636433711240,Value Fitness Item 350,Sports,Fitness,HealthyYou,SUP00073,69.66,94.95,Taxable,Active,2022-09-25
+SKU0000351,863015640612,Everyday Cycling Item 351,Sports,Cycling,TechLine,SUP00054,8.91,11.23,Pharmacy Exempt,Discontinued,2021-12-15
+SKU0000352,670357103877,Family Computers Item 352,Electronics,Computers,GreatHome,SUP00041,361.58,819.41,Food Exempt,Seasonal,2022-01-22
+SKU0000353,489550593780,Everyday Audio Item 353,Electronics,Audio,NorthPeak,SUP00003,19.05,41.39,Food Exempt,Active,2024-05-22
+SKU0000354,279059417832,Classic Car Care Item 354,Automotive,Car Care,GreatHome,SUP00029,237.30,440.41,taxable ,Seasonal,07/06/2024
+SKU0000355,750111060497,Smart Dairy Item 355,Grocery,Dairy,FreshWay,SUP00059,409.78,942.53,Food Exempt,Seasonal,2021-02-03
+SKU0000356,355848411493,Everyday School Supplies Item 356,Office,School Supplies,TechLine,SUP00014,200.54,327.80,Food Exempt,Discontinued,05/08/2021
+SKU0000357,709417894710,Family Pantry Item 357,Grocery,Pantry,HealthyYou,SUP00039,394.13,808.29,Food Exempt,Active,12/11/2018
+SKU0000358,841056318846,Classic Outdoor Item 358,Sports,Outdoor,ValuePlus,SUP00067,248.43,402.63,Taxable,Seasonal,12/04/2020
+SKU0000359,426551723231,Classic Tires Item 359,Automotive,Tires,FreshWay,SUP00053,363.67,508.18,Taxable,Seasonal,2025-05-12
+SKU0000360,135763961804,Premium Printing Item 360,office,Printing,TechLine,SUP00035,186.55,419.16,taxable ,Discontinued,06/08/2024
+SKU0000361,935183992530,Premium Shoes Item 361,Apparel,Shoes,TechLine,SUP00011,126.26,227.24,Taxable,Discontinued,06/05/2023
+SKU0000362,730343999721,Everyday School Supplies Item 362,Office,School Supplies,NorthPeak,SUP00038,255.42,580.18,Taxable,Active,2025-08-11
+SKU0000363,803755139592,Classic Printing Item 363,Office,Printing,NorthPeak,SUP00068,253.64,644.09,Taxable,Active,2020-03-22
+SKU0000364,377469591455,Premium Pantry Item 364,Grocery,Pantry,UrbanBasics,SUP00052,29.39,60.14,Pharmacy Exempt,active ,2022-09-01
+SKU0000365,594944126469,Family Accessories Item 365,Electronics,Accessories,FreshWay,SUP00048,111.25,256.04,Taxable,Discontinued,10/01/2023
+SKU0000366,591859781075,Smart Accessories Item 366,Automotive,Accessories,TechLine,SUP00058,206.14,463.80,taxable ,Active,09/08/2023
+SKU0000367,881947341509,Classic Cycling Item 367,Sports,Cycling,FreshWay,SUP00020,337.35,727.13,Taxable,active ,2019-05-04
+SKU0000368,380462344674,Everyday Storage Item 368,Home,Storage,TechLine,SUP00060,62.29,159.98,Food Exempt,active ,04/10/2022
+SKU0000369,409199714491,Premium Stationery Item 369,Office,Stationery,NorthPeak,SUP00053,161.50,222.99,taxable ,active ,05/25/2019
+SKU0000370,699621685603,Classic Personal Care Item 370,Health & Beauty,Personal Care,TechLine,SUP00030,19.48,47.03,taxable ,Discontinued,2024-06-14
+SKU0000371,718596992634,Value Fitness Item 371,Sports,Fitness,TechLine,SUP00011,205.93,488.92,Pharmacy Exempt,Seasonal,02/04/2020
+SKU0000372,506468589915,Value Outdoor Item 372,Sports,Outdoor,NorthPeak,SUP00063,115.16,184.18,Taxable,active ,2025-03-11
+SKU0000373,244387507814,Smart Kitchen Item 373,Home,Kitchen,TechLine,SUP00071,85.39,180.92,Pharmacy Exempt,active ,2019-07-25
+SKU0000374,135538140833,Value Decor Item 374,Home,Decor,HealthyYou,SUP00043,347.60,798.12,Pharmacy Exempt,Discontinued,2023-12-12
+SKU0000375,484034856754,Smart Cycling Item 375,Sports,Cycling,NorthPeak,SUP00044,220.19,491.34,Food Exempt,Discontinued,08/11/2022
+SKU0000376,599239160285,Classic Kitchen Item 376,Home,Kitchen,NorthPeak,SUP00053,404.75,438.30,taxable ,active ,2021-01-23
+SKU0000377,212189266418,Value Kids Item 377,Apparel,Kids,UrbanBasics,SUP00005,60.68,104.96,taxable ,Active,07/26/2023
+SKU0000378,707554565527,Value Accessories Item 378,Automotive,Accessories,TechLine,SUP00071,297.58,490.30,Pharmacy Exempt,Active,2022-10-10
+SKU0000379,417429447250,Smart Stationery Item 379,Office,Stationery,UrbanBasics,SUP00021,257.74,572.14,Food Exempt,Active,2026-05-11
+SKU0000380,857409520991,Everyday Storage Item 380,Home,Storage,TechLine,SUP00014,156.58,321.76,Taxable,Discontinued,2019-02-17
+SKU0000381,561784370100,Classic Beverages Item 381,Grocery,Beverages,FreshWay,SUP00026,372.51,958.36,taxable ,Seasonal,2020-05-02
+SKU0000382,530318571583,Classic Car Care Item 382,Automotive,Car Care,FreshWay,SUP00038,356.17,956.23,Food Exempt,Seasonal,11/25/2022
+SKU0000383,453803231507,Family Cycling Item 383,Sports,Cycling,FreshWay,SUP00050,266.15,502.89,Food Exempt,Seasonal,2024-03-06
+SKU0000384,612485271858,Premium Bedding Item 384,Home,Bedding,GreatHome,SUP00067,326.41,492.81,Pharmacy Exempt,Active,2023-06-21
+SKU0000385,561939810431,Classic Produce Item 385,Grocery,Produce,UrbanBasics,SUP00018,46.36,61.66,taxable ,active ,2020-05-18
+SKU0000386,458746833533,Everyday Cosmetics Item 386,Health & Beauty,Cosmetics,NorthPeak,SUP00006,350.70,722.33,Food Exempt,Active,10/29/2022
+SKU0000387,448700040059,Family Printing Item 387,Office,Printing,FreshWay,SUP00070,38.23,99.52,Taxable,active ,2025-03-05
+SKU0000388,878942756823,Premium Frozen Item 388,Grocery,Frozen,GreatHome,SUP00012,288.63,600.62,Food Exempt,Active,2024-04-23
+SKU0000389,622713782873,Classic Men Item 389,Apparel,Men,FreshWay,SUP00005,406.60,811.46,taxable ,Active,06/18/2023
+SKU0000390,241528199481,Premium Dairy Item 390,Grocery,Dairy,TechLine,SUP00065,138.38,249.82,Taxable,active ,12/07/2021
+SKU0000391,939200425968,Value Audio Item 391,Electronics,Audio,UrbanBasics,SUP00060,61.17,144.03,Food Exempt,active ,2025-08-29
+SKU0000392,286990428811,Classic Stationery Item 392,Office,Stationery,HealthyYou,SUP00016,414.06,469.03,Pharmacy Exempt,Seasonal,2020-10-01
+SKU0000393,710712778971,Classic Tires Item 393,Automotive,Tires,TechLine,SUP00032,424.18,485.09,Pharmacy Exempt,Active,2026-01-28
+SKU0000394,800372656693,Classic Fitness Item 394,Sports,Fitness,UrbanBasics,SUP00005,375.68,889.10,Pharmacy Exempt,Discontinued,03/29/2023
+SKU0000395,466102217394,Premium Cycling Item 395,Sports,Cycling,FreshWay,SUP00026,236.37,291.63,Taxable,Discontinued,2024-07-17
+SKU0000396,428291844066,Family Audio Item 396,Electronics,Audio,NorthPeak,SUP00062,253.85,321.57,taxable ,Active,12/12/2023
+SKU0000397,382039215345,Smart Stationery Item 397,Office,Stationery,UrbanBasics,SUP00002,369.74,975.30,taxable ,active ,12/01/2024
+SKU0000398,442945146020,Premium Women Item 398,Apparel,Women,TechLine,SUP00034,422.55,551.87,taxable ,active ,2024-10-15
+SKU0000399,750451041118,Everyday Stationery Item 399,Office,Stationery,HealthyYou,SUP00037,278.96,717.19,Pharmacy Exempt,Seasonal,02/07/2026
+SKU0000400,969935515850,Premium Shoes Item 400,Apparel,Shoes,HealthyYou,SUP00019,187.21,235.65,Taxable,Discontinued,2019-01-04
+SKU0000401,573998109634,Everyday Personal Care Item 401,Health & Beauty,Personal Care,HealthyYou,SUP00036,362.00,549.69,taxable ,Seasonal,2018-05-13
+SKU0000402,241659750260,Value Fitness Item 402,Sports,Fitness,ValuePlus,SUP00057,200.52,369.82,taxable ,Discontinued,08/22/2018
+SKU0000403,936767386984,Everyday Tires Item 403,Automotive,Tires,HealthyYou,SUP00052,178.62,354.83,Taxable,Active,09/27/2025
+SKU0000404,550581319666,Family Shoes Item 404,Apparel,Shoes,NorthPeak,SUP00054,32.35,78.05,Food Exempt,Seasonal,04/18/2022
+SKU0000405,856224077792,Classic Car Care Item 405,Automotive,Car Care,NorthPeak,SUP00043,369.95,810.44,Pharmacy Exempt,Discontinued,2022-12-16
+SKU0000406,173510986522,Everyday Cycling Item 406,Sports,Cycling,ValuePlus,SUP00043,158.30,401.39,Pharmacy Exempt,Seasonal,01/13/2020
+SKU0000407,906079292117,Everyday School Supplies Item 407,Office,School Supplies,FreshWay,SUP00012,299.92,489.82,Food Exempt,active ,2020-02-28
+SKU0000408,182088803064,Everyday School Supplies Item 408,Office,School Supplies,NorthPeak,SUP00003,67.60,172.10,Food Exempt,Seasonal,2022-06-24
+SKU0000409,676302059548,Value Car Care Item 409,Automotive,Car Care,UrbanBasics,SUP00065,115.09,190.80,Taxable,active ,2026-01-18
+SKU0000410,251620946940,Classic Outdoor Item 410,Sports,Outdoor,UrbanBasics,SUP00033,140.48,249.43,taxable ,Discontinued,04/05/2022
+SKU0000411,721730605350,Value Beverages Item 411,Grocery,Beverages,ValuePlus,SUP00019,394.47,551.97,taxable ,Discontinued,2022-02-12
+SKU0000412,254658340413,Smart School Supplies Item 412,Office,School Supplies,NorthPeak,SUP00050,112.50,177.10,Food Exempt,Active,2021-09-12
+SKU0000413,432317060885,Classic Men Item 413,Apparel,Men,GreatHome,SUP00009,90.76,126.83,taxable ,Discontinued,09/03/2020
+SKU0000414,815063683667,Value Accessories Item 414,Automotive,Accessories,NorthPeak,SUP00012,108.55,231.70,Pharmacy Exempt,Discontinued,01/05/2026
+SKU0000415,780132661370,Family Tires Item 415,Automotive,Tires,ValuePlus,SUP00075,155.19,334.14,Pharmacy Exempt,Seasonal,03/26/2020
+SKU0000416,210140220564,Family Bedding Item 416,Home,Bedding,UrbanBasics,SUP00003,149.91,272.77,Food Exempt,Discontinued,2026-02-26
+SKU0000417,456727859983,Premium Cosmetics Item 417,Health & Beauty,Cosmetics,ValuePlus,SUP00003,101.52,246.82,Taxable,Seasonal,2021-03-10
+SKU0000418,529485983588,Smart Dairy Item 418,Grocery,Dairy,TechLine,SUP00010,196.30,359.63,Taxable,Active,2020-12-10
+SKU0000419,568703349089,Everyday Women Item 419,Apparel,Women,HealthyYou,SUP00069,11.84,30.10,Food Exempt,Discontinued,2021-02-07
+SKU0000420,185061230179,Value Cycling Item 420,Sports,Cycling,GreatHome,SUP00071,389.95,678.55,Food Exempt,Seasonal,01/07/2025
+SKU0000421,505634669188,Family Stationery Item 421,Office,Stationery,TechLine,SUP00030,274.16,311.41,taxable ,active ,01/27/2023
+SKU0000422,796844118700,Premium Men Item 422,Apparel,Men,FreshWay,SUP00008,285.85,539.36,taxable ,Active,08/29/2023
+SKU0000423,569751238057,Premium Dairy Item 423,Grocery,Dairy,TechLine,SUP00018,69.84,152.87,Food Exempt,Discontinued,01/09/2021
+SKU0000424,984961544821,Smart Car Care Item 424,Automotive,Car Care,TechLine,SUP00024,113.43,300.60,taxable ,Discontinued,2018-11-26
+SKU0000425,467717423650,Smart Wellness Item 425,Health & Beauty,Wellness,NorthPeak,SUP00073,148.16,294.46,taxable ,Seasonal,2026-03-11
+SKU0000426,266107047589,Premium Tires Item 426,Automotive,Tires,NorthPeak,SUP00064,23.45,32.85,Food Exempt,Seasonal,04/12/2021
+SKU0000427,510576507289,Classic Pharmacy Item 427,Health & Beauty,Pharmacy,GreatHome,SUP00070,441.90,863.97,Food Exempt,Seasonal,09/28/2024
+SKU0000428,365240009638,Premium Car Care Item 428,Automotive,Car Care,FreshWay,SUP00048,136.17,bad,Taxable,Discontinued,12/20/2020
+SKU0000429,120826283046,Premium Cosmetics Item 429,Health & Beauty,Cosmetics,TechLine,SUP00060,311.28,356.50,Taxable,active ,02/08/2020
+SKU0000430,841022797214,Smart Outdoor Item 430,Sports,Outdoor,TechLine,SUP00004,248.29,325.86,taxable ,Seasonal,2025-09-27
+SKU0000431,328220861882,Smart Car Care Item 431,Automotive,Car Care,ValuePlus,SUP00069,80.26,134.11,taxable ,Active,2023-07-19
+SKU0000432,309559009369,Value Accessories Item 432,Automotive,Accessories,NorthPeak,SUP00004,392.99,694.49,Taxable,Seasonal,12/11/2025
+SKU0000433,836701591003,Everyday School Supplies Item 433,Office,School Supplies,NorthPeak,SUP00030,351.39,814.73,Food Exempt,Active,02/04/2018
+SKU0000434,977908149507,Smart Pantry Item 434,Grocery,Pantry,GreatHome,SUP00008,219.05,236.64,Pharmacy Exempt,Active,05/15/2024
+SKU0000435,855100119347,Value Audio Item 435,Electronics,Audio,FreshWay,SUP00068,335.37,525.74,taxable ,Active,08/25/2020
+SKU0000436,605378904382,Premium Car Care Item 436,Automotive,Car Care,UrbanBasics,SUP00059,76.92,115.02,Food Exempt,active ,06/02/2021
+SKU0000437,854507151472,Family Women Item 437,Apparel,Women,TechLine,SUP00060,84.44,167.65,Pharmacy Exempt,Discontinued,2026-02-14
+SKU0000438,181585943988,Premium Pharmacy Item 438,Health & Beauty,Pharmacy,ValuePlus,SUP00016,309.74,643.97,Pharmacy Exempt,Active,2025-01-19
+SKU0000439,239202611546,Smart Audio Item 439,Electronics,Audio,HealthyYou,SUP00012,57.31,75.50,taxable ,Discontinued,07/18/2022
+SKU0000440,456544225077,Value Women Item 440,Apparel,Women,GreatHome,SUP00045,236.34,510.18,Food Exempt,Active,01/27/2025
+SKU0000441,669769543828,Everyday Cycling Item 441,Sports,Cycling,ValuePlus,SUP00057,291.27,486.34,taxable ,Discontinued,09/30/2018
+SKU0000442,759107936173,Classic Produce Item 442,Grocery,Produce,FreshWay,SUP00067,16.59,39.52,Taxable,Discontinued,02/16/2023
+SKU0000443,470862651203,Classic Accessories Item 443,Electronics,Accessories,GreatHome,SUP00024,71.90,92.19,taxable ,Discontinued,2022-07-24
+SKU0000444,702126171822,Value Car Care Item 444,Automotive,Car Care,ValuePlus,SUP00043,80.02,199.58,Food Exempt,active ,2025-06-20
+SKU0000445,754433509027,Value Cycling Item 445,Sports,Cycling,GreatHome,SUP00063,197.99,254.03,Food Exempt,Active,03/27/2021
+SKU0000446,281601352278,Value Audio Item 446,Electronics,Audio,TechLine,SUP00060,32.66,53.74,Pharmacy Exempt,active ,2019-12-20
+SKU0000447,249038595174,Smart Audio Item 447,Electronics,Audio,GreatHome,SUP00065,161.12,220.89,Taxable,Seasonal,2024-06-05
+SKU0000448,396879856856,Smart Women Item 448,Apparel,Women,FreshWay,SUP00068,258.22,530.06,Taxable,Discontinued,02/13/2021
+SKU0000449,797938815158,Classic Produce Item 449,Grocery,Produce,FreshWay,SUP00037,81.85,116.56,Food Exempt,Discontinued,2022-12-31
+SKU0000450,992610184317,Classic Dairy Item 450,Grocery,Dairy,GreatHome,SUP00025,18.30,28.93,Pharmacy Exempt,Seasonal,2019-07-08
+SKU0000451,802787961230,Everyday School Supplies Item 451,Office,School Supplies,HealthyYou,SUP00006,57.54,109.95,Food Exempt,Active,2018-03-07
+SKU0000452,420231083292,Smart Personal Care Item 452,Health & Beauty,Personal Care,GreatHome,SUP00035,138.13,325.00,Pharmacy Exempt,Active,06/24/2023
+SKU0000453,373075884039,Classic Accessories Item 453,Electronics,Accessories,TechLine,SUP00014,315.35,401.71,Taxable,Discontinued,06/30/2021
+SKU0000454,631489858275,Family Decor Item 454,Home,Decor,TechLine,SUP00031,143.60,216.29,taxable ,active ,2024-12-03
+SKU0000455,777635709086,Value Accessories Item 455,Automotive,Accessories,HealthyYou,SUP00055,184.33,465.12,taxable ,Discontinued,2023-08-03
+SKU0000456,967963510881,Classic Pharmacy Item 456,Health & Beauty,Pharmacy,HealthyYou,SUP00043,156.94,224.21,taxable ,Seasonal,2021-04-22
+SKU0000457,835417831588,Everyday School Supplies Item 457,Office,School Supplies,UrbanBasics,SUP00006,304.69,363.55,taxable ,Discontinued,03/19/2024
+SKU0000458,145220339218,Everyday Beverages Item 458,Grocery,Beverages,ValuePlus,SUP00043,107.72,218.82,taxable ,Seasonal,04/22/2018
+SKU0000459,955198554309,Classic Kids Item 459,Apparel,Kids,NorthPeak,SUP00013,240.90,404.06,Taxable,Seasonal,11/24/2024
+SKU0000460,291383305531,Family Outdoor Item 460,Sports,Outdoor,ValuePlus,SUP00045,329.10,435.36,Food Exempt,Active,2024-10-28
+SKU0000461,692071829323,Value Accessories Item 461,Automotive,Accessories,GreatHome,SUP00015,77.84,128.78,Pharmacy Exempt,Seasonal,08/08/2021
+SKU0000462,348007766182,Family Personal Care Item 462,Health & Beauty,Personal Care,UrbanBasics,SUP00066,37.54,46.74,Taxable,Active,2018-01-17
+SKU0000463,750445113169,Everyday Car Care Item 463,Automotive,Car Care,TechLine,SUP00012,49.23,66.59,Taxable,Discontinued,2019-06-28
+SKU0000464,140130120505,Classic School Supplies Item 464,Office,School Supplies,FreshWay,SUP00047,405.81,553.99,Taxable,Discontinued,07/29/2018
+SKU0000465,921342063403,Value Gaming Item 465,Electronics,Gaming,UrbanBasics,SUP00062,288.88,434.43,Pharmacy Exempt,Active,2022-07-15
+SKU0000466,327184127340,Family Car Care Item 466,Automotive,Car Care,TechLine,SUP00043,149.56,167.73,Food Exempt,Seasonal,2021-07-31
+SKU0000467,592300001744,Premium Cosmetics Item 467,Health & Beauty,Cosmetics,TechLine,SUP00005,349.18,667.04,Food Exempt,active ,07/05/2022
+SKU0000468,368098344287,Smart Wellness Item 468,Health & Beauty,Wellness,GreatHome,SUP00036,150.10,372.36,Pharmacy Exempt,Discontinued,2018-07-13
+SKU0000469,140966978241,Everyday Kitchen Item 469,Home,Kitchen,ValuePlus,SUP00074,341.80,745.78,Food Exempt,Seasonal,09/12/2024
+SKU0000470,686834724245,Classic Car Care Item 470,Automotive,Car Care,TechLine,SUP00021,229.94,314.40,taxable ,active ,01/12/2026
+SKU0000471,708428597383,Classic Fitness Item 471,Sports,Fitness,NorthPeak,SUP00063,,112.86,Pharmacy Exempt,active ,2023-03-27
+SKU0000472,782297844905,Premium Men Item 472,Apparel,Men,UrbanBasics,SUP00051,204.76,521.44,Food Exempt,Seasonal,2021-12-21
+SKU0000473,943753462983,Premium Accessories Item 473,Automotive,Accessories,UrbanBasics,SUP00055,126.33,305.73,Taxable,Active,2026-05-11
+SKU0000474,756611106854,Smart Car Care Item 474,Automotive,Car Care,HealthyYou,SUP00016,21.46,27.78,Pharmacy Exempt,Seasonal,2018-07-22
+SKU0000475,407099453671,Smart Fitness Item 475,Sports,Fitness,HealthyYou,SUP00005,68.87,150.21,Food Exempt,Discontinued,06/02/2021
+SKU0000476,280032708507,Family Cycling Item 476,Sports,Cycling,UrbanBasics,SUP00045,94.53,196.21,taxable ,active ,09/08/2024
+SKU0000477,332884111105,Everyday Cosmetics Item 477,Health & Beauty,Cosmetics,UrbanBasics,SUP00021,57.39,64.16,taxable ,active ,11/07/2022
+SKU0000478,886634866853,Smart Personal Care Item 478,Health & Beauty,Personal Care,GreatHome,SUP00065,199.85,389.19,Pharmacy Exempt,active ,2018-06-28
+SKU0000479,866741216532,Classic Accessories Item 479,Automotive,Accessories,NorthPeak,SUP00010,90.71,238.05,Pharmacy Exempt,Active,10/17/2024
+SKU0000480,676497070372,Family Personal Care Item 480,Health & Beauty,Personal Care,ValuePlus,SUP00010,47.80,83.99,Food Exempt,active ,04/23/2025
+SKU0000481,911666606925,Classic Stationery Item 481,Office,Stationery,ValuePlus,SUP00007,415.72,807.85,taxable ,active ,02/02/2024
+SKU0000482,521763739901,Smart School Supplies Item 482,Office,School Supplies,UrbanBasics,SUP00054,380.67,751.13,taxable ,active ,2021-03-05
+SKU0000483,713172190974,Everyday Shoes Item 483,Apparel,Shoes,NorthPeak,SUP00061,89.94,117.00,Pharmacy Exempt,Active,2022-06-05
+SKU0000484,846263013313,Value Kids Item 484,Apparel,Kids,GreatHome,SUP00067,350.11,909.84,Pharmacy Exempt,active ,2022-10-17
+SKU0000485,688664405904,Classic Printing Item 485,Office,Printing,TechLine,SUP00045,212.56,370.73,Food Exempt,Active,2021-03-27
+SKU0000486,406726735223,Value Frozen Item 486,Grocery,Frozen,GreatHome,SUP00069,335.69,850.29,Pharmacy Exempt,Seasonal,2019-04-02
+SKU0000487,606448013900,Premium Accessories Item 487,Electronics,Accessories,ValuePlus,SUP00075,2.19,3.12,Food Exempt,active ,2023-10-08
+SKU0000488,524935996503,Everyday Fitness Item 488,Sports,Fitness,FreshWay,SUP00044,58.48,96.15,Food Exempt,Seasonal,03/30/2018
+SKU0000489,450309831833,Classic Frozen Item 489,Grocery,Frozen,HealthyYou,SUP00048,23.27,25.87,taxable ,active ,2023-01-25
+SKU0000490,414059604485,Premium Kids Item 490,Apparel,Kids,FreshWay,SUP00070,19.42,27.28,Food Exempt,Discontinued,2018-03-20
+SKU0000491,847051319953,Smart Stationery Item 491,Office,Stationery,ValuePlus,SUP00038,395.25,1002.11,Taxable,Active,01/29/2019
+SKU0000492,170005461988,Family Pharmacy Item 492,Health & Beauty,Pharmacy,ValuePlus,SUP00027,386.20,571.92,Pharmacy Exempt,Seasonal,12/08/2025
+SKU0000493,811621868501,Smart Tires Item 493,Automotive,Tires,HealthyYou,SUP00033,129.14,209.83,taxable ,Discontinued,2022-06-11
+SKU0000494,893324646412,Premium Bedding Item 494,Home,Bedding,NorthPeak,SUP_BAD,384.34,878.63,taxable ,active ,08/30/2019
+SKU0000495,965773153385,Family Computers Item 495,Electronics,Computers,ValuePlus,SUP00032,192.42,308.03,taxable ,Active,2021-03-05
+SKU0000496,705680562905,Value Cosmetics Item 496,Health & Beauty,Cosmetics,HealthyYou,SUP00018,248.42,487.25,Food Exempt,Active,09/15/2021
+SKU0000497,201947038018,Classic Pantry Item 497,Grocery,Pantry,UrbanBasics,SUP00015,69.82,88.01,Pharmacy Exempt,Active,01/11/2023
+SKU0000498,185057736970,Everyday School Supplies Item 498,Office,School Supplies,ValuePlus,SUP00020,441.51,628.07,Taxable,Active,06/05/2023
+SKU0000499,751024394698,Smart Printing Item 499,Office,Printing,GreatHome,SUP00036,343.93,377.39,Pharmacy Exempt,Discontinued,06/17/2023
+SKU0000500,974671513504,Value Stationery Item 500,Office,Stationery,NorthPeak,SUP00040,100.95,263.42,taxable ,Active,06/15/2019
+SKU0000501,356672711975,Everyday Accessories Item 501,Automotive,Accessories,GreatHome,SUP00061,66.10,122.73,Pharmacy Exempt,Seasonal,2024-01-15
+SKU0000502,190011466298,Premium Bedding Item 502,Home,Bedding,TechLine,SUP00026,266.62,391.20,taxable ,Active,09/02/2024
+SKU0000503,969712315180,Everyday Fitness Item 503,Sports,Fitness,UrbanBasics,SUP00052,355.97,569.02,taxable ,Seasonal,07/09/2024
+SKU0000504,676053200297,Everyday Bedding Item 504,Home,Bedding,FreshWay,SUP00003,445.84,1051.77,taxable ,active ,03/17/2024
+SKU0000505,970314587185,Classic Outdoor Item 505,Sports,Outdoor,FreshWay,SUP00017,137.88,181.23,Pharmacy Exempt,active ,06/05/2025
+SKU0000506,480280309984,Everyday Bedding Item 506,Home,Bedding,TechLine,SUP00013,127.71,138.59,Food Exempt,active ,05/10/2022
+SKU0000507,823574970709,Value Cosmetics Item 507,Health & Beauty,Cosmetics,NorthPeak,SUP00009,290.79,731.19,Food Exempt,Seasonal,05/22/2019
+SKU0000508,776842326546,Everyday Kids Item 508,Apparel,Kids,UrbanBasics,SUP00064,97.72,205.17,taxable ,Seasonal,05/30/2023
+SKU0000509,731269004410,Family Storage Item 509,Home,Storage,GreatHome,SUP00035,153.52,214.37,Food Exempt,Seasonal,2023-12-04
+SKU0000510,197521950105,Everyday Accessories Item 510,Electronics,Accessories,FreshWay,SUP00074,,532.20,Taxable,Discontinued,2024-09-04
+SKU0000511,167833495557,Everyday Accessories Item 511,Automotive,Accessories,UrbanBasics,SUP00057,292.97,714.61,Pharmacy Exempt,active ,2020-09-14
+SKU0000512,171042958777,Classic Kids Item 512,Apparel,Kids,ValuePlus,SUP00060,203.46,248.02,taxable ,Seasonal,12/07/2019
+SKU0000513,330974662746,Smart Decor Item 513,Home,Decor,GreatHome,SUP00070,242.61,358.93,Pharmacy Exempt,Seasonal,10/16/2022
+SKU0000514,344000253860,Value Kids Item 514,Apparel,Kids,TechLine,SUP00017,185.32,325.92,Pharmacy Exempt,Discontinued,04/07/2020
+SKU0000515,671049856047,Classic Tires Item 515,Automotive,Tires,GreatHome,SUP00024,235.54,538.39,Food Exempt,Seasonal,2023-08-18
+SKU0000516,493757285990,Smart Printing Item 516,Office,Printing,FreshWay,SUP00052,272.63,359.94,Pharmacy Exempt,Seasonal,11/01/2022
+SKU0000517,792002351669,Everyday Cycling Item 517,Sports,Cycling,TechLine,SUP00064,57.28,122.87,Pharmacy Exempt,Active,2021-09-24
+SKU0000518,176167991844,Classic Wellness Item 518,Health & Beauty,Wellness,GreatHome,SUP00035,76.33,198.88,Taxable,Discontinued,01/16/2026
+SKU0000519,925513201749,Value Beverages Item 519,Grocery,Beverages,FreshWay,SUP00021,183.50,268.90,Pharmacy Exempt,Seasonal,09/14/2018
+SKU0000520,268132114562,Classic Tires Item 520,Automotive,Tires,UrbanBasics,SUP00038,60.56,158.57,taxable ,Active,10/29/2024
+SKU0000521,583526492769,Everyday Kids Item 521,Apparel,Kids,TechLine,SUP00056,410.12,774.27,Taxable,Discontinued,05/29/2020
+SKU0000522,693792258918,Premium Cosmetics Item 522,Health & Beauty,Cosmetics,TechLine,SUP00016,50.61,130.10,Food Exempt,Discontinued,01/10/2026
+SKU0000523,864277518307,Value Fitness Item 523,Sports,Fitness,NorthPeak,SUP00012,44.50,118.56,taxable ,Seasonal,02/13/2026
+SKU0000524,775979703940,Everyday School Supplies Item 524,Office,School Supplies,GreatHome,SUP00031,413.44,959.90,Food Exempt,Seasonal,04/01/2019
+SKU0000525,197215910000,Smart Kitchen Item 525,Home,Kitchen,NorthPeak,SUP00007,136.26,365.63,Pharmacy Exempt,Discontinued,01/27/2018
+SKU0000526,323302570257,Premium Car Care Item 526,Automotive,Car Care,ValuePlus,SUP00063,210.05,317.64,Food Exempt,Discontinued,2020-01-20
+SKU0000527,363728368452,Family Fitness Item 527,Sports,Fitness,GreatHome,SUP00009,96.95,156.10,taxable ,Discontinued,2018-03-18
+SKU0000528,267790173453,Family Accessories Item 528,Automotive,Accessories,HealthyYou,SUP00027,35.11,65.18,Pharmacy Exempt,Active,11/30/2020
+SKU0000529,756431632679,Smart Personal Care Item 529,Health & Beauty,Personal Care,FreshWay,SUP00063,117.22,295.09,Taxable,Discontinued,08/27/2019
+SKU0000530,912622903340,Premium Gaming Item 530,Electronics,Gaming,UrbanBasics,SUP00070,40.82,54.09,Taxable,active ,2026-03-10
+SKU0000531,403200413546,Everyday Stationery Item 531,Office,Stationery,HealthyYou,SUP00070,221.26,331.03,Food Exempt,Discontinued,2021-03-01
+SKU0000532,487357698418,Classic Cycling Item 532,Sports,Cycling,HealthyYou,SUP00006,9.48,18.58,taxable ,Seasonal,2024-04-29
+SKU0000533,845581385037,Classic Outdoor Item 533,Sports,Outdoor,TechLine,SUP00049,156.59,286.14,Pharmacy Exempt,Active,01/22/2020
+SKU0000534,116901635150,Premium Frozen Item 534,Grocery,Frozen,UrbanBasics,SUP00060,142.86,238.07,Pharmacy Exempt,Discontinued,09/18/2021
+SKU0000535,276801734796,Value Accessories Item 535,Automotive,Accessories,ValuePlus,SUP00034,290.12,541.06,Food Exempt,Active,11/26/2021
+SKU0000536,610595619732,Premium Personal Care Item 536,Health & Beauty,Personal Care,GreatHome,SUP00014,74.44,162.65,Taxable,Active,2025-10-16
+SKU0000537,352081234039,Value Personal Care Item 537,Health & Beauty,Personal Care,UrbanBasics,SUP00033,3.67,7.21,Pharmacy Exempt,Discontinued,06/12/2020
+SKU0000538,552981725327,Family Accessories Item 538,Automotive,Accessories,NorthPeak,SUP00060,385.51,1009.74,Pharmacy Exempt,Active,2024-09-07
+SKU0000539,412369686232,Premium Decor Item 539,Home,Decor,HealthyYou,SUP00028,312.86,415.73,Taxable,active ,01/08/2019
+SKU0000540,651816253055,Smart Car Care Item 540,Automotive,Car Care,FreshWay,SUP00036,178.97,387.75,taxable ,Discontinued,05/10/2022
+SKU0000541,902359326055,Family Gaming Item 541,Electronics,Gaming,GreatHome,SUP00013,266.83,398.78,Food Exempt,active ,04/04/2020
+SKU0000542,915692108399,Smart Cycling Item 542,Sports,Cycling,NorthPeak,SUP00053,202.49,494.12,Pharmacy Exempt,active ,02/14/2021
+SKU0000543,117205507994,Value Printing Item 543,Office,Printing,UrbanBasics,SUP00048,87.33,183.59,Taxable,Active,2024-03-01
+SKU0000544,788442630879,Everyday Bedding Item 544,Home,Bedding,HealthyYou,SUP00057,402.41,470.58,taxable ,Seasonal,12/14/2022
+SKU0000545,325161294914,Family Printing Item 545,office,Printing,UrbanBasics,SUP00027,184.97,496.32,Taxable,Discontinued,01/31/2022
+SKU0000546,472284198768,Everyday Frozen Item 546,Grocery,Frozen,GreatHome,SUP00051,9.19,17.95,taxable ,Discontinued,2025-02-24
+SKU0000547,353140040476,Value Wellness Item 547,Health & Beauty,Wellness,GreatHome,SUP00068,286.34,595.93,taxable ,Seasonal,2022-02-11
+SKU0000548,732245807055,Smart Storage Item 548,Home,Storage,FreshWay,SUP00010,32.26,62.68,Pharmacy Exempt,Active,2021-09-25
+SKU0000549,801619354240,Classic Printing Item 549,Office,Printing,HealthyYou,SUP00024,87.85,158.94,Pharmacy Exempt,Active,11/13/2025
+SKU0000550,881488181547,Everyday Tires Item 550,Automotive,Tires,UrbanBasics,SUP00061,365.58,915.46,Taxable,Seasonal,12/11/2022
+SKU0000551,503415160038,Smart Beverages Item 551,Grocery,Beverages,ValuePlus,SUP00012,336.27,469.71,Food Exempt,active ,2022-08-13
+SKU0000552,921792120420,Value Decor Item 552,Home,Decor,UrbanBasics,SUP00051,319.44,659.24,taxable ,active ,2023-11-18
+SKU0000553,530171189656,Premium Kitchen Item 553,Home,Kitchen,UrbanBasics,SUP00025,333.43,493.10,Pharmacy Exempt,Discontinued,2021-01-25
+SKU0000554,249872888091,Premium Stationery Item 554,Office,Stationery,GreatHome,SUP00035,57.01,88.37,Pharmacy Exempt,active ,12/13/2025
+SKU0000555,451918321902,Everyday Personal Care Item 555,Health & Beauty,Personal Care,FreshWay,SUP00075,239.83,537.47,Food Exempt,Active,03/07/2019
+SKU0000556,923429180962,Classic Stationery Item 556,Office,Stationery,TechLine,SUP00050,396.38,717.91,Food Exempt,Seasonal,2023-06-26
+SKU0000557,432026520600,Family Dairy Item 557,Grocery,Dairy,ValuePlus,SUP00023,59.33,157.18,Taxable,Discontinued,11/23/2019
+SKU0000558,970250321131,Family Produce Item 558,Grocery,Produce,NorthPeak,SUP00022,199.58,533.25,Pharmacy Exempt,Active,07/25/2019
+SKU0000559,169125939235,Value Dairy Item 559,grocery,Dairy,HealthyYou,SUP00022,409.77,492.88,Taxable,active ,09/01/2022
+SKU0000560,861195458528,Premium Car Care Item 560,Automotive,Car Care,ValuePlus,SUP00022,384.84,836.56,Food Exempt,Seasonal,2021-01-13
+SKU0000561,566374200446,Classic Stationery Item 561,Office,Stationery,GreatHome,SUP00067,259.76,539.27,Pharmacy Exempt,Active,2023-01-25
+SKU0000562,364391085729,Classic Shoes Item 562,Apparel,Shoes,TechLine,SUP00020,427.33,1143.66,Taxable,Active,2023-03-17
+SKU0000563,460500950765,Premium Car Care Item 563,Automotive,Car Care,HealthyYou,SUP00007,69.86,105.07,Taxable,Active,2024-09-29
+SKU0000564,900031648689,Smart School Supplies Item 564,Office,School Supplies,UrbanBasics,SUP00031,306.21,612.13,Food Exempt,active ,09/07/2022
+SKU0000565,666006412955,Family Fitness Item 565,Sports,Fitness,HealthyYou,SUP00075,38.95,80.22,Pharmacy Exempt,Active,2019-05-15
+SKU0000566,720372978272,Classic Kitchen Item 566,Home,Kitchen,ValuePlus,SUP00043,152.80,325.03,taxable ,Active,2019-12-25
+SKU0000567,407050050514,Everyday Cosmetics Item 567,Health & Beauty,Cosmetics,FreshWay,SUP00036,6.92,15.45,Pharmacy Exempt,Active,08/22/2022
+SKU0000568,749291861157,Family Pantry Item 568,Grocery,Pantry,ValuePlus,SUP00048,76.85,124.61,Taxable,Seasonal,04/17/2022
+SKU0000569,459229059008,Everyday Personal Care Item 569,Health & Beauty,Personal Care,HealthyYou,SUP00074,406.38,496.82,Food Exempt,Seasonal,2024-02-04
+SKU0000570,537988794436,Classic Frozen Item 570,Grocery,Frozen,TechLine,SUP00063,10.05,11.57,Pharmacy Exempt,active ,04/03/2020
+SKU0000571,959482844183,Family Men Item 571,Apparel,Men,FreshWay,SUP00041,21.81,43.00,Taxable,Active,2019-04-11
+SKU0000572,485824894616,Premium Pharmacy Item 572,Health & Beauty,Pharmacy,GreatHome,SUP00044,139.44,237.05,Food Exempt,Discontinued,11/29/2023
+SKU0000573,488376478151,Value Bedding Item 573,Home,Bedding,HealthyYou,SUP00022,170.61,446.39,Food Exempt,Seasonal,03/21/2026
+SKU0000574,630965215179,Smart Beverages Item 574,Grocery,Beverages,UrbanBasics,SUP00051,303.41,482.52,Taxable,Discontinued,2023-01-29
+SKU0000575,419346542166,Family Dairy Item 575,Grocery,Dairy,HealthyYou,SUP00072,319.07,795.41,Food Exempt,active ,2023-10-06
+SKU0000576,943026770750,Premium Bedding Item 576,Home,Bedding,UrbanBasics,SUP00052,233.21,490.80,Pharmacy Exempt,active ,08/05/2020
+SKU0000577,560240514310,Value Beverages Item 577,Grocery,Beverages,TechLine,SUP00019,10.78,26.91,Taxable,active ,2020-04-17
+SKU0000578,300215249536,Smart Women Item 578,Apparel,Women,ValuePlus,SUP00015,209.42,508.68,Taxable,Active,01/14/2019
+SKU0000579,250782994712,Classic Stationery Item 579,Office,Stationery,ValuePlus,SUP00024,138.15,225.24,taxable ,active ,2022-07-11
+SKU0000580,665824664216,Value Women Item 580,Apparel,Women,ValuePlus,SUP00046,394.65,613.86,Taxable,Discontinued,2021-06-28
+SKU0000581,802604708333,Premium School Supplies Item 581,Office,School Supplies,ValuePlus,SUP00038,48.72,122.09,Pharmacy Exempt,active ,2022-12-16
+SKU0000582,299230783041,Everyday Accessories Item 582,Electronics,Accessories,GreatHome,SUP00007,63.83,162.66,Taxable,Seasonal,05/16/2021
+SKU0000583,786775023778,Premium Accessories Item 583,Automotive,Accessories,UrbanBasics,SUP00008,12.71,15.26,Taxable,Active,2023-07-22
+SKU0000584,279295629981,Value Audio Item 584,Electronics,Audio,GreatHome,SUP00030,376.75,564.52,taxable ,active ,2024-12-06
+SKU0000585,736600908012,Smart Kitchen Item 585,Home,Kitchen,UrbanBasics,SUP00010,95.53,104.64,taxable ,Seasonal,2024-10-05
+SKU0000586,678984238182,Value School Supplies Item 586,Office,School Supplies,ValuePlus,SUP00045,265.50,450.66,Taxable,active ,2023-08-02
+SKU0000587,501979116758,Premium Accessories Item 587,Electronics,Accessories,UrbanBasics,SUP00050,87.08,119.28,Taxable,Seasonal,2023-07-12
+SKU0000588,632706481822,Value Personal Care Item 588,Health & Beauty,Personal Care,HealthyYou,SUP00006,92.24,131.98,Food Exempt,Discontinued,2026-05-25
+SKU0000589,744789743265,Smart Decor Item 589,Home,Decor,UrbanBasics,SUP00054,443.25,720.92,Pharmacy Exempt,Seasonal,08/03/2024
+SKU0000590,658044260423,Everyday Outdoor Item 590,Sports,Outdoor,ValuePlus,SUP00063,226.35,296.94,Food Exempt,Active,2021-07-12
+SKU0000591,678887260679,Smart Women Item 591,Apparel,Women,TechLine,SUP00028,147.29,374.81,Food Exempt,Discontinued,2023-03-01
+SKU0000592,505447724895,Value Kitchen Item 592,Home,Kitchen,ValuePlus,SUP00008,213.92,287.16,Pharmacy Exempt,Discontinued,05/01/2024
+SKU0000593,302383857215,Value Bedding Item 593,Home,Bedding,UrbanBasics,SUP00015,37.02,89.34,Pharmacy Exempt,Discontinued,09/12/2024
+SKU0000594,802859357933,Classic Audio Item 594,Electronics,Audio,GreatHome,SUP00054,64.60,168.02,Taxable,Discontinued,05/29/2025
+SKU0000595,568265880245,Everyday Accessories Item 595,Automotive,Accessories,UrbanBasics,SUP00018,85.25,155.85,Food Exempt,Seasonal,01/30/2021
+SKU0000596,370944472200,Value Fitness Item 596,Sports,Fitness,GreatHome,SUP00025,274.91,400.65,Pharmacy Exempt,active ,01/27/2024
+SKU0000597,853883207213,Classic Storage Item 597,Home,Storage,UrbanBasics,SUP00051,367.44,989.31,Taxable,Active,09/05/2024
+SKU0000598,571635778348,Value Pharmacy Item 598,Health & Beauty,Pharmacy,NorthPeak,SUP00040,111.31,271.42,Pharmacy Exempt,Seasonal,04/29/2021
+SKU0000599,899947676068,Value Accessories Item 599,Electronics,Accessories,HealthyYou,SUP00019,62.37,90.29,taxable ,Discontinued,10/18/2019
+SKU0000600,147814520192,Value Personal Care Item 600,Health & Beauty,Personal Care,ValuePlus,SUP00049,257.97,308.04,Taxable,Seasonal,2025-08-03
+SKU0000051,120900611975,Everyday Kitchen Item 51,Home,Kitchen,TechLine,SUP00037,36.76,49.06,Food Exempt,Active,09/06/2020

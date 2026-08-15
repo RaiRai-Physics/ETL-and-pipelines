@@ -1,0 +1,1802 @@
+customer_id,customer_name,email,city,state,region,signup_date,loyalty_tier,household_size,active_flag
+CUST00000001,Taylor Brown 1,customer1@example.com,Aurora,CO,West,2020-08-31,Basic,bad,Y
+CUST00000002,Casey Brown 2,customer2@example.com,Savannah,GA,South,06/16/2022,Plus,5,N
+CUST00000003,Taylor Lee 3,customer3@example.com,Savannah,GA,South,08/09/2020,,4,Y
+CUST00000004,Jordan Kim 4,customer4@example.com,Austin,TX,South,2025-06-07,gold ,4,True
+CUST00000005,Taylor Lee 5,customer5@example.com,Seattle,WA,West,2020-04-20,Gold,1,N
+CUST00000006,Jordan Garcia 6,customer6@example.com,Savannah,GA,South,08/02/2025,Plus,5,Yes
+CUST00000007,Casey Brown 7,customer7@example.com,Los Angeles,CA,West,09/03/2020,gold ,1,Y
+CUST00000008,Morgan Lee 8,customer8@example.com,Orlando,FL,South,01/29/2022,Plus,,Y
+CUST00000009,Morgan Patel 9,customer9@example.com,Buffalo,NY,Northeast,03/01/2026,Silver,bad,N
+CUST00000010,Riley Kim 10,customer10@example.com,Denver,CO,West,03/06/2021,Basic,3,Y
+CUST00000011,Taylor Patel 11,customer11@example.com,Savannah,GA,South,2023-09-01,Silver,5,Y
+CUST00000012,Alex Smith 12,customer12@example.com,Chicago,IL,Midwest,08/07/2022,gold ,4,True
+CUST00000013,Casey Smith 13,customer13@example.com,Seattle,WA,West,2025-09-13,Gold,2,Y
+CUST00000014,Jordan Patel 14,customer14@example.com,Orlando,FL,South,2025-02-10,Plus,2,Y
+CUST00000015,Alex Patel 15,customer15@example.com,Orlando,FL,South,2025-01-06,,2,N
+CUST00000016,Alex Garcia 16,customer16@example.com,Peoria,IL,Midwest,08/09/2020,Silver,4,N
+CUST00000017,Alex Garcia 17,customer17@example.com,Austin,TX,South,2024-12-28,Silver,bad,N
+CUST00000018,Casey Smith 18,customer18@example.com,Savannah,GA,South,2021-09-06,,3,True
+CUST00000019,Taylor Kim 19,customer19@example.com,Dallas,TX,South,02/16/2024,Silver,6,Y
+CUST00000020,Casey Smith 20,customer20@example.com,Peoria,IL,Midwest,12/25/2024,Basic,4,Y
+CUST00000021,Taylor Kim 21,customer21@example.com,Orlando,FL,South,2020-05-18,Silver,1,Y
+CUST00000022,Morgan Kim 22,customer22@example.com,Aurora,CO,West,01/20/2022,Silver,bad,True
+CUST00000023,Alex Brown 23,customer23@example.com,Sacramento,CA,West,2022-06-02,Gold,bad,Y
+CUST00000024,Morgan Kim 24,customer24@example.com,Seattle,WA,West,07/01/2023,Gold,5,True
+CUST00000025,Jordan Kim 25,customer25@example.com,Dallas,TX,South,12/16/2023,Gold,2,Y
+CUST00000026,Riley Smith 26,customer26@example.com,Denver,CO,West,09/05/2024,gold ,1,N
+CUST00000027,Riley Patel 27,customer27@example.com,Atlanta,GA,South,12/23/2025,Basic,4,N
+CUST00000028,Morgan Kim 28,customer28@example.com,Miami,FL,South,2026-02-16,gold ,2,True
+CUST00000029,Taylor Garcia 29,customer29@example.com,Savannah,GA,South,10/23/2025,,bad,True
+CUST00000030,Alex Garcia 30,customer30@example.com,Denver,CO,West,03/24/2021,Silver,5,Y
+CUST00000031,Alex Brown 31,customer31@example.com,Atlanta,GA,South,02/07/2021,,1,Y
+CUST00000032,Casey Smith 32,customer32@example.com,Sacramento,CA,West,2022-09-25,Silver,2,Y
+CUST00000033,Jordan Patel 33,customer33@example.com,Los Angeles,CA,West,2025-04-08,,6,Y
+CUST00000034,Riley Kim 34,customer34@example.com,Austin,TX,South,08/16/2025,Silver,bad,N
+CUST00000035,Taylor Lee 35,customer35@example.com,Denver,CO,West,10/20/2024,gold ,1,Yes
+CUST00000036,Jordan Brown 36,customer36@example.com,Seattle,WA,West,09/17/2023,gold ,bad,N
+CUST00000037,Jordan Patel 37,customer37@example.com,Denver,CO,West,05/06/2025,,1,True
+CUST00000038,Taylor Smith 38,customer38@example.com,Austin,TX,South,02/06/2026,Gold,3,N
+CUST00000039,Jordan Kim 39,customer39@example.com,Aurora,CO,West,10/04/2025,Silver,5,Y
+CUST00000040,Morgan Brown 40,customer40@example.com,Buffalo,NY,Northeast,2023-07-15,gold ,,True
+CUST00000041,Casey Smith 41,customer41@example.com,Los Angeles,CA,West,2023-10-08,gold ,,Y
+CUST00000042,Jordan Smith 42,customer42@example.com,Houston,TX,South,07/27/2020,Gold,2,Y
+CUST00000043,Morgan Lee 43,customer43@example.com,Savannah,GA,South,03/21/2026,Silver,1,True
+CUST00000044,Taylor Patel 44,customer44@example.com,Houston,TX,South,2021-07-07,Basic,1,Y
+CUST00000045,Alex Kim 45,customer45@example.com,Miami,FL,South,01/05/2020,Basic,4,Yes
+CUST00000046,Casey Patel 46,customer46@example.com,Atlanta,GA,South,12/05/2025,Silver,5,N
+CUST00000047,Alex Patel 47,customer47@example.com,Dallas,TX,South,2022-06-14,Basic,2,Y
+CUST00000048,Taylor Brown 48,customer48@example.com,Tacoma,WA,West,12/21/2023,Plus,3,Y
+CUST00000049,Alex Lee 49,customer49@example.com,Tacoma,WA,West,10/14/2024,Basic,1,Y
+CUST00000050,Casey Garcia 50,customer50@example.com,Orlando,FL,South,06/09/2024,Gold,5,N
+CUST00000051,Taylor Lee 51,customer51@example.com,Chicago,IL,Midwest,2023-06-08,gold ,4,Y
+CUST00000052,Casey Smith 52,customer52@example.com,Albany,NY,Northeast,2022-02-20,Basic,5,Y
+CUST00000053,Casey Patel 53,customer53@example.com,Miami,FL,South,2023-02-16,Gold,1,Y
+CUST00000054,Morgan Patel 54,customer54@example.com,Orlando,FL,South,2025-08-20,gold ,2,Y
+CUST00000055,Casey Kim 55,,Aurora,CO,West,12/14/2022,Basic,,Y
+CUST00000056,Casey Brown 56,customer56@example.com,Atlanta,GA,South,2021-05-22,Silver,2,Y
+CUST00000057,Morgan Kim 57,customer57@example.com,Savannah,GA,South,2024-05-02,Plus,6,N
+CUST00000058,Taylor Smith 58,customer58@example.com,Buffalo,NY,Northeast,05/24/2023,Gold,2,Y
+CUST00000059,Casey Garcia 59,customer59@example.com,Sacramento,CA,West,10/31/2020,Gold,6,True
+CUST00000060,Taylor Kim 60,customer60@example.com,Tacoma,WA,West,06/20/2024,Plus,5,Yes
+CUST00000061,Jordan Garcia 61,customer61@example.com,Orlando,FL,South,12/21/2023,gold ,bad,Y
+CUST00000062,Jordan Garcia 62,customer62@example.com,Aurora,CO,West,08/02/2023,,,Y
+CUST00000063,Riley Patel 63,customer63@example.com,Aurora,CO,West,2023-03-23,Silver,4,Y
+CUST00000064,Alex Garcia 64,customer64@example.com,Aurora,CO,West,04/02/2022,Gold,2,True
+CUST00000065,Riley Lee 65,customer65@example.com,Tacoma,WA,West,01/18/2023,Silver,1,Yes
+CUST00000066,Alex Garcia 66,customer66@example.com,Peoria,IL,Midwest,01/22/2020,Basic,1,Yes
+CUST00000067,Riley Kim 67,customer67@example.com,Orlando,FL,South,2025-04-06,gold ,,Yes
+CUST00000068,Casey Brown 68,customer68@example.com,Chicago,IL,Midwest,12/23/2024,gold ,bad,Y
+CUST00000069,Riley Patel 69,customer69@example.com,Miami,FL,South,03/06/2022,Silver,5,N
+CUST00000070,Taylor Brown 70,customer70@example.com,Savannah,GA,South,2023-11-25,Gold,3,Y
+CUST00000071,Alex Patel 71,customer71@example.com,Denver,CO,West,12/27/2020,Plus,2,Yes
+CUST00000072,Alex Kim 72,customer72@example.com,Seattle,WA,West,03/08/2020,Basic,3,Y
+CUST00000073,Jordan Garcia 73,customer73@example.com,Atlanta,GA,South,08/03/2022,Plus,1,N
+CUST00000074,Alex Lee 74,customer74@example.com,Aurora,CO,West,2024-07-26,,,N
+CUST00000075,Taylor Kim 75,customer75@example.com,Houston,TX,South,08/09/2021,gold ,5,N
+CUST00000076,Jordan Patel 76,customer76@example.com,Houston,TX,South,02/10/2025,Silver,,Y
+CUST00000077,Jordan Smith 77,customer77@example.com,Los Angeles,CA,West,06/27/2023,gold ,4,Yes
+CUST00000078,Taylor Garcia 78,customer78@example.com,Chicago,IL,Midwest,02/15/2026,Basic,1,Yes
+CUST00000079,Alex Garcia 79,customer79@example.com,Orlando,FL,South,2024-02-22,Gold,2,True
+CUST00000080,Morgan Garcia 80,customer80@example.com,Aurora,CO,West,2023-12-17,Basic,5,Y
+CUST00000081,Morgan Lee 81,customer81@example.com,Los Angeles,CA,West,2025-11-23,gold ,bad,Y
+CUST00000082,Casey Smith 82,customer82@example.com,Seattle,WA,West,06/17/2020,Gold,4,Y
+CUST00000083,Morgan Garcia 83,customer83@example.com,Seattle,WA,West,01/05/2023,Plus,3,Y
+CUST00000084,Taylor Patel 84,customer84@example.com,Houston,TX,South,2024-05-16,Plus,1,True
+CUST00000085,Morgan Lee 85,customer85@example.com,Denver,CO,West,2023-11-28,gold ,1,Y
+CUST00000086,Alex Kim 86,customer86@example.com,Peoria,IL,Midwest,07/29/2020,,1,Y
+CUST00000087,Alex Brown 87,customer87@example.com,Orlando,FL,South,2025-08-17,gold ,5,N
+CUST00000088,Taylor Brown 88,customer88@example.com,Orlando,FL,South,2026-02-26,,3,Yes
+CUST00000089,Morgan Brown 89,customer89@example.com,Miami,FL,South,2020-09-14,Silver,bad,True
+CUST00000090,Riley Patel 90,customer90@example.com,Austin,TX,South,2020-07-29,gold ,1,N
+CUST00000091,Jordan Patel 91,customer91@example.com,Savannah,GA,South,2024-07-29,Silver,5,Y
+CUST00000092,Casey Garcia 92,customer92@example.com,Peoria,IL,Midwest,2023-02-08,gold ,3,Y
+CUST00000093,Alex Smith 93,customer93@example.com,Peoria,IL,Midwest,2022-01-30,Basic,3,N
+CUST00000094,Alex Lee 94,customer94@example.com,Aurora,CO,West,2023-03-04,Basic,2,Yes
+CUST00000095,Casey Smith 95,customer95@example.com,Albany,NY,Northeast,2022-05-09,gold ,6,Y
+CUST00000096,Taylor Brown 96,customer96@example.com,Atlanta,GA,South,2020-08-19,gold ,1,N
+CUST00000097,Casey Brown 97,customer97@example.com,Houston,TX,South,2020-09-07,,3,Y
+CUST00000098,Casey Kim 98,customer98@example.com,Tacoma,WA,West,2020-05-21,Basic,1,True
+CUST00000099,Riley Kim 99,customer99@example.com,Aurora,CO,West,03/31/2026,Gold,1,True
+CUST00000100,Morgan Lee 100,customer100@example.com,Seattle,WA,West,10/24/2021,Silver,4,Y
+CUST00000101,Morgan Brown 101,customer101@example.com,Albany,NY,Northeast,2022-06-10,Gold,6,Y
+CUST00000102,Riley Lee 102,customer102@example.com,Buffalo,NY,Northeast,2025-10-09,Plus,2,True
+CUST00000103,Casey Kim 103,customer103@example.com,Aurora,CO,West,12/01/2022,Gold,2,Y
+CUST00000104,Casey Patel 104,,Los Angeles,CA,West,07/10/2023,gold ,5,True
+CUST00000105,Morgan Lee 105,customer105@example.com,Sacramento,CA,West,11/17/2023,Plus,6,Y
+CUST00000106,Alex Patel 106,customer106@example.com,Houston,TX,South,2022-11-21,gold ,3,Y
+CUST00000107,Riley Smith 107,customer107@example.com,Denver,CO,West,2020-03-31,Plus,bad,Y
+CUST00000108,Casey Brown 108,customer108@example.com,Austin,TX,South,12/14/2022,Gold,4,N
+CUST00000109,Alex Garcia 109,customer109@example.com,Sacramento,CA,West,12/22/2023,Silver,4,Yes
+CUST00000110,Morgan Patel 110,customer110@example.com,Miami,FL,South,02/09/2021,Gold,3,Y
+CUST00000111,Alex Smith 111,customer111@example.com,Sacramento,CA,West,05/06/2026,,5,Y
+CUST00000112,Alex Patel 112,customer112@example.com,Los Angeles,CA,West,05/01/2023,gold ,bad,N
+CUST00000113,Alex Garcia 113,customer113@example.com,Seattle,WA,West,2020-02-08,gold ,6,Y
+CUST00000114,Taylor Patel 114,customer114@example.com,Savannah,GA,South,2023-04-14,Plus,2,Y
+CUST00000115,Riley Patel 115,customer115@example.com,Seattle,WA,West,2025-04-15,Basic,3,Y
+CUST00000116,Riley Brown 116,customer116@example.com,Orlando,FL,South,10/16/2025,,6,Y
+CUST00000117,Jordan Lee 117,customer117@example.com,Orlando,FL,South,07/18/2025,Basic,3,True
+CUST00000118,Jordan Smith 118,customer118@example.com,Seattle,WA,West,05/30/2024,Basic,5,Y
+CUST00000119,Riley Brown 119,customer119@example.com,Houston,TX,South,04/14/2021,,2,True
+CUST00000120,Jordan Kim 120,customer120@example.com,Los Angeles,CA,West,2022-02-01,,6,Y
+CUST00000121,Morgan Smith 121,customer121@example.com,Chicago,IL,Midwest,2022-04-27,,bad,N
+CUST00000122,Casey Patel 122,customer122@example.com,Tacoma,WA,West,08/05/2025,Basic,4,Yes
+CUST00000123,Alex Brown 123,customer123@example.com,Denver,CO,West,2026-01-18,Plus,2,Y
+CUST00000124,Riley Patel 124,customer124@example.com,Buffalo,NY,Northeast,2024-08-01,gold ,6,N
+CUST00000125,Morgan Brown 125,customer125@example.com,Aurora,CO,West,01/18/2026,Basic,3,Yes
+CUST00000126,Taylor Garcia 126,customer126@example.com,Chicago,IL,Midwest,03/30/2026,gold ,bad,Y
+CUST00000127,Morgan Brown 127,customer127@example.com,Tacoma,WA,West,2025-02-19,Silver,2,Yes
+CUST00000128,Riley Lee 128,customer128@example.com,Atlanta,GA,South,2020-12-05,gold ,,Y
+CUST00000129,Casey Patel 129,customer129@example.com,Austin,TX,South,2024-08-11,Basic,2,True
+CUST00000130,Morgan Lee 130,customer130@example.com,Buffalo,NY,Northeast,03/21/2023,gold ,3,Y
+CUST00000131,Alex Garcia 131,customer131@example.com,Houston,TX,South,2026-02-21,gold ,5,True
+CUST00000132,Morgan Smith 132,customer132@example.com,Buffalo,NY,Northeast,09/25/2024,,6,N
+CUST00000133,Jordan Smith 133,customer133@example.com,Atlanta,GA,South,2021-10-25,,6,Yes
+CUST00000134,Casey Brown 134,customer134@example.com,Austin,TX,South,11/13/2022,Silver,bad,Y
+CUST00000135,Taylor Kim 135,customer135@example.com,Houston,TX,South,2024-07-22,Gold,bad,Y
+CUST00000136,Taylor Garcia 136,customer136@example.com,Albany,NY,Northeast,11/02/2021,Plus,1,N
+CUST00000137,Morgan Smith 137,customer137@example.com,Denver,CO,West,10/17/2021,gold ,4,N
+CUST00000138,Taylor Patel 138,customer138@example.com,Austin,TX,South,2021-07-05,Gold,,Y
+CUST00000139,Morgan Lee 139,customer139@example.com,Chicago,IL,Midwest,2025-04-28,Silver,6,Yes
+CUST00000140,Morgan Lee 140,customer140@example.com,Los Angeles,CA,West,2025-11-11,,4,Y
+CUST00000141,Taylor Smith 141,customer141@example.com,Seattle,WA,West,2021-02-17,Basic,4,Y
+CUST00000142,Casey Patel 142,customer142@example.com,Chicago,IL,Midwest,2020-11-27,Plus,3,Y
+CUST00000143,Morgan Lee 143,customer143@example.com,Los Angeles,CA,West,2022-07-09,Basic,,Yes
+CUST00000144,Casey Lee 144,customer144@example.com,Dallas,TX,South,2020-03-30,Gold,3,N
+CUST00000145,Taylor Brown 145,customer145@example.com,Tacoma,WA,West,2024-05-16,Silver,1,Y
+CUST00000146,Riley Lee 146,customer146@example.com,Sacramento,CA,West,03/19/2025,Basic,bad,Y
+CUST00000147,Alex Kim 147,customer147@example.com,Los Angeles,CA,West,03/08/2022,,bad,Yes
+CUST00000148,Casey Lee 148,customer148@example.com,Denver,CO,West,2023-11-29,gold ,2,N
+CUST00000149,Alex Smith 149,customer149@example.com,Atlanta,GA,South,2022-09-20,Silver,3,N
+CUST00000150,Taylor Patel 150,customer150@example.com,Seattle,WA,West,05/19/2023,Gold,5,Y
+CUST00000151,Alex Kim 151,customer151@example.com,Austin,TX,South,2024-05-14,gold ,bad,N
+CUST00000152,Casey Lee 152,customer152@example.com,Chicago,IL,Midwest,2021-05-18,Basic,5,Y
+CUST00000153,Jordan Smith 153,customer153@example.com,Albany,NY,Northeast,2023-11-05,,bad,Y
+CUST00000154,Jordan Garcia 154,customer154@example.com,Chicago,IL,Midwest,2025-12-30,Silver,1,Yes
+CUST00000155,Casey Brown 155,customer155@example.com,Atlanta,GA,South,2023-02-25,gold ,5,Y
+CUST00000156,Taylor Patel 156,customer156@example.com,Sacramento,CA,West,2025-12-01,Basic,3,Y
+CUST00000157,Riley Kim 157,customer157@example.com,Houston,TX,South,2023-03-21,Basic,2,Y
+CUST00000158,Riley Smith 158,customer158@example.com,Miami,FL,South,2021-09-19,Gold,4,Y
+CUST00000159,Morgan Patel 159,customer159@example.com,Orlando,FL,South,2021-11-13,Basic,4,N
+CUST00000160,Alex Patel 160,customer160@example.com,Dallas,TX,South,2022-08-23,Basic,,True
+CUST00000161,Alex Lee 161,customer161@example.com,Denver,CO,West,11/25/2023,gold ,,Y
+CUST00000162,Alex Patel 162,customer162@example.com,Orlando,FL,South,06/02/2023,Silver,1,Y
+CUST00000163,Jordan Lee 163,customer163@example.com,Miami,FL,South,11/13/2022,,5,Y
+CUST00000164,Jordan Garcia 164,customer164@example.com,Sacramento,CA,West,02/27/2021,Gold,,Y
+CUST00000165,Alex Smith 165,customer165@example.com,Sacramento,CA,West,2020-07-30,gold ,bad,Y
+CUST00000166,Riley Lee 166,customer166@example.com,Peoria,IL,Midwest,2024-04-27,Silver,,Yes
+CUST00000167,Morgan Patel 167,customer167@example.com,Chicago,IL,Midwest,2024-06-22,Gold,3,Y
+CUST00000168,Morgan Smith 168,customer168@example.com,Peoria,IL,Midwest,12/26/2020,Gold,bad,Yes
+CUST00000169,Morgan Lee 169,customer169@example.com,Tacoma,WA,West,2020-12-10,,4,N
+CUST00000170,Jordan Smith 170,customer170@example.com,Seattle,WA,West,08/02/2025,Gold,,Y
+CUST00000171,Morgan Garcia 171,customer171@example.com,Albany,NY,Northeast,09/19/2024,,bad,Y
+CUST00000172,Jordan Kim 172,customer172@example.com,Miami,FL,South,09/19/2020,gold ,bad,Yes
+CUST00000173,Riley Kim 173,customer173@example.com,Albany,NY,Northeast,2024-11-20,Plus,3,Y
+CUST00000174,Taylor Brown 174,customer174@example.com,Atlanta,GA,South,2024-03-03,Gold,3,Yes
+CUST00000175,Alex Garcia 175,customer175@example.com,Chicago,IL,Midwest,09/30/2025,Plus,2,True
+CUST00000176,Casey Garcia 176,customer176@example.com,Dallas,TX,South,2022-12-23,gold ,6,Yes
+CUST00000177,Taylor Kim 177,customer177@example.com,Orlando,FL,South,07/30/2021,Silver,bad,Y
+CUST00000178,Morgan Garcia 178,customer178@example.com,Orlando,FL,South,12/06/2020,Gold,1,N
+CUST00000179,Taylor Lee 179,customer179@example.com,Miami,FL,South,06/20/2020,Basic,,Y
+CUST00000180,Riley Kim 180,customer180@example.com,Buffalo,NY,Northeast,05/14/2023,Gold,4,Y
+CUST00000181,Jordan Lee 181,customer181@example.com,Sacramento,CA,West,03/01/2022,Silver,,True
+CUST00000182,Jordan Lee 182,customer182@example.com,Aurora,CO,West,2025-08-09,Silver,5,Y
+CUST00000183,Casey Garcia 183,customer183@example.com,Denver,CO,West,2023-07-29,Plus,,Yes
+CUST00000184,Morgan Garcia 184,customer184@example.com,Atlanta,GA,South,2021-04-30,Plus,2,True
+CUST00000185,Jordan Brown 185,customer185@example.com,Buffalo,NY,Northeast,09/15/2025,Plus,bad,N
+CUST00000186,Morgan Lee 186,customer186@example.com,Albany,NY,Northeast,2020-03-30,Silver,1,N
+CUST00000187,Jordan Kim 187,customer187@example.com,Tacoma,WA,West,2024-04-15,Gold,bad,Y
+CUST00000188,Morgan Brown 188,customer188@example.com,Miami,FL,South,04/05/2025,gold ,bad,N
+CUST00000189,Riley Smith 189,customer189@example.com,Tacoma,WA,West,03/07/2022,,bad,Y
+CUST00000190,Riley Patel 190,customer190@example.com,Seattle,WA,West,2024-10-21,,4,Y
+CUST00000191,Riley Garcia 191,customer191@example.com,Sacramento,CA,West,08/18/2020,gold ,6,Y
+CUST00000192,Taylor Lee 192,customer192@example.com,Denver,CO,West,11/22/2021,Plus,4,Yes
+CUST00000193,Casey Patel 193,customer193@example.com,Aurora,CO,West,2020-11-22,,3,True
+CUST00000194,Jordan Garcia 194,customer194@example.com,Sacramento,CA,West,2025-06-28,Plus,,True
+CUST00000195,Taylor Patel 195,customer195@example.com,Denver,CO,West,2020-05-30,,,Y
+CUST00000196,Jordan Kim 196,customer196@example.com,Sacramento,CA,West,2024-11-17,,5,Y
+CUST00000197,Jordan Patel 197,customer197@example.com,Albany,NY,Northeast,11/18/2022,gold ,5,Y
+CUST00000198,Riley Kim 198,customer198@example.com,Sacramento,CA,West,04/06/2023,Basic,bad,Y
+CUST00000199,Casey Garcia 199,customer199@example.com,Chicago,IL,Midwest,06/16/2024,gold ,5,Y
+CUST00000200,Casey Lee 200,customer200@example.com,Peoria,IL,Midwest,08/24/2022,Silver,5,Y
+CUST00000201,Alex Brown 201,customer201@example.com,Seattle,WA,West,2025-04-05,Gold,2,True
+CUST00000202,Jordan Garcia 202,customer202@example.com,Tacoma,WA,West,2025-03-25,Basic,bad,Y
+CUST00000203,Alex Smith 203,customer203@example.com,Dallas,TX,South,06/17/2022,Basic,1,Y
+CUST00000204,Alex Patel 204,customer204@example.com,Seattle,WA,West,11/19/2024,Gold,2,Y
+CUST00000205,Morgan Smith 205,customer205@example.com,Sacramento,CA,West,2024-01-08,,,Yes
+CUST00000206,Riley Lee 206,customer206@example.com,Atlanta,GA,South,05/02/2025,Gold,3,Y
+CUST00000207,Taylor Patel 207,customer207@example.com,Albany,NY,Northeast,01/22/2023,Basic,bad,True
+CUST00000208,Alex Garcia 208,customer208@example.com,Los Angeles,CA,West,2025-10-30,Silver,4,True
+CUST00000209,Jordan Lee 209,customer209@example.com,Buffalo,NY,Northeast,11/30/2024,Silver,bad,Yes
+CUST00000210,Morgan Patel 210,customer210@example.com,Los Angeles,CA,West,03/26/2026,Silver,1,Y
+CUST00000211,Morgan Lee 211,customer211@example.com,Orlando,FL,South,05/15/2020,Plus,2,True
+CUST00000212,Morgan Kim 212,customer212@example.com,Austin,TX,South,2025-11-20,Silver,bad,True
+CUST00000213,Taylor Patel 213,customer213@example.com,Orlando,FL,South,03/25/2023,,bad,Y
+CUST00000214,Riley Patel 214,customer214@example.com,Chicago,IL,Midwest,2025-01-06,Basic,,Yes
+CUST00000215,Jordan Patel 215,customer215@example.com,Austin,TX,South,2024-01-11,gold ,,True
+CUST00000216,Taylor Smith 216,customer216@example.com,Savannah,GA,South,2020-10-24,Plus,3,Y
+CUST00000217,Riley Patel 217,customer217@example.com,Aurora,CO,West,2025-02-07,,6,True
+CUST00000218,Jordan Kim 218,customer218@example.com,Savannah,GA,South,2024-01-21,,2,Y
+CUST00000219,Casey Patel 219,customer219@example.com,Peoria,IL,Midwest,04/13/2026,Gold,2,Y
+CUST00000220,Alex Brown 220,customer220@example.com,Aurora,CO,West,2024-09-10,Gold,bad,Y
+CUST00000221,Jordan Kim 221,customer221@example.com,Sacramento,CA,West,2026-05-08,Basic,1,Y
+CUST00000222,Taylor Brown 222,customer222@example.com,Aurora,CO,West,2025-06-29,Silver,4,Yes
+CUST00000223,Alex Garcia 223,customer223@example.com,Buffalo,NY,Northeast,02/08/2025,gold ,1,Yes
+CUST00000224,Riley Brown 224,customer224@example.com,Orlando,FL,South,03/27/2021,,,Y
+CUST00000225,Morgan Lee 225,customer225@example.com,Dallas,TX,South,2025-08-12,Plus,5,True
+CUST00000226,Morgan Smith 226,customer226@example.com,Seattle,WA,West,04/30/2024,Silver,2,Yes
+CUST00000227,Alex Kim 227,customer227@example.com,Buffalo,NY,Northeast,2023-06-17,Gold,6,Y
+CUST00000228,Alex Patel 228,customer228@example.com,Peoria,IL,Midwest,2024-10-26,,5,True
+CUST00000229,Alex Smith 229,customer229@example.com,Aurora,CO,West,2021-07-17,gold ,,Y
+CUST00000230,Riley Smith 230,customer230@example.com,Peoria,IL,Midwest,2023-05-24,Plus,,True
+CUST00000231,Taylor Kim 231,customer231@example.com,Los Angeles,CA,West,2025-03-15,Plus,5,Y
+CUST00000232,Riley Garcia 232,customer232@example.com,Tacoma,WA,West,2023-05-26,Silver,bad,Y
+CUST00000233,Morgan Brown 233,customer233@example.com,Chicago,IL,Midwest,2020-04-18,Basic,2,Y
+CUST00000234,Jordan Brown 234,customer234@example.com,Chicago,IL,Midwest,2025-11-10,gold ,3,Y
+CUST00000235,Taylor Kim 235,customer235@example.com,Orlando,FL,South,12/03/2022,Silver,6,Y
+CUST00000236,Casey Smith 236,customer236@example.com,Peoria,IL,Midwest,2023-06-05,Plus,3,Yes
+CUST00000237,Riley Garcia 237,customer237@example.com,Tacoma,WA,West,2026-01-17,gold ,bad,N
+CUST00000238,Jordan Brown 238,customer238@example.com,Sacramento,CA,West,09/14/2025,Basic,4,True
+CUST00000239,Riley Garcia 239,customer239@example.com,Seattle,WA,West,02/17/2023,Gold,6,Yes
+CUST00000240,Alex Patel 240,customer240@example.com,Tacoma,WA,West,09/06/2020,Silver,,True
+CUST00000241,Taylor Kim 241,customer241@example.com,Los Angeles,CA,West,03/10/2022,gold ,bad,N
+CUST00000242,Riley Kim 242,customer242@example.com,Savannah,GA,South,2022-08-15,Plus,1,Y
+CUST00000243,Alex Lee 243,customer243@example.com,Atlanta,GA,South,2024-12-11,Silver,2,Yes
+CUST00000244,Alex Smith 244,customer244@example.com,Savannah,GA,South,07/26/2024,Gold,,Y
+CUST00000245,Alex Smith 245,customer245@example.com,Dallas,TX,South,10/14/2022,Basic,6,Yes
+CUST00000246,Taylor Lee 246,customer246@example.com,Chicago,IL,Midwest,2022-08-17,Gold,5,Y
+CUST00000247,Alex Brown 247,customer247@example.com,Chicago,IL,Midwest,07/02/2021,gold ,1,N
+CUST00000248,Taylor Kim 248,customer248@example.com,Denver,CO,West,2025-10-10,Gold,1,Y
+CUST00000249,Morgan Kim 249,customer249@example.com,Austin,TX,South,2020-02-20,Basic,1,Y
+CUST00000250,Casey Patel 250,customer250@example.com,Tacoma,WA,West,2026-01-05,,1,Y
+CUST00000251,Taylor Patel 251,customer251@example.com,Seattle,WA,West,2022-09-29,gold ,,Y
+CUST00000252,Casey Garcia 252,customer252@example.com,Tacoma,WA,West,2020-09-14,,2,True
+CUST00000253,Taylor Smith 253,customer253@example.com,Peoria,IL,Midwest,2021-10-14,Gold,,True
+CUST00000254,Riley Brown 254,customer254@example.com,Peoria,IL,Midwest,2023-11-05,Silver,bad,Y
+CUST00000255,Casey Lee 255,customer255@example.com,Sacramento,CA,West,2025-01-25,Gold,3,True
+CUST00000256,Taylor Kim 256,customer256@example.com,Sacramento,CA,West,12/15/2022,,3,Yes
+CUST00000257,Morgan Garcia 257,customer257@example.com,Los Angeles,CA,West,2025-05-06,Plus,2,Yes
+CUST00000258,Riley Smith 258,customer258@example.com,Orlando,FL,South,2025-06-01,Basic,5,Y
+CUST00000259,Jordan Lee 259,customer259@example.com,Orlando,FL,South,01/09/2023,gold ,6,Y
+CUST00000260,Alex Kim 260,customer260@example.com,Miami,FL,South,05/14/2020,gold ,,Y
+CUST00000261,Taylor Patel 261,customer261@example.com,Orlando,FL,South,2024-03-09,,bad,Y
+CUST00000262,Casey Patel 262,customer262@example.com,Savannah,GA,South,2023-08-16,Gold,6,Y
+CUST00000263,Alex Smith 263,customer263@example.com,Savannah,GA,South,2020-02-19,Plus,6,N
+CUST00000264,Riley Garcia 264,customer264@example.com,Orlando,FL,South,2021-05-20,Gold,1,N
+CUST00000265,Riley Smith 265,customer265@example.com,Austin,TX,South,2024-01-22,Gold,5,True
+CUST00000266,Morgan Patel 266,customer266@example.com,Atlanta,GA,South,2025-10-13,Gold,3,True
+CUST00000267,Jordan Smith 267,customer267@example.com,Peoria,IL,Midwest,2024-02-23,Gold,6,Yes
+CUST00000268,Jordan Patel 268,customer268@example.com,Aurora,CO,West,2026-05-23,Plus,6,True
+CUST00000269,Morgan Patel 269,customer269@example.com,Aurora,CO,West,2023-11-01,gold ,6,Y
+CUST00000270,Riley Brown 270,customer270@example.com,Tacoma,WA,West,2023-05-26,,bad,Yes
+CUST00000271,Riley Brown 271,customer271@example.com,Denver,CO,West,10/27/2025,gold ,1,N
+CUST00000272,Morgan Kim 272,customer272@example.com,Sacramento,CA,West,2020-04-20,Plus,6,Y
+CUST00000273,Alex Patel 273,customer273@example.com,Los Angeles,CA,West,08/02/2021,Silver,4,Y
+CUST00000274,Jordan Kim 274,customer274@example.com,Tacoma,WA,West,2023-01-13,,,True
+CUST00000275,Riley Smith 275,customer275@example.com,Seattle,WA,West,2026-04-20,,3,True
+CUST00000276,Casey Brown 276,customer276@example.com,Savannah,GA,South,12/10/2023,Plus,bad,Y
+CUST00000277,Morgan Patel 277,customer277@example.com,Buffalo,NY,Northeast,2022-12-26,Gold,5,Y
+CUST00000278,Morgan Smith 278,customer278@example.com,Miami,FL,South,12/19/2023,Silver,,Y
+CUST00000279,Riley Brown 279,customer279@example.com,Aurora,CO,West,2026-02-13,Gold,,Yes
+CUST00000280,Jordan Lee 280,customer280@example.com,Orlando,FL,South,2024-09-22,Gold,3,Yes
+CUST00000281,Alex Brown 281,customer281@example.com,Albany,NY,Northeast,11/29/2024,Basic,1,True
+CUST00000282,Casey Kim 282,customer282@example.com,Buffalo,NY,Northeast,2020-02-19,Basic,3,Y
+CUST00000283,Alex Brown 283,customer283@example.com,Houston,TX,South,09/07/2023,,,N
+CUST00000284,Taylor Brown 284,customer284@example.com,Chicago,IL,Midwest,2022-01-23,Basic,2,Y
+CUST00000285,Morgan Brown 285,customer285@example.com,Orlando,FL,South,01/26/2026,Silver,6,Y
+CUST00000286,Morgan Patel 286,customer286@example.com,Peoria,IL,Midwest,01/05/2020,,bad,True
+CUST00000287,Jordan Garcia 287,customer287@example.com,Albany,NY,Northeast,2025-03-13,Gold,6,True
+CUST00000288,Jordan Smith 288,customer288@example.com,Orlando,FL,South,09/22/2024,Plus,2,Y
+CUST00000289,Riley Brown 289,customer289@example.com,Sacramento,CA,West,2020-06-17,Silver,6,N
+CUST00000290,Taylor Patel 290,customer290@example.com,Savannah,GA,South,2020-10-02,Plus,bad,Y
+CUST00000291,Jordan Brown 291,customer291@example.com,Orlando,FL,South,2023-01-04,Plus,6,N
+CUST00000292,Casey Smith 292,customer292@example.com,Chicago,IL,Midwest,02/03/2024,,5,Y
+CUST00000293,Alex Lee 293,customer293@example.com,Peoria,IL,Midwest,2025-01-11,Gold,2,Y
+CUST00000294,Alex Smith 294,customer294@example.com,Albany,NY,Northeast,11/06/2025,,4,Y
+CUST00000295,Alex Lee 295,customer295@example.com,Tacoma,WA,West,2025-03-12,Gold,6,Y
+CUST00000296,Morgan Patel 296,customer296@example.com,Peoria,IL,Midwest,08/08/2025,Plus,5,Y
+CUST00000297,Morgan Lee 297,customer297@example.com,Tacoma,WA,West,03/08/2021,gold ,4,Yes
+CUST00000298,Jordan Smith 298,customer298@example.com,Tacoma,WA,West,12/10/2025,gold ,3,Yes
+CUST00000299,Jordan Smith 299,customer299@example.com,Chicago,IL,Midwest,12/17/2022,gold ,4,Yes
+CUST00000300,Morgan Garcia 300,customer300@example.com,Austin,TX,South,02/14/2023,,bad,Yes
+CUST00000301,Alex Brown 301,customer301@example.com,Savannah,GA,South,2022-05-20,Silver,4,N
+CUST00000302,Casey Garcia 302,customer302@example.com,Dallas,TX,South,10/25/2020,gold ,bad,Y
+CUST00000303,Morgan Garcia 303,customer303@example.com,Sacramento,CA,West,07/26/2020,Basic,4,Yes
+CUST00000304,Morgan Smith 304,customer304@example.com,Seattle,WA,West,12/12/2024,Plus,,N
+CUST00000305,Alex Brown 305,customer305@example.com,Austin,TX,South,2022-01-15,gold ,5,N
+CUST00000306,Casey Smith 306,customer306@example.com,Dallas,TX,South,02/24/2025,,5,Y
+CUST00000307,Taylor Smith 307,customer307@example.com,Miami,FL,South,2020-04-27,Plus,3,N
+CUST00000308,Alex Patel 308,customer308@example.com,Aurora,CO,West,05/18/2020,gold ,,Yes
+CUST00000309,Alex Patel 309,customer309@example.com,Tacoma,WA,West,2023-06-22,Silver,3,Y
+CUST00000310,Jordan Garcia 310,customer310@example.com,Miami,FL,South,08/22/2025,Gold,bad,Y
+CUST00000311,Taylor Lee 311,customer311@example.com,Atlanta,GA,South,2022-08-20,gold ,2,Yes
+CUST00000312,Morgan Kim 312,customer312@example.com,Miami,FL,South,03/08/2025,,5,Y
+CUST00000313,Alex Kim 313,customer313@example.com,Sacramento,CA,West,2024-08-18,Gold,,Y
+CUST00000314,Casey Lee 314,customer314@example.com,Buffalo,NY,Northeast,2025-12-06,Plus,3,Yes
+CUST00000315,Riley Kim 315,customer315@example.com,Sacramento,CA,West,2023-10-10,,4,N
+CUST00000316,Alex Lee 316,customer316@example.com,Seattle,WA,West,07/17/2025,Gold,5,Y
+CUST00000317,Alex Garcia 317,customer317@example.com,Peoria,IL,Midwest,2021-01-03,Basic,bad,Y
+CUST00000318,Casey Kim 318,customer318@example.com,Sacramento,CA,West,2025-01-17,gold ,5,True
+CUST00000319,Casey Kim 319,customer319@example.com,Atlanta,GA,South,2024-07-01,,3,N
+CUST00000320,Taylor Garcia 320,customer320@example.com,Orlando,FL,South,2023-08-08,Gold,6,Y
+CUST00000321,Jordan Kim 321,customer321@example.com,Chicago,IL,Midwest,2025-05-03,gold ,5,N
+CUST00000322,Casey Garcia 322,customer322@example.com,Houston,TX,South,2023-06-06,Basic,,Y
+CUST00000323,Morgan Garcia 323,customer323@example.com,Tacoma,WA,West,2022-07-13,gold ,6,Yes
+CUST00000324,Taylor Garcia 324,customer324@example.com,Savannah,GA,South,10/27/2020,Basic,5,Y
+CUST00000325,Taylor Garcia 325,customer325@example.com,Seattle,WA,West,07/03/2024,gold ,1,Y
+CUST00000326,Morgan Garcia 326,customer326@example.com,Chicago,IL,Midwest,2022-05-10,Silver,3,N
+CUST00000327,Taylor Kim 327,customer327@example.com,Albany,NY,Northeast,07/19/2021,,,True
+CUST00000328,Taylor Lee 328,customer328@example.com,Atlanta,GA,South,2020-05-14,Gold,3,Y
+CUST00000329,Riley Patel 329,customer329@example.com,Albany,NY,Northeast,2024-05-14,gold ,bad,True
+CUST00000330,Morgan Smith 330,customer330@example.com,Sacramento,CA,West,2020-07-22,Plus,3,Y
+CUST00000331,Taylor Brown 331,customer331@example.com,Atlanta,GA,South,2021-06-10,gold ,4,True
+CUST00000332,Riley Patel 332,customer332@example.com,Buffalo,NY,Northeast,06/16/2024,Basic,5,N
+CUST00000333,Riley Smith 333,customer333@example.com,Atlanta,GA,South,2020-12-23,Basic,5,Y
+CUST00000334,Morgan Kim 334,,Savannah,GA,South,08/06/2023,gold ,2,Yes
+CUST00000335,Alex Kim 335,customer335@example.com,Seattle,WA,West,03/16/2020,gold ,1,Y
+CUST00000336,Taylor Brown 336,customer336@example.com,Tacoma,WA,West,2025-05-31,Plus,3,Yes
+CUST00000337,Riley Patel 337,customer337@example.com,Seattle,WA,West,2024-03-05,,3,True
+CUST00000338,Jordan Brown 338,customer338@example.com,Buffalo,NY,Northeast,01/17/2021,Plus,6,Yes
+CUST00000339,Taylor Patel 339,customer339@example.com,Peoria,IL,Midwest,2023-11-15,gold ,4,Y
+CUST00000340,Taylor Patel 340,customer340@example.com,Houston,TX,South,04/10/2020,Gold,6,Y
+CUST00000341,Riley Kim 341,customer341@example.com,Miami,FL,South,2023-03-23,Silver,bad,Y
+CUST00000342,Casey Patel 342,customer342@example.com,Atlanta,GA,South,2025-04-27,Basic,bad,Yes
+CUST00000343,Riley Patel 343,customer343@example.com,Aurora,CO,West,2025-10-24,Plus,1,Y
+CUST00000344,Casey Garcia 344,customer344@example.com,Orlando,FL,South,07/07/2021,Plus,6,Yes
+CUST00000345,Riley Lee 345,customer345@example.com,Tacoma,WA,West,2022-02-25,Plus,4,Yes
+CUST00000346,Jordan Patel 346,customer346@example.com,Savannah,GA,South,05/10/2025,Gold,1,N
+CUST00000347,Casey Lee 347,customer347@example.com,Miami,FL,South,2023-05-13,Silver,6,Y
+CUST00000348,Riley Garcia 348,customer348@example.com,Savannah,GA,South,03/16/2023,,1,N
+CUST00000349,Taylor Patel 349,customer349@example.com,Denver,CO,West,2021-09-04,,6,Y
+CUST00000350,Morgan Patel 350,customer350@example.com,Orlando,FL,South,2023-02-11,Basic,6,Y
+CUST00000351,Morgan Garcia 351,customer351@example.com,Tacoma,WA,West,2023-08-27,Gold,4,Yes
+CUST00000352,Taylor Garcia 352,customer352@example.com,Peoria,IL,Midwest,2026-05-08,Silver,5,N
+CUST00000353,Jordan Garcia 353,customer353@example.com,Tacoma,WA,West,12/10/2025,Plus,5,Yes
+CUST00000354,Casey Smith 354,customer354@example.com,Denver,CO,West,10/18/2025,gold ,5,Yes
+CUST00000355,Taylor Brown 355,customer355@example.com,Aurora,CO,West,2022-01-31,Plus,3,Y
+CUST00000356,Casey Garcia 356,customer356@example.com,Seattle,WA,West,2025-02-02,Basic,3,Yes
+CUST00000357,Morgan Patel 357,customer357@example.com,Orlando,FL,South,2022-05-13,Gold,3,Y
+CUST00000358,Alex Kim 358,customer358@example.com,Los Angeles,CA,West,11/13/2024,,,Y
+CUST00000359,Morgan Garcia 359,customer359@example.com,Aurora,CO,West,09/28/2022,Gold,1,Y
+CUST00000360,Morgan Brown 360,customer360@example.com,Buffalo,NY,Northeast,08/18/2025,Basic,6,True
+CUST00000361,Alex Brown 361,customer361@example.com,Sacramento,CA,West,2024-01-26,Basic,3,Y
+CUST00000362,Riley Smith 362,customer362@example.com,Los Angeles,CA,West,04/02/2026,Plus,2,Y
+CUST00000363,Alex Garcia 363,customer363@example.com,Tacoma,WA,West,09/10/2023,Silver,5,Y
+CUST00000364,Taylor Brown 364,customer364@example.com,Los Angeles,CA,West,2020-04-14,Plus,4,Y
+CUST00000365,Taylor Lee 365,customer365@example.com,Buffalo,NY,Northeast,03/06/2024,Basic,4,Y
+CUST00000366,Casey Garcia 366,customer366@example.com,Peoria,IL,Midwest,2024-03-13,Silver,6,Y
+CUST00000367,Alex Garcia 367,customer367@example.com,Chicago,IL,Midwest,2025-07-26,Silver,4,N
+CUST00000368,Morgan Kim 368,customer368@example.com,Peoria,IL,Midwest,01/27/2021,gold ,4,Y
+CUST00000369,Casey Patel 369,customer369@example.com,Austin,TX,South,08/06/2021,gold ,5,Y
+CUST00000370,Morgan Kim 370,customer370@example.com,Miami,FL,South,2022-09-29,Basic,2,Yes
+CUST00000371,Taylor Garcia 371,customer371@example.com,Albany,NY,Northeast,07/29/2025,gold ,6,True
+CUST00000372,Alex Kim 372,customer372@example.com,Chicago,IL,Midwest,2025-08-05,Basic,bad,Y
+CUST00000373,Taylor Smith 373,customer373@example.com,Denver,CO,West,07/07/2022,gold ,5,Y
+CUST00000374,Riley Smith 374,customer374@example.com,Los Angeles,CA,West,02/17/2024,gold ,2,Y
+CUST00000375,Alex Patel 375,customer375@example.com,Seattle,WA,West,2020-02-28,Plus,2,N
+CUST00000376,Taylor Patel 376,customer376@example.com,Dallas,TX,South,12/03/2023,Silver,,Y
+CUST00000377,Casey Smith 377,customer377@example.com,Miami,FL,South,01/04/2026,Plus,bad,Yes
+CUST00000378,Jordan Garcia 378,customer378@example.com,Buffalo,NY,Northeast,2026-02-01,gold ,3,Y
+CUST00000379,Taylor Lee 379,customer379@example.com,Atlanta,GA,South,03/06/2022,Basic,1,Yes
+CUST00000380,Jordan Lee 380,,Miami,FL,South,08/02/2022,,5,True
+CUST00000381,Alex Kim 381,customer381@example.com,Atlanta,GA,South,07/26/2024,gold ,bad,N
+CUST00000382,Morgan Kim 382,customer382@example.com,Dallas,TX,South,2024-07-14,,5,True
+CUST00000383,Casey Patel 383,customer383@example.com,Atlanta,GA,South,2025-05-05,gold ,1,Y
+CUST00000384,Taylor Brown 384,customer384@example.com,Albany,NY,Northeast,03/26/2024,Gold,3,Y
+CUST00000385,Casey Brown 385,customer385@example.com,Savannah,GA,South,01/14/2024,gold ,6,Y
+CUST00000386,Alex Garcia 386,customer386@example.com,Houston,TX,South,04/21/2020,,bad,Y
+CUST00000387,Riley Lee 387,customer387@example.com,Aurora,CO,West,02/11/2026,Gold,3,True
+CUST00000388,Jordan Smith 388,customer388@example.com,Orlando,FL,South,10/15/2025,Basic,6,Y
+CUST00000389,Taylor Garcia 389,customer389@example.com,Tacoma,WA,West,01/09/2025,Basic,2,N
+CUST00000390,Taylor Smith 390,customer390@example.com,Miami,FL,South,09/04/2021,Silver,3,True
+CUST00000391,Casey Patel 391,customer391@example.com,Seattle,WA,West,2023-10-08,Silver,,Y
+CUST00000392,Riley Kim 392,customer392@example.com,Savannah,GA,South,03/15/2026,gold ,4,Y
+CUST00000393,Alex Patel 393,customer393@example.com,Aurora,CO,West,10/03/2021,Plus,5,Y
+CUST00000394,Jordan Lee 394,customer394@example.com,Orlando,FL,South,12/02/2025,,1,True
+CUST00000395,Riley Smith 395,customer395@example.com,Peoria,IL,Midwest,02/22/2025,Gold,5,Y
+CUST00000396,Riley Brown 396,customer396@example.com,Savannah,GA,South,05/20/2021,Gold,bad,Y
+CUST00000397,Riley Patel 397,customer397@example.com,Seattle,WA,West,2020-12-09,gold ,2,Y
+CUST00000398,Alex Garcia 398,customer398@example.com,Los Angeles,CA,West,09/13/2025,Basic,3,Y
+CUST00000399,Taylor Kim 399,customer399@example.com,Savannah,GA,South,2026-02-11,Plus,,N
+CUST00000400,Jordan Kim 400,customer400@example.com,Albany,NY,Northeast,01/17/2024,Plus,6,Y
+CUST00000401,Casey Kim 401,customer401@example.com,Los Angeles,CA,West,03/19/2022,Silver,bad,N
+CUST00000402,Taylor Lee 402,customer402@example.com,Buffalo,NY,Northeast,07/25/2021,,2,Y
+CUST00000403,Taylor Kim 403,customer403@example.com,Albany,NY,Northeast,2020-01-01,gold ,5,N
+CUST00000404,Alex Smith 404,customer404@example.com,Sacramento,CA,West,2021-05-05,Basic,4,N
+CUST00000405,Alex Smith 405,customer405@example.com,Houston,TX,South,08/09/2022,Silver,4,Y
+CUST00000406,Casey Kim 406,customer406@example.com,Los Angeles,CA,West,06/13/2021,Plus,1,Y
+CUST00000407,Alex Brown 407,customer407@example.com,Houston,TX,South,11/22/2025,gold ,3,Y
+CUST00000408,Alex Smith 408,customer408@example.com,Dallas,TX,South,2022-07-05,Gold,3,Yes
+CUST00000409,Casey Lee 409,customer409@example.com,Buffalo,NY,Northeast,2022-01-11,,6,N
+CUST00000410,Casey Kim 410,customer410@example.com,Aurora,CO,West,2024-03-27,Silver,3,Y
+CUST00000411,Casey Smith 411,customer411@example.com,Austin,TX,South,12/25/2020,Plus,4,True
+CUST00000412,Riley Lee 412,customer412@example.com,Atlanta,GA,South,2025-11-21,gold ,5,Y
+CUST00000413,Morgan Brown 413,customer413@example.com,Albany,NY,Northeast,2022-05-22,,bad,N
+CUST00000414,Casey Patel 414,customer414@example.com,Denver,CO,West,2023-08-22,Basic,1,Yes
+CUST00000415,Alex Lee 415,customer415@example.com,Seattle,WA,West,2020-06-27,Silver,4,N
+CUST00000416,Jordan Brown 416,customer416@example.com,Atlanta,GA,South,2020-01-28,Plus,5,Y
+CUST00000417,Morgan Brown 417,customer417@example.com,Sacramento,CA,West,2025-05-28,Gold,5,Yes
+CUST00000418,Riley Smith 418,customer418@example.com,Seattle,WA,West,2020-09-24,,6,Y
+CUST00000419,Casey Lee 419,customer419@example.com,Orlando,FL,South,2024-07-26,,3,Yes
+CUST00000420,Riley Patel 420,customer420@example.com,Chicago,IL,Midwest,11/17/2022,Plus,4,True
+CUST00000421,Casey Garcia 421,customer421@example.com,Seattle,WA,West,2020-11-13,Plus,4,Y
+CUST00000422,Morgan Kim 422,customer422@example.com,Buffalo,NY,Northeast,08/29/2022,Gold,bad,True
+CUST00000423,Jordan Smith 423,customer423@example.com,Albany,NY,Northeast,2021-09-23,Silver,2,Y
+CUST00000424,Alex Lee 424,customer424@example.com,Atlanta,GA,South,2024-06-07,,2,True
+CUST00000425,Taylor Smith 425,customer425@example.com,Seattle,WA,West,2023-07-10,gold ,2,N
+CUST00000426,Casey Garcia 426,customer426@example.com,Peoria,IL,Midwest,02/18/2023,,,Y
+CUST00000427,Riley Lee 427,customer427@example.com,Los Angeles,CA,West,2023-12-25,gold ,4,Y
+CUST00000428,Riley Kim 428,customer428@example.com,Savannah,GA,South,2024-08-24,Basic,4,Y
+CUST00000429,Jordan Garcia 429,customer429@example.com,Los Angeles,CA,West,2020-11-17,Gold,4,N
+CUST00000430,Casey Patel 430,customer430@example.com,Peoria,IL,Midwest,07/20/2023,gold ,2,Y
+CUST00000431,Jordan Patel 431,customer431@example.com,Peoria,IL,Midwest,02/06/2026,Plus,bad,True
+CUST00000432,Alex Kim 432,customer432@example.com,Los Angeles,CA,West,2021-11-02,,1,Yes
+CUST00000433,Riley Brown 433,customer433@example.com,Savannah,GA,South,2021-08-17,Plus,4,Y
+CUST00000434,Riley Garcia 434,customer434@example.com,Tacoma,WA,West,2023-11-16,Silver,5,Y
+CUST00000435,Alex Patel 435,customer435@example.com,Peoria,IL,Midwest,09/15/2025,Gold,5,N
+CUST00000436,Alex Brown 436,customer436@example.com,Austin,TX,South,2024-09-12,gold ,6,Y
+CUST00000437,Casey Kim 437,customer437@example.com,Savannah,GA,South,01/11/2025,Gold,6,Yes
+CUST00000438,Morgan Garcia 438,customer438@example.com,Orlando,FL,South,2022-02-23,gold ,,Y
+CUST00000439,Alex Smith 439,customer439@example.com,Dallas,TX,South,2022-05-29,Basic,1,N
+CUST00000440,Morgan Kim 440,customer440@example.com,Chicago,IL,Midwest,2023-04-16,Silver,4,Y
+CUST00000441,Riley Garcia 441,customer441@example.com,Seattle,WA,West,2021-05-13,Basic,5,True
+CUST00000442,Jordan Patel 442,customer442@example.com,Dallas,TX,South,06/05/2023,Basic,5,Y
+CUST00000443,Riley Garcia 443,customer443@example.com,Chicago,IL,Midwest,2021-03-04,Plus,6,Y
+CUST00000444,Alex Patel 444,customer444@example.com,Tacoma,WA,West,2024-07-01,Basic,6,Y
+CUST00000445,Morgan Patel 445,customer445@example.com,Savannah,GA,South,2023-05-26,Gold,6,Y
+CUST00000446,Alex Brown 446,customer446@example.com,Atlanta,GA,South,2021-07-16,Plus,3,Y
+CUST00000447,Jordan Kim 447,customer447@example.com,Chicago,IL,Midwest,01/18/2024,Silver,5,Y
+CUST00000448,Casey Garcia 448,customer448@example.com,Denver,CO,West,07/05/2024,Silver,4,True
+CUST00000449,Jordan Patel 449,customer449@example.com,Dallas,TX,South,2024-12-02,,5,N
+CUST00000450,Jordan Kim 450,customer450@example.com,Peoria,IL,Midwest,2023-08-29,gold ,6,Y
+CUST00000451,Taylor Kim 451,customer451@example.com,Tacoma,WA,West,04/04/2024,gold ,6,Y
+CUST00000452,Taylor Kim 452,customer452@example.com,Los Angeles,CA,West,01/07/2021,Basic,6,Yes
+CUST00000453,Morgan Garcia 453,customer453@example.com,Chicago,IL,Midwest,2026-01-11,Basic,5,Y
+CUST00000454,Alex Smith 454,customer454@example.com,Denver,CO,West,08/29/2021,Basic,bad,Y
+CUST00000455,Riley Garcia 455,customer455@example.com,Orlando,FL,South,2025-03-28,Plus,bad,Y
+CUST00000456,Taylor Lee 456,customer456@example.com,Miami,FL,South,2021-07-20,Gold,bad,Y
+CUST00000457,Casey Patel 457,customer457@example.com,Chicago,IL,Midwest,12/15/2021,Gold,bad,Yes
+CUST00000458,Casey Garcia 458,customer458@example.com,Sacramento,CA,West,07/21/2021,Silver,,True
+CUST00000459,Riley Kim 459,customer459@example.com,Peoria,IL,Midwest,2023-04-26,Basic,bad,Y
+CUST00000460,Morgan Garcia 460,customer460@example.com,Houston,TX,South,2022-02-23,,3,Y
+CUST00000461,Taylor Garcia 461,customer461@example.com,Sacramento,CA,West,2022-03-27,Silver,bad,Y
+CUST00000462,Jordan Kim 462,customer462@example.com,Austin,TX,South,2024-05-28,Gold,6,Y
+CUST00000463,Taylor Lee 463,customer463@example.com,Atlanta,GA,South,2023-01-06,Basic,bad,Yes
+CUST00000464,Jordan Smith 464,customer464@example.com,Atlanta,GA,South,12/06/2021,,5,Y
+CUST00000465,Morgan Garcia 465,customer465@example.com,Peoria,IL,Midwest,05/12/2022,gold ,bad,Y
+CUST00000466,Riley Lee 466,customer466@example.com,Atlanta,GA,South,2025-02-26,Plus,5,Y
+CUST00000467,Casey Kim 467,customer467@example.com,Albany,NY,Northeast,05/17/2024,Basic,4,N
+CUST00000468,Casey Kim 468,customer468@example.com,Tacoma,WA,West,2024-06-01,Silver,6,N
+CUST00000469,Alex Patel 469,customer469@example.com,Tacoma,WA,West,06/29/2024,,bad,N
+CUST00000470,Alex Lee 470,customer470@example.com,Peoria,IL,Midwest,2024-04-10,Plus,,Y
+CUST00000471,Casey Brown 471,customer471@example.com,Denver,CO,West,05/18/2024,,4,Yes
+CUST00000472,Casey Brown 472,customer472@example.com,Dallas,TX,South,2023-11-12,Silver,5,Y
+CUST00000473,Casey Smith 473,customer473@example.com,Orlando,FL,South,07/31/2020,gold ,5,N
+CUST00000474,Casey Garcia 474,customer474@example.com,Dallas,TX,South,2025-01-29,,3,N
+CUST00000475,Casey Patel 475,customer475@example.com,Chicago,IL,Midwest,2021-01-22,Basic,,Yes
+CUST00000476,Jordan Garcia 476,customer476@example.com,Albany,NY,Northeast,02/19/2021,gold ,1,Y
+CUST00000477,Riley Brown 477,customer477@example.com,Aurora,CO,West,06/22/2021,Basic,5,True
+CUST00000478,Jordan Lee 478,customer478@example.com,Orlando,FL,South,2025-11-28,,bad,True
+CUST00000479,Jordan Lee 479,customer479@example.com,Albany,NY,Northeast,04/04/2020,gold ,bad,N
+CUST00000480,Taylor Garcia 480,customer480@example.com,Orlando,FL,South,12/25/2025,Gold,5,Yes
+CUST00000481,Alex Kim 481,customer481@example.com,Aurora,CO,West,05/06/2021,,6,Y
+CUST00000482,Jordan Kim 482,customer482@example.com,Albany,NY,Northeast,02/18/2024,,6,True
+CUST00000483,Jordan Kim 483,customer483@example.com,Miami,FL,South,2023-01-14,Basic,6,Yes
+CUST00000484,Riley Kim 484,customer484@example.com,Austin,TX,South,2025-03-27,Silver,1,Yes
+CUST00000485,Casey Garcia 485,customer485@example.com,Seattle,WA,West,2023-07-02,,4,Y
+CUST00000486,Alex Kim 486,customer486@example.com,Aurora,CO,West,03/14/2026,Silver,3,Yes
+CUST00000487,Alex Lee 487,customer487@example.com,Los Angeles,CA,West,03/15/2025,gold ,,Y
+CUST00000488,Casey Lee 488,customer488@example.com,Peoria,IL,Midwest,03/28/2023,Basic,6,Yes
+CUST00000489,Alex Patel 489,customer489@example.com,Denver,CO,West,2025-03-10,Plus,4,Y
+CUST00000490,Jordan Brown 490,customer490@example.com,Houston,TX,South,08/21/2022,Plus,6,True
+CUST00000491,Casey Smith 491,customer491@example.com,Tacoma,WA,West,05/26/2023,,6,Y
+CUST00000492,Jordan Smith 492,customer492@example.com,Los Angeles,CA,West,2021-03-06,,,Yes
+CUST00000493,Taylor Patel 493,customer493@example.com,Peoria,IL,Midwest,2024-05-29,gold ,6,True
+CUST00000494,Riley Kim 494,customer494@example.com,Atlanta,GA,South,2025-04-24,Basic,bad,True
+CUST00000495,Jordan Smith 495,customer495@example.com,Denver,CO,West,2020-01-22,Gold,5,Y
+CUST00000496,Riley Lee 496,customer496@example.com,Sacramento,CA,West,12/28/2025,Plus,bad,Y
+CUST00000497,Taylor Garcia 497,customer497@example.com,Peoria,IL,Midwest,08/21/2021,Plus,1,Y
+CUST00000498,Casey Lee 498,customer498@example.com,Savannah,GA,South,2021-04-08,Basic,bad,Y
+CUST00000499,Taylor Brown 499,customer499@example.com,Austin,TX,South,01/11/2026,,5,Yes
+CUST00000500,Morgan Brown 500,customer500@example.com,Houston,TX,South,04/23/2025,,3,Yes
+CUST00000501,Alex Brown 501,customer501@example.com,Chicago,IL,Midwest,08/16/2021,gold ,4,True
+CUST00000502,Riley Garcia 502,customer502@example.com,Orlando,FL,South,2021-01-05,Gold,bad,N
+CUST00000503,Morgan Lee 503,customer503@example.com,Denver,CO,West,01/25/2025,Gold,6,True
+CUST00000504,Riley Brown 504,customer504@example.com,Seattle,WA,West,2020-04-14,,bad,True
+CUST00000505,Jordan Garcia 505,,Dallas,TX,South,2020-08-09,Basic,1,N
+CUST00000506,Casey Smith 506,customer506@example.com,Seattle,WA,West,2023-05-07,gold ,6,True
+CUST00000507,Alex Brown 507,customer507@example.com,Seattle,WA,West,2024-10-05,Basic,1,Y
+CUST00000508,Riley Garcia 508,customer508@example.com,Los Angeles,CA,West,06/25/2020,Plus,5,True
+CUST00000509,Taylor Lee 509,customer509@example.com,Dallas,TX,South,2025-11-05,,2,N
+CUST00000510,Casey Lee 510,customer510@example.com,Houston,TX,South,2020-03-18,Plus,6,N
+CUST00000511,Morgan Kim 511,customer511@example.com,Miami,FL,South,2024-01-12,gold ,5,Y
+CUST00000512,Alex Kim 512,customer512@example.com,Denver,CO,West,12/17/2022,,,Y
+CUST00000513,Morgan Patel 513,customer513@example.com,Los Angeles,CA,West,04/26/2022,gold ,,Yes
+CUST00000514,Morgan Lee 514,customer514@example.com,Peoria,IL,Midwest,07/23/2021,,,Y
+CUST00000515,Casey Lee 515,customer515@example.com,Buffalo,NY,Northeast,2025-11-18,Plus,5,Y
+CUST00000516,Jordan Lee 516,customer516@example.com,Austin,TX,South,2023-10-02,Plus,5,Y
+CUST00000517,Jordan Kim 517,customer517@example.com,Aurora,CO,West,02/01/2020,gold ,4,Y
+CUST00000518,Alex Patel 518,customer518@example.com,Miami,FL,South,04/10/2026,gold ,2,Yes
+CUST00000519,Taylor Lee 519,customer519@example.com,Peoria,IL,Midwest,04/17/2021,Basic,4,Y
+CUST00000520,Taylor Smith 520,customer520@example.com,Austin,TX,South,2026-05-20,Basic,6,N
+CUST00000521,Morgan Patel 521,customer521@example.com,Denver,CO,West,04/06/2021,Plus,3,Y
+CUST00000522,Taylor Kim 522,customer522@example.com,Chicago,IL,Midwest,12/16/2024,Basic,3,N
+CUST00000523,Jordan Garcia 523,customer523@example.com,Houston,TX,South,2024-06-21,Gold,6,N
+CUST00000524,Jordan Smith 524,customer524@example.com,Houston,TX,South,2024-08-06,Plus,2,Yes
+CUST00000525,Taylor Lee 525,customer525@example.com,Buffalo,NY,Northeast,04/04/2024,Basic,5,True
+CUST00000526,Jordan Patel 526,customer526@example.com,Austin,TX,South,2021-02-13,,5,N
+CUST00000527,Taylor Garcia 527,customer527@example.com,Peoria,IL,Midwest,06/17/2022,Silver,6,Y
+CUST00000528,Alex Garcia 528,customer528@example.com,Atlanta,GA,South,09/11/2025,gold ,4,Y
+CUST00000529,Taylor Smith 529,customer529@example.com,Dallas,TX,South,2021-11-24,,5,True
+CUST00000530,Taylor Kim 530,customer530@example.com,Dallas,TX,South,05/31/2025,Plus,3,Y
+CUST00000531,Alex Patel 531,customer531@example.com,Denver,CO,West,04/15/2022,Plus,1,True
+CUST00000532,Taylor Patel 532,customer532@example.com,Seattle,WA,West,06/29/2024,Basic,bad,Y
+CUST00000533,Casey Lee 533,customer533@example.com,Albany,NY,Northeast,01/19/2025,Plus,5,True
+CUST00000534,Riley Smith 534,customer534@example.com,Buffalo,NY,Northeast,04/08/2021,Plus,2,True
+CUST00000535,Morgan Brown 535,customer535@example.com,Denver,CO,West,02/27/2023,gold ,6,N
+CUST00000536,Morgan Brown 536,customer536@example.com,Seattle,WA,West,2023-04-02,Plus,4,True
+CUST00000537,Morgan Patel 537,customer537@example.com,Seattle,WA,West,2023-05-06,gold ,5,Yes
+CUST00000538,Riley Patel 538,customer538@example.com,Dallas,TX,South,11/08/2025,Basic,2,N
+CUST00000539,Alex Lee 539,customer539@example.com,Albany,NY,Northeast,05/16/2023,Basic,,Y
+CUST00000540,Riley Lee 540,customer540@example.com,Miami,FL,South,03/10/2025,Basic,6,Y
+CUST00000541,Casey Brown 541,customer541@example.com,Houston,TX,South,2024-08-30,Plus,3,True
+CUST00000542,Morgan Brown 542,customer542@example.com,Houston,TX,South,06/15/2022,Basic,2,Yes
+CUST00000543,Casey Brown 543,customer543@example.com,Atlanta,GA,South,2023-06-01,Basic,5,N
+CUST00000544,Morgan Brown 544,customer544@example.com,Peoria,IL,Midwest,2020-01-16,Silver,5,Y
+CUST00000545,Morgan Brown 545,customer545@example.com,Sacramento,CA,West,2022-03-31,,1,True
+CUST00000546,Taylor Garcia 546,customer546@example.com,Tacoma,WA,West,08/14/2020,Basic,1,True
+CUST00000547,Casey Kim 547,customer547@example.com,Atlanta,GA,South,2024-10-25,,5,Y
+CUST00000548,Alex Lee 548,customer548@example.com,Orlando,FL,South,2023-03-01,Basic,2,Y
+CUST00000549,Taylor Lee 549,customer549@example.com,Albany,NY,Northeast,2020-02-18,Basic,1,N
+CUST00000550,Morgan Smith 550,customer550@example.com,Albany,NY,Northeast,2022-06-05,Basic,2,Y
+CUST00000551,Riley Brown 551,customer551@example.com,Atlanta,GA,South,2022-07-22,Plus,,Y
+CUST00000552,Jordan Lee 552,customer552@example.com,Peoria,IL,Midwest,2022-11-28,gold ,,Yes
+CUST00000553,Riley Smith 553,customer553@example.com,Aurora,CO,West,11/28/2022,Silver,6,Y
+CUST00000554,Alex Patel 554,customer554@example.com,Houston,TX,South,2023-03-13,gold ,2,Y
+CUST00000555,Jordan Lee 555,customer555@example.com,Peoria,IL,Midwest,2025-11-25,Gold,1,Y
+CUST00000556,Riley Smith 556,customer556@example.com,Buffalo,NY,Northeast,11/29/2025,Plus,1,Yes
+CUST00000557,Alex Lee 557,customer557@example.com,Buffalo,NY,Northeast,10/11/2021,,4,Yes
+CUST00000558,Taylor Smith 558,customer558@example.com,Dallas,TX,South,12/28/2023,Basic,1,True
+CUST00000559,Jordan Brown 559,customer559@example.com,Buffalo,NY,Northeast,02/29/2020,Plus,3,Yes
+CUST00000560,Taylor Kim 560,customer560@example.com,Buffalo,NY,Northeast,2022-01-08,Gold,2,Y
+CUST00000561,Alex Lee 561,customer561@example.com,Dallas,TX,South,01/07/2025,Gold,6,N
+CUST00000562,Jordan Lee 562,customer562@example.com,Miami,FL,South,2026-04-15,Plus,5,N
+CUST00000563,Alex Patel 563,customer563@example.com,Atlanta,GA,South,2023-02-21,,,Y
+CUST00000564,Casey Brown 564,customer564@example.com,Aurora,CO,West,05/07/2024,Silver,3,Y
+CUST00000565,Jordan Smith 565,customer565@example.com,Sacramento,CA,West,2022-08-08,gold ,6,Y
+CUST00000566,Morgan Lee 566,customer566@example.com,Savannah,GA,South,01/14/2025,Silver,,Yes
+CUST00000567,Taylor Garcia 567,customer567@example.com,Austin,TX,South,2022-08-23,Gold,5,Y
+CUST00000568,Jordan Brown 568,customer568@example.com,Buffalo,NY,Northeast,2023-02-02,Silver,5,Y
+CUST00000569,Jordan Kim 569,customer569@example.com,Seattle,WA,West,2020-10-27,,1,Y
+CUST00000570,Taylor Brown 570,customer570@example.com,Aurora,CO,West,2021-10-26,Basic,bad,True
+CUST00000571,Taylor Kim 571,customer571@example.com,Austin,TX,South,2020-06-01,Gold,1,True
+CUST00000572,Taylor Kim 572,customer572@example.com,Chicago,IL,Midwest,06/26/2024,gold ,2,Y
+CUST00000573,Riley Kim 573,customer573@example.com,Sacramento,CA,West,03/18/2024,Basic,,True
+CUST00000574,Alex Smith 574,customer574@example.com,Tacoma,WA,West,11/22/2021,Silver,,Yes
+CUST00000575,Casey Patel 575,customer575@example.com,Buffalo,NY,Northeast,02/02/2022,Gold,,True
+CUST00000576,Casey Garcia 576,customer576@example.com,Tacoma,WA,West,2023-10-18,Silver,2,Y
+CUST00000577,Morgan Garcia 577,customer577@example.com,Albany,NY,Northeast,2023-03-22,gold ,1,N
+CUST00000578,Taylor Lee 578,customer578@example.com,Aurora,CO,West,11/11/2022,Gold,6,Y
+CUST00000579,Riley Smith 579,customer579@example.com,Houston,TX,South,06/11/2022,Silver,5,N
+CUST00000580,Casey Lee 580,customer580@example.com,Houston,TX,South,03/27/2023,Plus,1,Yes
+CUST00000581,Jordan Brown 581,customer581@example.com,Austin,TX,South,2024-06-03,Gold,5,Y
+CUST00000582,Alex Garcia 582,customer582@example.com,Aurora,CO,West,2024-07-03,Plus,,True
+CUST00000583,Casey Kim 583,customer583@example.com,Orlando,FL,South,11/11/2025,Basic,bad,Y
+CUST00000584,Jordan Smith 584,customer584@example.com,Miami,FL,South,2022-09-26,gold ,,True
+CUST00000585,Morgan Garcia 585,customer585@example.com,Sacramento,CA,West,2025-04-09,Gold,6,N
+CUST00000586,Jordan Lee 586,customer586@example.com,Peoria,IL,Midwest,12/10/2021,Silver,6,Y
+CUST00000587,Casey Lee 587,customer587@example.com,Dallas,TX,South,03/01/2023,,bad,Y
+CUST00000588,Taylor Smith 588,customer588@example.com,Miami,FL,South,2021-11-30,Basic,1,N
+CUST00000589,Taylor Patel 589,customer589@example.com,Albany,NY,Northeast,2020-05-12,Silver,1,Y
+CUST00000590,Taylor Kim 590,customer590@example.com,Peoria,IL,Midwest,2021-03-22,Silver,bad,N
+CUST00000591,Jordan Patel 591,customer591@example.com,Houston,TX,South,06/30/2021,Basic,2,True
+CUST00000592,Alex Brown 592,customer592@example.com,Chicago,IL,Midwest,06/07/2022,,2,N
+CUST00000593,Casey Garcia 593,customer593@example.com,Peoria,IL,Midwest,2022-11-29,Plus,4,Y
+CUST00000594,Jordan Garcia 594,customer594@example.com,Denver,CO,West,03/22/2024,,2,N
+CUST00000595,Morgan Smith 595,customer595@example.com,Chicago,IL,Midwest,10/07/2024,,bad,Yes
+CUST00000596,Morgan Brown 596,customer596@example.com,Albany,NY,Northeast,08/14/2020,,,N
+CUST00000597,Morgan Brown 597,customer597@example.com,Seattle,WA,West,05/19/2020,Gold,6,N
+CUST00000598,Jordan Kim 598,customer598@example.com,Austin,TX,South,2022-08-17,,bad,Y
+CUST00000599,Riley Patel 599,customer599@example.com,Dallas,TX,South,2022-05-12,Silver,2,N
+CUST00000600,Casey Lee 600,customer600@example.com,Orlando,FL,South,05/17/2025,Basic,1,Yes
+CUST00000601,Alex Smith 601,customer601@example.com,Savannah,GA,South,12/26/2023,gold ,2,True
+CUST00000602,Morgan Kim 602,customer602@example.com,Tacoma,WA,West,07/31/2023,Basic,5,N
+CUST00000603,Morgan Lee 603,customer603@example.com,Chicago,IL,Midwest,12/27/2024,gold ,5,N
+CUST00000604,Jordan Patel 604,customer604@example.com,Denver,CO,West,05/09/2025,Silver,,True
+CUST00000605,Riley Lee 605,customer605@example.com,Denver,CO,West,03/18/2020,,3,Y
+CUST00000606,Riley Smith 606,customer606@example.com,Miami,FL,South,07/11/2020,gold ,5,Y
+CUST00000607,Jordan Lee 607,customer607@example.com,Albany,NY,Northeast,2022-01-25,Basic,6,Yes
+CUST00000608,Morgan Garcia 608,customer608@example.com,Sacramento,CA,West,2021-03-18,Basic,bad,True
+CUST00000609,Jordan Patel 609,customer609@example.com,Chicago,IL,Midwest,2020-04-05,Silver,1,Y
+CUST00000610,Casey Patel 610,customer610@example.com,Buffalo,NY,Northeast,2024-07-03,Gold,,Y
+CUST00000611,Taylor Brown 611,customer611@example.com,Chicago,IL,Midwest,05/02/2024,,6,Yes
+CUST00000612,Taylor Patel 612,customer612@example.com,Los Angeles,CA,West,01/16/2023,Gold,bad,N
+CUST00000613,Morgan Lee 613,customer613@example.com,Austin,TX,South,2020-12-14,Silver,2,True
+CUST00000614,Riley Garcia 614,customer614@example.com,Austin,TX,South,10/05/2021,Gold,1,N
+CUST00000615,Taylor Lee 615,customer615@example.com,Miami,FL,South,2025-01-15,,,N
+CUST00000616,Taylor Kim 616,customer616@example.com,Tacoma,WA,West,07/16/2022,Gold,2,Yes
+CUST00000617,Morgan Garcia 617,customer617@example.com,Chicago,IL,Midwest,01/05/2021,gold ,6,Y
+CUST00000618,Alex Patel 618,customer618@example.com,Orlando,FL,South,11/22/2025,Basic,2,Yes
+CUST00000619,Jordan Patel 619,customer619@example.com,Chicago,IL,Midwest,10/26/2020,Basic,5,Yes
+CUST00000620,Alex Garcia 620,customer620@example.com,Tacoma,WA,West,2024-11-22,Gold,5,N
+CUST00000621,Riley Lee 621,customer621@example.com,Buffalo,NY,Northeast,2022-02-01,,bad,N
+CUST00000622,Casey Garcia 622,customer622@example.com,Atlanta,GA,South,2024-06-16,gold ,4,True
+CUST00000623,Riley Garcia 623,customer623@example.com,Los Angeles,CA,West,2021-02-11,Plus,1,N
+CUST00000624,Alex Kim 624,customer624@example.com,Tacoma,WA,West,12/12/2020,,4,Yes
+CUST00000625,Taylor Garcia 625,customer625@example.com,Orlando,FL,South,2020-08-31,Plus,1,Y
+CUST00000626,Riley Smith 626,customer626@example.com,Savannah,GA,South,2024-05-27,Gold,1,N
+CUST00000627,Alex Kim 627,customer627@example.com,Albany,NY,Northeast,06/19/2022,,bad,N
+CUST00000628,Taylor Smith 628,customer628@example.com,Atlanta,GA,South,06/20/2024,,4,Yes
+CUST00000629,Morgan Brown 629,customer629@example.com,Denver,CO,West,02/07/2020,Gold,5,True
+CUST00000630,Casey Garcia 630,customer630@example.com,Aurora,CO,West,2021-05-22,Plus,5,N
+CUST00000631,Jordan Lee 631,customer631@example.com,Buffalo,NY,Northeast,07/05/2020,gold ,3,Y
+CUST00000632,Jordan Garcia 632,customer632@example.com,Tacoma,WA,West,2023-01-18,Plus,5,True
+CUST00000633,Casey Brown 633,customer633@example.com,Buffalo,NY,Northeast,06/08/2021,Basic,5,True
+CUST00000634,Morgan Patel 634,customer634@example.com,Savannah,GA,South,01/02/2025,Plus,2,N
+CUST00000635,Casey Brown 635,customer635@example.com,Albany,NY,Northeast,2022-05-29,Silver,2,N
+CUST00000636,Riley Kim 636,customer636@example.com,Orlando,FL,South,04/04/2021,,,Y
+CUST00000637,Alex Lee 637,customer637@example.com,Denver,CO,West,2021-04-23,Plus,bad,Y
+CUST00000638,Taylor Brown 638,customer638@example.com,Sacramento,CA,West,01/14/2026,Gold,,Y
+CUST00000639,Taylor Kim 639,customer639@example.com,Savannah,GA,South,03/10/2024,Plus,bad,Y
+CUST00000640,Riley Brown 640,customer640@example.com,Seattle,WA,West,01/31/2020,gold ,6,Y
+CUST00000641,Casey Brown 641,customer641@example.com,Seattle,WA,West,2023-03-25,,6,Y
+CUST00000642,Morgan Brown 642,customer642@example.com,Orlando,FL,South,03/31/2021,Plus,,N
+CUST00000643,Taylor Kim 643,customer643@example.com,Atlanta,GA,South,2020-11-05,,6,True
+CUST00000644,Alex Garcia 644,customer644@example.com,Tacoma,WA,West,2022-11-15,Plus,5,Yes
+CUST00000645,Morgan Kim 645,customer645@example.com,Seattle,WA,West,2023-10-10,,1,Y
+CUST00000646,Jordan Smith 646,customer646@example.com,Aurora,CO,West,2021-08-16,Silver,6,Y
+CUST00000647,Casey Brown 647,customer647@example.com,Seattle,WA,West,08/01/2023,Plus,6,Yes
+CUST00000648,Morgan Smith 648,customer648@example.com,Houston,TX,South,08/18/2025,Basic,,N
+CUST00000649,Taylor Brown 649,customer649@example.com,Chicago,IL,Midwest,02/24/2024,Plus,4,Y
+CUST00000650,Alex Kim 650,customer650@example.com,Dallas,TX,South,2025-06-04,Basic,4,Y
+CUST00000651,Morgan Kim 651,customer651@example.com,Houston,TX,South,02/18/2024,Gold,,N
+CUST00000652,Taylor Patel 652,customer652@example.com,Atlanta,GA,South,06/18/2020,Basic,bad,Yes
+CUST00000653,Jordan Brown 653,customer653@example.com,Los Angeles,CA,West,12/31/2022,Silver,2,N
+CUST00000654,Jordan Lee 654,customer654@example.com,Savannah,GA,South,2021-06-22,,2,Yes
+CUST00000655,Morgan Brown 655,customer655@example.com,Albany,NY,Northeast,2023-12-24,,6,Y
+CUST00000656,Jordan Kim 656,customer656@example.com,Sacramento,CA,West,03/01/2022,Silver,4,Yes
+CUST00000657,Morgan Garcia 657,customer657@example.com,Peoria,IL,Midwest,02/19/2024,Basic,6,Yes
+CUST00000658,Alex Lee 658,customer658@example.com,Savannah,GA,South,10/29/2022,Silver,bad,Y
+CUST00000659,Alex Lee 659,customer659@example.com,Atlanta,GA,South,03/24/2020,Gold,3,Y
+CUST00000660,Taylor Lee 660,customer660@example.com,Sacramento,CA,West,2021-01-25,gold ,2,Y
+CUST00000661,Alex Garcia 661,customer661@example.com,Miami,FL,South,2023-07-07,Silver,6,True
+CUST00000662,Morgan Lee 662,customer662@example.com,Albany,NY,Northeast,07/17/2025,Gold,4,Y
+CUST00000663,Alex Patel 663,customer663@example.com,Los Angeles,CA,West,2024-10-06,Basic,,Y
+CUST00000664,Taylor Lee 664,customer664@example.com,Denver,CO,West,04/09/2022,Gold,3,True
+CUST00000665,Riley Brown 665,customer665@example.com,Austin,TX,South,01/08/2020,,,Yes
+CUST00000666,Casey Smith 666,customer666@example.com,Peoria,IL,Midwest,2025-09-02,gold ,4,Yes
+CUST00000667,Casey Kim 667,customer667@example.com,Dallas,TX,South,09/18/2024,gold ,,Y
+CUST00000668,Casey Patel 668,customer668@example.com,Buffalo,NY,Northeast,2021-10-25,gold ,3,Yes
+CUST00000669,Morgan Lee 669,customer669@example.com,Chicago,IL,Midwest,07/10/2021,Gold,bad,True
+CUST00000670,Jordan Smith 670,customer670@example.com,Savannah,GA,South,06/21/2021,,2,Y
+CUST00000671,Riley Smith 671,customer671@example.com,Sacramento,CA,West,08/27/2022,Gold,1,N
+CUST00000672,Jordan Lee 672,customer672@example.com,Sacramento,CA,West,2023-02-01,Silver,1,Yes
+CUST00000673,Jordan Brown 673,customer673@example.com,Orlando,FL,South,07/10/2021,gold ,3,Yes
+CUST00000674,Jordan Brown 674,customer674@example.com,Albany,NY,Northeast,2020-08-22,Silver,bad,N
+CUST00000675,Riley Brown 675,customer675@example.com,Atlanta,GA,South,2022-08-08,,3,True
+CUST00000676,Alex Garcia 676,customer676@example.com,Sacramento,CA,West,2025-03-08,gold ,2,N
+CUST00000677,Casey Kim 677,customer677@example.com,Seattle,WA,West,07/28/2020,Plus,,Y
+CUST00000678,Riley Kim 678,customer678@example.com,Seattle,WA,West,2024-02-19,Silver,1,Y
+CUST00000679,Morgan Brown 679,customer679@example.com,Miami,FL,South,2024-09-04,Plus,bad,Y
+CUST00000680,Alex Garcia 680,customer680@example.com,Houston,TX,South,2024-06-05,,bad,N
+CUST00000681,Alex Kim 681,customer681@example.com,Buffalo,NY,Northeast,08/27/2023,,3,Y
+CUST00000682,Riley Patel 682,customer682@example.com,Houston,TX,South,01/01/2020,,5,Yes
+CUST00000683,Riley Smith 683,customer683@example.com,Dallas,TX,South,2022-09-28,Gold,4,Y
+CUST00000684,Riley Kim 684,customer684@example.com,Orlando,FL,South,2021-08-03,Plus,1,Y
+CUST00000685,Casey Lee 685,customer685@example.com,Aurora,CO,West,2022-02-23,,3,Y
+CUST00000686,Alex Smith 686,customer686@example.com,Austin,TX,South,2020-10-27,gold ,2,Yes
+CUST00000687,Riley Lee 687,customer687@example.com,Los Angeles,CA,West,02/23/2023,,2,Y
+CUST00000688,Riley Brown 688,customer688@example.com,Atlanta,GA,South,2026-03-18,Basic,6,True
+CUST00000689,Jordan Kim 689,customer689@example.com,Chicago,IL,Midwest,2024-07-08,Basic,5,Y
+CUST00000690,Riley Patel 690,customer690@example.com,Houston,TX,South,01/21/2023,Plus,6,True
+CUST00000691,Jordan Brown 691,customer691@example.com,Los Angeles,CA,West,2022-04-13,Silver,,Y
+CUST00000692,Riley Garcia 692,customer692@example.com,Buffalo,NY,Northeast,12/14/2023,Gold,2,Yes
+CUST00000693,Alex Garcia 693,customer693@example.com,Denver,CO,West,2025-02-24,Gold,1,Y
+CUST00000694,Casey Kim 694,customer694@example.com,Tacoma,WA,West,2021-09-23,gold ,1,N
+CUST00000695,Jordan Patel 695,customer695@example.com,Peoria,IL,Midwest,07/04/2020,gold ,bad,Y
+CUST00000696,Alex Patel 696,customer696@example.com,Peoria,IL,Midwest,2021-03-06,Gold,,Y
+CUST00000697,Taylor Lee 697,customer697@example.com,Miami,FL,South,10/22/2022,Silver,1,Y
+CUST00000698,Casey Smith 698,customer698@example.com,Tacoma,WA,West,2024-04-20,,6,True
+CUST00000699,Jordan Garcia 699,customer699@example.com,Sacramento,CA,West,05/21/2022,Gold,,Yes
+CUST00000700,Morgan Smith 700,customer700@example.com,Atlanta,GA,South,05/27/2023,gold ,,Y
+CUST00000701,Riley Brown 701,customer701@example.com,Albany,NY,Northeast,2026-05-18,gold ,4,Y
+CUST00000702,Casey Lee 702,customer702@example.com,Miami,FL,South,2021-07-17,,,True
+CUST00000703,Riley Patel 703,customer703@example.com,Sacramento,CA,West,06/16/2025,Plus,2,Y
+CUST00000704,Alex Patel 704,customer704@example.com,Albany,NY,Northeast,2024-04-27,Basic,bad,Y
+CUST00000705,Jordan Kim 705,customer705@example.com,Los Angeles,CA,West,08/21/2023,Plus,5,Y
+CUST00000706,Riley Lee 706,customer706@example.com,Aurora,CO,West,2025-08-11,Silver,5,N
+CUST00000707,Jordan Kim 707,customer707@example.com,Chicago,IL,Midwest,2024-12-15,Gold,5,True
+CUST00000708,Riley Smith 708,customer708@example.com,Peoria,IL,Midwest,2021-06-03,Basic,2,Y
+CUST00000709,Jordan Brown 709,customer709@example.com,Buffalo,NY,Northeast,09/01/2021,Plus,3,Yes
+CUST00000710,Casey Lee 710,customer710@example.com,Miami,FL,South,08/22/2021,Basic,6,N
+CUST00000711,Taylor Kim 711,customer711@example.com,Chicago,IL,Midwest,11/12/2021,Silver,5,Y
+CUST00000712,Morgan Lee 712,customer712@example.com,Orlando,FL,South,2020-04-21,Gold,5,Yes
+CUST00000713,Taylor Kim 713,customer713@example.com,Orlando,FL,South,2020-04-04,Plus,4,N
+CUST00000714,Alex Kim 714,customer714@example.com,Aurora,CO,West,03/31/2024,Basic,4,Y
+CUST00000715,Riley Garcia 715,customer715@example.com,Sacramento,CA,West,2025-06-29,Gold,3,Y
+CUST00000716,Taylor Kim 716,customer716@example.com,Seattle,WA,West,2020-05-11,Basic,1,Yes
+CUST00000717,Taylor Lee 717,customer717@example.com,Seattle,WA,West,01/21/2026,Silver,,True
+CUST00000718,Riley Lee 718,customer718@example.com,Houston,TX,South,09/24/2024,Plus,bad,Y
+CUST00000719,Jordan Smith 719,customer719@example.com,Los Angeles,CA,West,08/30/2023,Gold,bad,Y
+CUST00000720,Riley Smith 720,customer720@example.com,Orlando,FL,South,08/26/2023,Plus,3,True
+CUST00000721,Alex Patel 721,customer721@example.com,Savannah,GA,South,2024-08-11,,,True
+CUST00000722,Taylor Garcia 722,customer722@example.com,Chicago,IL,Midwest,12/23/2020,Plus,1,Y
+CUST00000723,Taylor Smith 723,customer723@example.com,Buffalo,NY,Northeast,2021-02-23,Silver,4,Y
+CUST00000724,Taylor Lee 724,customer724@example.com,Chicago,IL,Midwest,2024-08-30,Basic,,Y
+CUST00000725,Morgan Brown 725,customer725@example.com,Peoria,IL,Midwest,07/16/2021,gold ,3,Yes
+CUST00000726,Riley Brown 726,customer726@example.com,Tacoma,WA,West,2025-05-24,gold ,5,True
+CUST00000727,Alex Garcia 727,customer727@example.com,Aurora,CO,West,06/07/2025,gold ,1,Y
+CUST00000728,Morgan Garcia 728,customer728@example.com,Buffalo,NY,Northeast,05/03/2021,Plus,6,Y
+CUST00000729,Alex Brown 729,customer729@example.com,Seattle,WA,West,06/13/2023,Basic,4,Y
+CUST00000730,Morgan Kim 730,customer730@example.com,Los Angeles,CA,West,2020-05-24,Plus,1,Yes
+CUST00000731,Morgan Garcia 731,customer731@example.com,Tacoma,WA,West,2023-11-03,Plus,bad,True
+CUST00000732,Taylor Smith 732,customer732@example.com,Tacoma,WA,West,2020-02-07,Basic,5,Yes
+CUST00000733,Riley Patel 733,customer733@example.com,Aurora,CO,West,2024-12-08,Plus,bad,True
+CUST00000734,Taylor Lee 734,customer734@example.com,Tacoma,WA,West,06/08/2023,Plus,3,Yes
+CUST00000735,Taylor Lee 735,customer735@example.com,Austin,TX,South,11/21/2023,gold ,3,True
+CUST00000736,Jordan Patel 736,customer736@example.com,Austin,TX,South,09/03/2024,,1,Y
+CUST00000737,Jordan Brown 737,customer737@example.com,Miami,FL,South,2023-10-14,gold ,2,Y
+CUST00000738,Morgan Lee 738,customer738@example.com,Atlanta,GA,South,2023-09-16,Gold,bad,True
+CUST00000739,Taylor Garcia 739,customer739@example.com,Miami,FL,South,04/25/2023,Plus,5,True
+CUST00000740,Morgan Smith 740,customer740@example.com,Chicago,IL,Midwest,2021-08-11,,6,Y
+CUST00000741,Jordan Patel 741,customer741@example.com,Albany,NY,Northeast,01/09/2024,Basic,bad,N
+CUST00000742,Morgan Kim 742,customer742@example.com,Peoria,IL,Midwest,2020-06-14,Silver,3,Y
+CUST00000743,Jordan Smith 743,customer743@example.com,Houston,TX,South,2020-10-30,Plus,2,Y
+CUST00000744,Alex Lee 744,customer744@example.com,Sacramento,CA,West,05/13/2023,Gold,6,Yes
+CUST00000745,Alex Brown 745,customer745@example.com,Albany,NY,Northeast,2024-06-07,gold ,4,True
+CUST00000746,Taylor Kim 746,customer746@example.com,Houston,TX,South,11/25/2023,Plus,4,N
+CUST00000747,Jordan Lee 747,customer747@example.com,Savannah,GA,South,2020-10-03,Gold,3,N
+CUST00000748,Jordan Lee 748,customer748@example.com,Chicago,IL,Midwest,2024-02-27,gold ,1,True
+CUST00000749,Riley Garcia 749,customer749@example.com,Chicago,IL,Midwest,11/20/2025,gold ,1,Y
+CUST00000750,Alex Brown 750,customer750@example.com,Atlanta,GA,South,2023-08-31,Gold,5,Yes
+CUST00000751,Taylor Lee 751,customer751@example.com,Buffalo,NY,Northeast,2025-09-21,Silver,3,True
+CUST00000752,Morgan Kim 752,customer752@example.com,Aurora,CO,West,2024-01-04,,,Yes
+CUST00000753,Jordan Kim 753,customer753@example.com,Houston,TX,South,2025-09-12,Basic,6,Y
+CUST00000754,Jordan Smith 754,customer754@example.com,Aurora,CO,West,2021-12-17,Silver,1,Y
+CUST00000755,Taylor Patel 755,customer755@example.com,Aurora,CO,West,2025-07-28,Silver,bad,Yes
+CUST00000756,Taylor Garcia 756,customer756@example.com,Houston,TX,South,2026-01-24,Gold,bad,Y
+CUST00000757,Casey Brown 757,customer757@example.com,Orlando,FL,South,2022-09-30,Gold,1,Yes
+CUST00000758,Alex Lee 758,customer758@example.com,Albany,NY,Northeast,2024-04-04,gold ,bad,Yes
+CUST00000759,Riley Smith 759,customer759@example.com,Orlando,FL,South,12/01/2023,gold ,bad,Y
+CUST00000760,Morgan Patel 760,customer760@example.com,Denver,CO,West,2021-07-06,Silver,6,Y
+CUST00000761,Casey Smith 761,customer761@example.com,Buffalo,NY,Northeast,2024-09-23,Silver,bad,Yes
+CUST00000762,Taylor Garcia 762,customer762@example.com,Aurora,CO,West,2021-03-15,Plus,4,True
+CUST00000763,Alex Garcia 763,customer763@example.com,Buffalo,NY,Northeast,06/16/2021,Gold,6,Y
+CUST00000764,Jordan Brown 764,customer764@example.com,Orlando,FL,South,10/21/2024,Gold,1,Y
+CUST00000765,Morgan Brown 765,customer765@example.com,Denver,CO,West,09/20/2023,Gold,2,Y
+CUST00000766,Morgan Brown 766,customer766@example.com,Austin,TX,South,2023-10-01,Plus,4,Yes
+CUST00000767,Morgan Garcia 767,customer767@example.com,Seattle,WA,West,2023-01-05,Basic,6,Yes
+CUST00000768,Alex Smith 768,customer768@example.com,Savannah,GA,South,2023-05-18,,,True
+CUST00000769,Riley Patel 769,customer769@example.com,Sacramento,CA,West,2023-04-13,,3,Y
+CUST00000770,Alex Kim 770,customer770@example.com,Sacramento,CA,West,2025-11-22,,1,Y
+CUST00000771,Casey Smith 771,customer771@example.com,Aurora,CO,West,2022-08-19,gold ,4,Y
+CUST00000772,Morgan Garcia 772,customer772@example.com,Peoria,IL,Midwest,01/27/2026,Plus,3,N
+CUST00000773,Taylor Kim 773,customer773@example.com,Miami,FL,South,06/05/2025,Basic,1,Y
+CUST00000774,Alex Brown 774,customer774@example.com,Seattle,WA,West,10/29/2021,Plus,,Y
+CUST00000775,Alex Garcia 775,customer775@example.com,Savannah,GA,South,2020-11-29,,1,Y
+CUST00000776,Alex Lee 776,customer776@example.com,Sacramento,CA,West,03/02/2021,Basic,,N
+CUST00000777,Taylor Kim 777,customer777@example.com,Seattle,WA,West,09/08/2024,Basic,2,Y
+CUST00000778,Alex Kim 778,customer778@example.com,Austin,TX,South,04/07/2021,,2,True
+CUST00000779,Taylor Smith 779,customer779@example.com,Houston,TX,South,09/17/2023,,6,Yes
+CUST00000780,Riley Lee 780,customer780@example.com,Dallas,TX,South,07/10/2020,Plus,bad,Yes
+CUST00000781,Taylor Patel 781,customer781@example.com,Denver,CO,West,2021-11-03,gold ,1,Y
+CUST00000782,Taylor Smith 782,customer782@example.com,Atlanta,GA,South,03/01/2021,Basic,6,True
+CUST00000783,Alex Garcia 783,customer783@example.com,Peoria,IL,Midwest,05/14/2022,,2,N
+CUST00000784,Taylor Brown 784,,Seattle,WA,West,2021-05-02,Basic,6,Y
+CUST00000785,Casey Lee 785,customer785@example.com,Houston,TX,South,2025-06-23,gold ,5,Y
+CUST00000786,Morgan Brown 786,customer786@example.com,Atlanta,GA,South,2022-11-20,gold ,bad,Yes
+CUST00000787,Jordan Lee 787,customer787@example.com,Peoria,IL,Midwest,2022-06-04,gold ,3,Y
+CUST00000788,Riley Patel 788,customer788@example.com,Buffalo,NY,Northeast,08/22/2024,Basic,1,Y
+CUST00000789,Riley Kim 789,customer789@example.com,Tacoma,WA,West,2025-06-11,Gold,bad,Y
+CUST00000790,Riley Kim 790,customer790@example.com,Tacoma,WA,West,2021-07-05,Basic,4,Yes
+CUST00000791,Riley Smith 791,customer791@example.com,Orlando,FL,South,2023-02-20,Gold,1,Y
+CUST00000792,Morgan Garcia 792,customer792@example.com,Aurora,CO,West,04/20/2025,Plus,5,Y
+CUST00000793,Morgan Garcia 793,customer793@example.com,Atlanta,GA,South,09/11/2023,Gold,4,Yes
+CUST00000794,Riley Patel 794,customer794@example.com,Austin,TX,South,2023-08-30,gold ,5,True
+CUST00000795,Riley Brown 795,customer795@example.com,Denver,CO,West,2024-10-27,Silver,,Y
+CUST00000796,Casey Patel 796,customer796@example.com,Tacoma,WA,West,06/15/2023,Plus,bad,Y
+CUST00000797,Taylor Lee 797,customer797@example.com,Buffalo,NY,Northeast,09/18/2022,Gold,3,Y
+CUST00000798,Alex Kim 798,customer798@example.com,Chicago,IL,Midwest,2021-03-01,,1,Y
+CUST00000799,Taylor Kim 799,customer799@example.com,Savannah,GA,South,12/19/2021,Gold,1,Y
+CUST00000800,Taylor Smith 800,customer800@example.com,Aurora,CO,West,07/22/2024,Plus,bad,N
+CUST00000801,Casey Lee 801,customer801@example.com,Austin,TX,South,11/10/2024,Plus,2,N
+CUST00000802,Alex Smith 802,customer802@example.com,Los Angeles,CA,West,12/11/2022,Gold,1,Y
+CUST00000803,Riley Kim 803,customer803@example.com,Dallas,TX,South,11/24/2020,Basic,1,True
+CUST00000804,Riley Patel 804,customer804@example.com,Aurora,CO,West,11/02/2025,Plus,4,Y
+CUST00000805,Casey Smith 805,customer805@example.com,Peoria,IL,Midwest,07/18/2020,gold ,2,Y
+CUST00000806,Morgan Lee 806,customer806@example.com,Atlanta,GA,South,04/12/2020,,6,Y
+CUST00000807,Casey Smith 807,customer807@example.com,Albany,NY,Northeast,2025-04-11,Silver,6,True
+CUST00000808,Riley Lee 808,customer808@example.com,Sacramento,CA,West,12/24/2024,Gold,bad,Y
+CUST00000809,Alex Brown 809,customer809@example.com,Miami,FL,South,04/09/2021,Gold,2,True
+CUST00000810,Jordan Brown 810,customer810@example.com,Atlanta,GA,South,02/15/2022,Silver,1,Yes
+CUST00000811,Morgan Kim 811,customer811@example.com,Dallas,TX,South,2025-03-26,,4,Y
+CUST00000812,Casey Lee 812,customer812@example.com,Denver,CO,West,2022-06-19,Silver,5,Y
+CUST00000813,Taylor Brown 813,customer813@example.com,Savannah,GA,South,03/07/2025,Plus,bad,True
+CUST00000814,Casey Smith 814,customer814@example.com,Aurora,CO,West,03/24/2022,,5,Y
+CUST00000815,Casey Garcia 815,customer815@example.com,Sacramento,CA,West,2022-10-08,Plus,6,Y
+CUST00000816,Taylor Lee 816,customer816@example.com,Seattle,WA,West,2022-02-22,Basic,6,Y
+CUST00000817,Morgan Kim 817,customer817@example.com,Denver,CO,West,02/12/2021,Plus,1,Y
+CUST00000818,Jordan Kim 818,customer818@example.com,Albany,NY,Northeast,04/26/2026,Plus,,Y
+CUST00000819,Alex Smith 819,customer819@example.com,Chicago,IL,Midwest,2024-07-17,Silver,4,Y
+CUST00000820,Casey Kim 820,customer820@example.com,Peoria,IL,Midwest,2024-06-17,Plus,,Y
+CUST00000821,Casey Brown 821,customer821@example.com,Tacoma,WA,West,02/28/2020,Basic,5,Y
+CUST00000822,Riley Smith 822,customer822@example.com,Aurora,CO,West,03/18/2020,Gold,5,N
+CUST00000823,Riley Garcia 823,customer823@example.com,Los Angeles,CA,West,2022-05-30,,6,Y
+CUST00000824,Riley Lee 824,customer824@example.com,Savannah,GA,South,02/19/2024,Plus,6,N
+CUST00000825,Casey Lee 825,customer825@example.com,Tacoma,WA,West,2024-06-29,Gold,1,Yes
+CUST00000826,Morgan Lee 826,customer826@example.com,Sacramento,CA,West,2022-08-15,gold ,3,N
+CUST00000827,Alex Kim 827,customer827@example.com,Buffalo,NY,Northeast,2020-07-27,Basic,5,Y
+CUST00000828,Riley Garcia 828,customer828@example.com,Savannah,GA,South,04/20/2021,Silver,4,True
+CUST00000829,Riley Kim 829,customer829@example.com,Buffalo,NY,Northeast,03/24/2020,Plus,,True
+CUST00000830,Riley Patel 830,customer830@example.com,Orlando,FL,South,2022-11-07,Silver,,Yes
+CUST00000831,Alex Patel 831,customer831@example.com,Denver,CO,West,2022-12-15,gold ,1,Y
+CUST00000832,Jordan Patel 832,customer832@example.com,Atlanta,GA,South,2025-08-13,gold ,4,Y
+CUST00000833,Alex Kim 833,customer833@example.com,Chicago,IL,Midwest,2023-01-18,Plus,bad,True
+CUST00000834,Riley Patel 834,customer834@example.com,Aurora,CO,West,04/10/2021,,,Y
+CUST00000835,Taylor Lee 835,customer835@example.com,Sacramento,CA,West,2026-04-06,Plus,6,Y
+CUST00000836,Riley Lee 836,customer836@example.com,Aurora,CO,West,01/05/2025,Silver,4,Yes
+CUST00000837,Taylor Lee 837,customer837@example.com,Dallas,TX,South,2024-07-02,Gold,6,Y
+CUST00000838,Jordan Brown 838,customer838@example.com,Denver,CO,West,02/22/2026,,3,Y
+CUST00000839,Riley Smith 839,customer839@example.com,Miami,FL,South,2023-02-12,Plus,,True
+CUST00000840,Riley Brown 840,customer840@example.com,Los Angeles,CA,West,01/03/2024,Basic,5,Y
+CUST00000841,Riley Lee 841,customer841@example.com,Atlanta,GA,South,2023-04-19,,4,Y
+CUST00000842,Taylor Garcia 842,customer842@example.com,Savannah,GA,South,2023-02-21,gold ,2,Yes
+CUST00000843,Morgan Brown 843,customer843@example.com,Chicago,IL,Midwest,2022-07-30,Plus,1,N
+CUST00000844,Alex Kim 844,customer844@example.com,Dallas,TX,South,03/01/2020,gold ,6,Yes
+CUST00000845,Casey Patel 845,customer845@example.com,Peoria,IL,Midwest,2021-07-07,Gold,bad,True
+CUST00000846,Jordan Brown 846,customer846@example.com,Orlando,FL,South,11/23/2022,gold ,5,N
+CUST00000847,Alex Kim 847,customer847@example.com,Chicago,IL,Midwest,2020-08-23,Gold,1,Y
+CUST00000848,Riley Brown 848,customer848@example.com,Savannah,GA,South,05/13/2020,Plus,2,Y
+CUST00000849,Morgan Brown 849,customer849@example.com,Dallas,TX,South,2025-06-08,gold ,2,Y
+CUST00000850,Morgan Patel 850,customer850@example.com,Los Angeles,CA,West,2021-04-21,,4,Yes
+CUST00000851,Taylor Patel 851,customer851@example.com,Dallas,TX,South,2026-01-19,,2,Y
+CUST00000852,Jordan Brown 852,customer852@example.com,Atlanta,GA,South,07/18/2020,,2,Yes
+CUST00000853,Morgan Lee 853,customer853@example.com,Sacramento,CA,West,06/17/2025,,5,True
+CUST00000854,Jordan Smith 854,customer854@example.com,Atlanta,GA,South,2023-07-28,Plus,6,Y
+CUST00000855,Taylor Brown 855,customer855@example.com,Savannah,GA,South,02/13/2020,Plus,1,N
+CUST00000856,Alex Smith 856,customer856@example.com,Albany,NY,Northeast,2023-05-09,Gold,5,Yes
+CUST00000857,Jordan Kim 857,customer857@example.com,Buffalo,NY,Northeast,2020-12-17,Gold,,N
+CUST00000858,Jordan Patel 858,customer858@example.com,Austin,TX,South,05/25/2020,,3,Y
+CUST00000859,Alex Kim 859,customer859@example.com,Los Angeles,CA,West,2024-06-04,Basic,,N
+CUST00000860,Casey Smith 860,customer860@example.com,Buffalo,NY,Northeast,05/20/2021,gold ,4,Y
+CUST00000861,Taylor Patel 861,customer861@example.com,Miami,FL,South,2023-10-01,gold ,1,Y
+CUST00000862,Riley Patel 862,customer862@example.com,Albany,NY,Northeast,06/07/2023,Gold,3,Y
+CUST00000863,Jordan Kim 863,customer863@example.com,Denver,CO,West,07/12/2022,Basic,6,N
+CUST00000864,Casey Patel 864,customer864@example.com,Savannah,GA,South,2024-01-29,Plus,2,Y
+CUST00000865,Jordan Smith 865,customer865@example.com,Chicago,IL,Midwest,2025-05-30,,3,N
+CUST00000866,Taylor Patel 866,customer866@example.com,Atlanta,GA,South,2025-09-28,Silver,5,Y
+CUST00000867,Taylor Patel 867,customer867@example.com,Chicago,IL,Midwest,2021-08-09,Gold,1,Y
+CUST00000868,Riley Brown 868,customer868@example.com,Buffalo,NY,Northeast,12/28/2024,gold ,5,Y
+CUST00000869,Casey Brown 869,customer869@example.com,Houston,TX,South,2023-11-15,,2,N
+CUST00000870,Taylor Kim 870,customer870@example.com,Miami,FL,South,2022-11-16,Basic,,True
+CUST00000871,Taylor Brown 871,customer871@example.com,Buffalo,NY,Northeast,2024-04-22,gold ,5,Y
+CUST00000872,Jordan Lee 872,customer872@example.com,Seattle,WA,West,2024-06-17,,2,Y
+CUST00000873,Riley Kim 873,customer873@example.com,Austin,TX,South,07/15/2022,Silver,4,Y
+CUST00000874,Jordan Kim 874,customer874@example.com,Savannah,GA,South,2023-12-19,,4,N
+CUST00000875,Jordan Kim 875,customer875@example.com,Sacramento,CA,West,2024-01-21,,4,Y
+CUST00000876,Morgan Patel 876,customer876@example.com,Miami,FL,South,09/27/2023,Silver,2,N
+CUST00000877,Alex Patel 877,customer877@example.com,Buffalo,NY,Northeast,2026-01-14,Plus,6,Y
+CUST00000878,Casey Lee 878,customer878@example.com,Sacramento,CA,West,2021-03-14,Gold,1,Y
+CUST00000879,Riley Brown 879,customer879@example.com,Savannah,GA,South,2022-01-14,,bad,Y
+CUST00000880,Jordan Brown 880,customer880@example.com,Austin,TX,South,11/15/2021,Gold,2,Y
+CUST00000881,Morgan Patel 881,customer881@example.com,Chicago,IL,Midwest,06/01/2024,Basic,1,Y
+CUST00000882,Riley Kim 882,customer882@example.com,Atlanta,GA,South,12/18/2025,Silver,4,Y
+CUST00000883,Casey Lee 883,customer883@example.com,Denver,CO,West,10/10/2020,Silver,5,Y
+CUST00000884,Alex Brown 884,customer884@example.com,Tacoma,WA,West,2020-03-19,Silver,3,Y
+CUST00000885,Alex Patel 885,customer885@example.com,Miami,FL,South,02/23/2023,Gold,,Y
+CUST00000886,Taylor Patel 886,customer886@example.com,Los Angeles,CA,West,2024-06-18,Silver,,Y
+CUST00000887,Riley Smith 887,customer887@example.com,Austin,TX,South,2025-05-28,Silver,,Y
+CUST00000888,Morgan Brown 888,customer888@example.com,Atlanta,GA,South,02/21/2025,,,N
+CUST00000889,Casey Kim 889,customer889@example.com,Denver,CO,West,2026-03-12,Basic,4,Y
+CUST00000890,Casey Kim 890,customer890@example.com,Houston,TX,South,2025-08-21,Silver,,N
+CUST00000891,Jordan Lee 891,customer891@example.com,Chicago,IL,Midwest,07/09/2025,,2,Y
+CUST00000892,Taylor Garcia 892,customer892@example.com,Los Angeles,CA,West,2022-05-23,Basic,1,Yes
+CUST00000893,Morgan Patel 893,customer893@example.com,Sacramento,CA,West,09/04/2021,,6,Yes
+CUST00000894,Jordan Patel 894,customer894@example.com,Chicago,IL,Midwest,2021-12-16,,1,True
+CUST00000895,Morgan Lee 895,customer895@example.com,Savannah,GA,South,12/20/2025,Gold,3,True
+CUST00000896,Jordan Garcia 896,customer896@example.com,Savannah,GA,South,2023-01-09,Plus,2,Y
+CUST00000897,Casey Smith 897,customer897@example.com,Albany,NY,Northeast,2025-10-23,gold ,6,Y
+CUST00000898,Taylor Patel 898,customer898@example.com,Sacramento,CA,West,11/08/2025,Gold,1,Y
+CUST00000899,Jordan Garcia 899,customer899@example.com,Chicago,IL,Midwest,11/30/2022,Silver,1,True
+CUST00000900,Alex Garcia 900,customer900@example.com,Buffalo,NY,Northeast,06/17/2022,Plus,bad,Y
+CUST00000901,Riley Lee 901,customer901@example.com,Buffalo,NY,Northeast,2021-01-27,,4,N
+CUST00000902,Riley Kim 902,customer902@example.com,Buffalo,NY,Northeast,08/26/2020,Basic,6,Yes
+CUST00000903,Alex Kim 903,customer903@example.com,Albany,NY,Northeast,2020-03-21,,,Y
+CUST00000904,Riley Patel 904,customer904@example.com,Savannah,GA,South,03/13/2022,Basic,5,Y
+CUST00000905,Jordan Patel 905,customer905@example.com,Chicago,IL,Midwest,2020-09-20,,5,True
+CUST00000906,Jordan Brown 906,customer906@example.com,Albany,NY,Northeast,11/03/2024,Plus,2,Y
+CUST00000907,Casey Kim 907,customer907@example.com,Houston,TX,South,2020-03-04,,5,True
+CUST00000908,Riley Kim 908,customer908@example.com,Miami,FL,South,2023-07-24,Silver,2,Y
+CUST00000909,Jordan Patel 909,customer909@example.com,Dallas,TX,South,2021-09-21,,4,N
+CUST00000910,Morgan Kim 910,customer910@example.com,Atlanta,GA,South,2022-01-04,Plus,5,Y
+CUST00000911,Alex Garcia 911,customer911@example.com,Chicago,IL,Midwest,06/07/2023,,3,Y
+CUST00000912,Alex Garcia 912,customer912@example.com,Tacoma,WA,West,2022-10-08,,6,Y
+CUST00000913,Alex Garcia 913,customer913@example.com,Orlando,FL,South,2021-06-08,Basic,1,Y
+CUST00000914,Morgan Brown 914,customer914@example.com,Los Angeles,CA,West,01/19/2024,Gold,bad,Y
+CUST00000915,Jordan Smith 915,customer915@example.com,Albany,NY,Northeast,2023-03-13,gold ,1,Y
+CUST00000916,Jordan Smith 916,customer916@example.com,Houston,TX,South,2023-07-31,Silver,2,Y
+CUST00000917,Casey Patel 917,customer917@example.com,Tacoma,WA,West,2025-09-24,,5,Y
+CUST00000918,Casey Smith 918,customer918@example.com,Buffalo,NY,Northeast,06/15/2024,Basic,4,Y
+CUST00000919,Taylor Brown 919,customer919@example.com,Albany,NY,Northeast,2021-03-30,Gold,3,Y
+CUST00000920,Casey Garcia 920,customer920@example.com,Dallas,TX,South,11/28/2025,,2,Y
+CUST00000921,Taylor Lee 921,customer921@example.com,Sacramento,CA,West,03/16/2026,Basic,2,True
+CUST00000922,Alex Smith 922,customer922@example.com,Los Angeles,CA,West,2022-10-08,gold ,4,True
+CUST00000923,Taylor Smith 923,customer923@example.com,Denver,CO,West,2025-05-15,,5,Y
+CUST00000924,Jordan Kim 924,customer924@example.com,Seattle,WA,West,2022-03-30,,,N
+CUST00000925,Alex Lee 925,customer925@example.com,Tacoma,WA,West,10/09/2025,,4,Y
+CUST00000926,Casey Kim 926,customer926@example.com,Seattle,WA,West,07/26/2025,Basic,bad,True
+CUST00000927,Jordan Smith 927,customer927@example.com,Orlando,FL,South,2020-04-05,Silver,bad,Y
+CUST00000928,Riley Smith 928,customer928@example.com,Houston,TX,South,03/01/2024,Silver,5,N
+CUST00000929,Riley Patel 929,customer929@example.com,Dallas,TX,South,2024-08-26,Plus,2,Yes
+CUST00000930,Jordan Brown 930,customer930@example.com,Buffalo,NY,Northeast,2022-03-26,Plus,4,Yes
+CUST00000931,Riley Brown 931,customer931@example.com,Dallas,TX,South,11/23/2024,,,True
+CUST00000932,Taylor Garcia 932,customer932@example.com,Sacramento,CA,West,2023-05-15,gold ,4,True
+CUST00000933,Alex Kim 933,customer933@example.com,Seattle,WA,West,2025-10-10,Gold,1,True
+CUST00000934,Alex Patel 934,customer934@example.com,Los Angeles,CA,West,2021-07-01,Gold,4,True
+CUST00000935,Taylor Smith 935,customer935@example.com,Miami,FL,South,05/20/2020,,6,Y
+CUST00000936,Casey Kim 936,customer936@example.com,Savannah,GA,South,2021-06-25,Basic,bad,Y
+CUST00000937,Alex Brown 937,customer937@example.com,Buffalo,NY,Northeast,2021-03-12,Plus,2,Y
+CUST00000938,Morgan Patel 938,customer938@example.com,Houston,TX,South,04/25/2026,,6,True
+CUST00000939,Casey Brown 939,customer939@example.com,Savannah,GA,South,12/02/2024,,3,N
+CUST00000940,Morgan Lee 940,customer940@example.com,Buffalo,NY,Northeast,2025-12-13,Silver,1,Y
+CUST00000941,Jordan Kim 941,customer941@example.com,Savannah,GA,South,2025-03-11,Plus,4,Yes
+CUST00000942,Alex Patel 942,customer942@example.com,Chicago,IL,Midwest,03/31/2023,Gold,bad,Y
+CUST00000943,Alex Lee 943,customer943@example.com,Sacramento,CA,West,06/07/2024,Gold,bad,Y
+CUST00000944,Morgan Brown 944,customer944@example.com,Tacoma,WA,West,2022-03-04,Gold,2,True
+CUST00000945,Jordan Smith 945,customer945@example.com,Miami,FL,South,03/13/2024,Plus,,Y
+CUST00000946,Alex Garcia 946,customer946@example.com,Albany,NY,Northeast,03/20/2021,,2,Y
+CUST00000947,Casey Kim 947,customer947@example.com,Peoria,IL,Midwest,07/23/2024,Basic,5,Yes
+CUST00000948,Taylor Patel 948,customer948@example.com,Austin,TX,South,07/13/2023,Gold,,Y
+CUST00000949,Jordan Brown 949,customer949@example.com,Denver,CO,West,2021-02-15,gold ,1,Y
+CUST00000950,Alex Patel 950,customer950@example.com,Tacoma,WA,West,09/11/2020,Basic,5,Y
+CUST00000951,Riley Garcia 951,customer951@example.com,Savannah,GA,South,2020-05-16,,1,Y
+CUST00000952,Casey Smith 952,customer952@example.com,Miami,FL,South,11/08/2024,,6,Y
+CUST00000953,Taylor Smith 953,customer953@example.com,Albany,NY,Northeast,11/21/2022,Basic,3,Yes
+CUST00000954,Taylor Garcia 954,customer954@example.com,Miami,FL,South,04/30/2024,Plus,3,Y
+CUST00000955,Riley Brown 955,customer955@example.com,Chicago,IL,Midwest,2021-07-19,Basic,2,Y
+CUST00000956,Alex Brown 956,customer956@example.com,Albany,NY,Northeast,2020-04-06,Plus,5,Y
+CUST00000957,Alex Smith 957,customer957@example.com,Savannah,GA,South,10/17/2022,Plus,,Y
+CUST00000958,Morgan Brown 958,customer958@example.com,Orlando,FL,South,07/28/2022,Silver,bad,N
+CUST00000959,Alex Lee 959,customer959@example.com,Peoria,IL,Midwest,2020-04-10,Basic,6,Y
+CUST00000960,Riley Patel 960,customer960@example.com,Orlando,FL,South,2020-03-27,,,N
+CUST00000961,Riley Garcia 961,customer961@example.com,Chicago,IL,Midwest,12/12/2023,,,Yes
+CUST00000962,Alex Brown 962,customer962@example.com,Miami,FL,South,2025-02-18,Basic,6,Y
+CUST00000963,Morgan Garcia 963,customer963@example.com,Aurora,CO,West,04/10/2022,gold ,6,Y
+CUST00000964,Casey Patel 964,customer964@example.com,Chicago,IL,Midwest,2021-07-15,Plus,3,Yes
+CUST00000965,Riley Brown 965,customer965@example.com,Tacoma,WA,West,02/25/2022,gold ,2,Y
+CUST00000966,Casey Brown 966,customer966@example.com,Peoria,IL,Midwest,2023-05-04,gold ,5,Y
+CUST00000967,Riley Brown 967,customer967@example.com,Austin,TX,South,11/20/2022,gold ,6,N
+CUST00000968,Casey Kim 968,customer968@example.com,Buffalo,NY,Northeast,2025-06-06,Silver,2,True
+CUST00000969,Alex Lee 969,customer969@example.com,Austin,TX,South,2021-05-19,gold ,2,Y
+CUST00000970,Morgan Brown 970,customer970@example.com,Atlanta,GA,South,2023-10-15,gold ,1,True
+CUST00000971,Taylor Patel 971,customer971@example.com,Savannah,GA,South,03/31/2022,Plus,3,Yes
+CUST00000972,Riley Patel 972,customer972@example.com,Miami,FL,South,2021-01-04,gold ,1,Yes
+CUST00000973,Casey Garcia 973,customer973@example.com,Denver,CO,West,01/25/2026,Gold,5,Y
+CUST00000974,Taylor Garcia 974,customer974@example.com,Savannah,GA,South,12/06/2024,gold ,1,Y
+CUST00000975,Taylor Kim 975,customer975@example.com,Dallas,TX,South,2024-12-06,Basic,2,N
+CUST00000976,Riley Lee 976,customer976@example.com,Denver,CO,West,2024-05-28,Plus,3,Y
+CUST00000977,Alex Brown 977,customer977@example.com,Peoria,IL,Midwest,2023-02-24,Plus,6,Y
+CUST00000978,Alex Lee 978,customer978@example.com,Peoria,IL,Midwest,09/07/2021,Silver,2,N
+CUST00000979,Jordan Smith 979,customer979@example.com,Buffalo,NY,Northeast,09/15/2021,Plus,2,Yes
+CUST00000980,Morgan Brown 980,customer980@example.com,Sacramento,CA,West,05/12/2022,gold ,6,Yes
+CUST00000981,Jordan Lee 981,customer981@example.com,Savannah,GA,South,2023-03-22,Plus,1,Y
+CUST00000982,Alex Kim 982,customer982@example.com,Aurora,CO,West,2021-09-12,gold ,bad,Y
+CUST00000983,Alex Smith 983,customer983@example.com,Seattle,WA,West,05/17/2025,Gold,6,Y
+CUST00000984,Riley Brown 984,,Denver,CO,West,11/23/2024,,2,Y
+CUST00000985,Alex Kim 985,customer985@example.com,Chicago,IL,Midwest,12/13/2024,Silver,1,Yes
+CUST00000986,Morgan Brown 986,customer986@example.com,Albany,NY,Northeast,06/04/2021,Silver,5,Y
+CUST00000987,Jordan Patel 987,customer987@example.com,Miami,FL,South,02/02/2025,gold ,6,Yes
+CUST00000988,Casey Lee 988,customer988@example.com,Atlanta,GA,South,2023-01-17,Basic,bad,True
+CUST00000989,Alex Garcia 989,customer989@example.com,Seattle,WA,West,06/28/2020,gold ,,Yes
+CUST00000990,Riley Lee 990,customer990@example.com,Dallas,TX,South,2024-08-01,Plus,2,Y
+CUST00000991,Riley Brown 991,customer991@example.com,Denver,CO,West,10/05/2020,Plus,3,Y
+CUST00000992,Casey Brown 992,customer992@example.com,Tacoma,WA,West,01/04/2021,Plus,bad,Y
+CUST00000993,Taylor Kim 993,customer993@example.com,Sacramento,CA,West,2025-03-27,Plus,6,Y
+CUST00000994,Taylor Kim 994,customer994@example.com,Peoria,IL,Midwest,2024-11-12,Gold,,Y
+CUST00000995,Alex Smith 995,customer995@example.com,Seattle,WA,West,2023-03-19,,6,Y
+CUST00000996,Alex Kim 996,customer996@example.com,Savannah,GA,South,06/25/2023,Plus,3,N
+CUST00000997,Taylor Lee 997,customer997@example.com,Chicago,IL,Midwest,05/07/2023,Gold,bad,True
+CUST00000998,Morgan Kim 998,customer998@example.com,Los Angeles,CA,West,2024-05-21,gold ,2,Y
+CUST00000999,Casey Brown 999,customer999@example.com,Buffalo,NY,Northeast,2026-04-16,Plus,bad,True
+CUST00001000,Morgan Smith 1000,customer1000@example.com,Aurora,CO,West,2020-08-25,,3,N
+CUST00001001,Taylor Kim 1001,customer1001@example.com,Miami,FL,South,2023-10-20,Plus,bad,True
+CUST00001002,Casey Lee 1002,customer1002@example.com,Orlando,FL,South,01/12/2025,Plus,6,N
+CUST00001003,Taylor Brown 1003,customer1003@example.com,Albany,NY,Northeast,03/27/2022,Gold,bad,Y
+CUST00001004,Morgan Smith 1004,customer1004@example.com,Buffalo,NY,Northeast,02/25/2026,gold ,4,Yes
+CUST00001005,Casey Kim 1005,customer1005@example.com,Peoria,IL,Midwest,2025-07-27,Gold,2,Yes
+CUST00001006,Taylor Kim 1006,customer1006@example.com,Tacoma,WA,West,02/19/2020,,bad,N
+CUST00001007,Jordan Kim 1007,customer1007@example.com,Buffalo,NY,Northeast,11/23/2020,Gold,3,True
+CUST00001008,Alex Smith 1008,customer1008@example.com,Los Angeles,CA,West,2022-05-04,Silver,5,Y
+CUST00001009,Alex Garcia 1009,customer1009@example.com,Buffalo,NY,Northeast,06/29/2022,Silver,,Y
+CUST00001010,Casey Brown 1010,customer1010@example.com,Buffalo,NY,Northeast,2025-02-21,,3,Y
+CUST00001011,Alex Garcia 1011,customer1011@example.com,Atlanta,GA,South,03/21/2021,,,N
+CUST00001012,Jordan Garcia 1012,customer1012@example.com,Orlando,FL,South,2021-06-09,Silver,3,Y
+CUST00001013,Alex Kim 1013,customer1013@example.com,Miami,FL,South,04/09/2023,Plus,6,Y
+CUST00001014,Jordan Kim 1014,customer1014@example.com,Albany,NY,Northeast,07/14/2023,Gold,,True
+CUST00001015,Taylor Brown 1015,customer1015@example.com,Houston,TX,South,06/19/2021,gold ,2,Y
+CUST00001016,Riley Lee 1016,customer1016@example.com,Seattle,WA,West,09/01/2024,gold ,4,True
+CUST00001017,Taylor Kim 1017,customer1017@example.com,Peoria,IL,Midwest,2025-01-12,Silver,4,N
+CUST00001018,Jordan Smith 1018,customer1018@example.com,Denver,CO,West,2020-05-13,Gold,3,True
+CUST00001019,Taylor Smith 1019,customer1019@example.com,Buffalo,NY,Northeast,2020-01-14,Plus,,True
+CUST00001020,Casey Brown 1020,customer1020@example.com,Orlando,FL,South,08/26/2020,Silver,,True
+CUST00001021,Casey Lee 1021,customer1021@example.com,Atlanta,GA,South,02/20/2023,Plus,3,Y
+CUST00001022,Alex Garcia 1022,customer1022@example.com,Los Angeles,CA,West,2022-05-30,Basic,1,N
+CUST00001023,Jordan Smith 1023,customer1023@example.com,Dallas,TX,South,2022-02-14,gold ,,Yes
+CUST00001024,Casey Brown 1024,customer1024@example.com,Denver,CO,West,08/31/2023,,bad,N
+CUST00001025,Taylor Patel 1025,customer1025@example.com,Seattle,WA,West,2021-05-18,Gold,4,Yes
+CUST00001026,Taylor Lee 1026,customer1026@example.com,Houston,TX,South,2023-12-01,gold ,3,Y
+CUST00001027,Casey Patel 1027,customer1027@example.com,Orlando,FL,South,2024-07-07,,1,Y
+CUST00001028,Riley Lee 1028,customer1028@example.com,Sacramento,CA,West,2022-09-11,Plus,5,Y
+CUST00001029,Taylor Lee 1029,customer1029@example.com,Denver,CO,West,05/21/2026,Gold,5,Yes
+CUST00001030,Morgan Brown 1030,customer1030@example.com,Atlanta,GA,South,2020-05-31,Basic,6,N
+CUST00001031,Casey Smith 1031,customer1031@example.com,Tacoma,WA,West,2023-06-09,Basic,5,Yes
+CUST00001032,Riley Garcia 1032,customer1032@example.com,Houston,TX,South,01/10/2020,Basic,,Yes
+CUST00001033,Morgan Lee 1033,customer1033@example.com,Austin,TX,South,2024-10-17,Silver,5,Y
+CUST00001034,Jordan Patel 1034,customer1034@example.com,Tacoma,WA,West,2025-08-14,Plus,1,Yes
+CUST00001035,Casey Garcia 1035,customer1035@example.com,Los Angeles,CA,West,2024-11-05,gold ,5,Yes
+CUST00001036,Alex Patel 1036,customer1036@example.com,Aurora,CO,West,11/16/2023,Plus,2,Y
+CUST00001037,Jordan Brown 1037,customer1037@example.com,Miami,FL,South,08/24/2021,,4,N
+CUST00001038,Jordan Patel 1038,customer1038@example.com,Peoria,IL,Midwest,01/08/2025,Basic,1,Yes
+CUST00001039,Morgan Patel 1039,customer1039@example.com,Albany,NY,Northeast,12/10/2023,Silver,3,Y
+CUST00001040,Taylor Patel 1040,customer1040@example.com,Peoria,IL,Midwest,04/08/2021,Silver,,N
+CUST00001041,Jordan Smith 1041,customer1041@example.com,Sacramento,CA,West,03/21/2022,Plus,1,N
+CUST00001042,Morgan Garcia 1042,customer1042@example.com,Houston,TX,South,2022-05-14,Silver,6,N
+CUST00001043,Taylor Brown 1043,customer1043@example.com,Tacoma,WA,West,02/23/2022,Silver,1,Y
+CUST00001044,Casey Patel 1044,customer1044@example.com,Austin,TX,South,2023-01-21,,1,Y
+CUST00001045,Jordan Kim 1045,customer1045@example.com,Peoria,IL,Midwest,2020-08-08,gold ,3,Y
+CUST00001046,Taylor Lee 1046,customer1046@example.com,Seattle,WA,West,12/10/2024,gold ,,Y
+CUST00001047,Alex Kim 1047,customer1047@example.com,Tacoma,WA,West,01/23/2022,Plus,,Yes
+CUST00001048,Taylor Brown 1048,customer1048@example.com,Peoria,IL,Midwest,2024-02-09,Gold,5,Y
+CUST00001049,Jordan Garcia 1049,customer1049@example.com,Aurora,CO,West,2020-12-02,Basic,1,True
+CUST00001050,Casey Smith 1050,customer1050@example.com,Buffalo,NY,Northeast,07/20/2025,Silver,,Yes
+CUST00001051,Jordan Kim 1051,customer1051@example.com,Buffalo,NY,Northeast,2023-11-30,Basic,bad,Y
+CUST00001052,Riley Smith 1052,customer1052@example.com,Sacramento,CA,West,2024-01-06,Plus,2,Y
+CUST00001053,Taylor Smith 1053,customer1053@example.com,Chicago,IL,Midwest,2022-05-31,,3,Y
+CUST00001054,Morgan Smith 1054,customer1054@example.com,Los Angeles,CA,West,2022-03-30,Plus,4,N
+CUST00001055,Alex Kim 1055,customer1055@example.com,Seattle,WA,West,2020-12-23,Plus,,Yes
+CUST00001056,Riley Garcia 1056,customer1056@example.com,Savannah,GA,South,2021-06-26,Gold,bad,Yes
+CUST00001057,Taylor Smith 1057,customer1057@example.com,Tacoma,WA,West,01/01/2022,Silver,4,Y
+CUST00001058,Jordan Brown 1058,customer1058@example.com,Savannah,GA,South,2020-12-13,Silver,2,True
+CUST00001059,Jordan Smith 1059,customer1059@example.com,Peoria,IL,Midwest,2020-05-25,gold ,4,Y
+CUST00001060,Alex Lee 1060,customer1060@example.com,Peoria,IL,Midwest,01/03/2025,gold ,5,Yes
+CUST00001061,Jordan Garcia 1061,customer1061@example.com,Chicago,IL,Midwest,2020-04-25,Gold,4,N
+CUST00001062,Morgan Kim 1062,customer1062@example.com,Dallas,TX,South,2020-10-28,Gold,1,True
+CUST00001063,Morgan Smith 1063,customer1063@example.com,Austin,TX,South,06/19/2024,Gold,3,N
+CUST00001064,Riley Lee 1064,customer1064@example.com,Tacoma,WA,West,2024-08-24,Basic,bad,Yes
+CUST00001065,Taylor Kim 1065,customer1065@example.com,Chicago,IL,Midwest,05/17/2025,Gold,4,True
+CUST00001066,Taylor Lee 1066,customer1066@example.com,Orlando,FL,South,12/03/2023,gold ,2,True
+CUST00001067,Taylor Kim 1067,customer1067@example.com,Los Angeles,CA,West,06/15/2022,Basic,bad,Y
+CUST00001068,Alex Brown 1068,customer1068@example.com,Sacramento,CA,West,04/28/2025,Plus,3,Y
+CUST00001069,Alex Kim 1069,customer1069@example.com,Denver,CO,West,2025-04-04,Gold,,Yes
+CUST00001070,Riley Brown 1070,customer1070@example.com,Atlanta,GA,South,2026-04-18,Basic,2,N
+CUST00001071,Alex Smith 1071,customer1071@example.com,Sacramento,CA,West,2021-03-28,gold ,,Yes
+CUST00001072,Alex Kim 1072,customer1072@example.com,Atlanta,GA,South,08/21/2021,Gold,1,Yes
+CUST00001073,Taylor Smith 1073,customer1073@example.com,Denver,CO,West,08/18/2020,Gold,5,Yes
+CUST00001074,Riley Garcia 1074,customer1074@example.com,Dallas,TX,South,2020-01-16,Silver,4,Y
+CUST00001075,Jordan Brown 1075,customer1075@example.com,Aurora,CO,West,2025-12-13,Plus,,N
+CUST00001076,Riley Patel 1076,customer1076@example.com,Aurora,CO,West,2021-01-05,Silver,3,True
+CUST00001077,Alex Lee 1077,customer1077@example.com,Denver,CO,West,04/06/2022,,2,Y
+CUST00001078,Alex Lee 1078,customer1078@example.com,Seattle,WA,West,01/01/2023,Plus,,Y
+CUST00001079,Morgan Kim 1079,customer1079@example.com,Seattle,WA,West,2024-08-04,Gold,2,Y
+CUST00001080,Alex Smith 1080,customer1080@example.com,Los Angeles,CA,West,02/06/2024,Gold,2,Y
+CUST00001081,Jordan Garcia 1081,customer1081@example.com,Atlanta,GA,South,02/13/2025,Plus,2,Y
+CUST00001082,Alex Lee 1082,customer1082@example.com,Peoria,IL,Midwest,2021-04-06,Plus,1,True
+CUST00001083,Riley Brown 1083,customer1083@example.com,Miami,FL,South,2025-03-08,Plus,1,Yes
+CUST00001084,Morgan Smith 1084,customer1084@example.com,Savannah,GA,South,06/20/2024,gold ,5,Y
+CUST00001085,Jordan Smith 1085,customer1085@example.com,Orlando,FL,South,02/09/2024,Plus,3,N
+CUST00001086,Alex Smith 1086,customer1086@example.com,Houston,TX,South,09/14/2023,Basic,1,N
+CUST00001087,Taylor Garcia 1087,customer1087@example.com,Orlando,FL,South,2022-05-29,Plus,2,True
+CUST00001088,Taylor Kim 1088,customer1088@example.com,Tacoma,WA,West,03/04/2024,,5,N
+CUST00001089,Jordan Brown 1089,customer1089@example.com,Seattle,WA,West,2022-03-30,,3,Yes
+CUST00001090,Casey Lee 1090,customer1090@example.com,Albany,NY,Northeast,08/03/2024,Gold,bad,Y
+CUST00001091,Taylor Lee 1091,customer1091@example.com,Austin,TX,South,01/17/2022,Gold,4,Y
+CUST00001092,Alex Kim 1092,customer1092@example.com,Savannah,GA,South,12/27/2025,Plus,4,N
+CUST00001093,Alex Patel 1093,customer1093@example.com,Savannah,GA,South,2021-04-24,Gold,bad,Y
+CUST00001094,Alex Lee 1094,customer1094@example.com,Denver,CO,West,01/08/2026,Plus,6,Yes
+CUST00001095,Jordan Patel 1095,customer1095@example.com,Austin,TX,South,2020-11-13,Basic,6,Yes
+CUST00001096,Taylor Lee 1096,customer1096@example.com,Tacoma,WA,West,09/12/2020,Gold,5,Y
+CUST00001097,Jordan Kim 1097,customer1097@example.com,Savannah,GA,South,07/01/2023,Plus,5,Y
+CUST00001098,Morgan Lee 1098,customer1098@example.com,Peoria,IL,Midwest,2025-05-26,Basic,5,Y
+CUST00001099,Riley Kim 1099,customer1099@example.com,Chicago,IL,Midwest,09/02/2025,Basic,bad,Y
+CUST00001100,Jordan Kim 1100,customer1100@example.com,Denver,CO,West,04/22/2020,gold ,3,Y
+CUST00001101,Morgan Lee 1101,customer1101@example.com,Houston,TX,South,07/17/2024,Plus,4,N
+CUST00001102,Riley Brown 1102,customer1102@example.com,Savannah,GA,South,2025-04-22,Basic,1,N
+CUST00001103,Jordan Kim 1103,customer1103@example.com,Dallas,TX,South,2022-02-10,gold ,6,Y
+CUST00001104,Taylor Brown 1104,customer1104@example.com,Aurora,CO,West,03/15/2025,Basic,,Yes
+CUST00001105,Morgan Garcia 1105,customer1105@example.com,Atlanta,GA,South,07/12/2022,Silver,2,Y
+CUST00001106,Taylor Brown 1106,customer1106@example.com,Houston,TX,South,01/13/2024,Plus,5,N
+CUST00001107,Morgan Patel 1107,customer1107@example.com,Buffalo,NY,Northeast,2023-08-19,Gold,1,Y
+CUST00001108,Riley Kim 1108,customer1108@example.com,Houston,TX,South,07/13/2022,Plus,,Yes
+CUST00001109,Jordan Brown 1109,customer1109@example.com,Aurora,CO,West,2026-04-18,Basic,5,True
+CUST00001110,Alex Patel 1110,customer1110@example.com,Albany,NY,Northeast,2025-09-25,Silver,2,Yes
+CUST00001111,Alex Kim 1111,customer1111@example.com,Los Angeles,CA,West,2020-10-18,gold ,2,True
+CUST00001112,Jordan Garcia 1112,customer1112@example.com,Denver,CO,West,2020-08-30,Basic,,True
+CUST00001113,Riley Patel 1113,customer1113@example.com,Buffalo,NY,Northeast,12/19/2024,gold ,1,N
+CUST00001114,Morgan Garcia 1114,customer1114@example.com,Denver,CO,West,01/26/2025,gold ,6,True
+CUST00001115,Jordan Garcia 1115,customer1115@example.com,Austin,TX,South,2025-04-15,Basic,2,True
+CUST00001116,Casey Smith 1116,customer1116@example.com,Tacoma,WA,West,2020-03-20,,bad,True
+CUST00001117,Taylor Kim 1117,customer1117@example.com,Dallas,TX,South,03/19/2023,gold ,2,Y
+CUST00001118,Jordan Lee 1118,customer1118@example.com,Denver,CO,West,2023-06-02,gold ,5,N
+CUST00001119,Taylor Smith 1119,customer1119@example.com,Los Angeles,CA,West,05/10/2020,Silver,6,True
+CUST00001120,Morgan Smith 1120,customer1120@example.com,Tacoma,WA,West,01/22/2022,Basic,4,Yes
+CUST00001121,Taylor Smith 1121,customer1121@example.com,Tacoma,WA,West,2020-01-29,gold ,4,Y
+CUST00001122,Jordan Garcia 1122,customer1122@example.com,Houston,TX,South,05/18/2025,Plus,bad,Yes
+CUST00001123,Riley Lee 1123,customer1123@example.com,Seattle,WA,West,2022-04-30,Plus,,Y
+CUST00001124,Taylor Kim 1124,customer1124@example.com,Sacramento,CA,West,12/17/2023,Gold,,Yes
+CUST00001125,Alex Patel 1125,customer1125@example.com,Albany,NY,Northeast,02/21/2025,,3,Y
+CUST00001126,Jordan Garcia 1126,customer1126@example.com,Austin,TX,South,2026-05-05,,6,N
+CUST00001127,Casey Brown 1127,customer1127@example.com,Peoria,IL,Midwest,2021-03-17,Silver,2,Yes
+CUST00001128,Casey Brown 1128,customer1128@example.com,Dallas,TX,South,2026-04-24,Gold,bad,N
+CUST00001129,Riley Brown 1129,customer1129@example.com,Savannah,GA,South,2023-12-15,,1,N
+CUST00001130,Casey Patel 1130,customer1130@example.com,Orlando,FL,South,02/01/2024,,4,Y
+CUST00001131,Alex Kim 1131,customer1131@example.com,Sacramento,CA,West,02/22/2020,Plus,2,Yes
+CUST00001132,Casey Patel 1132,customer1132@example.com,Albany,NY,Northeast,2023-08-29,Basic,bad,Y
+CUST00001133,Riley Garcia 1133,customer1133@example.com,Seattle,WA,West,11/17/2023,gold ,,Yes
+CUST00001134,Morgan Lee 1134,customer1134@example.com,Buffalo,NY,Northeast,2024-09-11,Basic,,Y
+CUST00001135,Alex Smith 1135,customer1135@example.com,Austin,TX,South,05/06/2020,Basic,4,Y
+CUST00001136,Casey Brown 1136,customer1136@example.com,Savannah,GA,South,11/07/2022,Plus,bad,Y
+CUST00001137,Jordan Lee 1137,customer1137@example.com,Houston,TX,South,2024-05-22,Silver,5,True
+CUST00001138,Riley Lee 1138,customer1138@example.com,Aurora,CO,West,2025-07-03,Silver,,Yes
+CUST00001139,Alex Brown 1139,customer1139@example.com,Chicago,IL,Midwest,10/07/2021,,3,Y
+CUST00001140,Jordan Kim 1140,customer1140@example.com,Seattle,WA,West,11/03/2023,Gold,4,N
+CUST00001141,Jordan Smith 1141,customer1141@example.com,Denver,CO,West,10/29/2022,Gold,4,Y
+CUST00001142,Morgan Brown 1142,customer1142@example.com,Seattle,WA,West,02/27/2025,Basic,2,Y
+CUST00001143,Morgan Kim 1143,customer1143@example.com,Atlanta,GA,South,07/13/2022,Gold,bad,N
+CUST00001144,Riley Garcia 1144,customer1144@example.com,Dallas,TX,South,11/11/2023,,2,Y
+CUST00001145,Jordan Lee 1145,customer1145@example.com,Aurora,CO,West,04/06/2023,gold ,4,N
+CUST00001146,Morgan Brown 1146,customer1146@example.com,Atlanta,GA,South,2023-05-04,,2,N
+CUST00001147,Casey Patel 1147,customer1147@example.com,Austin,TX,South,2022-06-28,Silver,,N
+CUST00001148,Taylor Lee 1148,customer1148@example.com,Buffalo,NY,Northeast,02/16/2024,gold ,5,Y
+CUST00001149,Alex Kim 1149,customer1149@example.com,Los Angeles,CA,West,11/05/2025,gold ,,Y
+CUST00001150,Morgan Lee 1150,customer1150@example.com,Buffalo,NY,Northeast,2025-09-16,Gold,6,Yes
+CUST00001151,Jordan Patel 1151,customer1151@example.com,Orlando,FL,South,2021-02-23,Plus,bad,Y
+CUST00001152,Jordan Patel 1152,customer1152@example.com,Dallas,TX,South,2022-07-08,Basic,2,True
+CUST00001153,Riley Garcia 1153,customer1153@example.com,Peoria,IL,Midwest,2022-09-18,Plus,1,Y
+CUST00001154,Taylor Brown 1154,customer1154@example.com,Orlando,FL,South,2025-02-08,Plus,1,Y
+CUST00001155,Taylor Lee 1155,customer1155@example.com,Tacoma,WA,West,2021-08-23,Gold,1,N
+CUST00001156,Casey Brown 1156,customer1156@example.com,Dallas,TX,South,09/09/2020,Plus,3,Yes
+CUST00001157,Alex Kim 1157,customer1157@example.com,Los Angeles,CA,West,12/13/2024,Silver,1,Yes
+CUST00001158,Riley Kim 1158,customer1158@example.com,Seattle,WA,West,05/02/2022,Silver,5,Y
+CUST00001159,Riley Brown 1159,customer1159@example.com,Savannah,GA,South,03/13/2022,,1,Y
+CUST00001160,Taylor Kim 1160,customer1160@example.com,Aurora,CO,West,2024-07-20,gold ,5,Y
+CUST00001161,Jordan Brown 1161,customer1161@example.com,Seattle,WA,West,2020-08-06,Plus,6,Y
+CUST00001162,Taylor Garcia 1162,customer1162@example.com,Tacoma,WA,West,2025-10-03,Basic,6,Y
+CUST00001163,Casey Garcia 1163,customer1163@example.com,Peoria,IL,Midwest,11/15/2025,Basic,4,Y
+CUST00001164,Riley Garcia 1164,customer1164@example.com,Tacoma,WA,West,2022-06-23,,4,True
+CUST00001165,Alex Brown 1165,,Los Angeles,CA,West,07/11/2023,Plus,bad,True
+CUST00001166,Riley Brown 1166,customer1166@example.com,Aurora,CO,West,11/04/2024,Silver,1,True
+CUST00001167,Riley Lee 1167,customer1167@example.com,Houston,TX,South,01/12/2025,Gold,3,Y
+CUST00001168,Jordan Smith 1168,customer1168@example.com,Seattle,WA,West,11/22/2022,,5,True
+CUST00001169,Jordan Garcia 1169,customer1169@example.com,Atlanta,GA,South,05/16/2023,Silver,4,True
+CUST00001170,Riley Garcia 1170,customer1170@example.com,Seattle,WA,West,05/19/2026,Silver,,True
+CUST00001171,Jordan Patel 1171,customer1171@example.com,Savannah,GA,South,01/12/2025,,6,True
+CUST00001172,Alex Lee 1172,customer1172@example.com,Denver,CO,West,03/09/2023,,5,Y
+CUST00001173,Casey Brown 1173,customer1173@example.com,Tacoma,WA,West,03/24/2026,,6,Y
+CUST00001174,Riley Lee 1174,customer1174@example.com,Chicago,IL,Midwest,11/01/2022,gold ,6,True
+CUST00001175,Alex Lee 1175,customer1175@example.com,Buffalo,NY,Northeast,2020-03-15,Plus,1,True
+CUST00001176,Alex Garcia 1176,customer1176@example.com,Sacramento,CA,West,11/08/2020,Silver,,Y
+CUST00001177,Taylor Patel 1177,customer1177@example.com,Denver,CO,West,2024-02-29,Plus,bad,Yes
+CUST00001178,Casey Lee 1178,customer1178@example.com,Seattle,WA,West,2022-05-06,Plus,4,Y
+CUST00001179,Riley Brown 1179,customer1179@example.com,Chicago,IL,Midwest,2020-09-05,Gold,3,Y
+CUST00001180,Morgan Kim 1180,customer1180@example.com,Sacramento,CA,West,2022-01-27,Gold,3,N
+CUST00001181,Taylor Smith 1181,customer1181@example.com,Austin,TX,South,2023-11-19,Silver,1,Y
+CUST00001182,Casey Kim 1182,customer1182@example.com,Austin,TX,South,2024-10-24,Basic,5,Y
+CUST00001183,Morgan Lee 1183,customer1183@example.com,Albany,NY,Northeast,02/08/2022,Plus,3,N
+CUST00001184,Casey Brown 1184,customer1184@example.com,Albany,NY,Northeast,03/30/2026,Plus,,Yes
+CUST00001185,Morgan Garcia 1185,customer1185@example.com,Atlanta,GA,South,2024-09-02,Basic,3,True
+CUST00001186,Jordan Brown 1186,customer1186@example.com,Peoria,IL,Midwest,11/20/2020,Basic,6,Y
+CUST00001187,Taylor Brown 1187,customer1187@example.com,Houston,TX,South,2020-01-07,,6,Yes
+CUST00001188,Taylor Smith 1188,customer1188@example.com,Tacoma,WA,West,2020-05-24,Plus,6,Y
+CUST00001189,Morgan Lee 1189,customer1189@example.com,Albany,NY,Northeast,11/12/2020,,5,Y
+CUST00001190,Taylor Patel 1190,customer1190@example.com,Houston,TX,South,01/22/2023,Plus,4,Y
+CUST00001191,Riley Kim 1191,customer1191@example.com,Austin,TX,South,2023-02-12,gold ,bad,Y
+CUST00001192,Casey Brown 1192,customer1192@example.com,Chicago,IL,Midwest,05/14/2026,Plus,1,Yes
+CUST00001193,Taylor Lee 1193,customer1193@example.com,Albany,NY,Northeast,2022-03-23,Gold,6,N
+CUST00001194,Jordan Garcia 1194,customer1194@example.com,Peoria,IL,Midwest,2025-04-16,Silver,1,N
+CUST00001195,Jordan Smith 1195,customer1195@example.com,Seattle,WA,West,09/10/2021,Silver,2,N
+CUST00001196,Morgan Lee 1196,customer1196@example.com,Tacoma,WA,West,2021-07-29,gold ,1,Y
+CUST00001197,Taylor Patel 1197,customer1197@example.com,Buffalo,NY,Northeast,11/26/2024,Gold,3,Y
+CUST00001198,Casey Smith 1198,customer1198@example.com,Savannah,GA,South,01/23/2025,,,Y
+CUST00001199,Taylor Lee 1199,customer1199@example.com,Los Angeles,CA,West,04/26/2025,Basic,3,Y
+CUST00001200,Riley Kim 1200,customer1200@example.com,Miami,FL,South,09/15/2025,Gold,3,Y
+CUST00001201,Riley Kim 1201,customer1201@example.com,Chicago,IL,Midwest,2021-08-30,gold ,6,Yes
+CUST00001202,Morgan Brown 1202,customer1202@example.com,Albany,NY,Northeast,2025-08-19,Plus,1,True
+CUST00001203,Alex Brown 1203,customer1203@example.com,Albany,NY,Northeast,2020-10-08,gold ,4,Y
+CUST00001204,Morgan Garcia 1204,customer1204@example.com,Seattle,WA,West,2022-01-04,,3,Y
+CUST00001205,Jordan Kim 1205,customer1205@example.com,Tacoma,WA,West,2023-07-10,Plus,6,Y
+CUST00001206,Alex Smith 1206,customer1206@example.com,Austin,TX,South,11/29/2024,Silver,,True
+CUST00001207,Taylor Patel 1207,customer1207@example.com,Seattle,WA,West,04/18/2026,Plus,bad,Y
+CUST00001208,Taylor Kim 1208,customer1208@example.com,Aurora,CO,West,08/06/2024,Gold,2,N
+CUST00001209,Taylor Brown 1209,customer1209@example.com,Houston,TX,South,2022-09-18,Silver,1,Y
+CUST00001210,Taylor Lee 1210,customer1210@example.com,Tacoma,WA,West,2025-12-07,Plus,3,Y
+CUST00001211,Taylor Lee 1211,customer1211@example.com,Los Angeles,CA,West,2023-03-22,Silver,6,True
+CUST00001212,Jordan Patel 1212,customer1212@example.com,Sacramento,CA,West,2022-09-17,Plus,bad,N
+CUST00001213,Alex Garcia 1213,customer1213@example.com,Atlanta,GA,South,05/06/2023,Silver,5,Yes
+CUST00001214,Alex Patel 1214,customer1214@example.com,Sacramento,CA,West,01/13/2026,Basic,6,True
+CUST00001215,Casey Patel 1215,customer1215@example.com,Los Angeles,CA,West,07/03/2020,Silver,bad,Yes
+CUST00001216,Casey Patel 1216,customer1216@example.com,Denver,CO,West,2024-06-23,Silver,4,Yes
+CUST00001217,Riley Garcia 1217,customer1217@example.com,Austin,TX,South,2021-12-12,Gold,3,Y
+CUST00001218,Morgan Kim 1218,customer1218@example.com,Aurora,CO,West,2024-12-29,Silver,1,Y
+CUST00001219,Morgan Smith 1219,customer1219@example.com,Orlando,FL,South,01/16/2022,Gold,4,Yes
+CUST00001220,Jordan Brown 1220,customer1220@example.com,Savannah,GA,South,09/28/2020,Basic,1,Y
+CUST00001221,Morgan Lee 1221,customer1221@example.com,Miami,FL,South,09/23/2025,Silver,2,Y
+CUST00001222,Casey Garcia 1222,customer1222@example.com,Houston,TX,South,12/03/2023,gold ,6,Yes
+CUST00001223,Jordan Lee 1223,customer1223@example.com,Los Angeles,CA,West,2026-03-08,gold ,,Y
+CUST00001224,Taylor Garcia 1224,customer1224@example.com,Albany,NY,Northeast,07/23/2022,Basic,6,Y
+CUST00001225,Morgan Garcia 1225,customer1225@example.com,Houston,TX,South,09/20/2023,Silver,bad,Y
+CUST00001226,Casey Kim 1226,customer1226@example.com,Tacoma,WA,West,04/12/2026,Silver,1,Y
+CUST00001227,Alex Garcia 1227,customer1227@example.com,Peoria,IL,Midwest,05/16/2026,gold ,3,Yes
+CUST00001228,Casey Kim 1228,customer1228@example.com,Denver,CO,West,2024-08-07,Silver,3,Y
+CUST00001229,Alex Brown 1229,customer1229@example.com,Seattle,WA,West,09/27/2022,,bad,Y
+CUST00001230,Jordan Garcia 1230,customer1230@example.com,Albany,NY,Northeast,01/12/2024,Basic,4,N
+CUST00001231,Alex Lee 1231,customer1231@example.com,Orlando,FL,South,2025-05-09,Plus,6,Y
+CUST00001232,Casey Garcia 1232,customer1232@example.com,Chicago,IL,Midwest,09/02/2021,Gold,2,N
+CUST00001233,Jordan Kim 1233,customer1233@example.com,Chicago,IL,Midwest,07/14/2023,Silver,bad,True
+CUST00001234,Taylor Smith 1234,customer1234@example.com,Austin,TX,South,2020-04-21,Basic,,Y
+CUST00001235,Taylor Lee 1235,customer1235@example.com,Tacoma,WA,West,2023-02-20,Gold,5,True
+CUST00001236,Riley Lee 1236,customer1236@example.com,Los Angeles,CA,West,09/09/2024,,2,Y
+CUST00001237,Riley Patel 1237,customer1237@example.com,Seattle,WA,West,07/15/2022,gold ,4,Y
+CUST00001238,Morgan Patel 1238,customer1238@example.com,Orlando,FL,South,2025-07-12,Gold,2,Y
+CUST00001239,Casey Garcia 1239,customer1239@example.com,Buffalo,NY,Northeast,2024-10-17,Silver,2,Yes
+CUST00001240,Riley Brown 1240,customer1240@example.com,Buffalo,NY,Northeast,2022-12-26,Gold,4,N
+CUST00001241,Morgan Brown 1241,customer1241@example.com,Aurora,CO,West,2024-08-27,Plus,2,Y
+CUST00001242,Morgan Smith 1242,,Savannah,GA,South,04/23/2020,gold ,bad,Y
+CUST00001243,Riley Smith 1243,customer1243@example.com,Seattle,WA,West,2021-03-16,Plus,2,N
+CUST00001244,Alex Patel 1244,customer1244@example.com,Chicago,IL,Midwest,07/14/2023,Basic,bad,Y
+CUST00001245,Casey Lee 1245,customer1245@example.com,Albany,NY,Northeast,2021-02-22,,2,Y
+CUST00001246,Riley Garcia 1246,customer1246@example.com,Austin,TX,South,2024-12-15,Plus,6,Y
+CUST00001247,Jordan Kim 1247,customer1247@example.com,Miami,FL,South,12/19/2020,gold ,1,Y
+CUST00001248,Morgan Patel 1248,customer1248@example.com,Atlanta,GA,South,2023-04-07,gold ,5,Yes
+CUST00001249,Riley Lee 1249,customer1249@example.com,Orlando,FL,South,2023-05-08,Gold,4,Y
+CUST00001250,Jordan Smith 1250,customer1250@example.com,Atlanta,GA,South,07/15/2022,Basic,2,Yes
+CUST00001251,Jordan Kim 1251,customer1251@example.com,Tacoma,WA,West,2024-07-06,Basic,1,Y
+CUST00001252,Riley Brown 1252,customer1252@example.com,Buffalo,NY,Northeast,07/26/2021,Silver,6,Y
+CUST00001253,Alex Brown 1253,customer1253@example.com,Chicago,IL,Midwest,2026-01-15,Plus,3,N
+CUST00001254,Alex Brown 1254,customer1254@example.com,Aurora,CO,West,2024-12-22,Silver,1,N
+CUST00001255,Morgan Garcia 1255,customer1255@example.com,Chicago,IL,Midwest,09/19/2020,Gold,5,Y
+CUST00001256,Taylor Garcia 1256,customer1256@example.com,Seattle,WA,West,2020-10-16,gold ,6,Y
+CUST00001257,Casey Smith 1257,customer1257@example.com,Tacoma,WA,West,01/29/2025,,4,True
+CUST00001258,Taylor Lee 1258,customer1258@example.com,Tacoma,WA,West,2020-09-24,Silver,4,N
+CUST00001259,Riley Garcia 1259,customer1259@example.com,Seattle,WA,West,2020-07-18,Plus,5,Y
+CUST00001260,Jordan Brown 1260,customer1260@example.com,Austin,TX,South,02/16/2024,gold ,4,True
+CUST00001261,Morgan Kim 1261,customer1261@example.com,Seattle,WA,West,08/25/2024,gold ,bad,Yes
+CUST00001262,Taylor Patel 1262,customer1262@example.com,Sacramento,CA,West,2020-04-09,Silver,2,Y
+CUST00001263,Alex Smith 1263,customer1263@example.com,Sacramento,CA,West,2021-08-04,gold ,6,Y
+CUST00001264,Casey Lee 1264,customer1264@example.com,Los Angeles,CA,West,04/28/2021,Gold,1,Yes
+CUST00001265,Riley Brown 1265,customer1265@example.com,Los Angeles,CA,West,10/17/2020,Silver,2,True
+CUST00001266,Casey Garcia 1266,customer1266@example.com,Houston,TX,South,2020-11-13,Silver,5,Y
+CUST00001267,Riley Smith 1267,customer1267@example.com,Orlando,FL,South,2026-01-06,Silver,,True
+CUST00001268,Riley Patel 1268,customer1268@example.com,Seattle,WA,West,10/16/2023,Gold,6,Y
+CUST00001269,Riley Kim 1269,customer1269@example.com,Seattle,WA,West,05/15/2020,,1,N
+CUST00001270,Alex Lee 1270,customer1270@example.com,Austin,TX,South,11/30/2022,gold ,6,N
+CUST00001271,Alex Lee 1271,customer1271@example.com,Los Angeles,CA,West,09/30/2022,,3,Yes
+CUST00001272,Jordan Lee 1272,customer1272@example.com,Orlando,FL,South,2024-07-05,Gold,6,Y
+CUST00001273,Morgan Lee 1273,customer1273@example.com,Denver,CO,West,07/21/2023,gold ,6,True
+CUST00001274,Casey Garcia 1274,customer1274@example.com,Albany,NY,Northeast,05/03/2021,Silver,bad,Y
+CUST00001275,Alex Garcia 1275,customer1275@example.com,Albany,NY,Northeast,2023-07-11,gold ,2,Y
+CUST00001276,Riley Brown 1276,customer1276@example.com,Miami,FL,South,02/27/2023,Plus,,Yes
+CUST00001277,Morgan Smith 1277,customer1277@example.com,Miami,FL,South,07/22/2022,,3,True
+CUST00001278,Casey Garcia 1278,customer1278@example.com,Miami,FL,South,2023-10-07,Basic,2,True
+CUST00001279,Jordan Lee 1279,customer1279@example.com,Los Angeles,CA,West,11/24/2023,,,Y
+CUST00001280,Casey Brown 1280,customer1280@example.com,Miami,FL,South,2021-08-04,Plus,4,Yes
+CUST00001281,Morgan Smith 1281,customer1281@example.com,Sacramento,CA,West,2023-12-21,Basic,bad,Y
+CUST00001282,Alex Patel 1282,customer1282@example.com,Orlando,FL,South,2021-08-23,Silver,bad,Yes
+CUST00001283,Casey Kim 1283,customer1283@example.com,Buffalo,NY,Northeast,2021-04-30,Silver,4,Y
+CUST00001284,Jordan Lee 1284,customer1284@example.com,Orlando,FL,South,02/08/2021,Silver,1,True
+CUST00001285,Riley Kim 1285,customer1285@example.com,Peoria,IL,Midwest,08/03/2024,Basic,2,Yes
+CUST00001286,Morgan Kim 1286,customer1286@example.com,Peoria,IL,Midwest,12/23/2022,Basic,5,Y
+CUST00001287,Riley Smith 1287,customer1287@example.com,Seattle,WA,West,05/07/2024,,1,Y
+CUST00001288,Jordan Kim 1288,customer1288@example.com,Atlanta,GA,South,2022-06-22,,6,Y
+CUST00001289,Taylor Lee 1289,customer1289@example.com,Austin,TX,South,07/22/2025,Gold,,Y
+CUST00001290,Alex Garcia 1290,customer1290@example.com,Aurora,CO,West,2021-02-10,gold ,6,Y
+CUST00001291,Morgan Smith 1291,customer1291@example.com,Buffalo,NY,Northeast,10/14/2020,,5,Y
+CUST00001292,Taylor Kim 1292,customer1292@example.com,Houston,TX,South,10/02/2021,,bad,Y
+CUST00001293,Jordan Patel 1293,customer1293@example.com,Dallas,TX,South,12/13/2022,Plus,,Y
+CUST00001294,Jordan Smith 1294,customer1294@example.com,Sacramento,CA,West,09/04/2023,Basic,bad,True
+CUST00001295,Riley Smith 1295,customer1295@example.com,Orlando,FL,South,01/31/2025,Basic,2,True
+CUST00001296,Jordan Kim 1296,customer1296@example.com,Chicago,IL,Midwest,2021-01-20,gold ,,N
+CUST00001297,Taylor Lee 1297,customer1297@example.com,Albany,NY,Northeast,2023-02-05,,6,N
+CUST00001298,Alex Kim 1298,customer1298@example.com,Miami,FL,South,2025-03-30,,6,Y
+CUST00001299,Jordan Garcia 1299,customer1299@example.com,Albany,NY,Northeast,08/13/2021,Plus,,Y
+CUST00001300,Jordan Brown 1300,customer1300@example.com,Miami,FL,South,2024-09-12,,2,Y
+CUST00001301,Alex Kim 1301,customer1301@example.com,Aurora,CO,West,2022-02-21,,5,True
+CUST00001302,Casey Garcia 1302,customer1302@example.com,Sacramento,CA,West,2024-03-10,gold ,bad,N
+CUST00001303,Riley Patel 1303,customer1303@example.com,Atlanta,GA,South,2022-03-22,Silver,1,N
+CUST00001304,Alex Lee 1304,customer1304@example.com,Seattle,WA,West,2021-03-02,gold ,5,Y
+CUST00001305,Morgan Kim 1305,customer1305@example.com,Seattle,WA,West,2023-03-12,Plus,5,True
+CUST00001306,Casey Smith 1306,customer1306@example.com,Tacoma,WA,West,06/21/2023,Silver,5,Y
+CUST00001307,Morgan Smith 1307,customer1307@example.com,Savannah,GA,South,2020-06-12,Basic,6,Y
+CUST00001308,Alex Patel 1308,customer1308@example.com,Atlanta,GA,South,2026-04-04,gold ,5,True
+CUST00001309,Jordan Garcia 1309,customer1309@example.com,Orlando,FL,South,05/09/2020,Plus,bad,Y
+CUST00001310,Riley Garcia 1310,customer1310@example.com,Denver,CO,West,2025-07-01,Silver,5,True
+CUST00001311,Alex Kim 1311,customer1311@example.com,Orlando,FL,South,2021-12-15,gold ,bad,Y
+CUST00001312,Riley Patel 1312,customer1312@example.com,Savannah,GA,South,2022-07-02,Silver,3,Yes
+CUST00001313,Casey Lee 1313,customer1313@example.com,Dallas,TX,South,2023-10-07,gold ,2,Yes
+CUST00001314,Alex Smith 1314,customer1314@example.com,Tacoma,WA,West,2023-12-15,Gold,3,True
+CUST00001315,Alex Brown 1315,customer1315@example.com,Atlanta,GA,South,2021-12-01,Plus,3,Y
+CUST00001316,Morgan Patel 1316,customer1316@example.com,Albany,NY,Northeast,11/20/2023,Basic,,Yes
+CUST00001317,Morgan Smith 1317,customer1317@example.com,Atlanta,GA,South,03/24/2025,Plus,2,N
+CUST00001318,Taylor Kim 1318,customer1318@example.com,Orlando,FL,South,2025-02-23,gold ,6,Y
+CUST00001319,Morgan Smith 1319,customer1319@example.com,Austin,TX,South,2022-04-01,Silver,2,Y
+CUST00001320,Riley Garcia 1320,customer1320@example.com,Aurora,CO,West,04/02/2020,Basic,,N
+CUST00001321,Riley Smith 1321,customer1321@example.com,Dallas,TX,South,2026-05-07,Gold,,True
+CUST00001322,Morgan Lee 1322,customer1322@example.com,Savannah,GA,South,08/24/2022,Basic,,N
+CUST00001323,Casey Brown 1323,customer1323@example.com,Savannah,GA,South,09/01/2025,Basic,3,Yes
+CUST00001324,Riley Lee 1324,customer1324@example.com,Atlanta,GA,South,10/24/2023,Silver,4,N
+CUST00001325,Morgan Kim 1325,customer1325@example.com,Chicago,IL,Midwest,2021-04-01,Gold,3,Y
+CUST00001326,Casey Patel 1326,customer1326@example.com,Seattle,WA,West,2024-06-22,,1,Y
+CUST00001327,Alex Smith 1327,customer1327@example.com,Sacramento,CA,West,01/04/2020,,5,Y
+CUST00001328,Morgan Kim 1328,customer1328@example.com,Los Angeles,CA,West,09/13/2020,Gold,1,Y
+CUST00001329,Morgan Kim 1329,customer1329@example.com,Tacoma,WA,West,06/26/2020,Basic,2,Yes
+CUST00001330,Riley Garcia 1330,customer1330@example.com,Aurora,CO,West,05/27/2024,Silver,3,True
+CUST00001331,Jordan Smith 1331,customer1331@example.com,Denver,CO,West,10/21/2023,,1,Y
+CUST00001332,Jordan Garcia 1332,customer1332@example.com,Seattle,WA,West,2022-06-07,Plus,5,Y
+CUST00001333,Casey Brown 1333,customer1333@example.com,Albany,NY,Northeast,11/13/2021,Gold,1,N
+CUST00001334,Riley Smith 1334,customer1334@example.com,Denver,CO,West,2020-06-16,Silver,4,Yes
+CUST00001335,Riley Garcia 1335,customer1335@example.com,Buffalo,NY,Northeast,06/19/2021,Gold,bad,Y
+CUST00001336,Casey Smith 1336,customer1336@example.com,Aurora,CO,West,09/23/2023,Plus,4,Y
+CUST00001337,Riley Garcia 1337,customer1337@example.com,Atlanta,GA,South,2024-05-16,Gold,3,Y
+CUST00001338,Casey Garcia 1338,customer1338@example.com,Aurora,CO,West,2020-02-15,,bad,Y
+CUST00001339,Alex Lee 1339,customer1339@example.com,Miami,FL,South,07/28/2020,Silver,3,Y
+CUST00001340,Casey Kim 1340,customer1340@example.com,Buffalo,NY,Northeast,02/18/2020,,,Yes
+CUST00001341,Morgan Smith 1341,customer1341@example.com,Los Angeles,CA,West,2020-05-23,Silver,2,True
+CUST00001342,Jordan Brown 1342,customer1342@example.com,Chicago,IL,Midwest,05/30/2023,Plus,4,Yes
+CUST00001343,Morgan Patel 1343,customer1343@example.com,Los Angeles,CA,West,2023-01-23,Silver,4,True
+CUST00001344,Casey Garcia 1344,customer1344@example.com,Los Angeles,CA,West,2025-11-17,,5,Y
+CUST00001345,Riley Garcia 1345,customer1345@example.com,Los Angeles,CA,West,2023-09-23,Basic,,Y
+CUST00001346,Riley Patel 1346,customer1346@example.com,Atlanta,GA,South,2025-05-07,Plus,3,Yes
+CUST00001347,Morgan Brown 1347,customer1347@example.com,Savannah,GA,South,2022-08-31,Basic,,Y
+CUST00001348,Alex Garcia 1348,customer1348@example.com,Seattle,WA,West,05/19/2025,Plus,2,Yes
+CUST00001349,Riley Brown 1349,customer1349@example.com,Albany,NY,Northeast,2025-07-10,Basic,3,True
+CUST00001350,Casey Smith 1350,customer1350@example.com,Houston,TX,South,05/12/2023,Gold,5,Y
+CUST00001351,Casey Lee 1351,customer1351@example.com,Albany,NY,Northeast,12/01/2023,,1,Y
+CUST00001352,Riley Smith 1352,customer1352@example.com,Austin,TX,South,12/29/2024,Gold,,True
+CUST00001353,Casey Lee 1353,customer1353@example.com,Atlanta,GA,South,08/31/2022,Plus,bad,True
+CUST00001354,Riley Garcia 1354,customer1354@example.com,Denver,CO,West,2020-04-16,Gold,4,Y
+CUST00001355,Casey Lee 1355,customer1355@example.com,Dallas,TX,South,12/18/2024,gold ,,Y
+CUST00001356,Alex Smith 1356,customer1356@example.com,Sacramento,CA,West,02/13/2025,Silver,,True
+CUST00001357,Riley Garcia 1357,customer1357@example.com,Buffalo,NY,Northeast,02/19/2020,Silver,1,N
+CUST00001358,Morgan Garcia 1358,customer1358@example.com,Savannah,GA,South,02/15/2021,Basic,2,Y
+CUST00001359,Riley Kim 1359,customer1359@example.com,Peoria,IL,Midwest,2024-09-26,Silver,5,Y
+CUST00001360,Casey Lee 1360,customer1360@example.com,Savannah,GA,South,01/10/2025,Gold,5,Yes
+CUST00001361,Jordan Smith 1361,customer1361@example.com,Orlando,FL,South,03/28/2020,gold ,6,Y
+CUST00001362,Riley Patel 1362,customer1362@example.com,Dallas,TX,South,2024-02-03,Gold,,True
+CUST00001363,Riley Brown 1363,customer1363@example.com,Chicago,IL,Midwest,04/23/2021,gold ,5,Y
+CUST00001364,Casey Garcia 1364,customer1364@example.com,Los Angeles,CA,West,2023-12-10,,5,Y
+CUST00001365,Alex Brown 1365,customer1365@example.com,Peoria,IL,Midwest,04/08/2023,,1,Y
+CUST00001366,Morgan Lee 1366,customer1366@example.com,Houston,TX,South,2025-08-21,Plus,4,Y
+CUST00001367,Taylor Kim 1367,customer1367@example.com,Peoria,IL,Midwest,2020-09-16,Silver,4,Y
+CUST00001368,Casey Garcia 1368,customer1368@example.com,Miami,FL,South,10/22/2025,Gold,2,Yes
+CUST00001369,Casey Patel 1369,customer1369@example.com,Miami,FL,South,10/23/2023,Plus,3,Y
+CUST00001370,Riley Garcia 1370,customer1370@example.com,Los Angeles,CA,West,07/19/2023,Silver,bad,Yes
+CUST00001371,Jordan Smith 1371,customer1371@example.com,Miami,FL,South,10/24/2025,Silver,6,N
+CUST00001372,Riley Kim 1372,customer1372@example.com,Miami,FL,South,2022-09-03,Silver,,Y
+CUST00001373,Jordan Brown 1373,customer1373@example.com,Dallas,TX,South,07/31/2024,,4,Yes
+CUST00001374,Alex Kim 1374,customer1374@example.com,Denver,CO,West,2024-10-27,,6,N
+CUST00001375,Riley Brown 1375,customer1375@example.com,Houston,TX,South,08/08/2022,gold ,4,True
+CUST00001376,Casey Patel 1376,customer1376@example.com,Houston,TX,South,2022-03-05,Silver,6,N
+CUST00001377,Alex Smith 1377,customer1377@example.com,Tacoma,WA,West,2026-03-20,Plus,5,Y
+CUST00001378,Casey Patel 1378,customer1378@example.com,Albany,NY,Northeast,01/20/2026,Silver,,Yes
+CUST00001379,Alex Lee 1379,customer1379@example.com,Buffalo,NY,Northeast,03/05/2021,Gold,4,True
+CUST00001380,Casey Brown 1380,customer1380@example.com,Tacoma,WA,West,05/18/2023,Basic,1,Y
+CUST00001381,Morgan Patel 1381,customer1381@example.com,Savannah,GA,South,2025-03-14,gold ,1,Y
+CUST00001382,Alex Brown 1382,customer1382@example.com,Seattle,WA,West,2020-02-04,,5,Y
+CUST00001383,Taylor Garcia 1383,customer1383@example.com,Sacramento,CA,West,2021-02-16,Gold,3,Y
+CUST00001384,Jordan Smith 1384,customer1384@example.com,Peoria,IL,Midwest,2021-07-02,Gold,2,Y
+CUST00001385,Morgan Smith 1385,customer1385@example.com,Tacoma,WA,West,2024-02-05,Gold,2,Y
+CUST00001386,Casey Brown 1386,customer1386@example.com,Atlanta,GA,South,2020-03-21,gold ,,Y
+CUST00001387,Jordan Brown 1387,customer1387@example.com,Savannah,GA,South,04/12/2026,Gold,4,Y
+CUST00001388,Jordan Patel 1388,customer1388@example.com,Denver,CO,West,03/25/2022,Plus,6,True
+CUST00001389,Taylor Brown 1389,customer1389@example.com,Savannah,GA,South,2026-05-14,Plus,2,Y
+CUST00001390,Taylor Garcia 1390,customer1390@example.com,Chicago,IL,Midwest,2021-07-01,Basic,5,Yes
+CUST00001391,Alex Smith 1391,customer1391@example.com,Aurora,CO,West,11/29/2024,Gold,,True
+CUST00001392,Morgan Brown 1392,customer1392@example.com,Buffalo,NY,Northeast,2020-09-26,,3,True
+CUST00001393,Alex Garcia 1393,customer1393@example.com,Albany,NY,Northeast,2021-09-06,gold ,1,Y
+CUST00001394,Taylor Smith 1394,customer1394@example.com,Los Angeles,CA,West,2023-04-21,gold ,,Y
+CUST00001395,Riley Kim 1395,customer1395@example.com,Orlando,FL,South,04/20/2023,Silver,3,Y
+CUST00001396,Taylor Patel 1396,customer1396@example.com,Miami,FL,South,07/06/2024,,,Y
+CUST00001397,Alex Garcia 1397,customer1397@example.com,Chicago,IL,Midwest,2020-10-25,Gold,5,Y
+CUST00001398,Casey Smith 1398,customer1398@example.com,Aurora,CO,West,02/19/2024,Plus,1,Y
+CUST00001399,Morgan Kim 1399,customer1399@example.com,Tacoma,WA,West,11/22/2024,Silver,bad,N
+CUST00001400,Morgan Garcia 1400,customer1400@example.com,Seattle,WA,West,2022-03-10,gold ,bad,Y
+CUST00001401,Riley Brown 1401,customer1401@example.com,Sacramento,CA,West,2024-11-22,Plus,3,True
+CUST00001402,Jordan Kim 1402,customer1402@example.com,Tacoma,WA,West,2020-11-04,gold ,6,N
+CUST00001403,Morgan Brown 1403,customer1403@example.com,Houston,TX,South,03/14/2022,Gold,5,Y
+CUST00001404,Taylor Lee 1404,customer1404@example.com,Albany,NY,Northeast,2025-01-27,Gold,6,N
+CUST00001405,Taylor Kim 1405,customer1405@example.com,Miami,FL,South,01/23/2025,,2,Y
+CUST00001406,Riley Brown 1406,customer1406@example.com,Los Angeles,CA,West,06/18/2024,Plus,5,Y
+CUST00001407,Morgan Lee 1407,customer1407@example.com,Buffalo,NY,Northeast,2023-01-01,Silver,5,Y
+CUST00001408,Riley Patel 1408,customer1408@example.com,Tacoma,WA,West,08/26/2024,Silver,,Yes
+CUST00001409,Alex Brown 1409,customer1409@example.com,Tacoma,WA,West,2024-02-18,Basic,5,True
+CUST00001410,Casey Patel 1410,customer1410@example.com,Miami,FL,South,11/15/2022,Silver,1,Y
+CUST00001411,Morgan Kim 1411,customer1411@example.com,Savannah,GA,South,2023-09-24,Gold,3,N
+CUST00001412,Riley Patel 1412,customer1412@example.com,Sacramento,CA,West,2023-11-01,,5,Y
+CUST00001413,Jordan Smith 1413,customer1413@example.com,Peoria,IL,Midwest,11/08/2023,Gold,bad,Yes
+CUST00001414,Jordan Patel 1414,customer1414@example.com,Chicago,IL,Midwest,07/25/2023,Silver,4,True
+CUST00001415,Taylor Lee 1415,customer1415@example.com,Orlando,FL,South,2021-11-01,Gold,,Yes
+CUST00001416,Casey Patel 1416,customer1416@example.com,Aurora,CO,West,2024-08-09,gold ,1,Yes
+CUST00001417,Taylor Lee 1417,customer1417@example.com,Houston,TX,South,01/20/2026,Gold,1,Y
+CUST00001418,Jordan Lee 1418,customer1418@example.com,Orlando,FL,South,2024-10-31,gold ,1,Y
+CUST00001419,Jordan Smith 1419,customer1419@example.com,Los Angeles,CA,West,2022-03-19,Plus,4,Y
+CUST00001420,Taylor Lee 1420,customer1420@example.com,Savannah,GA,South,01/16/2022,,1,Y
+CUST00001421,Morgan Smith 1421,customer1421@example.com,Denver,CO,West,2022-10-28,Basic,1,Y
+CUST00001422,Alex Patel 1422,customer1422@example.com,Albany,NY,Northeast,2020-07-14,,3,Y
+CUST00001423,Casey Kim 1423,customer1423@example.com,Albany,NY,Northeast,2021-06-13,Basic,3,N
+CUST00001424,Jordan Garcia 1424,customer1424@example.com,Miami,FL,South,11/30/2022,Basic,2,N
+CUST00001425,Riley Kim 1425,customer1425@example.com,Tacoma,WA,West,2024-08-05,Plus,1,Y
+CUST00001426,Riley Garcia 1426,customer1426@example.com,Seattle,WA,West,05/27/2022,Plus,4,True
+CUST00001427,Casey Brown 1427,customer1427@example.com,Albany,NY,Northeast,2024-06-04,,6,N
+CUST00001428,Alex Smith 1428,customer1428@example.com,Miami,FL,South,2023-01-09,,4,N
+CUST00001429,Taylor Patel 1429,customer1429@example.com,Sacramento,CA,West,02/08/2020,Silver,3,Yes
+CUST00001430,Morgan Smith 1430,customer1430@example.com,Chicago,IL,Midwest,01/13/2020,Silver,6,N
+CUST00001431,Taylor Patel 1431,customer1431@example.com,Austin,TX,South,2021-09-01,Silver,6,N
+CUST00001432,Morgan Kim 1432,customer1432@example.com,Sacramento,CA,West,2021-11-27,gold ,5,True
+CUST00001433,Morgan Patel 1433,customer1433@example.com,Aurora,CO,West,2020-01-16,,6,True
+CUST00001434,Morgan Brown 1434,customer1434@example.com,Los Angeles,CA,West,2022-11-23,Silver,5,Y
+CUST00001435,Taylor Lee 1435,customer1435@example.com,Orlando,FL,South,2025-01-27,Silver,bad,N
+CUST00001436,Taylor Smith 1436,customer1436@example.com,Chicago,IL,Midwest,11/11/2025,Plus,4,True
+CUST00001437,Riley Smith 1437,customer1437@example.com,Seattle,WA,West,2020-10-10,Gold,3,Y
+CUST00001438,Riley Kim 1438,customer1438@example.com,Chicago,IL,Midwest,08/25/2023,Basic,5,Yes
+CUST00001439,Casey Garcia 1439,customer1439@example.com,Dallas,TX,South,08/20/2020,Basic,5,True
+CUST00001440,Casey Garcia 1440,customer1440@example.com,Seattle,WA,West,07/21/2020,Basic,3,Y
+CUST00001441,Alex Lee 1441,customer1441@example.com,Peoria,IL,Midwest,2023-06-20,Gold,3,Y
+CUST00001442,Casey Brown 1442,customer1442@example.com,Albany,NY,Northeast,2020-07-31,Basic,1,Y
+CUST00001443,Jordan Smith 1443,customer1443@example.com,Denver,CO,West,02/24/2024,Basic,,Y
+CUST00001444,Taylor Lee 1444,customer1444@example.com,Savannah,GA,South,2021-01-24,,3,Y
+CUST00001445,Jordan Smith 1445,customer1445@example.com,Austin,TX,South,04/29/2020,,2,Yes
+CUST00001446,Morgan Patel 1446,customer1446@example.com,Sacramento,CA,West,08/23/2025,Basic,4,Yes
+CUST00001447,Taylor Brown 1447,customer1447@example.com,Peoria,IL,Midwest,2020-05-26,Plus,2,Y
+CUST00001448,Morgan Brown 1448,customer1448@example.com,Chicago,IL,Midwest,06/13/2021,Gold,4,Y
+CUST00001449,Riley Lee 1449,customer1449@example.com,Savannah,GA,South,2020-09-30,Basic,6,Yes
+CUST00001450,Jordan Garcia 1450,customer1450@example.com,Denver,CO,West,01/18/2023,Basic,,Yes
+CUST00001451,Alex Brown 1451,customer1451@example.com,Denver,CO,West,08/28/2022,,3,N
+CUST00001452,Taylor Garcia 1452,customer1452@example.com,Peoria,IL,Midwest,02/19/2022,gold ,6,Yes
+CUST00001453,Jordan Patel 1453,customer1453@example.com,Chicago,IL,Midwest,12/30/2021,Silver,,Y
+CUST00001454,Casey Lee 1454,customer1454@example.com,Los Angeles,CA,West,2021-03-28,Gold,5,Y
+CUST00001455,Casey Kim 1455,customer1455@example.com,Dallas,TX,South,2020-08-08,,3,N
+CUST00001456,Taylor Garcia 1456,customer1456@example.com,Atlanta,GA,South,02/13/2022,Basic,4,Yes
+CUST00001457,Jordan Lee 1457,customer1457@example.com,Tacoma,WA,West,2021-03-20,gold ,,Y
+CUST00001458,Alex Kim 1458,customer1458@example.com,Aurora,CO,West,2023-09-18,gold ,5,True
+CUST00001459,Jordan Brown 1459,customer1459@example.com,Los Angeles,CA,West,2020-11-08,,bad,True
+CUST00001460,Alex Garcia 1460,customer1460@example.com,Denver,CO,West,2024-02-18,Silver,2,Yes
+CUST00001461,Alex Smith 1461,customer1461@example.com,Sacramento,CA,West,2021-06-03,,2,N
+CUST00001462,Jordan Smith 1462,customer1462@example.com,Miami,FL,South,2022-03-11,Gold,2,True
+CUST00001463,Casey Kim 1463,customer1463@example.com,Albany,NY,Northeast,06/03/2021,gold ,2,True
+CUST00001464,Riley Kim 1464,customer1464@example.com,Denver,CO,West,02/20/2021,Silver,,True
+CUST00001465,Morgan Lee 1465,customer1465@example.com,Peoria,IL,Midwest,2025-09-26,Gold,2,Yes
+CUST00001466,Casey Garcia 1466,customer1466@example.com,Aurora,CO,West,2025-06-21,Plus,2,Y
+CUST00001467,Alex Lee 1467,customer1467@example.com,Sacramento,CA,West,11/12/2020,Silver,,N
+CUST00001468,Jordan Garcia 1468,customer1468@example.com,Seattle,WA,West,11/15/2024,Gold,4,N
+CUST00001469,Riley Kim 1469,customer1469@example.com,Aurora,CO,West,12/30/2021,,6,True
+CUST00001470,Alex Smith 1470,customer1470@example.com,Los Angeles,CA,West,02/27/2025,Gold,1,Y
+CUST00001471,Taylor Patel 1471,customer1471@example.com,Buffalo,NY,Northeast,02/26/2021,gold ,1,Y
+CUST00001472,Jordan Patel 1472,customer1472@example.com,Aurora,CO,West,04/29/2025,Gold,1,Yes
+CUST00001473,Jordan Patel 1473,customer1473@example.com,Los Angeles,CA,West,07/09/2021,Gold,1,Y
+CUST00001474,Casey Kim 1474,customer1474@example.com,Albany,NY,Northeast,11/10/2022,Plus,,N
+CUST00001475,Jordan Garcia 1475,customer1475@example.com,Houston,TX,South,2022-07-07,Basic,,Yes
+CUST00001476,Taylor Kim 1476,customer1476@example.com,Albany,NY,Northeast,2021-09-02,,4,True
+CUST00001477,Casey Brown 1477,customer1477@example.com,Miami,FL,South,2021-09-28,gold ,4,Y
+CUST00001478,Alex Kim 1478,customer1478@example.com,Savannah,GA,South,01/19/2023,Basic,4,Y
+CUST00001479,Casey Lee 1479,customer1479@example.com,Peoria,IL,Midwest,2025-11-17,Silver,bad,Y
+CUST00001480,Taylor Kim 1480,customer1480@example.com,Peoria,IL,Midwest,2023-08-16,Plus,,Y
+CUST00001481,Morgan Brown 1481,customer1481@example.com,Denver,CO,West,2026-03-01,Silver,,Y
+CUST00001482,Riley Garcia 1482,customer1482@example.com,Buffalo,NY,Northeast,04/03/2022,Basic,4,Y
+CUST00001483,Taylor Kim 1483,customer1483@example.com,Chicago,IL,Midwest,02/23/2021,,6,Yes
+CUST00001484,Taylor Kim 1484,customer1484@example.com,Savannah,GA,South,2020-02-14,Silver,3,Y
+CUST00001485,Casey Garcia 1485,customer1485@example.com,Orlando,FL,South,2025-10-10,gold ,3,Y
+CUST00001486,Morgan Patel 1486,customer1486@example.com,Sacramento,CA,West,2020-03-04,Gold,3,Y
+CUST00001487,Jordan Patel 1487,customer1487@example.com,Peoria,IL,Midwest,08/27/2025,,bad,True
+CUST00001488,Casey Smith 1488,customer1488@example.com,Austin,TX,South,2025-10-10,gold ,6,Yes
+CUST00001489,Morgan Lee 1489,customer1489@example.com,Chicago,IL,Midwest,10/24/2025,Plus,1,Y
+CUST00001490,Casey Garcia 1490,customer1490@example.com,Chicago,IL,Midwest,01/03/2022,Gold,,Y
+CUST00001491,Morgan Smith 1491,customer1491@example.com,Los Angeles,CA,West,2023-04-06,Basic,4,Y
+CUST00001492,Riley Smith 1492,customer1492@example.com,Orlando,FL,South,2022-04-28,,1,True
+CUST00001493,Morgan Lee 1493,customer1493@example.com,Denver,CO,West,05/05/2024,Plus,5,True
+CUST00001494,Casey Brown 1494,customer1494@example.com,Atlanta,GA,South,2023-04-05,,1,Yes
+CUST00001495,Morgan Brown 1495,customer1495@example.com,Tacoma,WA,West,2021-04-27,gold ,3,N
+CUST00001496,Casey Smith 1496,customer1496@example.com,Miami,FL,South,2020-07-19,gold ,bad,True
+CUST00001497,Taylor Patel 1497,customer1497@example.com,Atlanta,GA,South,09/19/2022,Basic,6,N
+CUST00001498,Jordan Kim 1498,customer1498@example.com,Aurora,CO,West,2023-04-16,,5,Yes
+CUST00001499,Riley Brown 1499,customer1499@example.com,Tacoma,WA,West,06/04/2023,,,Y
+CUST00001500,Riley Patel 1500,customer1500@example.com,Denver,CO,West,2020-05-18,Silver,1,Y
+CUST00001501,Morgan Garcia 1501,,Aurora,CO,West,08/25/2020,Basic,2,Yes
+CUST00001502,Taylor Kim 1502,customer1502@example.com,Houston,TX,South,09/02/2020,Silver,2,Y
+CUST00001503,Jordan Brown 1503,customer1503@example.com,Seattle,WA,West,12/06/2020,Plus,4,Yes
+CUST00001504,Casey Garcia 1504,customer1504@example.com,Sacramento,CA,West,2024-01-30,Silver,6,N
+CUST00001505,Riley Garcia 1505,customer1505@example.com,Sacramento,CA,West,11/06/2024,Gold,4,Yes
+CUST00001506,Alex Patel 1506,customer1506@example.com,Los Angeles,CA,West,05/29/2023,Silver,4,True
+CUST00001507,Casey Garcia 1507,customer1507@example.com,Austin,TX,South,03/06/2023,,2,Yes
+CUST00001508,Taylor Patel 1508,customer1508@example.com,Dallas,TX,South,11/28/2022,Plus,5,N
+CUST00001509,Casey Smith 1509,customer1509@example.com,Seattle,WA,West,02/08/2024,Plus,4,Y
+CUST00001510,Jordan Brown 1510,customer1510@example.com,Orlando,FL,South,2023-06-27,Basic,5,True
+CUST00001511,Casey Brown 1511,customer1511@example.com,Sacramento,CA,West,2024-06-29,Silver,1,Y
+CUST00001512,Casey Smith 1512,customer1512@example.com,Savannah,GA,South,2025-04-13,,1,True
+CUST00001513,Riley Patel 1513,customer1513@example.com,Buffalo,NY,Northeast,2020-02-29,Silver,2,True
+CUST00001514,Jordan Brown 1514,customer1514@example.com,Dallas,TX,South,2022-05-05,Gold,2,Y
+CUST00001515,Casey Kim 1515,customer1515@example.com,Buffalo,NY,Northeast,2021-03-03,Basic,3,N
+CUST00001516,Alex Patel 1516,customer1516@example.com,Aurora,CO,West,2024-10-22,Gold,6,True
+CUST00001517,Casey Lee 1517,customer1517@example.com,Buffalo,NY,Northeast,2020-06-14,,1,Y
+CUST00001518,Jordan Patel 1518,customer1518@example.com,Tacoma,WA,West,2023-08-11,Basic,5,N
+CUST00001519,Morgan Garcia 1519,customer1519@example.com,Houston,TX,South,04/22/2020,Gold,1,True
+CUST00001520,Jordan Brown 1520,customer1520@example.com,Denver,CO,West,2025-08-03,gold ,1,Y
+CUST00001521,Riley Garcia 1521,customer1521@example.com,Tacoma,WA,West,2025-11-17,Plus,bad,Y
+CUST00001522,Riley Patel 1522,customer1522@example.com,Orlando,FL,South,2025-04-27,Gold,6,Yes
+CUST00001523,Casey Smith 1523,customer1523@example.com,Chicago,IL,Midwest,2021-05-06,Gold,3,Y
+CUST00001524,Taylor Kim 1524,customer1524@example.com,Albany,NY,Northeast,02/01/2023,Silver,2,True
+CUST00001525,Riley Patel 1525,customer1525@example.com,Sacramento,CA,West,2023-09-15,gold ,2,True
+CUST00001526,Taylor Brown 1526,customer1526@example.com,Savannah,GA,South,2025-05-02,Gold,5,Y
+CUST00001527,Riley Kim 1527,customer1527@example.com,Atlanta,GA,South,2025-02-11,gold ,bad,Y
+CUST00001528,Jordan Patel 1528,customer1528@example.com,Los Angeles,CA,West,2023-01-11,gold ,bad,Y
+CUST00001529,Alex Smith 1529,customer1529@example.com,Chicago,IL,Midwest,2022-12-31,Basic,2,Y
+CUST00001530,Alex Patel 1530,customer1530@example.com,Sacramento,CA,West,01/28/2023,gold ,1,Y
+CUST00001531,Riley Kim 1531,customer1531@example.com,Houston,TX,South,09/10/2024,Gold,1,Y
+CUST00001532,Taylor Lee 1532,customer1532@example.com,Miami,FL,South,10/16/2020,gold ,3,Y
+CUST00001533,Taylor Smith 1533,customer1533@example.com,Los Angeles,CA,West,2021-05-24,Basic,,N
+CUST00001534,Morgan Patel 1534,customer1534@example.com,Miami,FL,South,02/13/2025,Basic,5,N
+CUST00001535,Jordan Lee 1535,customer1535@example.com,Los Angeles,CA,West,2024-04-14,Silver,5,Y
+CUST00001536,Riley Patel 1536,customer1536@example.com,Peoria,IL,Midwest,2023-02-11,,6,N
+CUST00001537,Alex Kim 1537,customer1537@example.com,Austin,TX,South,2023-12-28,,bad,True
+CUST00001538,Casey Brown 1538,customer1538@example.com,Miami,FL,South,2021-06-21,Silver,,N
+CUST00001539,Taylor Lee 1539,customer1539@example.com,Savannah,GA,South,2026-01-30,gold ,2,N
+CUST00001540,Riley Kim 1540,customer1540@example.com,Houston,TX,South,2020-02-27,Basic,5,N
+CUST00001541,Casey Garcia 1541,customer1541@example.com,Chicago,IL,Midwest,12/19/2022,Silver,,N
+CUST00001542,Taylor Smith 1542,customer1542@example.com,Austin,TX,South,04/03/2021,Silver,,Y
+CUST00001543,Alex Smith 1543,customer1543@example.com,Los Angeles,CA,West,08/15/2020,Silver,1,True
+CUST00001544,Alex Brown 1544,customer1544@example.com,Savannah,GA,South,2020-09-08,Plus,1,True
+CUST00001545,Riley Lee 1545,customer1545@example.com,Atlanta,GA,South,05/01/2024,Gold,2,Yes
+CUST00001546,Jordan Kim 1546,customer1546@example.com,Aurora,CO,West,2022-06-16,Gold,3,N
+CUST00001547,Morgan Lee 1547,customer1547@example.com,Los Angeles,CA,West,12/18/2021,Gold,1,Y
+CUST00001548,Taylor Kim 1548,customer1548@example.com,Seattle,WA,West,2025-11-19,,6,Y
+CUST00001549,Riley Kim 1549,customer1549@example.com,Denver,CO,West,10/07/2025,Silver,1,Yes
+CUST00001550,Morgan Garcia 1550,customer1550@example.com,Seattle,WA,West,2024-09-08,gold ,,Yes
+CUST00001551,Taylor Kim 1551,customer1551@example.com,Los Angeles,CA,West,12/19/2025,Plus,2,Y
+CUST00001552,Jordan Lee 1552,customer1552@example.com,Miami,FL,South,2024-04-20,,5,N
+CUST00001553,Casey Lee 1553,customer1553@example.com,Los Angeles,CA,West,02/01/2020,gold ,5,Y
+CUST00001554,Taylor Kim 1554,customer1554@example.com,Los Angeles,CA,West,06/14/2020,Basic,6,True
+CUST00001555,Riley Patel 1555,customer1555@example.com,Sacramento,CA,West,2024-04-25,Plus,1,N
+CUST00001556,Morgan Patel 1556,customer1556@example.com,Chicago,IL,Midwest,2022-05-02,Plus,,Yes
+CUST00001557,Taylor Kim 1557,customer1557@example.com,Chicago,IL,Midwest,09/10/2023,,,Y
+CUST00001558,Alex Brown 1558,customer1558@example.com,Chicago,IL,Midwest,2021-03-22,Gold,bad,Yes
+CUST00001559,Taylor Garcia 1559,customer1559@example.com,Aurora,CO,West,01/17/2021,Silver,3,Y
+CUST00001560,Riley Garcia 1560,customer1560@example.com,Tacoma,WA,West,05/13/2024,Silver,,Y
+CUST00001561,Alex Lee 1561,customer1561@example.com,Denver,CO,West,09/11/2023,,,True
+CUST00001562,Riley Patel 1562,customer1562@example.com,Sacramento,CA,West,2024-05-17,Basic,,True
+CUST00001563,Alex Lee 1563,customer1563@example.com,Aurora,CO,West,2020-06-23,Silver,,True
+CUST00001564,Riley Patel 1564,customer1564@example.com,Dallas,TX,South,2026-02-23,gold ,6,N
+CUST00001565,Taylor Garcia 1565,customer1565@example.com,Peoria,IL,Midwest,2023-05-09,,4,Yes
+CUST00001566,Taylor Kim 1566,customer1566@example.com,Miami,FL,South,2024-05-23,,1,Y
+CUST00001567,Casey Smith 1567,customer1567@example.com,Tacoma,WA,West,03/24/2024,,1,Y
+CUST00001568,Jordan Patel 1568,customer1568@example.com,Los Angeles,CA,West,2020-07-11,Plus,6,Y
+CUST00001569,Riley Smith 1569,customer1569@example.com,Aurora,CO,West,2023-09-26,gold ,4,N
+CUST00001570,Alex Lee 1570,customer1570@example.com,Buffalo,NY,Northeast,2021-10-08,Plus,4,Yes
+CUST00001571,Alex Kim 1571,customer1571@example.com,Chicago,IL,Midwest,01/18/2021,,,Y
+CUST00001572,Riley Garcia 1572,customer1572@example.com,Buffalo,NY,Northeast,01/13/2021,Plus,,Y
+CUST00001573,Casey Lee 1573,customer1573@example.com,Peoria,IL,Midwest,2025-08-01,Basic,4,True
+CUST00001574,Alex Smith 1574,customer1574@example.com,Miami,FL,South,2024-08-04,gold ,2,Y
+CUST00001575,Morgan Lee 1575,customer1575@example.com,Miami,FL,South,10/19/2024,Gold,2,True
+CUST00001576,Alex Brown 1576,customer1576@example.com,Austin,TX,South,2026-03-01,Gold,,N
+CUST00001577,Jordan Lee 1577,customer1577@example.com,Denver,CO,West,2021-10-01,Gold,bad,True
+CUST00001578,Morgan Garcia 1578,customer1578@example.com,Austin,TX,South,11/05/2023,gold ,6,True
+CUST00001579,Alex Patel 1579,customer1579@example.com,Tacoma,WA,West,2020-07-18,Gold,,Y
+CUST00001580,Jordan Kim 1580,customer1580@example.com,Aurora,CO,West,2025-06-13,,5,Y
+CUST00001581,Riley Brown 1581,customer1581@example.com,Seattle,WA,West,2024-12-16,gold ,1,Y
+CUST00001582,Casey Brown 1582,customer1582@example.com,Seattle,WA,West,2022-10-03,Plus,5,Y
+CUST00001583,Riley Lee 1583,customer1583@example.com,Chicago,IL,Midwest,2026-05-09,Silver,4,Y
+CUST00001584,Jordan Patel 1584,customer1584@example.com,Buffalo,NY,Northeast,03/11/2023,,5,Y
+CUST00001585,Taylor Garcia 1585,customer1585@example.com,Peoria,IL,Midwest,09/08/2022,Gold,2,Y
+CUST00001586,Jordan Patel 1586,customer1586@example.com,Aurora,CO,West,11/14/2020,gold ,6,Yes
+CUST00001587,Alex Garcia 1587,customer1587@example.com,Sacramento,CA,West,2022-08-31,,6,Y
+CUST00001588,Jordan Patel 1588,customer1588@example.com,Buffalo,NY,Northeast,2024-06-29,Silver,,Yes
+CUST00001589,Morgan Lee 1589,customer1589@example.com,Chicago,IL,Midwest,2021-04-29,Basic,4,Y
+CUST00001590,Jordan Lee 1590,customer1590@example.com,Tacoma,WA,West,02/20/2021,Basic,5,Y
+CUST00001591,Taylor Smith 1591,customer1591@example.com,Buffalo,NY,Northeast,2026-01-22,Gold,5,Yes
+CUST00001592,Jordan Patel 1592,customer1592@example.com,Aurora,CO,West,2025-09-05,Plus,5,Yes
+CUST00001593,Riley Brown 1593,customer1593@example.com,Aurora,CO,West,2021-01-20,Plus,5,True
+CUST00001594,Jordan Garcia 1594,customer1594@example.com,Austin,TX,South,07/21/2020,gold ,5,N
+CUST00001595,Riley Lee 1595,customer1595@example.com,Savannah,GA,South,02/04/2020,Silver,,Y
+CUST00001596,Riley Lee 1596,customer1596@example.com,Houston,TX,South,2024-01-04,Basic,4,N
+CUST00001597,Taylor Smith 1597,customer1597@example.com,Chicago,IL,Midwest,06/07/2021,Plus,bad,Y
+CUST00001598,Morgan Lee 1598,customer1598@example.com,Tacoma,WA,West,2024-09-07,gold ,4,Y
+CUST00001599,Taylor Garcia 1599,customer1599@example.com,Austin,TX,South,01/24/2022,Plus,4,Y
+CUST00001600,Alex Smith 1600,customer1600@example.com,Atlanta,GA,South,2024-12-09,gold ,4,Y
+CUST00001601,Alex Kim 1601,customer1601@example.com,Peoria,IL,Midwest,2024-05-05,Plus,1,Y
+CUST00001602,Riley Kim 1602,customer1602@example.com,Tacoma,WA,West,05/28/2025,Plus,bad,Y
+CUST00001603,Morgan Lee 1603,customer1603@example.com,Chicago,IL,Midwest,06/08/2024,Silver,5,N
+CUST00001604,Riley Patel 1604,customer1604@example.com,Houston,TX,South,2020-02-20,Plus,bad,Yes
+CUST00001605,Morgan Lee 1605,customer1605@example.com,Buffalo,NY,Northeast,06/01/2022,,4,Yes
+CUST00001606,Alex Garcia 1606,customer1606@example.com,Savannah,GA,South,04/01/2026,Silver,4,Y
+CUST00001607,Casey Lee 1607,customer1607@example.com,Peoria,IL,Midwest,2026-05-10,Basic,2,Y
+CUST00001608,Taylor Patel 1608,customer1608@example.com,Denver,CO,West,01/06/2023,,bad,Y
+CUST00001609,Casey Brown 1609,customer1609@example.com,Miami,FL,South,09/22/2020,Gold,,N
+CUST00001610,Morgan Kim 1610,customer1610@example.com,Savannah,GA,South,02/06/2024,Gold,4,Y
+CUST00001611,Morgan Brown 1611,customer1611@example.com,Savannah,GA,South,11/26/2025,Silver,1,Y
+CUST00001612,Alex Garcia 1612,customer1612@example.com,Atlanta,GA,South,11/05/2023,gold ,3,True
+CUST00001613,Taylor Patel 1613,customer1613@example.com,Orlando,FL,South,03/23/2020,Basic,3,Yes
+CUST00001614,Riley Brown 1614,customer1614@example.com,Tacoma,WA,West,03/23/2021,,4,Y
+CUST00001615,Casey Kim 1615,customer1615@example.com,Sacramento,CA,West,02/06/2021,Gold,,Y
+CUST00001616,Taylor Garcia 1616,customer1616@example.com,Sacramento,CA,West,04/03/2025,gold ,6,Y
+CUST00001617,Morgan Patel 1617,customer1617@example.com,Seattle,WA,West,03/31/2025,Gold,2,Y
+CUST00001618,Casey Patel 1618,customer1618@example.com,Miami,FL,South,08/11/2022,Basic,1,Y
+CUST00001619,Casey Kim 1619,customer1619@example.com,Albany,NY,Northeast,09/18/2025,,,Y
+CUST00001620,Taylor Garcia 1620,customer1620@example.com,Albany,NY,Northeast,2021-10-04,Silver,1,Y
+CUST00001621,Casey Brown 1621,customer1621@example.com,Dallas,TX,South,11/04/2025,gold ,5,Y
+CUST00001622,Jordan Brown 1622,customer1622@example.com,Austin,TX,South,07/27/2022,Silver,,Y
+CUST00001623,Alex Smith 1623,customer1623@example.com,Denver,CO,West,09/01/2023,,,True
+CUST00001624,Riley Brown 1624,customer1624@example.com,Seattle,WA,West,01/28/2022,gold ,bad,True
+CUST00001625,Riley Patel 1625,customer1625@example.com,Houston,TX,South,06/19/2024,Gold,5,N
+CUST00001626,Taylor Garcia 1626,customer1626@example.com,Sacramento,CA,West,07/31/2022,,,Y
+CUST00001627,Morgan Garcia 1627,customer1627@example.com,Dallas,TX,South,2026-05-21,Basic,,Yes
+CUST00001628,Casey Smith 1628,customer1628@example.com,Seattle,WA,West,12/18/2023,Basic,,N
+CUST00001629,Riley Smith 1629,customer1629@example.com,Tacoma,WA,West,02/06/2020,gold ,3,Y
+CUST00001630,Riley Brown 1630,customer1630@example.com,Sacramento,CA,West,2020-02-24,gold ,3,N
+CUST00001631,Jordan Garcia 1631,customer1631@example.com,Albany,NY,Northeast,2024-02-26,,5,True
+CUST00001632,Alex Garcia 1632,customer1632@example.com,Seattle,WA,West,03/30/2020,gold ,2,Yes
+CUST00001633,Jordan Garcia 1633,customer1633@example.com,Orlando,FL,South,2020-06-15,Basic,2,True
+CUST00001634,Alex Patel 1634,customer1634@example.com,Peoria,IL,Midwest,02/18/2021,Gold,2,Y
+CUST00001635,Jordan Lee 1635,customer1635@example.com,Los Angeles,CA,West,09/10/2020,,6,Y
+CUST00001636,Alex Garcia 1636,customer1636@example.com,Miami,FL,South,04/24/2026,,3,Y
+CUST00001637,Taylor Kim 1637,customer1637@example.com,Miami,FL,South,2020-08-09,gold ,2,Yes
+CUST00001638,Casey Lee 1638,customer1638@example.com,Tacoma,WA,West,2021-04-04,Plus,2,Y
+CUST00001639,Casey Smith 1639,customer1639@example.com,Denver,CO,West,05/21/2025,,6,True
+CUST00001640,Riley Lee 1640,customer1640@example.com,Tacoma,WA,West,2022-08-07,Gold,6,Y
+CUST00001641,Jordan Garcia 1641,customer1641@example.com,Seattle,WA,West,11/29/2022,Silver,5,Y
+CUST00001642,Alex Brown 1642,customer1642@example.com,Peoria,IL,Midwest,2023-05-14,Plus,,Yes
+CUST00001643,Riley Smith 1643,customer1643@example.com,Chicago,IL,Midwest,2025-06-23,Basic,2,N
+CUST00001644,Casey Smith 1644,customer1644@example.com,Atlanta,GA,South,2025-03-19,Plus,,Yes
+CUST00001645,Morgan Patel 1645,customer1645@example.com,Seattle,WA,West,04/28/2024,Basic,3,Y
+CUST00001646,Riley Kim 1646,customer1646@example.com,Peoria,IL,Midwest,2023-02-14,Silver,2,N
+CUST00001647,Riley Brown 1647,customer1647@example.com,Orlando,FL,South,05/13/2023,,1,Y
+CUST00001648,Casey Garcia 1648,customer1648@example.com,Los Angeles,CA,West,2020-06-29,Basic,1,True
+CUST00001649,Morgan Lee 1649,customer1649@example.com,Chicago,IL,Midwest,2021-11-04,Plus,1,Y
+CUST00001650,Riley Lee 1650,customer1650@example.com,Buffalo,NY,Northeast,2020-06-19,,2,Y
+CUST00001651,Alex Smith 1651,customer1651@example.com,Buffalo,NY,Northeast,2022-09-16,Gold,3,Y
+CUST00001652,Casey Kim 1652,customer1652@example.com,Peoria,IL,Midwest,02/11/2021,Silver,2,Yes
+CUST00001653,Alex Kim 1653,customer1653@example.com,Chicago,IL,Midwest,2025-09-07,Plus,5,Y
+CUST00001654,Alex Patel 1654,customer1654@example.com,Albany,NY,Northeast,2020-06-19,Silver,,Y
+CUST00001655,Taylor Garcia 1655,customer1655@example.com,Dallas,TX,South,07/24/2025,Silver,1,Y
+CUST00001656,Riley Patel 1656,customer1656@example.com,Atlanta,GA,South,04/02/2025,gold ,6,Y
+CUST00001657,Casey Brown 1657,customer1657@example.com,Austin,TX,South,03/07/2025,gold ,,N
+CUST00001658,Taylor Brown 1658,customer1658@example.com,Peoria,IL,Midwest,06/30/2022,,,Y
+CUST00001659,Jordan Brown 1659,customer1659@example.com,Aurora,CO,West,09/22/2020,Gold,6,Y
+CUST00001660,Jordan Brown 1660,customer1660@example.com,Aurora,CO,West,2021-07-02,Basic,4,Y
+CUST00001661,Jordan Garcia 1661,customer1661@example.com,Seattle,WA,West,01/13/2024,Plus,1,Y
+CUST00001662,Alex Smith 1662,customer1662@example.com,Houston,TX,South,2021-02-04,gold ,,Yes
+CUST00001663,Casey Brown 1663,customer1663@example.com,Atlanta,GA,South,05/03/2024,,bad,Y
+CUST00001664,Riley Lee 1664,customer1664@example.com,Aurora,CO,West,10/07/2022,,,N
+CUST00001665,Morgan Brown 1665,customer1665@example.com,Albany,NY,Northeast,05/27/2023,gold ,bad,Yes
+CUST00001666,Casey Smith 1666,customer1666@example.com,Atlanta,GA,South,06/27/2025,Gold,bad,N
+CUST00001667,Alex Brown 1667,customer1667@example.com,Dallas,TX,South,12/30/2022,Silver,bad,True
+CUST00001668,Taylor Kim 1668,customer1668@example.com,Tacoma,WA,West,10/10/2024,,bad,Y
+CUST00001669,Taylor Patel 1669,customer1669@example.com,Buffalo,NY,Northeast,01/23/2020,Plus,bad,N
+CUST00001670,Jordan Kim 1670,customer1670@example.com,Buffalo,NY,Northeast,2023-09-16,Plus,3,Y
+CUST00001671,Jordan Kim 1671,customer1671@example.com,Atlanta,GA,South,03/16/2020,Plus,6,N
+CUST00001672,Jordan Smith 1672,customer1672@example.com,Buffalo,NY,Northeast,02/14/2024,Basic,3,Y
+CUST00001673,Jordan Garcia 1673,customer1673@example.com,Seattle,WA,West,2025-03-17,gold ,,Y
+CUST00001674,Taylor Kim 1674,customer1674@example.com,Tacoma,WA,West,12/17/2021,,,Y
+CUST00001675,Morgan Lee 1675,customer1675@example.com,Savannah,GA,South,2024-10-19,Silver,5,True
+CUST00001676,Casey Brown 1676,customer1676@example.com,Seattle,WA,West,2022-04-10,Basic,5,N
+CUST00001677,Jordan Patel 1677,customer1677@example.com,Peoria,IL,Midwest,2023-04-21,Plus,4,N
+CUST00001678,Taylor Kim 1678,customer1678@example.com,Dallas,TX,South,2024-08-14,Gold,6,Y
+CUST00001679,Taylor Smith 1679,customer1679@example.com,Peoria,IL,Midwest,02/28/2026,Silver,bad,Y
+CUST00001680,Jordan Lee 1680,customer1680@example.com,Savannah,GA,South,04/04/2020,Gold,3,Yes
+CUST00001681,Jordan Lee 1681,customer1681@example.com,Buffalo,NY,Northeast,2023-05-03,gold ,1,Yes
+CUST00001682,Morgan Smith 1682,customer1682@example.com,Atlanta,GA,South,02/14/2023,,6,Y
+CUST00001683,Riley Lee 1683,customer1683@example.com,Buffalo,NY,Northeast,2020-10-29,Gold,3,Y
+CUST00001684,Casey Smith 1684,customer1684@example.com,Tacoma,WA,West,2026-01-26,,6,N
+CUST00001685,Riley Garcia 1685,customer1685@example.com,Houston,TX,South,2023-05-15,,1,True
+CUST00001686,Riley Lee 1686,customer1686@example.com,Atlanta,GA,South,11/02/2020,Gold,6,True
+CUST00001687,Morgan Patel 1687,customer1687@example.com,Chicago,IL,Midwest,04/30/2024,Plus,5,N
+CUST00001688,Alex Smith 1688,customer1688@example.com,Houston,TX,South,06/23/2025,,2,Y
+CUST00001689,Alex Smith 1689,customer1689@example.com,Aurora,CO,West,2023-06-23,Gold,1,Yes
+CUST00001690,Casey Patel 1690,customer1690@example.com,Chicago,IL,Midwest,04/10/2023,Plus,2,Yes
+CUST00001691,Jordan Brown 1691,customer1691@example.com,Atlanta,GA,South,09/26/2020,Plus,5,True
+CUST00001692,Jordan Garcia 1692,customer1692@example.com,Savannah,GA,South,07/10/2023,Silver,2,Yes
+CUST00001693,Morgan Kim 1693,customer1693@example.com,Denver,CO,West,2021-06-09,Basic,5,Y
+CUST00001694,Casey Smith 1694,customer1694@example.com,Atlanta,GA,South,2021-02-16,Gold,2,Y
+CUST00001695,Jordan Kim 1695,customer1695@example.com,Denver,CO,West,2024-08-24,gold ,bad,Y
+CUST00001696,Alex Garcia 1696,customer1696@example.com,Peoria,IL,Midwest,12/16/2020,gold ,,True
+CUST00001697,Casey Brown 1697,customer1697@example.com,Chicago,IL,Midwest,06/29/2024,gold ,3,Y
+CUST00001698,Morgan Brown 1698,customer1698@example.com,Atlanta,GA,South,08/11/2022,gold ,bad,Y
+CUST00001699,Taylor Garcia 1699,customer1699@example.com,Houston,TX,South,02/14/2020,gold ,1,Y
+CUST00001700,Morgan Brown 1700,customer1700@example.com,Seattle,WA,West,01/21/2023,gold ,,True
+CUST00001701,Alex Kim 1701,customer1701@example.com,Albany,NY,Northeast,2025-07-25,,,True
+CUST00001702,Morgan Patel 1702,customer1702@example.com,Albany,NY,Northeast,2023-12-29,Silver,1,Y
+CUST00001703,Morgan Lee 1703,customer1703@example.com,Denver,CO,West,05/06/2023,,1,Y
+CUST00001704,Casey Lee 1704,customer1704@example.com,Los Angeles,CA,West,2024-07-30,Plus,1,True
+CUST00001705,Taylor Lee 1705,customer1705@example.com,Austin,TX,South,2024-06-30,Silver,bad,Y
+CUST00001706,Taylor Patel 1706,customer1706@example.com,Peoria,IL,Midwest,12/04/2021,,1,Y
+CUST00001707,Morgan Patel 1707,customer1707@example.com,Sacramento,CA,West,02/26/2020,gold ,5,Y
+CUST00001708,Morgan Lee 1708,customer1708@example.com,Tacoma,WA,West,06/09/2024,gold ,,Yes
+CUST00001709,Morgan Garcia 1709,customer1709@example.com,Sacramento,CA,West,05/15/2025,Plus,5,Y
+CUST00001710,Alex Kim 1710,customer1710@example.com,Aurora,CO,West,2024-01-23,,6,True
+CUST00001711,Riley Smith 1711,customer1711@example.com,Albany,NY,Northeast,08/01/2020,gold ,4,Y
+CUST00001712,Riley Kim 1712,customer1712@example.com,Chicago,IL,Midwest,2024-11-20,,1,Y
+CUST00001713,Taylor Lee 1713,customer1713@example.com,Chicago,IL,Midwest,07/04/2024,Silver,5,Y
+CUST00001714,Casey Smith 1714,customer1714@example.com,Miami,FL,South,2025-11-05,,5,N
+CUST00001715,Taylor Patel 1715,customer1715@example.com,Seattle,WA,West,04/09/2022,Plus,6,Y
+CUST00001716,Alex Brown 1716,customer1716@example.com,Tacoma,WA,West,2022-03-19,,3,Y
+CUST00001717,Riley Brown 1717,customer1717@example.com,Chicago,IL,Midwest,2023-11-23,Plus,1,N
+CUST00001718,Casey Lee 1718,customer1718@example.com,Orlando,FL,South,2020-03-12,Gold,3,Y
+CUST00001719,Casey Brown 1719,customer1719@example.com,Austin,TX,South,2023-02-15,,4,True
+CUST00001720,Morgan Kim 1720,customer1720@example.com,Seattle,WA,West,2026-05-09,Silver,6,True
+CUST00001721,Morgan Garcia 1721,customer1721@example.com,Buffalo,NY,Northeast,2021-05-26,Basic,1,Y
+CUST00001722,Riley Smith 1722,customer1722@example.com,Albany,NY,Northeast,2026-03-06,,1,True
+CUST00001723,Riley Lee 1723,customer1723@example.com,Miami,FL,South,09/08/2021,Gold,2,N
+CUST00001724,Casey Kim 1724,customer1724@example.com,Atlanta,GA,South,07/15/2023,,4,True
+CUST00001725,Riley Kim 1725,customer1725@example.com,Albany,NY,Northeast,2026-03-04,Plus,5,True
+CUST00001726,Casey Kim 1726,customer1726@example.com,Houston,TX,South,2023-04-04,Silver,2,Y
+CUST00001727,Riley Lee 1727,customer1727@example.com,Atlanta,GA,South,2025-05-12,Plus,2,Y
+CUST00001728,Morgan Brown 1728,customer1728@example.com,Buffalo,NY,Northeast,06/06/2024,Silver,4,Y
+CUST00001729,Casey Patel 1729,customer1729@example.com,Aurora,CO,West,2022-04-26,Plus,1,True
+CUST00001730,Casey Smith 1730,customer1730@example.com,Savannah,GA,South,2020-12-12,Silver,2,Y
+CUST00001731,Casey Kim 1731,customer1731@example.com,Sacramento,CA,West,2024-10-22,,1,N
+CUST00001732,Morgan Lee 1732,customer1732@example.com,Sacramento,CA,West,11/05/2021,gold ,bad,Yes
+CUST00001733,Taylor Kim 1733,customer1733@example.com,Miami,FL,South,12/30/2020,Gold,bad,Y
+CUST00001734,Morgan Brown 1734,customer1734@example.com,Albany,NY,Northeast,03/02/2024,,bad,True
+CUST00001735,Taylor Smith 1735,customer1735@example.com,Seattle,WA,West,11/14/2021,Gold,5,True
+CUST00001736,Casey Lee 1736,customer1736@example.com,Savannah,GA,South,2025-08-23,,1,Y
+CUST00001737,Riley Patel 1737,customer1737@example.com,Aurora,CO,West,05/03/2021,Silver,bad,Yes
+CUST00001738,Morgan Patel 1738,customer1738@example.com,Miami,FL,South,2022-01-09,Plus,3,Y
+CUST00001739,Riley Smith 1739,customer1739@example.com,Austin,TX,South,2025-05-18,Basic,2,Y
+CUST00001740,Casey Patel 1740,customer1740@example.com,Miami,FL,South,2024-09-22,,,Y
+CUST00001741,Riley Lee 1741,customer1741@example.com,Aurora,CO,West,2026-02-05,Silver,1,True
+CUST00001742,Riley Lee 1742,customer1742@example.com,Miami,FL,South,04/05/2026,Gold,4,N
+CUST00001743,Casey Kim 1743,customer1743@example.com,Los Angeles,CA,West,2024-08-29,Silver,bad,True
+CUST00001744,Alex Lee 1744,customer1744@example.com,Sacramento,CA,West,03/17/2023,Basic,,Y
+CUST00001745,Jordan Smith 1745,customer1745@example.com,Dallas,TX,South,08/23/2025,Basic,5,Y
+CUST00001746,Riley Smith 1746,customer1746@example.com,Los Angeles,CA,West,2022-02-06,Gold,3,True
+CUST00001747,Alex Patel 1747,customer1747@example.com,Seattle,WA,West,10/23/2021,,1,Yes
+CUST00001748,Riley Patel 1748,customer1748@example.com,Miami,FL,South,10/16/2023,Basic,1,Y
+CUST00001749,Alex Smith 1749,customer1749@example.com,Seattle,WA,West,02/10/2025,Silver,bad,Y
+CUST00001750,Riley Patel 1750,customer1750@example.com,Los Angeles,CA,West,02/21/2025,Gold,2,Y
+CUST00001751,Alex Patel 1751,customer1751@example.com,Buffalo,NY,Northeast,02/10/2026,gold ,6,Y
+CUST00001752,Morgan Garcia 1752,customer1752@example.com,Albany,NY,Northeast,2024-02-04,Gold,bad,Y
+CUST00001753,Alex Brown 1753,customer1753@example.com,Savannah,GA,South,10/09/2023,Basic,1,Y
+CUST00001754,Riley Patel 1754,customer1754@example.com,Miami,FL,South,05/31/2021,,4,Y
+CUST00001755,Alex Patel 1755,customer1755@example.com,Tacoma,WA,West,2022-08-30,,3,Y
+CUST00001756,Taylor Brown 1756,customer1756@example.com,Albany,NY,Northeast,2024-07-03,gold ,5,Y
+CUST00001757,Riley Kim 1757,customer1757@example.com,Savannah,GA,South,2021-05-09,,6,Y
+CUST00001758,Taylor Smith 1758,customer1758@example.com,Los Angeles,CA,West,03/04/2021,Plus,bad,Y
+CUST00001759,Riley Brown 1759,customer1759@example.com,Atlanta,GA,South,2024-11-14,Plus,1,Y
+CUST00001760,Riley Smith 1760,customer1760@example.com,Savannah,GA,South,10/24/2025,Plus,4,Y
+CUST00001761,Alex Smith 1761,customer1761@example.com,Peoria,IL,Midwest,03/22/2020,Silver,bad,Y
+CUST00001762,Jordan Brown 1762,customer1762@example.com,Los Angeles,CA,West,2021-02-21,Gold,bad,N
+CUST00001763,Morgan Lee 1763,customer1763@example.com,Orlando,FL,South,12/24/2021,,2,Yes
+CUST00001764,Jordan Patel 1764,customer1764@example.com,Buffalo,NY,Northeast,04/18/2021,,5,True
+CUST00001765,Riley Garcia 1765,customer1765@example.com,Orlando,FL,South,02/02/2024,Basic,6,Y
+CUST00001766,Taylor Smith 1766,customer1766@example.com,Buffalo,NY,Northeast,2023-08-19,,1,N
+CUST00001767,Morgan Smith 1767,customer1767@example.com,Sacramento,CA,West,04/28/2026,Plus,,Y
+CUST00001768,Taylor Brown 1768,customer1768@example.com,Orlando,FL,South,05/04/2021,Plus,3,Y
+CUST00001769,Morgan Lee 1769,customer1769@example.com,Orlando,FL,South,2022-06-06,,2,Y
+CUST00001770,Riley Brown 1770,customer1770@example.com,Denver,CO,West,09/05/2025,Basic,3,Y
+CUST00001771,Alex Kim 1771,customer1771@example.com,Austin,TX,South,05/10/2025,gold ,bad,Y
+CUST00001772,Morgan Smith 1772,customer1772@example.com,Los Angeles,CA,West,02/17/2026,Silver,3,Yes
+CUST00001773,Taylor Smith 1773,customer1773@example.com,Los Angeles,CA,West,05/20/2024,gold ,3,Yes
+CUST00001774,Casey Brown 1774,customer1774@example.com,Seattle,WA,West,2023-12-11,Basic,2,Y
+CUST00001775,Riley Garcia 1775,customer1775@example.com,Tacoma,WA,West,03/13/2021,Silver,6,Y
+CUST00001776,Morgan Patel 1776,customer1776@example.com,Sacramento,CA,West,2023-05-13,Gold,4,N
+CUST00001777,Casey Patel 1777,customer1777@example.com,Houston,TX,South,2024-05-03,Plus,6,Yes
+CUST00001778,Morgan Smith 1778,customer1778@example.com,Tacoma,WA,West,04/19/2024,,2,Y
+CUST00001779,Jordan Brown 1779,customer1779@example.com,Denver,CO,West,2026-05-16,Plus,bad,Y
+CUST00001780,Riley Brown 1780,customer1780@example.com,Orlando,FL,South,06/06/2021,Basic,1,N
+CUST00001781,Riley Patel 1781,customer1781@example.com,Denver,CO,West,2022-02-18,Silver,4,Y
+CUST00001782,Morgan Smith 1782,customer1782@example.com,Los Angeles,CA,West,2021-06-16,Silver,1,True
+CUST00001783,Jordan Lee 1783,customer1783@example.com,Houston,TX,South,04/25/2021,,3,N
+CUST00001784,Riley Patel 1784,customer1784@example.com,Sacramento,CA,West,2026-03-31,,bad,N
+CUST00001785,Alex Patel 1785,customer1785@example.com,Austin,TX,South,05/08/2021,Basic,3,Y
+CUST00001786,Riley Patel 1786,customer1786@example.com,Buffalo,NY,Northeast,2021-12-30,Silver,bad,Y
+CUST00001787,Morgan Smith 1787,customer1787@example.com,Miami,FL,South,05/13/2021,,1,Y
+CUST00001788,Alex Smith 1788,customer1788@example.com,Los Angeles,CA,West,2023-11-16,,,Yes
+CUST00001789,Taylor Kim 1789,customer1789@example.com,Denver,CO,West,2022-10-28,Basic,6,Y
+CUST00001790,Morgan Lee 1790,customer1790@example.com,Denver,CO,West,10/10/2023,Basic,6,Y
+CUST00001791,Taylor Lee 1791,customer1791@example.com,Sacramento,CA,West,2021-07-25,Basic,2,True
+CUST00001792,Jordan Kim 1792,customer1792@example.com,Houston,TX,South,2020-09-11,Gold,1,Y
+CUST00001793,Taylor Patel 1793,customer1793@example.com,Atlanta,GA,South,07/14/2022,Basic,,True
+CUST00001794,Morgan Lee 1794,customer1794@example.com,Tacoma,WA,West,2024-11-14,Silver,3,Yes
+CUST00001795,Morgan Kim 1795,customer1795@example.com,Aurora,CO,West,04/12/2021,,6,Y
+CUST00001796,Riley Patel 1796,customer1796@example.com,Chicago,IL,Midwest,2025-02-02,Gold,bad,N
+CUST00001797,Taylor Kim 1797,customer1797@example.com,Orlando,FL,South,07/26/2024,gold ,1,Y
+CUST00001798,Taylor Patel 1798,customer1798@example.com,Los Angeles,CA,West,2023-05-30,gold ,5,True
+CUST00001799,Morgan Brown 1799,customer1799@example.com,Orlando,FL,South,10/18/2025,Basic,1,Y
+CUST00001800,Jordan Patel 1800,customer1800@example.com,Sacramento,CA,West,07/03/2021,Plus,6,Y
+CUST00000078,Taylor Garcia 78,customer78@example.com,Chicago,IL,Midwest,02/15/2026,Basic,1,Yes
