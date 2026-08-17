@@ -1,0 +1,61 @@
+promotion_id,promotion_name,promotion_type,discount_value,start_date,end_date,channel,active_flag,_loaded_at_utc,_source_file
+PRM00001,Rollback Campaign 1,Rollback,15,2026-03-01,2026-03-15,Online,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00002,Percent Off Campaign 2,Percent Off,20,2026-03-04,2026-03-18,Omnichannel,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00003,Dollar Off Campaign 3,Dollar Off,5,2026-03-09,2026-03-23,Online,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00004,Dollar Off Campaign 4,Dollar Off,20,2026-04-03,2026-04-10,Store,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00005,Clearance Campaign 5,Clearance,10,2026-05-12,2026-05-19,Online,N,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00006,Rollback Campaign 6,Rollback,15,2026-03-27,2026-04-10,Store,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00007,Dollar Off Campaign 7,Dollar Off,15,2026-03-23,2026-03-26,Store,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00008,Percent Off Campaign 8,Percent Off,20,2026-05-15,2026-06-14,Store,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00009,Clearance Campaign 9,Clearance,15,2026-03-21,2026-03-28,Online,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00010,Percent Off Campaign 10,Percent Off,20,2026-03-26,2026-03-29,Store,N,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00011,Percent Off Campaign 11,Percent Off,20,2026-03-11,2026-04-10,Omnichannel,N,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00012,Rollback Campaign 12,Rollback,10,2026-04-27,2026-05-18,Omnichannel,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00013,Dollar Off Campaign 13,Dollar Off,15,2026-03-30,2026-04-13,Store,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00014,Rollback Campaign 14,Rollback,10,2026-04-02,2026-04-09,Online,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00015,Rollback Campaign 15,Rollback,15,2026-03-07,2026-03-21,Omnichannel,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00016,Rollback Campaign 16,Rollback,20,2026-03-25,2026-04-15,Store,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00017,Clearance Campaign 17,Clearance,20,2026-04-27,2026-05-27,Omnichannel,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00018,Percent Off Campaign 18,Percent Off,5,2026-03-03,2026-03-17,Online,N,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00019,BOGO Campaign 19,BOGO,10,2026-04-12,2026-04-19,Online,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00020,Dollar Off Campaign 20,Dollar Off,15,2026-05-13,2026-06-12,Omnichannel,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00021,Dollar Off Campaign 21,Dollar Off,5,2026-03-24,2026-03-27,Omnichannel,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00022,Rollback Campaign 22,Rollback,10,2026-04-09,2026-04-23,Online,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00023,Percent Off Campaign 23,Percent Off,5,2026-04-06,2026-04-13,Omnichannel,N,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00024,Rollback Campaign 24,Rollback,10,2026-03-20,2026-04-03,Omnichannel,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00025,Rollback Campaign 25,Rollback,5,2026-04-15,2026-05-15,Omnichannel,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00026,Percent Off Campaign 26,Percent Off,10,2026-04-19,2026-05-03,Store,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00027,Rollback Campaign 27,Rollback,25,2026-05-12,2026-05-15,Online,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00028,Rollback Campaign 28,Rollback,10,2026-03-20,2026-04-03,Omnichannel,N,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00029,Rollback Campaign 29,Rollback,5,2026-04-04,2026-04-18,Omnichannel,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00030,Percent Off Campaign 30,Percent Off,20,2026-04-29,2026-05-06,Store,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00031,Rollback Campaign 31,Rollback,5,2026-03-17,2026-03-24,Store,N,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00032,Percent Off Campaign 32,Percent Off,5,2026-03-21,2026-04-11,Online,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00033,Dollar Off Campaign 33,Dollar Off,10,2026-04-03,2026-04-24,Online,N,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00034,Percent Off Campaign 34,Percent Off,10,2026-05-01,2026-05-04,Online,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00035,Percent Off Campaign 35,Percent Off,15,2026-04-02,2026-05-02,Online,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00036,Rollback Campaign 36,Rollback,5,2026-05-09,2026-05-30,Online,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00037,Percent Off Campaign 37,Percent Off,5,2026-03-02,2026-03-05,Online,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00038,Clearance Campaign 38,Clearance,5,2026-03-07,2026-04-06,Omnichannel,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00039,Rollback Campaign 39,Rollback,15,2026-04-24,2026-05-01,Store,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00040,Clearance Campaign 40,Clearance,15,2026-04-02,2026-04-23,Omnichannel,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00041,Clearance Campaign 41,Clearance,5,2026-05-08,2026-05-15,Online,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00042,Rollback Campaign 42,Rollback,20,2026-05-01,2026-05-31,Omnichannel,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00043,Dollar Off Campaign 43,Dollar Off,5,2026-03-02,2026-04-01,Omnichannel,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00044,Dollar Off Campaign 44,Dollar Off,20,2026-03-26,2026-03-29,Store,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00045,Percent Off Campaign 45,Percent Off,20,2026-05-15,2026-05-29,Online,N,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00046,Clearance Campaign 46,Clearance,15,2026-04-15,2026-04-22,Online,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00047,Clearance Campaign 47,Clearance,5,2026-04-07,2026-04-14,Omnichannel,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00048,Rollback Campaign 48,Rollback,25,2026-03-22,2026-04-12,Online,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00049,BOGO Campaign 49,BOGO,15,2026-04-27,2026-05-27,Omnichannel,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00050,Clearance Campaign 50,Clearance,10,2026-03-15,2026-04-05,Online,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00051,Rollback Campaign 51,Rollback,10,2026-04-29,2026-05-13,Online,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00052,Rollback Campaign 52,Rollback,15,2026-04-22,2026-05-13,Store,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00053,BOGO Campaign 53,BOGO,25,2026-03-31,2026-04-14,Online,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00054,Dollar Off Campaign 54,Dollar Off,20,2026-04-26,2026-05-10,Store,N,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00055,Clearance Campaign 55,Clearance,10,2026-04-01,2026-04-04,Store,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00056,Rollback Campaign 56,Rollback,25,2026-04-24,2026-05-01,Omnichannel,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00057,Rollback Campaign 57,Rollback,5,2026-04-07,2026-04-14,Store,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00058,Percent Off Campaign 58,Percent Off,10,2026-03-12,2026-04-02,Store,1,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00059,Rollback Campaign 59,Rollback,15,2026-04-08,2026-05-08,Omnichannel,Y,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
+PRM00060,BOGO Campaign 60,BOGO,25,2026-04-04,2026-05-04,Online,Yes,2026-08-08T04:42:27.280786+00:00,data/raw/master/promotions.csv
