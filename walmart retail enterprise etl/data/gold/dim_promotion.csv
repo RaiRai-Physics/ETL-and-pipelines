@@ -1,0 +1,61 @@
+promotion_id,promotion_name,promotion_type,discount_value,start_date,end_date,channel,active_flag
+PRM00001,Rollback Campaign 1,Rollback,15,2026-03-01,2026-03-15,Online,True
+PRM00002,Percent Off Campaign 2,Percent Off,20,2026-03-04,2026-03-18,Omnichannel,True
+PRM00003,Dollar Off Campaign 3,Dollar Off,5,2026-03-09,2026-03-23,Online,True
+PRM00004,Dollar Off Campaign 4,Dollar Off,20,2026-04-03,2026-04-10,Store,True
+PRM00005,Clearance Campaign 5,Clearance,10,2026-05-12,2026-05-19,Online,False
+PRM00006,Rollback Campaign 6,Rollback,15,2026-03-27,2026-04-10,Store,True
+PRM00007,Dollar Off Campaign 7,Dollar Off,15,2026-03-23,2026-03-26,Store,True
+PRM00008,Percent Off Campaign 8,Percent Off,20,2026-05-15,2026-06-14,Store,True
+PRM00009,Clearance Campaign 9,Clearance,15,2026-03-21,2026-03-28,Online,True
+PRM00010,Percent Off Campaign 10,Percent Off,20,2026-03-26,2026-03-29,Store,False
+PRM00011,Percent Off Campaign 11,Percent Off,20,2026-03-11,2026-04-10,Omnichannel,False
+PRM00012,Rollback Campaign 12,Rollback,10,2026-04-27,2026-05-18,Omnichannel,True
+PRM00013,Dollar Off Campaign 13,Dollar Off,15,2026-03-30,2026-04-13,Store,True
+PRM00014,Rollback Campaign 14,Rollback,10,2026-04-02,2026-04-09,Online,True
+PRM00015,Rollback Campaign 15,Rollback,15,2026-03-07,2026-03-21,Omnichannel,True
+PRM00016,Rollback Campaign 16,Rollback,20,2026-03-25,2026-04-15,Store,True
+PRM00017,Clearance Campaign 17,Clearance,20,2026-04-27,2026-05-27,Omnichannel,True
+PRM00018,Percent Off Campaign 18,Percent Off,5,2026-03-03,2026-03-17,Online,False
+PRM00019,Bogo Campaign 19,Bogo,10,2026-04-12,2026-04-19,Online,True
+PRM00020,Dollar Off Campaign 20,Dollar Off,15,2026-05-13,2026-06-12,Omnichannel,True
+PRM00021,Dollar Off Campaign 21,Dollar Off,5,2026-03-24,2026-03-27,Omnichannel,True
+PRM00022,Rollback Campaign 22,Rollback,10,2026-04-09,2026-04-23,Online,True
+PRM00023,Percent Off Campaign 23,Percent Off,5,2026-04-06,2026-04-13,Omnichannel,False
+PRM00024,Rollback Campaign 24,Rollback,10,2026-03-20,2026-04-03,Omnichannel,True
+PRM00025,Rollback Campaign 25,Rollback,5,2026-04-15,2026-05-15,Omnichannel,True
+PRM00026,Percent Off Campaign 26,Percent Off,10,2026-04-19,2026-05-03,Store,True
+PRM00027,Rollback Campaign 27,Rollback,25,2026-05-12,2026-05-15,Online,True
+PRM00028,Rollback Campaign 28,Rollback,10,2026-03-20,2026-04-03,Omnichannel,False
+PRM00029,Rollback Campaign 29,Rollback,5,2026-04-04,2026-04-18,Omnichannel,True
+PRM00030,Percent Off Campaign 30,Percent Off,20,2026-04-29,2026-05-06,Store,True
+PRM00031,Rollback Campaign 31,Rollback,5,2026-03-17,2026-03-24,Store,False
+PRM00032,Percent Off Campaign 32,Percent Off,5,2026-03-21,2026-04-11,Online,True
+PRM00033,Dollar Off Campaign 33,Dollar Off,10,2026-04-03,2026-04-24,Online,False
+PRM00034,Percent Off Campaign 34,Percent Off,10,2026-05-01,2026-05-04,Online,True
+PRM00035,Percent Off Campaign 35,Percent Off,15,2026-04-02,2026-05-02,Online,True
+PRM00036,Rollback Campaign 36,Rollback,5,2026-05-09,2026-05-30,Online,True
+PRM00037,Percent Off Campaign 37,Percent Off,5,2026-03-02,2026-03-05,Online,True
+PRM00038,Clearance Campaign 38,Clearance,5,2026-03-07,2026-04-06,Omnichannel,True
+PRM00039,Rollback Campaign 39,Rollback,15,2026-04-24,2026-05-01,Store,True
+PRM00040,Clearance Campaign 40,Clearance,15,2026-04-02,2026-04-23,Omnichannel,True
+PRM00041,Clearance Campaign 41,Clearance,5,2026-05-08,2026-05-15,Online,True
+PRM00042,Rollback Campaign 42,Rollback,20,2026-05-01,2026-05-31,Omnichannel,True
+PRM00043,Dollar Off Campaign 43,Dollar Off,5,2026-03-02,2026-04-01,Omnichannel,True
+PRM00044,Dollar Off Campaign 44,Dollar Off,20,2026-03-26,2026-03-29,Store,True
+PRM00045,Percent Off Campaign 45,Percent Off,20,2026-05-15,2026-05-29,Online,False
+PRM00046,Clearance Campaign 46,Clearance,15,2026-04-15,2026-04-22,Online,True
+PRM00047,Clearance Campaign 47,Clearance,5,2026-04-07,2026-04-14,Omnichannel,True
+PRM00048,Rollback Campaign 48,Rollback,25,2026-03-22,2026-04-12,Online,True
+PRM00049,Bogo Campaign 49,Bogo,15,2026-04-27,2026-05-27,Omnichannel,True
+PRM00050,Clearance Campaign 50,Clearance,10,2026-03-15,2026-04-05,Online,True
+PRM00051,Rollback Campaign 51,Rollback,10,2026-04-29,2026-05-13,Online,True
+PRM00052,Rollback Campaign 52,Rollback,15,2026-04-22,2026-05-13,Store,True
+PRM00053,Bogo Campaign 53,Bogo,25,2026-03-31,2026-04-14,Online,True
+PRM00054,Dollar Off Campaign 54,Dollar Off,20,2026-04-26,2026-05-10,Store,False
+PRM00055,Clearance Campaign 55,Clearance,10,2026-04-01,2026-04-04,Store,True
+PRM00056,Rollback Campaign 56,Rollback,25,2026-04-24,2026-05-01,Omnichannel,True
+PRM00057,Rollback Campaign 57,Rollback,5,2026-04-07,2026-04-14,Store,True
+PRM00058,Percent Off Campaign 58,Percent Off,10,2026-03-12,2026-04-02,Store,True
+PRM00059,Rollback Campaign 59,Rollback,15,2026-04-08,2026-05-08,Omnichannel,True
+PRM00060,Bogo Campaign 60,Bogo,25,2026-04-04,2026-05-04,Online,True
