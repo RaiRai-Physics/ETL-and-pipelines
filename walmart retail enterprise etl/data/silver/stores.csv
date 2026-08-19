@@ -1,0 +1,26 @@
+store_id,store_name,store_format,city,state,region,open_date,square_feet,active_flag
+STR0001,Peoria Neighborhood Market 1,Neighborhood Market,Peoria,IL,Midwest,2005-08-11,180000,False
+STR0002,Miami Supercenter 2,Supercenter,Miami,FL,South,2023-01-20,120000,True
+STR0003,Peoria Neighborhood Market 3,Neighborhood Market,Peoria,IL,Midwest,,65000,False
+STR0004,Dallas Supercenter 4,Supercenter,Dallas,TX,South,,45000,True
+STR0005,Sacramento Neighborhood Market 5,Neighborhood Market,Sacramento,CA,West,,90000,True
+STR0006,Dallas Supercenter 6,Supercenter,Dallas,TX,South,2013-02-27,180000,True
+STR0007,Sacramento Discount Store 7,Discount Store,Sacramento,CA,West,,65000,True
+STR0008,Miami Neighborhood Market 8,Neighborhood Market,Miami,FL,South,2009-11-26,45000,True
+STR0009,Denver Discount Store 9,Discount Store,Denver,CO,West,,180000,True
+STR0010,Orlando Supercenter 10,Supercenter,Orlando,FL,South,,90000,False
+STR0011,Atlanta Supercenter 11,Supercenter,Atlanta,GA,South,2007-07-15,90000,True
+STR0012,Savannah Supercenter 12,Supercenter,Savannah,GA,South,2016-11-05,150000,True
+STR0013,Tacoma Supercenter 13,Supercenter,Tacoma,WA,West,,120000,True
+STR0014,Chicago Discount Store 14,Discount Store,Chicago,IL,Midwest,,45000,True
+STR0015,Savannah Supercenter 15,Supercenter,Savannah,GA,South,,90000,True
+STR0016,Sacramento Supercenter 16,Supercenter,Sacramento,CA,West,,120000,True
+STR0017,Austin Supercenter 17,Supercenter,Austin,TX,South,2012-07-14,120000,True
+STR0018,Tacoma Neighborhood Market 18,Neighborhood Market,Tacoma,WA,West,2013-03-05,65000,True
+STR0019,Houston Supercenter 19,Supercenter,Houston,TX,South,,65000,False
+STR0020,Sacramento Supercenter 20,Supercenter,Sacramento,CA,West,,120000,True
+STR0021,Austin Supercenter 21,Supercenter,Austin,TX,South,2015-03-14,120000,True
+STR0022,Dallas Neighborhood Market 22,Neighborhood Market,Dallas,TX,South,,150000,True
+STR0023,Miami Supercenter 23,Supercenter,Miami,FL,South,2020-04-08,90000,False
+STR0024,Buffalo Supercenter 24,Supercenter,Buffalo,NY,Northeast,,180000,True
+STR0025,Seattle Supercenter 25,Supercenter,Seattle,WA,West,2025-03-31,65000,True
