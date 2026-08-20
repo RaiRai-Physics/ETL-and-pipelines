@@ -1,0 +1,4 @@
+online_order_id,customer_id,order_ts,fulfillment_type,fulfillment_store_id,order_status,device_type,order_date,quarantine_reason
+WEB00000805,CUST00000937,2026-05-23 18:48:56,Pickup,STR_BAD,Cancelled,Android,2026-05-23,Missing fulfillment store
+WEB00001388,CUST00001715,2026-05-18 04:24:40,Pickup,STR_BAD,Cancelled,Web,2026-05-18,Missing fulfillment store
+WEB00002045,CUST00000476,2026-04-01 19:48:12,Delivery,STR_BAD,Processing,Web,2026-04-01,Missing fulfillment store

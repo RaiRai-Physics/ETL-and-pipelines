@@ -1,0 +1,4 @@
+associate_id,store_id,role,hire_date,employment_status,quarantine_reason
+ASC000051,STR_BAD,Cashier,2020-05-06,Active,Missing store
+ASC000068,STR_BAD,Department Lead,2024-08-01,Active,Missing store
+ASC000129,STR_BAD,Department Lead,2024-07-30,Active,Missing store

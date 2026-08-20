@@ -1,0 +1,5 @@
+return_id,original_transaction_id,transaction_line_id,store_id,product_id,return_date,return_qty,refund_amount,return_reason,return_status,quarantine_reason
+RET00000308,TXN_UNKNOWN,TL0000015233,STR0021,SKU0000310,2026-05-28,,54.07,Price Adjustment,Rejected,Missing original transaction
+RET00000421,TXN_UNKNOWN,TL0000017004,STR0007,SKU0000227,2026-05-02,3.0,100.26,Price Adjustment,Pending,Missing original transaction
+RET00000566,TXN_UNKNOWN,TL0000012011,STR0021,SKU0000321,2026-05-04,3.0,0.0,Changed Mind,Rejected,Missing original transaction
+RET00000572,TXN_UNKNOWN,TL0000014617,STR0013,SKU0000526,2026-06-07,3.0,14.23,Damaged,Pending,Missing original transaction

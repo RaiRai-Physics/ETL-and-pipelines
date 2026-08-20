@@ -1,0 +1,8 @@
+return_id,original_transaction_id,transaction_line_id,store_id,product_id,return_date,return_qty,refund_amount,return_reason,return_status,quarantine_reason
+RET00000019,TXN000007528,TL_UNKNOWN,STR0011,SKU0000085,2026-04-27,1.0,0.0,Changed Mind,Rejected,Missing original line
+RET00000181,TXN000000627,TL_UNKNOWN,STR0025,SKU0000478,2026-04-19,3.0,0.0,Damaged,Rejected,Missing original line
+RET00000194,TXN000001969,TL_UNKNOWN,STR0002,SKU0000100,2026-05-14,3.0,5.3,Changed Mind,Rejected,Missing original line
+RET00000301,TXN000004857,TL_UNKNOWN,STR0007,SKU0000051,2026-05-10,3.0,0.0,Defective,Rejected,Missing original line
+RET00000331,TXN000001573,TL_UNKNOWN,STR0012,SKU0000495,2026-05-02,2.0,0.0,Price Adjustment,Completed,Missing original line
+RET00000338,TXN000005670,TL_UNKNOWN,STR0017,SKU0000322,2026-05-12,2.0,196.33,Defective,Completed,Missing original line
+RET00000452,TXN000004767,TL_UNKNOWN,STR0010,SKU0000465,2026-06-08,1.0,0.0,Damaged,Rejected,Missing original line

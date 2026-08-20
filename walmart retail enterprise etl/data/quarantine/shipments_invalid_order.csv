@@ -1,0 +1,5 @@
+shipment_id,online_order_id,carrier,ship_ts,delivery_ts,shipping_cost,shipment_status,delivery_days,late_delivery_flag,quarantine_reason
+SHP00000347,WEB_BAD,Fedex,2026-05-17 00:09:47,2026-05-18 00:09:47,0.0,Lost,1.0,False,Missing online order
+SHP00000462,WEB_BAD,Ups,2026-05-03 15:03:53,2026-05-04 15:03:53,0.0,In Transit,1.0,False,Missing online order
+SHP00001745,WEB_BAD,Ups,2026-04-28 00:46:07,2026-05-03 00:46:07,0.0,In Transit,5.0,False,Missing online order
+SHP00002181,WEB_BAD,Ups,2026-04-13 04:33:50,2026-04-17 04:33:50,20.34,Delivered,4.0,False,Missing online order

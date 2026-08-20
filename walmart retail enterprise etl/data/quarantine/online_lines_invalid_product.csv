@@ -1,0 +1,18 @@
+online_order_line_id,online_order_id,line_number,product_id,quantity,unit_price,discount_amount,line_status,valid_values,quarantine_reason
+OL0000000522,WEB00000182,1,SKU_BAD,3.0,496.82,2.0,Shipped,True,Missing product
+OL0000000547,WEB00000190,2,SKU_BAD,3.0,674.52,0.0,Picked,True,Missing product
+OL0000000886,WEB00000302,1,SKU_BAD,,61.66,0.0,Open,False,Missing product
+OL0000001216,WEB00000409,3,SKU_BAD,-1.0,78.05,0.0,Open,False,Missing product
+OL0000001326,WEB00000450,1,SKU_BAD,1.0,88.01,5.0,Allocated,True,Missing product
+OL0000001612,WEB00000537,1,SKU_BAD,1.0,1163.09,0.0,Open,True,Missing product
+OL0000002635,WEB00000869,3,SKU_BAD,1.0,247.63,5.0,Shipped,True,Missing product
+OL0000002695,WEB00000890,1,SKU_BAD,2.0,269.66,0.0,Cancelled,True,Missing product
+OL0000003744,WEB00001245,1,SKU_BAD,-1.0,105.07,2.0,Picked,False,Missing product
+OL0000004012,WEB00001336,2,SKU_BAD,,70.95,0.0,Picked,False,Missing product
+OL0000004244,WEB00001413,1,SKU_BAD,2.0,910.2,0.0,Picked,True,Missing product
+OL0000004470,WEB00001485,4,SKU_BAD,3.0,684.34,2.0,Cancelled,True,Missing product
+OL0000004553,WEB00001513,1,SKU_BAD,2.0,79.39,1.0,Picked,True,Missing product
+OL0000004710,WEB00001562,3,SKU_BAD,-1.0,94.95,0.0,Allocated,False,Missing product
+OL0000004941,WEB00001637,1,SKU_BAD,2.0,613.86,1.0,Cancelled,True,Missing product
+OL0000005945,WEB00001966,1,SKU_BAD,4.0,208.4,0.0,Shipped,True,Missing product
+OL0000005998,WEB00001984,1,SKU_BAD,1.0,128.78,0.0,Picked,True,Missing product

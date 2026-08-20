@@ -1,0 +1,8 @@
+online_order_id,customer_id,order_ts,fulfillment_type,fulfillment_store_id,order_status,device_type,order_date,quarantine_reason
+WEB00000271,CUST_UNKNOWN,2026-04-30 05:53:52,Delivery,STR0016,Delivered,Android,2026-04-30,Missing customer
+WEB00000304,CUST_UNKNOWN,2026-05-05 07:29:46,Delivery,STR0011,Placed,Android,2026-05-05,Missing customer
+WEB00000357,CUST_UNKNOWN,2026-05-10 07:30:34,Ship To Home,STR0016,Shipped,Ios,2026-05-10,Missing customer
+WEB00000481,CUST_UNKNOWN,2026-05-07 01:05:44,Ship To Home,STR0016,Delivered,Android,2026-05-07,Missing customer
+WEB00000884,CUST_UNKNOWN,2026-04-14 10:44:27,Ship To Home,STR0020,Delivered,Android,2026-04-14,Missing customer
+WEB00001775,CUST_UNKNOWN,2026-04-10 07:13:10,Ship To Home,STR0004,Delivered,Ios,2026-04-10,Missing customer
+WEB00001890,CUST_UNKNOWN,2026-05-07 05:56:40,Ship To Home,STR0015,Delivered,Android,2026-05-07,Missing customer

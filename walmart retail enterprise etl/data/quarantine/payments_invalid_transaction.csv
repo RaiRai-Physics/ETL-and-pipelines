@@ -1,0 +1,22 @@
+payment_id,transaction_id,payment_method,payment_status,payment_amount,quarantine_reason
+PAY000000044,TXN_BAD,Credit Card,Approved,253.86,Missing transaction
+PAY000000505,TXN_BAD,Credit Card,Approved,183.58,Missing transaction
+PAY000000558,TXN_BAD,Mobile Pay,Approved,481.91,Missing transaction
+PAY000000839,TXN_BAD,Cash,Approved,373.7,Missing transaction
+PAY000001101,TXN_BAD,Credit Card,Approved,395.6,Missing transaction
+PAY000002475,TXN_BAD,Mobile Pay,Approved,88.28,Missing transaction
+PAY000002744,TXN_BAD,Mobile Pay,Approved,131.6,Missing transaction
+PAY000002863,TXN_BAD,Credit Card,Approved,390.75,Missing transaction
+PAY000003122,TXN_BAD,Credit Card,Approved,128.51,Missing transaction
+PAY000003131,TXN_BAD,Cash,Approved,216.85,Missing transaction
+PAY000003905,TXN_BAD,Credit Card,Approved,140.76,Missing transaction
+PAY000004838,TXN_BAD,Cash,Reversed,38.35,Missing transaction
+PAY000005325,TXN_BAD,Debit Card,Approved,236.63,Missing transaction
+PAY000005481,TXN_BAD,Gift Card,Approved,313.56,Missing transaction
+PAY000005973,TXN_BAD,Gift Card,Approved,276.46,Missing transaction
+PAY000006044,TXN_BAD,Credit Card,Approved,225.06,Missing transaction
+PAY000006495,TXN_BAD,Debit Card,Approved,360.01,Missing transaction
+PAY000008415,TXN_BAD,Debit Card,Approved,302.36,Missing transaction
+PAY000008496,TXN_BAD,Mobile Pay,Approved,67.47,Missing transaction
+PAY000008499,TXN_BAD,Cash,Reversed,52.54,Missing transaction
+PAY000009243,TXN_BAD,Credit Card,Declined,375.16,Missing transaction
