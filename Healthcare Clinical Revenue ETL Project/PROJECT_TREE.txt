@@ -1,0 +1,215 @@
+healthcare_clinical_revenue_etl_project_v2/
+├── .pytest_cache/
+│   ├── .gitignore
+│   ├── CACHEDIR.TAG
+│   ├── README.md
+│   ├── v/
+│   │   ├── cache/
+│   │   │   ├── nodeids
+├── Dockerfile
+├── Makefile
+├── PROJECT_SUMMARY.json
+├── RAW_DATA_SUMMARY.json
+├── README.md
+├── config/
+│   ├── pipeline_config.json
+├── contracts/
+│   ├── data_contracts.json
+├── dags/
+│   ├── healthcare_etl_dag.py
+├── data/
+│   ├── bronze/
+│   │   ├── python/
+│   │   │   ├── appointments.csv
+│   │   │   ├── bed_occupancy.csv
+│   │   │   ├── calendar.csv
+│   │   │   ├── claim_lines.csv
+│   │   │   ├── claim_payments.csv
+│   │   │   ├── claims.csv
+│   │   │   ├── departments.csv
+│   │   │   ├── diagnosis_codes.csv
+│   │   │   ├── encounter_diagnoses.csv
+│   │   │   ├── encounter_procedures.csv
+│   │   │   ├── encounters.csv
+│   │   │   ├── facilities.csv
+│   │   │   ├── lab_orders.csv
+│   │   │   ├── lab_results.csv
+│   │   │   ├── lab_test_reference.csv
+│   │   │   ├── med_admin.csv
+│   │   │   ├── med_orders.csv
+│   │   │   ├── medications.csv
+│   │   │   ├── patient_cdc.csv
+│   │   │   ├── patient_satisfaction.csv
+│   │   │   ├── patients.csv
+│   │   │   ├── payers.csv
+│   │   │   ├── procedure_codes.csv
+│   │   │   ├── provider_cdc.csv
+│   │   │   ├── providers.csv
+│   ├── gold/
+│   │   ├── python/
+│   │   │   ├── dim_department.csv
+│   │   │   ├── dim_diagnosis.csv
+│   │   │   ├── dim_facility.csv
+│   │   │   ├── dim_lab_test.csv
+│   │   │   ├── dim_medication.csv
+│   │   │   ├── dim_patient_current.csv
+│   │   │   ├── dim_patient_scd2.csv
+│   │   │   ├── dim_payer.csv
+│   │   │   ├── dim_procedure.csv
+│   │   │   ├── dim_provider_current.csv
+│   │   │   ├── dim_provider_scd2.csv
+│   │   │   ├── exception_claim_payment_mismatch.csv
+│   │   │   ├── exception_denied_claims.csv
+│   │   │   ├── exception_high_bed_occupancy.csv
+│   │   │   ├── exception_high_los.csv
+│   │   │   ├── exception_lab_turnaround.csv
+│   │   │   ├── exception_readmissions_30d.csv
+│   │   │   ├── fact_appointments.csv
+│   │   │   ├── fact_bed_occupancy.csv
+│   │   │   ├── fact_claim_lines.csv
+│   │   │   ├── fact_claims.csv
+│   │   │   ├── fact_encounter_diagnoses.csv
+│   │   │   ├── fact_encounter_procedures.csv
+│   │   │   ├── fact_encounters.csv
+│   │   │   ├── fact_lab_results.csv
+│   │   │   ├── fact_medication_administration.csv
+│   │   │   ├── fact_patient_satisfaction.csv
+│   │   │   ├── mart_appointment_access.csv
+│   │   │   ├── mart_bed_utilization.csv
+│   │   │   ├── mart_department_quality.csv
+│   │   │   ├── mart_disease_burden.csv
+│   │   │   ├── mart_lab_turnaround.csv
+│   │   │   ├── mart_medication_administration.csv
+│   │   │   ├── mart_patient_360.csv
+│   │   │   ├── mart_patient_experience.csv
+│   │   │   ├── mart_payer_performance.csv
+│   │   │   ├── mart_provider_performance.csv
+│   │   │   ├── mart_readmissions_30d.csv
+│   │   │   ├── mart_revenue_cycle_summary.csv
+│   ├── quarantine/
+│   │   ├── python/
+│   │   │   ├── appointments_invalid_patient.csv
+│   │   │   ├── appointments_invalid_provider.csv
+│   │   │   ├── claim_lines_invalid_claim.csv
+│   │   │   ├── claim_lines_invalid_procedure.csv
+│   │   │   ├── claim_payments_invalid_claim.csv
+│   │   │   ├── claims_bad_charge.csv
+│   │   │   ├── claims_invalid_encounter.csv
+│   │   │   ├── claims_invalid_payer.csv
+│   │   │   ├── diagnoses_invalid_code.csv
+│   │   │   ├── diagnoses_invalid_encounter.csv
+│   │   │   ├── encounters_bad_timestamps.csv
+│   │   │   ├── encounters_invalid_patient.csv
+│   │   │   ├── encounters_invalid_provider.csv
+│   │   │   ├── lab_orders_invalid_encounter.csv
+│   │   │   ├── lab_orders_invalid_test.csv
+│   │   │   ├── lab_results_bad_value.csv
+│   │   │   ├── lab_results_invalid_order.csv
+│   │   │   ├── med_admin_invalid_order.csv
+│   │   │   ├── med_orders_invalid_medication.csv
+│   │   │   ├── patients_invalid_payer.csv
+│   │   │   ├── procedures_invalid_code.csv
+│   │   │   ├── procedures_invalid_encounter.csv
+│   │   │   ├── providers_invalid_department.csv
+│   │   │   ├── providers_invalid_facility.csv
+│   │   │   ├── satisfaction_invalid_encounter.csv
+│   ├── raw/
+│   │   ├── cdc/
+│   │   │   ├── patient_cdc.csv
+│   │   │   ├── provider_cdc.csv
+│   │   ├── clinical/
+│   │   │   ├── appointments.csv
+│   │   │   ├── encounter_diagnoses.csv
+│   │   │   ├── encounter_procedures.csv
+│   │   │   ├── encounters.csv
+│   │   │   ├── lab_orders.csv
+│   │   │   ├── lab_results.csv
+│   │   │   ├── med_admin.csv
+│   │   │   ├── med_orders.csv
+│   │   ├── master/
+│   │   │   ├── departments.csv
+│   │   │   ├── diagnosis_codes.csv
+│   │   │   ├── facilities.csv
+│   │   │   ├── lab_test_reference.csv
+│   │   │   ├── medications.csv
+│   │   │   ├── patients.csv
+│   │   │   ├── payers.csv
+│   │   │   ├── procedure_codes.csv
+│   │   │   ├── providers.csv
+│   │   ├── operations/
+│   │   │   ├── bed_occupancy.csv
+│   │   │   ├── patient_satisfaction.csv
+│   │   ├── reference/
+│   │   │   ├── calendar.csv
+│   │   ├── revenue/
+│   │   │   ├── claim_lines.csv
+│   │   │   ├── claim_payments.csv
+│   │   │   ├── claims.csv
+│   ├── silver/
+│   │   ├── python/
+│   │   │   ├── appointments.csv
+│   │   │   ├── bed_occupancy.csv
+│   │   │   ├── calendar.csv
+│   │   │   ├── claim_lines.csv
+│   │   │   ├── claim_payments.csv
+│   │   │   ├── claims.csv
+│   │   │   ├── departments.csv
+│   │   │   ├── diagnosis_codes.csv
+│   │   │   ├── encounter_diagnoses.csv
+│   │   │   ├── encounter_procedures.csv
+│   │   │   ├── encounters.csv
+│   │   │   ├── facilities.csv
+│   │   │   ├── lab_orders.csv
+│   │   │   ├── lab_results.csv
+│   │   │   ├── lab_test_reference.csv
+│   │   │   ├── med_admin.csv
+│   │   │   ├── med_orders.csv
+│   │   │   ├── medications.csv
+│   │   │   ├── patient_cdc.csv
+│   │   │   ├── patient_satisfaction.csv
+│   │   │   ├── patients.csv
+│   │   │   ├── payers.csv
+│   │   │   ├── procedure_codes.csv
+│   │   │   ├── provider_cdc.csv
+│   │   │   ├── providers.csv
+├── docs/
+│   ├── architecture.md
+│   ├── data_quality_rules.md
+│   ├── runbook.md
+├── metadata/
+│   ├── run_watermarks.json
+├── reports/
+│   ├── python/
+│   │   ├── data_quality_report.csv
+│   │   ├── pipeline_audit_log.csv
+│   │   ├── raw_column_profile.csv
+│   │   ├── raw_table_profile.csv
+├── requirements.txt
+├── run_pyspark_pipeline.sh
+├── run_python_pipeline.sh
+├── sql/
+│   ├── analytics_queries.sql
+│   ├── warehouse_schema.sql
+├── src/
+│   ├── __init__.py
+│   ├── __pycache__/
+│   │   ├── __init__.cpython-313.pyc
+│   ├── common/
+│   │   ├── __init__.py
+│   │   ├── __pycache__/
+│   │   │   ├── __init__.cpython-313.pyc
+│   │   │   ├── utils.cpython-313.pyc
+│   │   ├── utils.py
+│   ├── pyspark_etl/
+│   │   ├── 01_run_healthcare_pyspark_etl.py
+│   │   ├── __pycache__/
+│   │   │   ├── 01_run_healthcare_pyspark_etl.cpython-313.pyc
+│   ├── python_etl/
+│   │   ├── 00_profile_sources.py
+│   │   ├── 01_run_healthcare_etl.py
+│   │   ├── __pycache__/
+│   │   │   ├── 01_run_healthcare_etl.cpython-313.pyc
+├── tests/
+│   ├── __pycache__/
+│   │   ├── test_utils.cpython-313-pytest-9.0.2.pyc
+│   ├── test_utils.py
