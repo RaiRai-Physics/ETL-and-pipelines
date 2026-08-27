@@ -1,8 +1,8 @@
 # Healthcare Clinical + Revenue Cycle ETL Project
 
-A fully synthetic, portfolio-ready healthcare data engineering project. It simulates a hospital analytics platform combining EHR, appointments, diagnoses, procedures, laboratory, medication administration, claims, payments, bed utilization, patient experience, and CDC feeds.
+Healthcare data engineering project. Simulation of a hospital analytics platform combining EHR, appointments, diagnoses, procedures, laboratory, medication administration, claims, payments, bed utilization, patient experience, and CDC feeds.
 
-**All patient/provider identities and records in this project are synthetic. This is not real PHI and is not intended for clinical decision-making.**
+**All patient/provider identities and records in this project are synthetic.**
 
 ## Architecture
 
@@ -114,6 +114,5 @@ pytest -q
 - `mart_department_quality.csv`
 - `mart_patient_360.csv`
 
-## Resume Bullet
 
 Built a production-style healthcare ETL platform using Python, PySpark, and SQL to integrate EHR, lab, medication, claims, payment, scheduling, and hospital operations data; implemented SCD Type 2 dimensions, data-quality quarantine, 30-day readmission analytics, revenue-cycle reconciliation, bed-utilization monitoring, and clinical/operational marts.
