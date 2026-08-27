@@ -113,6 +113,3 @@ pytest -q
 - `mart_provider_performance.csv`
 - `mart_department_quality.csv`
 - `mart_patient_360.csv`
-
-
-Built a production-style healthcare ETL platform using Python, PySpark, and SQL to integrate EHR, lab, medication, claims, payment, scheduling, and hospital operations data; implemented SCD Type 2 dimensions, data-quality quarantine, 30-day readmission analytics, revenue-cycle reconciliation, bed-utilization monitoring, and clinical/operational marts.
