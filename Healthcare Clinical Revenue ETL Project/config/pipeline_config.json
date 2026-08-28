@@ -1,0 +1,16 @@
+{
+  "project_name": "healthcare_clinical_revenue_etl_project",
+  "environment": "local",
+  "bronze_path": "data/bronze/python",
+  "silver_path": "data/silver/python",
+  "quarantine_path": "data/quarantine/python",
+  "gold_path": "data/gold/python",
+  "report_path": "reports/python",
+  "metadata_path": "metadata",
+  "readmission_window_days": 30,
+  "high_los_days": 7,
+  "bed_occupancy_alert_pct": 0.9,
+  "claim_payment_tolerance": 1.0,
+  "lab_turnaround_alert_hours": 12,
+  "default_watermark": "1900-01-01 00:00:00"
+}
