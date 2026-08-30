@@ -1,0 +1,37 @@
+{
+  "encounters": {
+    "primary_key": [
+      "encounter_id"
+    ],
+    "foreign_keys": {
+      "patient_id": "patients.patient_id",
+      "provider_id": "providers.provider_id"
+    }
+  },
+  "lab_orders": {
+    "primary_key": [
+      "lab_order_id"
+    ],
+    "foreign_keys": {
+      "encounter_id": "encounters.encounter_id",
+      "lab_test_id": "lab_test_reference.lab_test_id"
+    }
+  },
+  "claims": {
+    "primary_key": [
+      "claim_id"
+    ],
+    "foreign_keys": {
+      "encounter_id": "encounters.encounter_id",
+      "payer_id": "payers.payer_id"
+    }
+  },
+  "claim_payments": {
+    "primary_key": [
+      "claim_payment_id"
+    ],
+    "foreign_keys": {
+      "claim_id": "claims.claim_id"
+    }
+  }
+}
