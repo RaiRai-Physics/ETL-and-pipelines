@@ -1,0 +1,7 @@
+{
+  "last_successful_run_utc": "2026-08-27T03:36:19.390216+00:00",
+  "encounter_admit_watermark": "2026-05-31 22:59:56",
+  "appointment_watermark": "2026-05-31 19:12:00",
+  "claim_submission_watermark": "2026-06-20",
+  "status": "SUCCESS"
+}
