@@ -1,0 +1,2 @@
+pipeline_name,run_timestamp_utc,raw_file_count,raw_total_rows,silver_total_rows,quarantine_total_rows,gold_table_count,status
+healthcare_clinical_revenue_etl_project,2026-08-27T03:36:19.389355+00:00,25,84332,84330,350,39,SUCCESS

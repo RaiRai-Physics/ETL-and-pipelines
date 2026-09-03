@@ -1,0 +1,176 @@
+table_name,column_name,blank_count,distinct_count,sample_values
+patient_cdc,cdc_id,0,350,PCDC0000001 | PCDC0000002 | PCDC0000003 | PCDC0000004 | PCDC0000005
+patient_cdc,patient_id,0,350,PAT00000801 | PAT00002755 | PAT00001658 | PAT00000963 | PAT00001747
+patient_cdc,effective_ts,0,350,2026-05-02 00:48:40 | 2026-04-01 08:57:52 | 2026-04-25 16:22:34 | 2026-05-16 00:55:00 | 2026-03-03 02:36:51
+patient_cdc,operation,0,1,UPDATE
+patient_cdc,new_primary_payer_id,0,5,PAY003 | PAY004 | PAY002 | PAY005 | PAY001
+patient_cdc,new_active_flag,0,2,N | Y
+patient_cdc,change_reason,0,3,inactive_cleanup | registration_update | coverage_change
+provider_cdc,cdc_id,0,120,PRCDC0000001 | PRCDC0000002 | PRCDC0000003 | PRCDC0000004 | PRCDC0000005
+provider_cdc,provider_id,0,120,PRV000343 | PRV000295 | PRV000141 | PRV000335 | PRV000248
+provider_cdc,effective_ts,0,120,2026-03-25 21:09:52 | 2026-04-28 06:47:46 | 2026-04-26 12:37:32 | 2026-03-18 17:34:51 | 2026-03-06 12:28:00
+provider_cdc,operation,0,1,UPDATE
+provider_cdc,new_specialty,0,10,Emergency Medicine | Orthopedic Surgery | General Surgery | Cardiology | Oncology
+provider_cdc,new_employment_status,0,3,Leave | Terminated | Active
+provider_cdc,change_reason,0,3,status_change | credential_update | department_transfer
+appointments,appointment_id,0,8000,APT000000001 | APT000000002 | APT000000003 | APT000000004 | APT000000005
+appointments,patient_id,0,3120,PAT00001831 | PAT00000215 | PAT00000445 | PAT00000559 | PAT00003241
+appointments,provider_id,0,351,PRV000128 | PRV000065 | PRV000187 | PRV000110 | PRV000324
+appointments,facility_id,0,6,FAC005 | FAC001 | FAC006 | FAC004 | FAC002
+appointments,department_id,0,72,DEP0058 | DEP0011 | DEP0070 | DEP0068 | DEP0041
+appointments,scheduled_ts,0,7946,04/22/2026 10:01 | 2026-01-22 01:53:15 | 04/13/2026 08:48 | 03/31/2026 22:52 | 2026-01-31 13:20:31
+appointments,appointment_type,0,5,Follow-up | Telehealth | Procedure | New Patient | Imaging
+appointments,appointment_status,0,5,Scheduled | completed | Cancelled | Completed | No Show
+appointments,booking_channel,0,4,Referral | Portal | Front Desk | Phone
+encounter_diagnoses,encounter_diagnosis_id,0,12080,EDX0000000001 | EDX0000000002 | EDX0000000003 | EDX0000000004 | EDX0000000005
+encounter_diagnoses,encounter_id,0,5995,ENC000000001 | ENC000000002 | ENC000000003 | ENC000000004 | ENC000000005
+encounter_diagnoses,diagnosis_code,0,16,D012 | D001 | D006 | D002 | D014
+encounter_diagnoses,diagnosis_type,0,3,Principal | Admitting | Secondary
+encounter_diagnoses,present_on_admission,0,3,Y | N | Unknown
+encounter_procedures,encounter_procedure_id,0,5690,EPR0000000001 | EPR0000000002 | EPR0000000003 | EPR0000000004 | EPR0000000005
+encounter_procedures,encounter_id,0,3799,ENC000005397 | ENC000003613 | ENC000000017 | ENC000004818 | ENC000003119
+encounter_procedures,procedure_code,0,11,P007 | P003 | P004 | P010 | P001
+encounter_procedures,procedure_ts,0,5641,2026-02-11 08:53:50 | 2026-05-19 11:18:46 | 2026-05-19 02:18:46 | 2026-05-13 17:13:52 | 2026-05-13 13:13:52
+encounter_procedures,performing_provider_id,0,351,PRV000279 | PRV000248 | PRV000274 | PRV000285 | PRV000201
+encounter_procedures,quantity,0,3,1 | 2 | bad
+encounters,encounter_id,0,6000,ENC000000001 | ENC000000002 | ENC000000003 | ENC000000004 | ENC000000005
+encounters,patient_id,0,2837,PAT00001083 | PAT00000837 | PAT00000627 | PAT00000671 | PAT00002150
+encounters,provider_id,0,351,PRV000310 | PRV000183 | PRV000331 | PRV000148 | PRV000203
+encounters,facility_id,0,6,FAC003 | FAC004 | FAC005 | FAC002 | FAC006
+encounters,department_id,0,72,DEP0027 | DEP0042 | DEP0056 | DEP0022 | DEP0040
+encounters,encounter_type,0,4,Outpatient | Inpatient | Emergency | Observation
+encounters,admit_ts,0,6000,2026-01-25 16:49:52 | 2026-01-31 10:52:01 | 2026-03-08 16:29:07 | 2026-04-10 03:42:29 | 2026-01-23 17:37:15
+encounters,discharge_ts,78,5921,2026-01-25 17:49:52 | 2026-01-31 12:52:01 | 2026-03-08 18:29:07 | 2026-04-13 07:42:29 | 2026-02-02 08:37:15
+encounters,disposition,0,5,Home | Expired | Transfer | Skilled Nursing | Left AMA
+encounters,acuity_level,0,6,1 | 4 | 5 | 2 | bad
+encounters,source_system,0,3,ehr_core | ed_system | ambulatory_ehr
+lab_orders,lab_order_id,0,6314,LORD000000001 | LORD000000002 | LORD000000003 | LORD000000004 | LORD000000005
+lab_orders,encounter_id,0,4196,ENC000004040 | ENC000000657 | ENC000004346 | ENC000002334 | ENC000004406
+lab_orders,patient_id,0,2421,PAT00002212 | PAT00003399 | PAT00001833 | PAT00003083 | PAT00002350
+lab_orders,lab_test_id,0,9,LAB003 | LAB001 | LAB008 | LAB006 | LAB002
+lab_orders,order_ts,0,6159,2026-05-23 08:49:25 | 2026-05-16 02:06:28 | 2026-04-15 15:44:44 | 2026-04-15 08:44:44 | 2026-03-27 10:37:25
+lab_orders,order_status,0,3,Completed | Pending | Cancelled
+lab_orders,ordering_provider_id,0,351,PRV000313 | PRV000001 | PRV000327 | PRV000291 | PRV000150
+lab_results,lab_result_id,0,5778,LRES000000001 | LRES000000002 | LRES000000003 | LRES000000004 | LRES000000005
+lab_results,lab_order_id,0,5768,LORD000000001 | LORD000000002 | LORD000000003 | LORD000000004 | LORD000000005
+lab_results,result_ts,0,5713,2026-05-24 08:49:25 | 2026-05-16 08:06:28 | 2026-04-16 03:44:44 | 2026-04-16 05:44:44 | 2026-03-27 17:37:25
+lab_results,result_value,0,5207,0.853 | 0.987 | 17.031 | 421.453 | 4.419
+lab_results,unit,0,5,mg/dL | g/dL | 10^9/L | mmol/L | ng/L
+lab_results,abnormal_flag,0,3,N | L | H
+lab_results,result_status,0,2,Final | Preliminary
+med_admin,med_admin_id,0,4779,MADM000000001 | MADM000000002 | MADM000000003 | MADM000000004 | MADM000000005
+med_admin,med_order_id,0,4769,MORD000000004 | MORD000000005 | MORD000000006 | MORD000000007 | MORD000000008
+med_admin,admin_ts,0,4728,2026-02-01 04:12:03 | 2026-03-25 11:27:33 | 2026-03-24 20:27:33 | 2026-02-26 16:42:28 | 2026-02-27 15:42:28
+med_admin,administered_dose,0,8,5.00 | 1.00 | bad | 500.00 | 10.00
+med_admin,admin_status,0,5,Given | Held | Missed | given | Refused
+med_orders,med_order_id,0,5408,MORD000000001 | MORD000000002 | MORD000000003 | MORD000000004 | MORD000000005
+med_orders,encounter_id,0,3600,ENC000004763 | ENC000003877 | ENC000000062 | ENC000003366 | ENC000004422
+med_orders,patient_id,0,2214,PAT00003488 | PAT00002917 | PAT00001724 | PAT00000668 | PAT00000345
+med_orders,medication_id,0,11,MED005 | MED009 | MED007 | MED002 | MED006
+med_orders,order_ts,0,5324,2026-02-18 14:27:23 | 2026-01-19 13:31:46 | 2026-01-14 07:12:49 | 2026-01-31 13:12:03 | 2026-03-24 23:27:33
+med_orders,dose,0,7,500.00 | 2.00 | 10.00 | 20.00 | 1.00
+med_orders,dose_unit,0,4,mcg | units | mg | mL
+med_orders,route,0,5,PO | IM | SC | Inhaled | IV
+med_orders,order_status,0,3,Discontinued | Completed | Active
+departments,department_id,0,72,DEP0001 | DEP0002 | DEP0003 | DEP0004 | DEP0005
+departments,facility_id,0,6,FAC001 | FAC002 | FAC003 | FAC004 | FAC005
+departments,department_name,0,12,Emergency | Internal Medicine | Cardiology | Oncology | Orthopedics
+departments,cost_center,0,72,CC3873 | CC4497 | CC3343 | CC8977 | CC9781
+departments,service_line,0,5,Medical | Surgical | Critical Care | Ancillary | Diagnostic
+departments,active_flag,0,2,Y | N
+diagnosis_codes,diagnosis_code,0,15,D001 | D002 | D003 | D004 | D005
+diagnosis_codes,diagnosis_description,0,15,Essential hypertension | Type 2 diabetes mellitus | Pneumonia | Asthma | Chest pain
+diagnosis_codes,diagnosis_group,0,9,Cardiovascular | Endocrine | Respiratory | Gastrointestinal | Musculoskeletal
+facilities,facility_id,0,6,FAC001 | FAC002 | FAC003 | FAC004 | FAC005
+facilities,facility_name,0,6,Northside Medical Center | Lakeshore Community Hospital | Metro Specialty Center | Sunrise Medical Pavilion | Harborview Health Center
+facilities,facility_type,0,2,Hospital | Specialty Hospital
+facilities,city,0,6,Chicago | Milwaukee | Dallas | Phoenix | Seattle
+facilities,state,0,6,IL | WI | TX | AZ | WA
+facilities,region,0,3,Midwest | South | West
+facilities,licensed_beds,0,6,420 | 260 | 190 | 310 | 350
+facilities,open_date,0,6,2016-04-13 | 1997-01-22 | 2008-11-20 | 2017-12-11 | 2000-09-09
+facilities,active_flag,0,2,1 | Y
+lab_test_reference,lab_test_id,0,8,LAB001 | LAB002 | LAB003 | LAB004 | LAB005
+lab_test_reference,lab_test_name,0,8,Hemoglobin | WBC | Creatinine | Glucose | Sodium
+lab_test_reference,unit,0,5,g/dL | 10^9/L | mg/dL | mmol/L | ng/L
+lab_test_reference,ref_low,0,8,12.0 | 4.0 | 0.6 | 70 | 135
+lab_test_reference,ref_high,0,8,17.5 | 11.0 | 1.3 | 140 | 145
+medications,medication_id,0,10,MED001 | MED002 | MED003 | MED004 | MED005
+medications,medication_name,0,10,Lisinopril | Metformin | Atorvastatin | Albuterol | Ceftriaxone
+medications,medication_class,0,9,ACE inhibitor | Antidiabetic | Statin | Bronchodilator | Antibiotic
+medications,active_flag,0,1,Y
+patients,patient_id,0,3500,PAT00000001 | PAT00000002 | PAT00000003 | PAT00000004 | PAT00000005
+patients,full_name,0,3500,Patient 1 | Patient 2 | Patient 3 | Patient 4 | Patient 5
+patients,date_of_birth,0,3401,06/17/2010 | 02/16/1941 | 1994-06-13 | 02/22/1970 | 08/23/1951
+patients,sex_at_birth,0,4,Male | M | F | Female
+patients,email,37,3464,patient1@example.com | patient2@example.com | patient3@example.com | patient4@example.com | patient5@example.com
+patients,phone,74,3427,206-555-2264 | 753-555-8728 | 875-555-2436 | 314-555-2006 | 518-555-5606
+patients,city,0,6,Dallas | Milwaukee | Atlanta | Phoenix | Chicago
+patients,state,0,6,GA | WA | TX | AZ | WI
+patients,zip3,0,882,836 | 579 | 292 | 626 | 716
+patients,primary_payer_id,0,6,PAY002 | PAY005 | PAY004 | PAY003 | PAY001
+patients,registration_date,0,2068,2023-01-18 | 2018-12-27 | 2022-10-22 | 2024-03-25 | 2026-03-26
+patients,active_flag,0,3,Y | Yes | N
+payers,payer_id,0,5,PAY001 | PAY002 | PAY003 | PAY004 | PAY005
+payers,payer_name,0,5,Blue Horizon Health | United Regional Plan | Federal Senior Health | State Community Health | Self Pay
+payers,payer_type,0,4,Commercial | Medicare-like | Medicaid-like | Self Pay
+payers,contract_group,0,5,COMM_A | COMM_B | GOV_A | GOV_B | SELF
+procedure_codes,procedure_code,0,10,P001 | P002 | P003 | P004 | P005
+procedure_codes,procedure_description,0,10,Chest X-ray | CT Abdomen | MRI Brain | Appendectomy | Knee Arthroplasty
+procedure_codes,procedure_group,0,6,Imaging | Surgery | Cardiology | Oncology | GI
+procedure_codes,standard_charge,0,10,220 | 1200 | 2400 | 18500 | 32000
+providers,provider_id,0,350,PRV000001 | PRV000002 | PRV000003 | PRV000004 | PRV000005
+providers,provider_name,0,350,Dr. Avery Lee 1 | Dr. Avery Kim 2 | Dr. Casey Patel 3 | Dr. Riley Brown 4 | Dr. Riley Smith 5
+providers,facility_id,0,6,FAC005 | FAC001 | FAC003 | FAC006 | FAC002
+providers,department_id,0,72,DEP0054 | DEP0007 | DEP0027 | DEP0033 | DEP0070
+providers,specialty,0,10,Critical Care | Radiology | General Surgery | Neurology | Emergency Medicine
+providers,npi_like_id,0,350,4386852862 | 5844183768 | 5608651305 | 1850282247 | 5531714194
+providers,hire_date,0,337,2014-07-06 | 2018-05-15 | 2017-02-14 | 2013-07-11 | 2018-01-27
+providers,employment_status,0,3,Leave | active | Active
+bed_occupancy,snapshot_date,0,61,2026-04-01 | 2026-04-02 | 2026-04-03 | 2026-04-04 | 2026-04-05
+bed_occupancy,facility_id,0,6,FAC001 | FAC002 | FAC003 | FAC004 | FAC005
+bed_occupancy,department_id,0,36,DEP0002 | DEP0004 | DEP0005 | DEP0006 | DEP0008
+bed_occupancy,staffed_beds,0,5,36 | 42 | 30 | 18 | 24
+bed_occupancy,occupied_beds,0,37,26 | 42 | 39 | 24 | 10
+bed_occupancy,blocked_beds,0,4,2 | 3 | 1 | 0
+bed_occupancy,boarding_patients,0,9,8 | 3 | 7 | 4 | 2
+patient_satisfaction,survey_id,0,3000,SURV00000001 | SURV00000002 | SURV00000003 | SURV00000004 | SURV00000005
+patient_satisfaction,encounter_id,0,2357,ENC000002376 | ENC000002527 | ENC000001547 | ENC000003553 | ENC000001567
+patient_satisfaction,survey_date,0,166,2026-03-30 | 2026-02-07 | 2026-01-28 | 2026-01-15 | 2026-02-18
+patient_satisfaction,overall_rating,0,6,4 | 1 | bad | 2 | 5
+patient_satisfaction,communication_rating,0,5,5 | 1 | 4 | 2 | 3
+patient_satisfaction,cleanliness_rating,0,5,1 | 4 | 5 | 3 | 2
+patient_satisfaction,would_recommend,0,4,Yes | N | No | Y
+calendar,date_key,0,181,20260101 | 20260102 | 20260103 | 20260104 | 20260105
+calendar,calendar_date,0,181,2026-01-01 | 2026-01-02 | 2026-01-03 | 2026-01-04 | 2026-01-05
+calendar,year,0,1,2026
+calendar,quarter,0,2,1 | 2
+calendar,month,0,6,1 | 2 | 3 | 4 | 5
+calendar,week_of_year,0,27,1 | 2 | 3 | 4 | 5
+calendar,day_of_week,0,7,4 | 5 | 6 | 7 | 1
+calendar,is_weekend,0,2,N | Y
+claim_lines,claim_line_id,0,12386,CLL0000000001 | CLL0000000002 | CLL0000000003 | CLL0000000004 | CLL0000000005
+claim_lines,claim_id,0,5000,CLM000000001 | CLM000000002 | CLM000000003 | CLM000000004 | CLM000000005
+claim_lines,line_number,0,4,1 | 2 | 3 | 4
+claim_lines,procedure_code,0,11,P001 | P010 | P008 | P009 | P007
+claim_lines,units,0,4,2 | bad | 3 | 1
+claim_lines,charge_amount,0,12333,2067.76 | 1209.38 | 9908.00 | 7840.59 | 2076.26
+claim_lines,allowed_amount,0,12310,6271.38 | 751.20 | 7152.94 | 1240.49 | 6800.56
+claim_lines,line_status,0,4,Paid | Denied | paid | Pending
+claim_payments,claim_payment_id,0,3072,CPAY000000001 | CPAY000000002 | CPAY000000003 | CPAY000000004 | CPAY000000005
+claim_payments,claim_id,0,3067,CLM000000003 | CLM000000007 | CLM000000008 | CLM000000009 | CLM000000011
+claim_payments,payment_date,0,172,2026-03-24 | 2026-03-17 | 2026-04-11 | 2026-02-24 | 2026-03-30
+claim_payments,payer_payment_amount,0,3066,16316.22 | 22411.44 | 21964.76 | 19645.98 | 12580.43
+claim_payments,patient_payment_amount,0,3057,3279.56 | 1739.16 | 3793.26 | 1193.53 | 3679.08
+claim_payments,payment_method,0,4,Portal | Card | Check | EFT
+claim_payments,payment_status,0,4,posted | Posted | Pending | Reversed
+claims,claim_id,0,5000,CLM000000001 | CLM000000002 | CLM000000003 | CLM000000004 | CLM000000005
+claims,encounter_id,0,4992,ENC000005707 | ENC000005997 | ENC000002818 | ENC000002470 | ENC000004019
+claims,patient_id,0,2640,PAT00000896 | PAT00002718 | PAT00000727 | PAT00000438 | PAT00003185
+claims,payer_id,0,6,PAY003 | PAY001 | PAY005 | PAY002 | PAY004
+claims,claim_submission_date,0,170,2026-05-31 | 2026-02-15 | 2026-03-28 | 2026-06-13 | 2026-03-15
+claims,claim_status,0,5,Denied | Pending | Paid | paid | Partially Paid
+claims,total_charge,0,4991,40351.89 | 24150.51 | 34585.18 | 33356.99 | 22528.92
+claims,allowed_amount,0,4998,29687.39 | 11876.64 | 19400.14 | 24448.00 | 18716.84
+claims,patient_responsibility,0,4976,6499.55 | 1660.04 | 4886.67 | 5321.04 | 1833.23
+claims,denial_reason,961,5,Coding | Authorization |  | Medical Necessity | Duplicate
