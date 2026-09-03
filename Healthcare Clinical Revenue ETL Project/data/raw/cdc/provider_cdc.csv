@@ -1,0 +1,121 @@
+cdc_id,provider_id,effective_ts,operation,new_specialty,new_employment_status,change_reason
+PRCDC0000001,PRV000343,2026-03-25 21:09:52,UPDATE,Emergency Medicine,Leave,status_change
+PRCDC0000002,PRV000295,2026-04-28 06:47:46,UPDATE,Orthopedic Surgery,Terminated,credential_update
+PRCDC0000003,PRV000141,2026-04-26 12:37:32,UPDATE,Orthopedic Surgery,Active,status_change
+PRCDC0000004,PRV000335,2026-03-18 17:34:51,UPDATE,Emergency Medicine,Active,department_transfer
+PRCDC0000005,PRV000248,2026-03-06 12:28:00,UPDATE,General Surgery,Terminated,status_change
+PRCDC0000006,PRV000260,2026-05-18 18:42:50,UPDATE,Cardiology,Leave,department_transfer
+PRCDC0000007,PRV000229,2026-05-09 00:13:36,UPDATE,Oncology,Active,status_change
+PRCDC0000008,PRV000203,2026-05-15 17:34:33,UPDATE,Critical Care,Active,status_change
+PRCDC0000009,PRV000307,2026-03-24 16:39:17,UPDATE,Critical Care,Leave,credential_update
+PRCDC0000010,PRV000024,2026-03-04 12:34:31,UPDATE,Pediatrics,Leave,department_transfer
+PRCDC0000011,PRV000330,2026-03-19 21:51:15,UPDATE,Internal Medicine,Active,department_transfer
+PRCDC0000012,PRV000255,2026-04-07 10:38:29,UPDATE,General Surgery,Active,status_change
+PRCDC0000013,PRV000177,2026-03-23 02:13:19,UPDATE,Neurology,Terminated,status_change
+PRCDC0000014,PRV000027,2026-02-09 21:12:06,UPDATE,General Surgery,Leave,status_change
+PRCDC0000015,PRV000128,2026-05-27 10:02:17,UPDATE,Oncology,Leave,status_change
+PRCDC0000016,PRV000077,2026-05-27 01:46:29,UPDATE,General Surgery,Terminated,department_transfer
+PRCDC0000017,PRV000063,2026-05-31 03:22:58,UPDATE,General Surgery,Terminated,status_change
+PRCDC0000018,PRV000329,2026-02-06 15:37:03,UPDATE,General Surgery,Leave,department_transfer
+PRCDC0000019,PRV000167,2026-02-07 15:38:50,UPDATE,Oncology,Terminated,status_change
+PRCDC0000020,PRV000078,2026-03-27 22:02:16,UPDATE,Radiology,Leave,credential_update
+PRCDC0000021,PRV000157,2026-02-10 20:05:49,UPDATE,Emergency Medicine,Terminated,status_change
+PRCDC0000022,PRV000113,2026-03-29 20:32:04,UPDATE,Internal Medicine,Active,department_transfer
+PRCDC0000023,PRV000152,2026-02-19 05:05:34,UPDATE,Neurology,Terminated,department_transfer
+PRCDC0000024,PRV000095,2026-03-26 17:01:30,UPDATE,Pediatrics,Active,status_change
+PRCDC0000025,PRV000317,2026-05-14 08:06:13,UPDATE,Pediatrics,Terminated,status_change
+PRCDC0000026,PRV000269,2026-02-16 13:56:28,UPDATE,Critical Care,Leave,department_transfer
+PRCDC0000027,PRV000222,2026-03-04 17:55:32,UPDATE,Cardiology,Leave,status_change
+PRCDC0000028,PRV000273,2026-04-20 04:10:00,UPDATE,Oncology,Leave,credential_update
+PRCDC0000029,PRV000125,2026-05-23 17:59:57,UPDATE,General Surgery,Active,department_transfer
+PRCDC0000030,PRV000016,2026-03-13 11:31:33,UPDATE,Cardiology,Terminated,status_change
+PRCDC0000031,PRV000017,2026-02-02 07:04:36,UPDATE,Emergency Medicine,Leave,department_transfer
+PRCDC0000032,PRV000101,2026-03-09 07:26:03,UPDATE,Pediatrics,Active,status_change
+PRCDC0000033,PRV000310,2026-03-08 04:52:38,UPDATE,Radiology,Terminated,credential_update
+PRCDC0000034,PRV000038,2026-02-16 23:55:11,UPDATE,Radiology,Active,department_transfer
+PRCDC0000035,PRV000293,2026-05-08 12:33:09,UPDATE,Critical Care,Active,department_transfer
+PRCDC0000036,PRV000288,2026-04-22 04:47:30,UPDATE,Internal Medicine,Leave,department_transfer
+PRCDC0000037,PRV000214,2026-03-21 18:04:19,UPDATE,Cardiology,Active,credential_update
+PRCDC0000038,PRV000347,2026-03-28 00:26:27,UPDATE,Cardiology,Active,status_change
+PRCDC0000039,PRV000081,2026-02-13 23:24:12,UPDATE,Internal Medicine,Active,credential_update
+PRCDC0000040,PRV000202,2026-02-25 09:09:39,UPDATE,Emergency Medicine,Leave,credential_update
+PRCDC0000041,PRV000044,2026-05-17 22:25:37,UPDATE,Radiology,Terminated,department_transfer
+PRCDC0000042,PRV000093,2026-05-05 16:14:35,UPDATE,Neurology,Leave,status_change
+PRCDC0000043,PRV000280,2026-03-06 03:57:08,UPDATE,Radiology,Active,department_transfer
+PRCDC0000044,PRV000281,2026-05-02 05:34:41,UPDATE,Emergency Medicine,Active,department_transfer
+PRCDC0000045,PRV000004,2026-05-23 15:39:02,UPDATE,Oncology,Active,status_change
+PRCDC0000046,PRV000014,2026-04-21 11:26:40,UPDATE,Internal Medicine,Terminated,credential_update
+PRCDC0000047,PRV000290,2026-05-17 01:57:29,UPDATE,Emergency Medicine,Active,credential_update
+PRCDC0000048,PRV000005,2026-02-04 08:24:38,UPDATE,Critical Care,Active,status_change
+PRCDC0000049,PRV000103,2026-02-14 01:09:36,UPDATE,Emergency Medicine,Active,status_change
+PRCDC0000050,PRV000132,2026-03-07 16:23:33,UPDATE,General Surgery,Active,status_change
+PRCDC0000051,PRV000291,2026-03-07 23:34:14,UPDATE,Cardiology,Active,department_transfer
+PRCDC0000052,PRV000238,2026-05-22 08:15:58,UPDATE,Radiology,Terminated,credential_update
+PRCDC0000053,PRV000130,2026-04-24 19:44:09,UPDATE,Critical Care,Terminated,status_change
+PRCDC0000054,PRV000218,2026-03-10 02:07:09,UPDATE,Neurology,Leave,department_transfer
+PRCDC0000055,PRV000282,2026-02-14 14:34:53,UPDATE,Radiology,Leave,status_change
+PRCDC0000056,PRV000054,2026-02-27 20:56:33,UPDATE,General Surgery,Terminated,department_transfer
+PRCDC0000057,PRV000051,2026-05-01 09:38:25,UPDATE,Emergency Medicine,Terminated,status_change
+PRCDC0000058,PRV000227,2026-02-03 02:42:17,UPDATE,Oncology,Terminated,status_change
+PRCDC0000059,PRV000294,2026-04-20 16:15:29,UPDATE,Neurology,Terminated,credential_update
+PRCDC0000060,PRV000226,2026-03-28 14:05:15,UPDATE,Cardiology,Leave,credential_update
+PRCDC0000061,PRV000283,2026-02-18 05:15:01,UPDATE,Cardiology,Terminated,status_change
+PRCDC0000062,PRV000133,2026-05-18 13:25:09,UPDATE,Critical Care,Leave,status_change
+PRCDC0000063,PRV000137,2026-02-19 08:58:39,UPDATE,Pediatrics,Terminated,status_change
+PRCDC0000064,PRV000124,2026-03-08 19:52:05,UPDATE,Emergency Medicine,Leave,status_change
+PRCDC0000065,PRV000243,2026-02-24 20:30:38,UPDATE,Radiology,Active,status_change
+PRCDC0000066,PRV000042,2026-05-09 17:33:06,UPDATE,Internal Medicine,Leave,department_transfer
+PRCDC0000067,PRV000166,2026-04-01 23:12:18,UPDATE,Cardiology,Active,credential_update
+PRCDC0000068,PRV000028,2026-02-10 12:29:51,UPDATE,Radiology,Leave,credential_update
+PRCDC0000069,PRV000135,2026-05-24 13:22:55,UPDATE,Emergency Medicine,Active,department_transfer
+PRCDC0000070,PRV000292,2026-02-18 05:23:27,UPDATE,Internal Medicine,Leave,credential_update
+PRCDC0000071,PRV000325,2026-04-07 22:43:58,UPDATE,Orthopedic Surgery,Active,status_change
+PRCDC0000072,PRV000262,2026-05-24 22:16:50,UPDATE,General Surgery,Leave,credential_update
+PRCDC0000073,PRV000129,2026-05-06 11:09:18,UPDATE,Orthopedic Surgery,Terminated,credential_update
+PRCDC0000074,PRV000170,2026-03-06 09:39:38,UPDATE,Internal Medicine,Terminated,status_change
+PRCDC0000075,PRV000100,2026-05-05 03:31:17,UPDATE,Neurology,Leave,credential_update
+PRCDC0000076,PRV000065,2026-03-24 10:01:00,UPDATE,Emergency Medicine,Terminated,department_transfer
+PRCDC0000077,PRV000082,2026-04-13 09:34:04,UPDATE,Pediatrics,Active,credential_update
+PRCDC0000078,PRV000207,2026-03-10 05:10:15,UPDATE,Oncology,Leave,status_change
+PRCDC0000079,PRV000186,2026-04-03 03:02:38,UPDATE,Pediatrics,Terminated,department_transfer
+PRCDC0000080,PRV000323,2026-03-29 06:51:12,UPDATE,Critical Care,Terminated,credential_update
+PRCDC0000081,PRV000158,2026-02-12 13:49:03,UPDATE,Neurology,Terminated,credential_update
+PRCDC0000082,PRV000022,2026-04-17 12:36:13,UPDATE,Orthopedic Surgery,Terminated,department_transfer
+PRCDC0000083,PRV000039,2026-05-04 04:01:45,UPDATE,Cardiology,Terminated,credential_update
+PRCDC0000084,PRV000266,2026-05-19 04:48:24,UPDATE,Internal Medicine,Active,department_transfer
+PRCDC0000085,PRV000089,2026-05-21 08:19:53,UPDATE,Cardiology,Leave,department_transfer
+PRCDC0000086,PRV000216,2026-02-10 06:55:14,UPDATE,General Surgery,Active,department_transfer
+PRCDC0000087,PRV000031,2026-04-19 18:04:31,UPDATE,Emergency Medicine,Terminated,credential_update
+PRCDC0000088,PRV000165,2026-04-11 17:49:24,UPDATE,Emergency Medicine,Terminated,department_transfer
+PRCDC0000089,PRV000272,2026-02-15 01:12:42,UPDATE,Emergency Medicine,Leave,credential_update
+PRCDC0000090,PRV000043,2026-04-09 20:03:19,UPDATE,Internal Medicine,Leave,status_change
+PRCDC0000091,PRV000201,2026-05-15 00:57:00,UPDATE,Orthopedic Surgery,Active,status_change
+PRCDC0000092,PRV000261,2026-02-01 14:30:34,UPDATE,Radiology,Terminated,department_transfer
+PRCDC0000093,PRV000007,2026-03-06 05:14:31,UPDATE,Radiology,Terminated,department_transfer
+PRCDC0000094,PRV000297,2026-02-07 20:27:50,UPDATE,Emergency Medicine,Active,credential_update
+PRCDC0000095,PRV000023,2026-05-10 22:57:20,UPDATE,Neurology,Terminated,status_change
+PRCDC0000096,PRV000012,2026-05-05 11:17:26,UPDATE,Emergency Medicine,Leave,credential_update
+PRCDC0000097,PRV000250,2026-05-12 16:56:49,UPDATE,Neurology,Active,credential_update
+PRCDC0000098,PRV000252,2026-02-07 06:26:08,UPDATE,Oncology,Leave,credential_update
+PRCDC0000099,PRV000349,2026-05-03 07:43:17,UPDATE,General Surgery,Terminated,department_transfer
+PRCDC0000100,PRV000032,2026-04-17 14:24:26,UPDATE,Oncology,Active,credential_update
+PRCDC0000101,PRV000105,2026-02-18 21:54:23,UPDATE,Radiology,Leave,status_change
+PRCDC0000102,PRV000171,2026-02-03 19:36:41,UPDATE,Emergency Medicine,Leave,credential_update
+PRCDC0000103,PRV000094,2026-03-20 07:58:12,UPDATE,Emergency Medicine,Leave,department_transfer
+PRCDC0000104,PRV000239,2026-04-05 06:51:39,UPDATE,Radiology,Active,status_change
+PRCDC0000105,PRV000324,2026-04-10 16:56:05,UPDATE,Orthopedic Surgery,Leave,status_change
+PRCDC0000106,PRV000060,2026-02-03 04:30:18,UPDATE,General Surgery,Terminated,status_change
+PRCDC0000107,PRV000050,2026-03-19 16:05:26,UPDATE,Orthopedic Surgery,Leave,department_transfer
+PRCDC0000108,PRV000277,2026-02-13 00:32:26,UPDATE,General Surgery,Active,credential_update
+PRCDC0000109,PRV000236,2026-04-15 05:03:46,UPDATE,Orthopedic Surgery,Leave,department_transfer
+PRCDC0000110,PRV000244,2026-04-04 18:51:20,UPDATE,Orthopedic Surgery,Active,status_change
+PRCDC0000111,PRV000350,2026-02-13 01:17:44,UPDATE,Neurology,Active,status_change
+PRCDC0000112,PRV000318,2026-03-06 07:58:45,UPDATE,Pediatrics,Terminated,credential_update
+PRCDC0000113,PRV000315,2026-05-11 12:11:33,UPDATE,Radiology,Active,credential_update
+PRCDC0000114,PRV000087,2026-03-10 15:37:09,UPDATE,Orthopedic Surgery,Terminated,status_change
+PRCDC0000115,PRV000067,2026-02-17 16:23:30,UPDATE,Neurology,Leave,credential_update
+PRCDC0000116,PRV000053,2026-02-17 04:14:04,UPDATE,Neurology,Active,credential_update
+PRCDC0000117,PRV000331,2026-04-10 07:27:38,UPDATE,Critical Care,Terminated,department_transfer
+PRCDC0000118,PRV000072,2026-03-04 06:23:06,UPDATE,Cardiology,Leave,status_change
+PRCDC0000119,PRV000015,2026-03-16 11:40:06,UPDATE,Neurology,Leave,status_change
+PRCDC0000120,PRV000205,2026-05-10 17:27:40,UPDATE,Pediatrics,Active,status_change
