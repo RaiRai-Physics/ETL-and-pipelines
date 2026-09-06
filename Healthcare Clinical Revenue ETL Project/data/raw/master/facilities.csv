@@ -1,0 +1,7 @@
+facility_id,facility_name,facility_type,city,state,region,licensed_beds,open_date,active_flag
+FAC001,Northside Medical Center,Hospital,Chicago,IL,Midwest,420,2016-04-13,1
+FAC002,Lakeshore Community Hospital,Hospital,Milwaukee,WI,Midwest,260,1997-01-22,Y
+FAC003,Metro Specialty Center,Specialty Hospital,Dallas,TX,South,190,2008-11-20,Y
+FAC004,Sunrise Medical Pavilion,Hospital,Phoenix,AZ,West,310,2017-12-11,Y
+FAC005,Harborview Health Center,Hospital,Seattle,WA,West,350,2000-09-09,Y
+FAC006,Piedmont Regional Hospital,Hospital,Atlanta,GA,South,285,2012-10-04,Y

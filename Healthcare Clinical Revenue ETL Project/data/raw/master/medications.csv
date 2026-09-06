@@ -1,0 +1,11 @@
+medication_id,medication_name,medication_class,active_flag
+MED001,Lisinopril,ACE inhibitor,Y
+MED002,Metformin,Antidiabetic,Y
+MED003,Atorvastatin,Statin,Y
+MED004,Albuterol,Bronchodilator,Y
+MED005,Ceftriaxone,Antibiotic,Y
+MED006,Vancomycin,Antibiotic,Y
+MED007,Morphine,Analgesic,Y
+MED008,Ondansetron,Antiemetic,Y
+MED009,Heparin,Anticoagulant,Y
+MED010,Insulin glargine,Insulin,Y

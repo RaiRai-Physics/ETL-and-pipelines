@@ -1,0 +1,73 @@
+department_id,facility_id,department_name,cost_center,service_line,active_flag
+DEP0001,FAC001,Emergency,CC3873,Medical,Y
+DEP0002,FAC001,Internal Medicine,CC4497,Medical,Y
+DEP0003,FAC001,Cardiology,CC3343,Medical,N
+DEP0004,FAC001,Oncology,CC8977,Surgical,Y
+DEP0005,FAC001,Orthopedics,CC9781,Critical Care,N
+DEP0006,FAC001,Pediatrics,CC3006,Ancillary,Y
+DEP0007,FAC001,Neurology,CC9838,Medical,Y
+DEP0008,FAC001,Surgery,CC9671,Diagnostic,Y
+DEP0009,FAC001,ICU,CC9823,Diagnostic,Y
+DEP0010,FAC001,Radiology,CC9808,Surgical,Y
+DEP0011,FAC001,Laboratory,CC6714,Ancillary,N
+DEP0012,FAC001,Pharmacy,CC8602,Diagnostic,Y
+DEP0013,FAC002,Emergency,CC5244,Surgical,N
+DEP0014,FAC002,Internal Medicine,CC3730,Surgical,N
+DEP0015,FAC002,Cardiology,CC7737,Diagnostic,N
+DEP0016,FAC002,Oncology,CC8499,Medical,N
+DEP0017,FAC002,Orthopedics,CC2309,Surgical,Y
+DEP0018,FAC002,Pediatrics,CC7936,Surgical,N
+DEP0019,FAC002,Neurology,CC9568,Medical,N
+DEP0020,FAC002,Surgery,CC9296,Critical Care,Y
+DEP0021,FAC002,ICU,CC1095,Surgical,Y
+DEP0022,FAC002,Radiology,CC4588,Critical Care,N
+DEP0023,FAC002,Laboratory,CC3739,Ancillary,Y
+DEP0024,FAC002,Pharmacy,CC1377,Critical Care,Y
+DEP0025,FAC003,Emergency,CC3034,Diagnostic,Y
+DEP0026,FAC003,Internal Medicine,CC9436,Surgical,Y
+DEP0027,FAC003,Cardiology,CC3571,Diagnostic,Y
+DEP0028,FAC003,Oncology,CC8610,Surgical,N
+DEP0029,FAC003,Orthopedics,CC5685,Surgical,N
+DEP0030,FAC003,Pediatrics,CC1477,Diagnostic,Y
+DEP0031,FAC003,Neurology,CC9442,Diagnostic,Y
+DEP0032,FAC003,Surgery,CC5229,Medical,Y
+DEP0033,FAC003,ICU,CC7400,Critical Care,Y
+DEP0034,FAC003,Radiology,CC1007,Medical,Y
+DEP0035,FAC003,Laboratory,CC9133,Surgical,Y
+DEP0036,FAC003,Pharmacy,CC9771,Medical,Y
+DEP0037,FAC004,Emergency,CC6093,Diagnostic,Y
+DEP0038,FAC004,Internal Medicine,CC8205,Diagnostic,Y
+DEP0039,FAC004,Cardiology,CC8341,Diagnostic,Y
+DEP0040,FAC004,Oncology,CC8106,Surgical,Y
+DEP0041,FAC004,Orthopedics,CC4679,Surgical,Y
+DEP0042,FAC004,Pediatrics,CC7962,Diagnostic,Y
+DEP0043,FAC004,Neurology,CC9141,Surgical,N
+DEP0044,FAC004,Surgery,CC4295,Diagnostic,N
+DEP0045,FAC004,ICU,CC4494,Ancillary,Y
+DEP0046,FAC004,Radiology,CC1521,Medical,Y
+DEP0047,FAC004,Laboratory,CC5253,Medical,Y
+DEP0048,FAC004,Pharmacy,CC3334,Medical,N
+DEP0049,FAC005,Emergency,CC2968,Diagnostic,N
+DEP0050,FAC005,Internal Medicine,CC4083,Diagnostic,Y
+DEP0051,FAC005,Cardiology,CC5376,Diagnostic,Y
+DEP0052,FAC005,Oncology,CC3373,Surgical,Y
+DEP0053,FAC005,Orthopedics,CC8162,Surgical,Y
+DEP0054,FAC005,Pediatrics,CC7138,Critical Care,Y
+DEP0055,FAC005,Neurology,CC7901,Critical Care,Y
+DEP0056,FAC005,Surgery,CC3564,Medical,Y
+DEP0057,FAC005,ICU,CC8017,Surgical,Y
+DEP0058,FAC005,Radiology,CC4730,Ancillary,Y
+DEP0059,FAC005,Laboratory,CC6332,Critical Care,Y
+DEP0060,FAC005,Pharmacy,CC2767,Critical Care,Y
+DEP0061,FAC006,Emergency,CC8418,Ancillary,Y
+DEP0062,FAC006,Internal Medicine,CC2025,Critical Care,Y
+DEP0063,FAC006,Cardiology,CC1433,Medical,Y
+DEP0064,FAC006,Oncology,CC1891,Medical,Y
+DEP0065,FAC006,Orthopedics,CC9796,Surgical,Y
+DEP0066,FAC006,Pediatrics,CC4045,Ancillary,Y
+DEP0067,FAC006,Neurology,CC3551,Ancillary,Y
+DEP0068,FAC006,Surgery,CC4279,Ancillary,N
+DEP0069,FAC006,ICU,CC7560,Surgical,Y
+DEP0070,FAC006,Radiology,CC3705,Medical,Y
+DEP0071,FAC006,Laboratory,CC2616,Ancillary,Y
+DEP0072,FAC006,Pharmacy,CC1696,Medical,Y
