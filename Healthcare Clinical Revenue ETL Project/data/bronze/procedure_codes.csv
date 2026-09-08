@@ -1,0 +1,11 @@
+procedure_code,procedure_description,procedure_group,standard_charge,_loaded_at_utc,_source_file
+P001,Chest X-ray,Imaging,220,2026-08-27T03:36:17.811388+00:00,data/raw/master/procedure_codes.csv
+P002,CT Abdomen,Imaging,1200,2026-08-27T03:36:17.811388+00:00,data/raw/master/procedure_codes.csv
+P003,MRI Brain,Imaging,2400,2026-08-27T03:36:17.811388+00:00,data/raw/master/procedure_codes.csv
+P004,Appendectomy,Surgery,18500,2026-08-27T03:36:17.811388+00:00,data/raw/master/procedure_codes.csv
+P005,Knee Arthroplasty,Surgery,32000,2026-08-27T03:36:17.811388+00:00,data/raw/master/procedure_codes.csv
+P006,Cardiac Catheterization,Cardiology,14500,2026-08-27T03:36:17.811388+00:00,data/raw/master/procedure_codes.csv
+P007,Chemotherapy Infusion,Oncology,6800,2026-08-27T03:36:17.811388+00:00,data/raw/master/procedure_codes.csv
+P008,Colonoscopy,GI,3800,2026-08-27T03:36:17.811388+00:00,data/raw/master/procedure_codes.csv
+P009,Echocardiogram,Cardiology,1800,2026-08-27T03:36:17.811388+00:00,data/raw/master/procedure_codes.csv
+P010,Physical Therapy Session,Rehab,350,2026-08-27T03:36:17.811388+00:00,data/raw/master/procedure_codes.csv

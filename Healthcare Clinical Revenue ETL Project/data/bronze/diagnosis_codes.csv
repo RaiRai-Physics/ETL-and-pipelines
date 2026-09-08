@@ -1,0 +1,16 @@
+diagnosis_code,diagnosis_description,diagnosis_group,_loaded_at_utc,_source_file
+D001,Essential hypertension,Cardiovascular,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D002,Type 2 diabetes mellitus,Endocrine,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D003,Pneumonia,Respiratory,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D004,Asthma,Respiratory,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D005,Chest pain,Cardiovascular,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D006,Acute appendicitis,Gastrointestinal,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D007,Fracture of femur,Musculoskeletal,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D008,Migraine,Neurological,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D009,Breast malignancy,Oncology,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D010,Prostate malignancy,Oncology,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D011,Sepsis,Infectious,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D012,Chronic kidney disease,Renal,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D013,Heart failure,Cardiovascular,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D014,COPD,Respiratory,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv
+D015,Urinary tract infection,Infectious,2026-08-27T03:36:17.808875+00:00,data/raw/master/diagnosis_codes.csv

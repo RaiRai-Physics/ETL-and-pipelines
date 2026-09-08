@@ -1,0 +1,11 @@
+medication_id,medication_name,medication_class,active_flag,_loaded_at_utc,_source_file
+MED001,Lisinopril,ACE inhibitor,Y,2026-08-27T03:36:17.814650+00:00,data/raw/master/medications.csv
+MED002,Metformin,Antidiabetic,Y,2026-08-27T03:36:17.814650+00:00,data/raw/master/medications.csv
+MED003,Atorvastatin,Statin,Y,2026-08-27T03:36:17.814650+00:00,data/raw/master/medications.csv
+MED004,Albuterol,Bronchodilator,Y,2026-08-27T03:36:17.814650+00:00,data/raw/master/medications.csv
+MED005,Ceftriaxone,Antibiotic,Y,2026-08-27T03:36:17.814650+00:00,data/raw/master/medications.csv
+MED006,Vancomycin,Antibiotic,Y,2026-08-27T03:36:17.814650+00:00,data/raw/master/medications.csv
+MED007,Morphine,Analgesic,Y,2026-08-27T03:36:17.814650+00:00,data/raw/master/medications.csv
+MED008,Ondansetron,Antiemetic,Y,2026-08-27T03:36:17.814650+00:00,data/raw/master/medications.csv
+MED009,Heparin,Anticoagulant,Y,2026-08-27T03:36:17.814650+00:00,data/raw/master/medications.csv
+MED010,Insulin glargine,Insulin,Y,2026-08-27T03:36:17.814650+00:00,data/raw/master/medications.csv

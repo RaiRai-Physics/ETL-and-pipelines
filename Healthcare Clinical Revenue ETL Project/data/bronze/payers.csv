@@ -1,0 +1,6 @@
+payer_id,payer_name,payer_type,contract_group,_loaded_at_utc,_source_file
+PAY001,Blue Horizon Health,Commercial,COMM_A,2026-08-27T03:36:17.805955+00:00,data/raw/master/payers.csv
+PAY002,United Regional Plan,Commercial,COMM_B,2026-08-27T03:36:17.805955+00:00,data/raw/master/payers.csv
+PAY003,Federal Senior Health,Medicare-like,GOV_A,2026-08-27T03:36:17.805955+00:00,data/raw/master/payers.csv
+PAY004,State Community Health,Medicaid-like,GOV_B,2026-08-27T03:36:17.805955+00:00,data/raw/master/payers.csv
+PAY005,Self Pay,Self Pay,SELF,2026-08-27T03:36:17.805955+00:00,data/raw/master/payers.csv
