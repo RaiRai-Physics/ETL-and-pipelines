@@ -1,0 +1,9 @@
+lab_test_id,lab_test_name,unit,ref_low,ref_high
+LAB001,Hemoglobin,g/dL,12.0,17.5
+LAB002,Wbc,10^9/L,4.0,11.0
+LAB003,Creatinine,mg/dL,0.6,1.3
+LAB004,Glucose,mg/dL,70.0,140.0
+LAB005,Sodium,mmol/L,135.0,145.0
+LAB006,Potassium,mmol/L,3.5,5.2
+LAB007,Troponin,ng/L,0.0,19.0
+LAB008,Platelets,10^9/L,150.0,450.0

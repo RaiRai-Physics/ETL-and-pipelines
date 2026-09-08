@@ -1,0 +1,16 @@
+diagnosis_code,diagnosis_description,diagnosis_group,encounter_count,patient_count
+D001,Essential Hypertension,Cardiovascular,811,726
+D010,Prostate Malignancy,Oncology,796,717
+D004,Asthma,Respiratory,793,692
+D006,Acute Appendicitis,Gastrointestinal,792,696
+D003,Pneumonia,Respiratory,772,691
+D011,Sepsis,Infectious,770,687
+D005,Chest Pain,Cardiovascular,769,692
+D012,Chronic Kidney Disease,Renal,769,701
+D014,Copd,Respiratory,766,680
+D002,Type 2 Diabetes Mellitus,Endocrine,761,680
+D007,Fracture Of Femur,Musculoskeletal,743,662
+D015,Urinary Tract Infection,Infectious,726,655
+D009,Breast Malignancy,Oncology,725,656
+D013,Heart Failure,Cardiovascular,720,648
+D008,Migraine,Neurological,717,637

@@ -1,0 +1,11 @@
+procedure_code,procedure_description,procedure_group,standard_charge
+P001,Chest X-Ray,Imaging,220
+P002,Ct Abdomen,Imaging,1200
+P003,Mri Brain,Imaging,2400
+P004,Appendectomy,Surgery,18500
+P005,Knee Arthroplasty,Surgery,32000
+P006,Cardiac Catheterization,Cardiology,14500
+P007,Chemotherapy Infusion,Oncology,6800
+P008,Colonoscopy,Gi,3800
+P009,Echocardiogram,Cardiology,1800
+P010,Physical Therapy Session,Rehab,350
