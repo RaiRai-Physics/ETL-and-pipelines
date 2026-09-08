@@ -1,0 +1,14 @@
+claim_id,encounter_id,patient_id,payer_id,claim_submission_date,claim_status,total_charge,allowed_amount,patient_responsibility,denial_reason,quarantine_reason
+CLM000000310,ENC000004667,PAT00000142,PAY_UNKNOWN,2026-04-15,Paid,29035.68,14430.38,2989.25,Authorization,Claim references missing payer
+CLM000000333,ENC000004836,PAT00000295,PAY_UNKNOWN,2026-04-05,Paid,6021.61,4005.85,622.34,Medical Necessity,Claim references missing payer
+CLM000000606,ENC000002248,PAT00001785,PAY_UNKNOWN,2026-05-29,Denied,14601.8,8173.21,1520.23,Duplicate,Claim references missing payer
+CLM000001150,ENC000001198,PAT00000502,PAY_UNKNOWN,2026-01-15,Denied,6982.74,5012.99,1055.08,Duplicate,Claim references missing payer
+CLM000001161,ENC000002454,PAT00001804,PAY_UNKNOWN,2026-04-07,Paid,1958.46,1494.45,343.19,Authorization,Claim references missing payer
+CLM000001448,ENC000003756,PAT00002090,PAY_UNKNOWN,2026-03-21,Pending,312.38,145.89,24.59,Authorization,Claim references missing payer
+CLM000002799,ENC000005182,PAT00002967,PAY_UNKNOWN,2026-02-26,Paid,9280.31,4347.26,471.21,Duplicate,Claim references missing payer
+CLM000003255,ENC000001215,PAT00002002,PAY_UNKNOWN,2026-05-12,Denied,14250.33,9170.67,1883.54,Medical Necessity,Claim references missing payer
+CLM000003376,ENC000003090,PAT00000208,PAY_UNKNOWN,2026-06-19,Paid,40051.56,28309.01,3178.82,,Claim references missing payer
+CLM000004371,ENC000005150,PAT00000588,PAY_UNKNOWN,2026-04-02,Denied,17937.88,9907.82,1202.98,Medical Necessity,Claim references missing payer
+CLM000004382,ENC000003577,PAT00001553,PAY_UNKNOWN,2026-02-06,Denied,15240.98,9027.81,797.43,Authorization,Claim references missing payer
+CLM000004472,ENC000000228,PAT00002015,PAY_UNKNOWN,2026-05-31,Denied,22847.76,17146.46,1350.08,Authorization,Claim references missing payer
+CLM000004893,ENC000002247,PAT00003295,PAY_UNKNOWN,2026-03-04,Pending,41759.26,25098.7,3225.52,Coding,Claim references missing payer

@@ -1,0 +1,15 @@
+patient_id,full_name,date_of_birth,sex_at_birth,city,state,zip3,primary_payer_id,registration_date,active_flag,email_masked,phone_masked,patient_hash,quarantine_reason
+PAT00000208,Patient 208,2014-08-11,FEMALE,Milwaukee,IL,207,PAY_BAD,2021-08-23,False,pa***@example.com,***-***-1281,93b88240e026d966edd5,Patient references missing payer
+PAT00000302,Patient 302,1983-02-09,FEMALE,Atlanta,WA,295,PAY_BAD,2025-09-11,True,pa***@example.com,***-***-5228,90991883ad45fb088de1,Patient references missing payer
+PAT00000721,Patient 721,,MALE,Phoenix,AZ,327,PAY_BAD,2018-08-02,False,pa***@example.com,***-***-3563,c84d164e676c4e06bc4f,Patient references missing payer
+PAT00000739,Patient 739,,FEMALE,Phoenix,WA,800,PAY_BAD,2018-03-11,True,pa***@example.com,***-***-8033,ec8a572dae7366e33af7,Patient references missing payer
+PAT00000986,Patient 986,1993-03-25,FEMALE,Dallas,GA,833,PAY_BAD,2024-06-05,True,pa***@example.com,***-***-6490,51a134a3ac7966427852,Patient references missing payer
+PAT00001016,Patient 1016,,MALE,Phoenix,GA,738,PAY_BAD,2021-06-22,True,pa***@example.com,***-***-8541,236cb719ce8847095f32,Patient references missing payer
+PAT00001186,Patient 1186,,MALE,Seattle,TX,288,PAY_BAD,2024-01-08,True,pa***@example.com,***-***-9045,95d84e940fc324cc1608,Patient references missing payer
+PAT00001187,Patient 1187,1941-08-07,MALE,Dallas,WA,894,PAY_BAD,2025-09-01,True,pa***@example.com,***-***-3956,aec8eb7931c59605400c,Patient references missing payer
+PAT00001211,Patient 1211,1962-09-22,MALE,Phoenix,WI,544,PAY_BAD,2026-01-25,True,pa***@example.com,***-***-7089,dfa58109df31bbb41018,Patient references missing payer
+PAT00001358,Patient 1358,1948-08-12,MALE,Atlanta,WI,872,PAY_BAD,2020-12-19,True,pa***@example.com,***-***-7320,921fe156b91c3001cdbd,Patient references missing payer
+PAT00001476,Patient 1476,1995-10-17,FEMALE,Chicago,TX,597,PAY_BAD,2021-01-25,True,pa***@example.com,***-***-5503,8a0759b0adc73f896787,Patient references missing payer
+PAT00001502,Patient 1502,,MALE,Dallas,WI,168,PAY_BAD,2020-01-05,True,pa***@example.com,***-***-6995,e1f58ffa079e2e6c4674,Patient references missing payer
+PAT00001769,Patient 1769,2007-08-26,FEMALE,Dallas,TX,114,PAY_BAD,2025-11-16,False,pa***@example.com,***-***-3996,7861468fa4223dbdf95b,Patient references missing payer
+PAT00002538,Patient 2538,,FEMALE,Phoenix,AZ,713,PAY_BAD,2020-02-09,True,pa***@example.com,***-***-2476,c644605036a4e3dc4c56,Patient references missing payer

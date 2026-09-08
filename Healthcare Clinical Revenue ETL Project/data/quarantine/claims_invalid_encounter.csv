@@ -1,0 +1,10 @@
+claim_id,encounter_id,patient_id,payer_id,claim_submission_date,claim_status,total_charge,allowed_amount,patient_responsibility,denial_reason,quarantine_reason
+CLM000000045,ENC_UNKNOWN,PAT00001215,PAY005,2026-01-29,Denied,24918.74,17984.23,3026.42,Duplicate,Claim references missing encounter
+CLM000000572,ENC_UNKNOWN,PAT_UNKNOWN,PAY005,2026-04-16,Partially Paid,7561.54,5886.03,822.89,,Claim references missing encounter
+CLM000002043,ENC_UNKNOWN,PAT00000170,PAY003,2026-03-24,Denied,38976.35,27127.82,6924.2,Duplicate,Claim references missing encounter
+CLM000002898,ENC_UNKNOWN,PAT00001375,PAY004,2026-05-13,Paid,40845.7,26872.2,1646.33,Authorization,Claim references missing encounter
+CLM000003253,ENC_UNKNOWN,PAT00003073,PAY002,2026-02-27,Denied,8093.41,6506.21,1279.58,Duplicate,Claim references missing encounter
+CLM000003488,ENC_UNKNOWN,PAT00003136,PAY005,2026-01-06,Denied,7260.61,5402.56,428.54,Authorization,Claim references missing encounter
+CLM000003761,ENC_UNKNOWN,PAT00000184,PAY002,2026-05-22,Paid,20036.81,17408.8,1587.43,Authorization,Claim references missing encounter
+CLM000004358,ENC_UNKNOWN,PAT_UNKNOWN,PAY001,2026-05-23,Denied,8349.24,4933.97,1261.4,,Claim references missing encounter
+CLM000004918,ENC_UNKNOWN,PAT00001083,PAY003,2026-04-05,Paid,25708.32,12074.89,3391.16,Medical Necessity,Claim references missing encounter

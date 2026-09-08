@@ -1,0 +1,8 @@
+claim_id,encounter_id,patient_id,payer_id,claim_submission_date,claim_status,total_charge,allowed_amount,patient_responsibility,denial_reason,quarantine_reason
+CLM000000245,ENC000002308,PAT00001195,PAY004,2026-02-22,Denied,,9952.36,317.11,,Non-numeric claim total charge
+CLM000000249,ENC000004762,PAT00000581,PAY004,2026-01-26,Denied,,14779.36,2931.37,Duplicate,Non-numeric claim total charge
+CLM000002154,ENC000003856,PAT00001782,PAY005,2026-05-06,Denied,,19282.5,1957.01,,Non-numeric claim total charge
+CLM000002488,ENC000003660,PAT00000949,PAY001,2026-01-25,Partially Paid,,22675.69,1781.82,Authorization,Non-numeric claim total charge
+CLM000003180,ENC000004386,PAT00002178,PAY003,2026-04-15,Paid,,19841.19,2193.48,Coding,Non-numeric claim total charge
+CLM000003983,ENC000000290,PAT00000388,PAY003,2026-06-17,Pending,,135.21,13.09,Coding,Non-numeric claim total charge
+CLM000004873,ENC000001151,PAT00002718,PAY001,2026-03-29,Paid,,9837.4,1322.97,Duplicate,Non-numeric claim total charge

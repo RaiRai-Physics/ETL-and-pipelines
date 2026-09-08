@@ -1,0 +1,12 @@
+lab_result_id,lab_order_id,result_ts,result_value,unit,abnormal_flag,result_status,quarantine_reason
+LRES000001404,LORD_BAD,2026-04-01 18:05:38,4.814,mmol/L,N,Preliminary,Lab result references missing order
+LRES000001475,LORD_BAD,2026-05-19 16:46:33,141.195,mmol/L,N,Final,Lab result references missing order
+LRES000002326,LORD_BAD,2026-05-05 16:27:52,6.849,10^9/L,N,Final,Lab result references missing order
+LRES000002375,LORD_BAD,2026-03-01 13:02:38,107.717,mg/dL,N,Final,Lab result references missing order
+LRES000002541,LORD_BAD,2026-04-27 03:27:13,270.865,10^9/L,N,Final,Lab result references missing order
+LRES000003504,LORD_BAD,2026-01-28 06:27:41,100.595,mg/dL,N,Final,Lab result references missing order
+LRES000003600,LORD_BAD,2026-03-18 08:10:20,5.008,mmol/L,N,Final,Lab result references missing order
+LRES000004143,LORD_BAD,2026-03-07 01:09:17,5.127,mmol/L,N,Preliminary,Lab result references missing order
+LRES000004728,LORD_BAD,2026-03-08 05:05:48,7.492,ng/L,N,Final,Lab result references missing order
+LRES000005316,LORD_BAD,2026-03-09 13:20:23,4.949,10^9/L,N,Final,Lab result references missing order
+LRES000005538,LORD_BAD,2026-02-25 05:17:03,3.547,mmol/L,N,Final,Lab result references missing order

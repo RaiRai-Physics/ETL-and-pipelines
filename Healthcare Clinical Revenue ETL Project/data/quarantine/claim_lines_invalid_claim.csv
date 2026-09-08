@@ -1,0 +1,22 @@
+claim_line_id,claim_id,line_number,procedure_code,units,charge_amount,allowed_amount,line_status,quarantine_reason
+CLL0000000680,CLM_BAD,3,P006,1.0,1486.02,6531.12,Paid,Claim line references missing claim
+CLL0000000934,CLM_BAD,3,P009,3.0,7171.9,5766.1,Paid,Claim line references missing claim
+CLL0000000991,CLM_BAD,1,P008,2.0,2368.92,7498.12,Paid,Claim line references missing claim
+CLL0000001902,CLM_BAD,2,P003,1.0,7731.56,5707.39,Denied,Claim line references missing claim
+CLL0000001966,CLM_BAD,2,P007,1.0,9662.09,908.94,Denied,Claim line references missing claim
+CLL0000002324,CLM_BAD,3,P008,,4667.72,834.36,Denied,Claim line references missing claim
+CLL0000002513,CLM_BAD,4,P002,1.0,6828.1,6944.69,Paid,Claim line references missing claim
+CLL0000002860,CLM_BAD,1,P008,1.0,4104.43,952.38,Paid,Claim line references missing claim
+CLL0000003691,CLM_BAD,4,P001,1.0,10019.02,2036.68,Paid,Claim line references missing claim
+CLL0000004072,CLM_BAD,1,P004,,7655.17,297.8,Paid,Claim line references missing claim
+CLL0000004487,CLM_BAD,1,P005,1.0,2381.07,5844.7,Paid,Claim line references missing claim
+CLL0000007271,CLM_BAD,2,P002,3.0,9461.62,1147.22,Pending,Claim line references missing claim
+CLL0000007444,CLM_BAD,3,P003,1.0,934.62,2898.46,Paid,Claim line references missing claim
+CLL0000008539,CLM_BAD,1,P010,1.0,2510.72,3615.27,Pending,Claim line references missing claim
+CLL0000008635,CLM_BAD,1,P010,1.0,5745.76,8990.47,Paid,Claim line references missing claim
+CLL0000009391,CLM_BAD,4,P007,2.0,4054.35,7075.04,Pending,Claim line references missing claim
+CLL0000009550,CLM_BAD,1,P010,3.0,4284.43,2864.85,Paid,Claim line references missing claim
+CLL0000010247,CLM_BAD,1,P009,2.0,10148.49,4429.24,Paid,Claim line references missing claim
+CLL0000011678,CLM_BAD,2,P001,2.0,7957.64,7020.34,Paid,Claim line references missing claim
+CLL0000012053,CLM_BAD,1,P008,1.0,4640.65,1984.95,Denied,Claim line references missing claim
+CLL0000012148,CLM_BAD,1,P008,1.0,2083.57,139.06,Pending,Claim line references missing claim

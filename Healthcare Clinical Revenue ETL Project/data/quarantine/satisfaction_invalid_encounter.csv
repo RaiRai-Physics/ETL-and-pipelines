@@ -1,0 +1,7 @@
+survey_id,encounter_id,survey_date,overall_rating,communication_rating,cleanliness_rating,would_recommend,quarantine_reason
+SURV00000061,ENC_BAD,2026-04-15,4.0,5,2,True,Survey references missing encounter
+SURV00000396,ENC_BAD,2026-01-27,5.0,4,2,False,Survey references missing encounter
+SURV00000691,ENC_BAD,2026-01-06,,4,5,False,Survey references missing encounter
+SURV00001713,ENC_BAD,2026-02-14,5.0,5,1,False,Survey references missing encounter
+SURV00001845,ENC_BAD,2026-04-22,4.0,1,4,True,Survey references missing encounter
+SURV00001874,ENC_BAD,2026-03-08,4.0,3,4,True,Survey references missing encounter

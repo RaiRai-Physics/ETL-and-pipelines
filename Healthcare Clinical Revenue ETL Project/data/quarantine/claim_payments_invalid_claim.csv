@@ -1,0 +1,7 @@
+claim_payment_id,claim_id,payment_date,payer_payment_amount,patient_payment_amount,payment_method,payment_status,quarantine_reason
+CPAY000000315,CLM_BAD,2026-03-11,24912.51,3228.62,PORTAL,Reversed,Claim payment references missing claim
+CPAY000000378,CLM_BAD,2026-06-10,13647.65,362.85,EFT,Pending,Claim payment references missing claim
+CPAY000000726,CLM_BAD,2026-03-12,28136.17,1971.41,PORTAL,Posted,Claim payment references missing claim
+CPAY000000824,CLM_BAD,2026-06-04,25876.06,633.83,CARD,Pending,Claim payment references missing claim
+CPAY000002401,CLM_BAD,2026-04-27,1126.16,3523.15,PORTAL,Pending,Claim payment references missing claim
+CPAY000002565,CLM_BAD,2026-06-11,13160.27,3623.92,CHECK,Pending,Claim payment references missing claim

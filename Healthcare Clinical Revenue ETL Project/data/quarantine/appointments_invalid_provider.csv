@@ -1,0 +1,33 @@
+appointment_id,patient_id,provider_id,facility_id,department_id,scheduled_ts,appointment_type,appointment_status,booking_channel,scheduled_date,quarantine_reason
+APT000000773,PAT00002621,PRV_BAD,FAC005,DEP0060,,Procedure,Scheduled,Portal,,Appointment references missing provider
+APT000001290,PAT00000015,PRV_BAD,FAC003,DEP0026,2026-05-16 03:29:00,Imaging,Completed,Referral,2026-05-16,Appointment references missing provider
+APT000001482,PAT00002868,PRV_BAD,FAC003,DEP0031,,Follow-Up,Completed,Phone,,Appointment references missing provider
+APT000001763,PAT00002747,PRV_BAD,FAC001,DEP0011,,Follow-Up,Completed,Referral,,Appointment references missing provider
+APT000002085,PAT00001300,PRV_BAD,FAC005,DEP0060,2026-01-07 23:57:00,Procedure,Completed,Referral,2026-01-07,Appointment references missing provider
+APT000002119,PAT00000362,PRV_BAD,FAC001,DEP0007,2026-01-28 14:30:00,Procedure,Scheduled,Referral,2026-01-28,Appointment references missing provider
+APT000002242,PAT00002818,PRV_BAD,FAC003,DEP0035,,Imaging,No Show,Phone,,Appointment references missing provider
+APT000003098,PAT00000280,PRV_BAD,FAC003,DEP0035,2026-02-08 08:15:00,Telehealth,Completed,Portal,2026-02-08,Appointment references missing provider
+APT000003280,PAT00002660,PRV_BAD,FAC006,DEP0065,2026-05-20 18:27:00,Procedure,Completed,Portal,2026-05-20,Appointment references missing provider
+APT000003558,PAT00000922,PRV_BAD,FAC002,DEP0021,,Follow-Up,Completed,Front Desk,,Appointment references missing provider
+APT000003758,PAT00002583,PRV_BAD,FAC002,DEP0017,,Follow-Up,Cancelled,Portal,,Appointment references missing provider
+APT000003837,PAT00000336,PRV_BAD,FAC003,DEP0025,2026-01-16 20:35:00,Procedure,Completed,Phone,2026-01-16,Appointment references missing provider
+APT000004452,PAT00001186,PRV_BAD,FAC004,DEP0048,,Telehealth,No Show,Referral,,Appointment references missing provider
+APT000004737,PAT00000813,PRV_BAD,FAC005,DEP0056,,Telehealth,No Show,Portal,,Appointment references missing provider
+APT000004772,PAT00000709,PRV_BAD,FAC004,DEP0042,,New Patient,Scheduled,Front Desk,,Appointment references missing provider
+APT000004804,PAT00000864,PRV_BAD,FAC001,DEP0004,2026-01-27 03:24:00,Imaging,Cancelled,Referral,2026-01-27,Appointment references missing provider
+APT000005261,PAT00001484,PRV_BAD,FAC004,DEP0044,2026-02-28 17:03:00,New Patient,Cancelled,Front Desk,2026-02-28,Appointment references missing provider
+APT000005273,PAT00002603,PRV_BAD,FAC002,DEP0018,,New Patient,Scheduled,Referral,,Appointment references missing provider
+APT000005695,PAT00001567,PRV_BAD,FAC004,DEP0041,2026-03-08 13:48:00,Follow-Up,Cancelled,Front Desk,2026-03-08,Appointment references missing provider
+APT000005753,PAT00001810,PRV_BAD,FAC002,DEP0013,,Imaging,Completed,Referral,,Appointment references missing provider
+APT000005773,PAT00002083,PRV_BAD,FAC005,DEP0054,,Procedure,No Show,Portal,,Appointment references missing provider
+APT000006105,PAT00002373,PRV_BAD,FAC006,DEP0063,2026-05-31 19:00:00,Imaging,Completed,Front Desk,2026-05-31,Appointment references missing provider
+APT000006136,PAT00002126,PRV_BAD,FAC006,DEP0064,2026-01-03 18:00:00,Imaging,Completed,Front Desk,2026-01-03,Appointment references missing provider
+APT000006348,PAT00003330,PRV_BAD,FAC001,DEP0002,2026-04-23 13:29:00,Procedure,Completed,Portal,2026-04-23,Appointment references missing provider
+APT000006573,PAT00000720,PRV_BAD,FAC004,DEP0044,2026-03-10 18:09:00,Imaging,Completed,Portal,2026-03-10,Appointment references missing provider
+APT000006939,PAT00002967,PRV_BAD,FAC005,DEP0056,,Imaging,No Show,Phone,,Appointment references missing provider
+APT000007076,PAT00001934,PRV_BAD,FAC003,DEP0032,2026-01-26 09:38:00,Procedure,Completed,Portal,2026-01-26,Appointment references missing provider
+APT000007371,PAT00000130,PRV_BAD,FAC005,DEP0051,,New Patient,Completed,Referral,,Appointment references missing provider
+APT000007446,PAT00000244,PRV_BAD,FAC001,DEP0010,,Telehealth,Completed,Front Desk,,Appointment references missing provider
+APT000007511,PAT00002314,PRV_BAD,FAC005,DEP0057,,New Patient,Completed,Referral,,Appointment references missing provider
+APT000007544,PAT00001333,PRV_BAD,FAC005,DEP0055,2026-01-07 20:48:00,Follow-Up,Completed,Front Desk,2026-01-07,Appointment references missing provider
+APT000007555,PAT00000411,PRV_BAD,FAC005,DEP0060,2026-01-26 00:17:00,Follow-Up,Completed,Phone,2026-01-26,Appointment references missing provider

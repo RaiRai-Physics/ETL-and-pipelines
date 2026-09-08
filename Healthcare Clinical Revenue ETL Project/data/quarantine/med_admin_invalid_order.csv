@@ -1,0 +1,12 @@
+med_admin_id,med_order_id,admin_ts,administered_dose,admin_status,quarantine_reason
+MADM000000642,MORD_BAD,2026-01-17 21:22:17,500.0,Missed,Medication administration references missing order
+MADM000002448,MORD_BAD,2026-03-22 02:13:22,,Given,Medication administration references missing order
+MADM000002622,MORD_BAD,2026-05-03 16:16:25,20.0,Refused,Medication administration references missing order
+MADM000002679,MORD_BAD,2026-05-11 11:17:37,500.0,Given,Medication administration references missing order
+MADM000002800,MORD_BAD,2026-05-21 01:26:22,500.0,Held,Medication administration references missing order
+MADM000002933,MORD_BAD,2026-01-27 06:58:40,5.0,Given,Medication administration references missing order
+MADM000002942,MORD_BAD,2026-05-19 11:35:44,,Given,Medication administration references missing order
+MADM000003167,MORD_BAD,2026-04-08 23:36:03,20.0,Given,Medication administration references missing order
+MADM000003180,MORD_BAD,2026-06-01 13:34:50,500.0,Missed,Medication administration references missing order
+MADM000003618,MORD_BAD,2026-03-31 20:13:11,10.0,Given,Medication administration references missing order
+MADM000004771,MORD_BAD,2026-03-20 19:27:06,,Missed,Medication administration references missing order

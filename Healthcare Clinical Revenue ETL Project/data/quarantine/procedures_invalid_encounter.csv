@@ -1,0 +1,10 @@
+encounter_procedure_id,encounter_id,procedure_code,procedure_ts,performing_provider_id,quantity,quarantine_reason
+EPR0000000121,ENC_BAD,P001,2026-04-12 12:20:20,PRV000012,,Procedure references missing encounter
+EPR0000000591,ENC_BAD,P003,2026-05-25 13:38:02,PRV000117,,Procedure references missing encounter
+EPR0000002666,ENC_BAD,P005,2026-02-01 17:16:42,PRV000181,1.0,Procedure references missing encounter
+EPR0000003076,ENC_BAD,P008,2026-01-04 05:23:00,PRV000150,1.0,Procedure references missing encounter
+EPR0000004140,ENC_BAD,P005,2026-02-15 22:34:48,PRV000242,1.0,Procedure references missing encounter
+EPR0000004243,ENC_BAD,P010,2026-05-05 21:27:52,PRV000037,1.0,Procedure references missing encounter
+EPR0000004624,ENC_BAD,P009,2026-02-11 10:20:25,PRV000155,1.0,Procedure references missing encounter
+EPR0000004842,ENC_BAD,P004,2026-05-13 21:37:09,PRV000289,1.0,Procedure references missing encounter
+EPR0000005411,ENC_BAD,P004,2026-03-20 08:47:15,PRV000135,1.0,Procedure references missing encounter

@@ -1,0 +1,16 @@
+lab_order_id,encounter_id,patient_id,lab_test_id,order_ts,order_status,ordering_provider_id,quarantine_reason
+LORD000000166,ENC_BAD,PAT00003229,LAB005,2026-04-17 04:31:27,Cancelled,PRV000111,Lab order references missing encounter
+LORD000000922,ENC_BAD,PAT00003203,LAB005,2026-01-05 18:54:01,Pending,PRV000018,Lab order references missing encounter
+LORD000001442,ENC_BAD,PAT00001264,LAB007,2026-04-22 23:21:34,Completed,PRV000241,Lab order references missing encounter
+LORD000001487,ENC_BAD,PAT00002443,LAB001,2026-01-01 05:23:04,Completed,PRV000187,Lab order references missing encounter
+LORD000001798,ENC_BAD,PAT00002654,LAB006,2026-05-16 01:26:04,Completed,PRV000332,Lab order references missing encounter
+LORD000003132,ENC_BAD,PAT00001776,LAB006,2026-05-29 07:07:34,Pending,PRV000169,Lab order references missing encounter
+LORD000003402,ENC_BAD,PAT00000953,LAB004,2026-02-01 06:43:07,Completed,PRV000331,Lab order references missing encounter
+LORD000003751,ENC_BAD,PAT00002527,LAB003,2026-05-29 00:54:08,Completed,PRV000255,Lab order references missing encounter
+LORD000004186,ENC_BAD,PAT00001866,LAB001,2026-04-23 09:36:01,Completed,PRV000181,Lab order references missing encounter
+LORD000004376,ENC_BAD,PAT00002845,LAB005,2026-01-25 12:31:31,Completed,PRV000108,Lab order references missing encounter
+LORD000004615,ENC_BAD,PAT00001247,LAB007,2026-05-17 09:26:02,Pending,PRV_UNKNOWN,Lab order references missing encounter
+LORD000004976,ENC_BAD,PAT00003195,LAB008,2026-01-16 19:56:59,Completed,PRV000277,Lab order references missing encounter
+LORD000005554,ENC_BAD,PAT00000606,LAB001,2026-04-23 06:00:44,Completed,PRV000336,Lab order references missing encounter
+LORD000005605,ENC_BAD,PAT00000049,LAB007,2026-03-29 01:04:24,Completed,PRV000204,Lab order references missing encounter
+LORD000005851,ENC_BAD,PAT00002046,LAB003,2026-01-14 08:44:16,Completed,PRV000266,Lab order references missing encounter
