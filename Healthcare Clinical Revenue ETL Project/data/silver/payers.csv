@@ -1,0 +1,6 @@
+payer_id,payer_name,payer_type,contract_group
+PAY001,Blue Horizon Health,Commercial,COMM_A
+PAY002,United Regional Plan,Commercial,COMM_B
+PAY003,Federal Senior Health,Medicare-Like,GOV_A
+PAY004,State Community Health,Medicaid-Like,GOV_B
+PAY005,Self Pay,Self Pay,SELF

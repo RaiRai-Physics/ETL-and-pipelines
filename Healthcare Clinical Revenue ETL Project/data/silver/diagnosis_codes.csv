@@ -1,0 +1,16 @@
+diagnosis_code,diagnosis_description,diagnosis_group
+D001,Essential Hypertension,Cardiovascular
+D002,Type 2 Diabetes Mellitus,Endocrine
+D003,Pneumonia,Respiratory
+D004,Asthma,Respiratory
+D005,Chest Pain,Cardiovascular
+D006,Acute Appendicitis,Gastrointestinal
+D007,Fracture Of Femur,Musculoskeletal
+D008,Migraine,Neurological
+D009,Breast Malignancy,Oncology
+D010,Prostate Malignancy,Oncology
+D011,Sepsis,Infectious
+D012,Chronic Kidney Disease,Renal
+D013,Heart Failure,Cardiovascular
+D014,Copd,Respiratory
+D015,Urinary Tract Infection,Infectious

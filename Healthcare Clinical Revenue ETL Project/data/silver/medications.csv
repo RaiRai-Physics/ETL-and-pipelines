@@ -1,0 +1,11 @@
+medication_id,medication_name,medication_class,active_flag
+MED001,Lisinopril,Ace Inhibitor,True
+MED002,Metformin,Antidiabetic,True
+MED003,Atorvastatin,Statin,True
+MED004,Albuterol,Bronchodilator,True
+MED005,Ceftriaxone,Antibiotic,True
+MED006,Vancomycin,Antibiotic,True
+MED007,Morphine,Analgesic,True
+MED008,Ondansetron,Antiemetic,True
+MED009,Heparin,Anticoagulant,True
+MED010,Insulin Glargine,Insulin,True
