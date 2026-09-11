@@ -1,6 +1,6 @@
 # Telecom 5G Medallion ETL Project
 
-A fully synthetic, production-style ETL project built explicitly around the **Medallion Architecture**.
+A fully synthetic ETL project built explicitly around the **Medallion Architecture**.
 
 ## Business Scenario
 A telecom operator needs a trusted analytics platform combining subscriber/customer master data, devices, plans, voice calls, mobile-data sessions, SMS events, cell-tower KPIs, alarms, outages, invoices, payments, support tickets, and CDC feeds.
@@ -50,5 +50,5 @@ Tests:
 pytest -q
 ```
 
-## Resume Bullet
+## Summary
 Built a telecom 5G medallion ETL platform using Python, PySpark, and SQL to process ~300K synthetic usage, network, billing, and support records; implemented Bronze lineage, Silver standardization and quarantine, SCD Type 2 dimensions, network QoE analytics, revenue/AR marts, customer churn-risk scoring, and incremental watermarks.
