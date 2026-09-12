@@ -1,0 +1,2 @@
+CREATE TABLE dim_customer_scd2 (customer_sk VARCHAR, customer_id VARCHAR, customer_segment VARCHAR, credit_class VARCHAR, effective_start_date DATE, effective_end_date DATE, is_current BOOLEAN);
+CREATE TABLE fact_data_sessions (session_id VARCHAR, subscriber_id VARCHAR, customer_id VARCHAR, cell_id VARCHAR, site_id VARCHAR, session_start_ts TIMESTAMP, data_gb DECIMAL(18,4), latency_ms DECIMAL(18,4), packet_loss_pct DECIMAL(18,4), poor_qoe_flag BOOLEAN);
