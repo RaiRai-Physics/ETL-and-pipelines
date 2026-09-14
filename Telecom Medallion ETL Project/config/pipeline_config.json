@@ -1,0 +1,18 @@
+{
+  "project_name": "telecom_5g_medallion_etl_project",
+  "environment": "local",
+  "bronze_path": "data/bronze",
+  "silver_path": "data/silver",
+  "quarantine_path": "data/quarantine",
+  "gold_path": "data/gold",
+  "report_path": "reports",
+  "metadata_path": "metadata",
+  "high_data_usage_gb": 50,
+  "poor_latency_ms": 80,
+  "poor_packet_loss_pct": 2.0,
+  "high_drop_call_rate_pct": 3.0,
+  "high_cell_utilization_pct": 85.0,
+  "high_ticket_count": 4,
+  "past_due_as_of_date": "2026-06-15",
+  "default_watermark": "1900-01-01 00:00:00"
+}
