@@ -1,0 +1,150 @@
+table_name,column_name,blank_count,distinct_count,sample_values
+invoices,invoice_id,0,10000,INV400000001 | INV500000001 | INV400000002 | INV500000002 | INV400000003
+invoices,subscriber_id,0,5001,SUB00000001 | SUB00000002 | SUB00000003 | SUB00000004 | SUB00000005
+invoices,billing_month,0,2,2026-04-01 | 2026-05-01
+invoices,invoice_date,0,2,2026-04-28 | 2026-05-28
+invoices,due_date,0,2,2026-05-16 | 2026-06-15
+invoices,monthly_charge,0,7439,38.50 | 130.69 | 54.87 | 92.33 | 68.62
+invoices,usage_charge,0,3889,10.19 | 34.60 | 14.52 | 24.44 | 18.16
+invoices,tax_amount,0,2132,5.10 | 17.30 | 7.26 | 12.22 | 9.08
+invoices,other_fees,0,1201,2.83 | 9.61 | 4.03 | 6.79 | 5.05
+invoices,total_amount,0,8164,56.62 | 192.20 | 80.69 | 135.78 | 100.91
+invoices,invoice_status,0,5,Paid | Past Due | Open | Cancelled | open
+payments,payment_id,0,8985,PMT500000001 | PMT400000002 | PMT400000003 | PMT500000003 | PMT400000004
+payments,invoice_id,0,8967,INV500000001 | INV400000002 | INV400000003 | INV500000003 | INV400000004
+payments,payment_date,0,9,2026-07-02 | 2026-05-16 | 2026-06-15 | 2026-05-20 | 2026-06-07
+payments,payment_amount,0,7398,192.20 | 40.35 | 100.91 | 105.41 | 51.45
+payments,payment_method,0,5,ACH | Cash | Card | Check | ach
+payments,payment_status,0,5,Reversed | posted | Failed | Pending | Posted
+customer_cdc,cdc_id,0,500,CCDC0000001 | CCDC0000002 | CCDC0000003 | CCDC0000004 | CCDC0000005
+customer_cdc,customer_id,0,500,CUST00001686 | CUST00004084 | CUST00001902 | CUST00000287 | CUST00002290
+customer_cdc,effective_ts,0,500,2026-05-01 06:05:14 | 2026-02-10 12:42:19 | 2026-04-04 04:28:23 | 2026-02-19 03:10:40 | 2026-04-28 17:30:13
+customer_cdc,operation,0,1,UPDATE
+customer_cdc,new_segment,0,4,Small Business | Enterprise | Government | Consumer
+customer_cdc,new_credit_class,0,4,A | B | C | D
+customer_cdc,new_autopay_flag,0,2,N | Y
+customer_cdc,change_reason,0,4,segment_change | annual_review | credit_review | customer_request
+plan_cdc,cdc_id,0,15,PCDC00001 | PCDC00002 | PCDC00003 | PCDC00004 | PCDC00005
+plan_cdc,plan_id,0,15,PLN018 | PLN003 | PLN002 | PLN020 | PLN009
+plan_cdc,effective_ts,0,15,2026-02-08 15:26:51 | 2026-02-07 03:07:55 | 2026-05-14 11:59:51 | 2026-04-01 19:44:32 | 2026-02-13 01:44:47
+plan_cdc,operation,0,1,UPDATE
+plan_cdc,new_monthly_fee,0,15,36.57 | 136.05 | 117.78 | 42.05 | 34.29
+plan_cdc,new_data_gb,0,5,50 | 999 | 20 | 100 | 10
+plan_cdc,change_reason,0,3,promotion | pricing_update | plan_refresh
+cells,cell_id,0,255,CELL000001 | CELL000002 | CELL000003 | CELL000004 | CELL000005
+cells,site_id,0,60,SITE00001 | SITE00002 | SITE00003 | SITE00004 | SITE00005
+cells,technology,0,2,4G LTE | 5G NR
+cells,band,0,6,B12 | n77 | n71 | B2 | B4
+cells,sector,0,3,3 | 2 | 1
+cells,max_capacity_mbps,0,255,601.45 | 598.19 | 1253.23 | 846.65 | 650.98
+cells,active_flag,0,2,Y | N
+customers,customer_id,0,4500,CUST00000001 | CUST00000002 | CUST00000003 | CUST00000004 | CUST00000005
+customers,customer_name,0,4500,Alex Kim 1 | Jordan Garcia 2 | Taylor Lee 3 | Morgan Kim 4 | Alex Kim 5
+customers,customer_segment,0,5,Enterprise | Small Business | Government | Consumer | consumer
+customers,city,0,20,Denver | Portland | Jacksonville | Indianapolis | Nashville
+customers,region,0,5,West | Southeast | Midwest | Southwest | Northeast
+customers,signup_date,0,3189,2022-02-05 | 06/20/2025 | 11/15/2020 | 08/28/2022 | 04/13/2019
+customers,credit_class,0,5,B | C | A | D | a
+customers,autopay_flag,0,6,0 | Y | No | Yes | 1
+customers,active_flag,0,3,Y | N | True
+devices,device_id,0,2600,DEV0000001 | DEV0000002 | DEV0000003 | DEV0000004 | DEV0000005
+devices,customer_id,0,2007,CUST00001261 | CUST00003179 | CUST00000705 | CUST00004026 | CUST00002647
+devices,device_type,0,5,Hotspot | Wearable | Smartphone | Tablet | IoT Router
+devices,manufacturer,0,6,Apple | Motorola | Google | Nokia | Samsung
+devices,model,0,90,Model-28 | Model-34 | Model-79 | Model-24 | Model-98
+devices,imei_like,0,2600,525112966245082 | 506324064768826 | 174354008336898 | 250413007145017 | 481779475954732
+devices,activation_date,0,1568,2025-11-25 | 2023-10-27 | 2020-01-23 | 2025-07-05 | 2022-04-04
+devices,5g_capable_flag,0,3,Y | N | Yes
+devices,device_status,0,4,Suspended | Active | active | Retired
+plans,plan_id,0,20,PLN001 | PLN002 | PLN003 | PLN004 | PLN005
+plans,plan_name,0,20,Plus 1 | Premium 2 | Unlimited 3 | Premium 4 | Business 5
+plans,plan_type,0,3,Postpaid | Business | Prepaid
+plans,monthly_fee,0,7,25.00 | 110.00 | 150.00 | 35.00 | 70.00
+plans,included_voice_minutes,0,4,500 | 2000 | 1000 | 99999
+plans,included_sms,0,3,500 | 1000 | 99999
+plans,included_data_gb,0,5,10 | 20 | 5 | 100 | 999
+plans,overage_per_gb,0,3,15.00 | 5.00 | 10.00
+plans,active_flag,0,2,Y | N
+sites,site_id,0,60,SITE00001 | SITE00002 | SITE00003 | SITE00004 | SITE00005
+sites,site_name,0,60,Atlanta Macro 1 | Atlanta Macro 2 | Atlanta Macro 3 | Birmingham Macro 4 | Birmingham Macro 5
+sites,city,0,20,Atlanta | Birmingham | Nashville | Jacksonville | Chicago
+sites,region,0,5,Southeast | Midwest | Southwest | West | Northeast
+sites,latitude,0,60,41.21616 | 43.22002 | 42.00836 | 47.82204 | 30.89042
+sites,longitude,0,60,-108.39450 | -95.88055 | -114.53086 | -109.83231 | -99.68452
+sites,site_type,0,3,Small Cell | Macro | Rooftop
+sites,backhaul_type,0,3,Fiber | Microwave | Ethernet
+sites,active_flag,0,2,Y | N
+subscribers,subscriber_id,0,5200,SUB00000001 | SUB00000002 | SUB00000003 | SUB00000004 | SUB00000005
+subscribers,customer_id,0,3077,CUST00002628 | CUST00002217 | CUST00002693 | CUST00004213 | CUST00000289
+subscribers,device_id,0,2167,DEV0001380 | DEV0002484 | DEV0000816 | DEV0000240 | DEV0000873
+subscribers,plan_id,0,20,PLN001 | PLN019 | PLN011 | PLN008 | PLN013
+subscribers,msisdn_like,0,5200,5556083384 | 5557786359 | 5552248201 | 5555708113 | 5555053787
+subscribers,start_date,0,2060,2020-07-24 | 2025-07-10 | 2021-10-19 | 2022-09-05 | 2023-01-15
+subscribers,subscriber_status,0,4,Active | active | Suspended | Cancelled
+subscribers,home_region,0,5,Southeast | Midwest | West | Northeast | Southwest
+cell_kpis,cell_id,0,220,CELL000001 | CELL000002 | CELL000003 | CELL000004 | CELL000005
+cell_kpis,kpi_ts,0,744,2026-05-01 00:00:00 | 2026-05-01 01:00:00 | 2026-05-01 02:00:00 | 2026-05-01 03:00:00 | 2026-05-01 04:00:00
+cell_kpis,connected_users,0,441,111 | 244 | 256 | 56 | 147
+cell_kpis,throughput_mbps,0,142826,111.114 | 649.506 | 336.065 | 565.674 | 358.183
+cell_kpis,prb_utilization_pct,0,68911,59.609 | 52.539 | 29.821 | 100.000 | 80.740
+cell_kpis,drop_call_rate_pct,0,33271,0.0000 | 1.3244 | 0.2228 | 2.8395 | 1.7890
+cell_kpis,handover_success_pct,0,71748,96.6529 | 96.2091 | 100.0000 | 96.3440 | 98.3563
+cell_kpis,availability_pct,0,9861,99.9040 | 100.0000 | 99.8134 | 99.7436 | 99.6546
+network_alarms,alarm_id,0,2600,ALM00000001 | ALM00000002 | ALM00000003 | ALM00000004 | ALM00000005
+network_alarms,cell_id,0,221,CELL000070 | CELL000215 | CELL000085 | CELL000188 | CELL000127
+network_alarms,alarm_ts,0,2600,2026-05-07 13:13:17 | 2026-04-12 09:56:21 | 2026-05-01 13:36:04 | 2026-05-25 20:12:03 | 2026-05-29 22:54:22
+network_alarms,severity,0,5,Critical | major | Warning | Minor | Major
+network_alarms,alarm_type,0,6,Power | Sync | Backhaul | Software | Temperature
+network_alarms,cleared_ts,225,2375,2026-05-07 19:40:17 | 2026-04-12 17:36:21 | 2026-05-01 20:26:04 | 2026-05-25 23:40:03 | 2026-05-30 02:12:22
+network_alarms,alarm_status,0,4,Acknowledged | Cleared | cleared | Open
+site_outages,outage_id,0,400,OUT0000001 | OUT0000002 | OUT0000003 | OUT0000004 | OUT0000005
+site_outages,site_id,0,60,SITE00060 | SITE00055 | SITE00029 | SITE00025 | SITE00048
+site_outages,outage_start_ts,0,400,2026-05-24 18:06:38 | 2026-05-13 02:02:59 | 2026-05-16 23:24:39 | 2026-05-27 18:59:07 | 2026-04-17 14:41:19
+site_outages,outage_end_ts,0,400,2026-05-25 02:06:38 | 2026-05-13 02:32:59 | 2026-05-17 23:24:39 | 2026-05-27 20:59:07 | 2026-04-17 22:41:19
+site_outages,outage_type,0,5,Hardware | Weather | Power | Software | Fiber Cut
+site_outages,customers_affected,0,389,3459 | 1454 | 7634 | 5481 | 4787
+site_outages,status,0,3,Open | closed | Closed
+calendar,date_key,0,181,20260101 | 20260102 | 20260103 | 20260104 | 20260105
+calendar,calendar_date,0,181,2026-01-01 | 2026-01-02 | 2026-01-03 | 2026-01-04 | 2026-01-05
+calendar,year,0,1,2026
+calendar,quarter,0,2,1 | 2
+calendar,month,0,6,1 | 2 | 3 | 4 | 5
+calendar,week_of_year,0,27,1 | 2 | 3 | 4 | 5
+calendar,day_of_week,0,7,4 | 5 | 6 | 7 | 1
+calendar,is_weekend,0,2,N | Y
+support_tickets,ticket_id,0,6500,TKT00000001 | TKT00000002 | TKT00000003 | TKT00000004 | TKT00000005
+support_tickets,customer_id,0,3443,CUST00003680 | CUST00002439 | CUST00001532 | CUST00003299 | CUST00004166
+support_tickets,opened_ts,0,6497,2026-05-10 16:31:18 | 2026-03-22 16:49:38 | 2026-03-14 08:44:54 | 2026-03-30 03:02:52 | 2026-03-17 15:52:08
+support_tickets,resolved_ts,739,5761,2026-05-11 00:31:18 | 2026-03-23 11:49:38 |  | 2026-04-01 01:02:52 | 2026-03-21 01:52:08
+support_tickets,ticket_category,0,7,Activation | Dropped Calls | Device | Coverage | Roaming
+support_tickets,priority,0,5,medium | Low | Medium | High | Critical
+support_tickets,ticket_status,0,5,Resolved | Escalated | Pending Customer | resolved | Open
+support_tickets,channel,0,4,Phone | Web | App | Store
+data_sessions,session_id,0,42000,DATA0000000001 | DATA0000000002 | DATA0000000003 | DATA0000000004 | DATA0000000005
+data_sessions,subscriber_id,0,5001,SUB00003793 | SUB00001422 | SUB00002829 | SUB00000172 | SUB00004644
+data_sessions,cell_id,0,256,CELL000014 | CELL000122 | CELL000206 | CELL000044 | CELL000116
+data_sessions,session_start_ts,0,41840,2026-05-31 21:54:07 | 2026-05-11 05:19:16 | 2026-04-09 19:02:47 | 2026-05-10 11:35:26 | 2026-05-20 01:46:00
+data_sessions,session_end_ts,0,41848,2026-06-01 00:10:07 | 2026-05-11 06:50:16 | 2026-04-09 21:00:47 | 2026-05-10 11:46:26 | 2026-05-20 04:15:00
+data_sessions,data_mb,0,41212,584.884 | 134.873 | 1999.832 | 282.445 | 120.345
+data_sessions,avg_downlink_mbps,0,37133,96.308 | 120.280 | 103.880 | 50.977 | 100.084
+data_sessions,avg_uplink_mbps,0,26848,35.040 | 12.349 | 24.253 | 40.993 | 0.100
+data_sessions,latency_ms,0,29159,57.265 | 35.885 | 28.883 | 31.145 | 15.587
+data_sessions,packet_loss_pct,0,17285,0.7854 | 0.7285 | 0.7250 | 1.7124 | 1.3296
+data_sessions,roaming_flag,0,3,No | N | Y
+data_sessions,source_system,0,1,pgw
+sms_events,sms_id,0,18000,SMS0000000001 | SMS0000000002 | SMS0000000003 | SMS0000000004 | SMS0000000005
+sms_events,subscriber_id,0,4854,SUB00003751 | SUB00002912 | SUB00004206 | SUB00000342 | SUB00002633
+sms_events,cell_id,0,255,CELL000100 | CELL000211 | CELL000145 | CELL000251 | CELL000077
+sms_events,sms_ts,0,17970,2026-05-03 00:04:33 | 2026-04-21 15:05:09 | 2026-04-13 12:01:51 | 2026-05-20 14:51:29 | 2026-04-25 04:28:20
+sms_events,direction,0,2,MT | MO
+sms_events,delivery_status,0,3,Expired | Failed | Delivered
+sms_events,roaming_flag,0,2,N | Y
+voice_calls,call_id,0,28000,CALL0000000001 | CALL0000000002 | CALL0000000003 | CALL0000000004 | CALL0000000005
+voice_calls,subscriber_id,0,4988,SUB00001402 | SUB00003473 | SUB_BAD | SUB00003217 | SUB00004303
+voice_calls,cell_id,0,256,CELL000190 | CELL000234 | CELL000127 | CELL000058 | CELL000150
+voice_calls,call_start_ts,0,26919,04/15/2026 23:58 | 04/10/2026 10:42 | 04/14/2026 07:59 | 05/24/2026 15:56 | 04/20/2026 07:08
+voice_calls,duration_seconds,0,1020,335 | bad | 113 | 87 | 291
+voice_calls,call_direction,0,3,MO | MT | mo
+voice_calls,call_status,0,4,Completed | Failed | Dropped | completed
+voice_calls,roaming_flag,0,3,Y | No | N
+voice_calls,source_system,0,1,switch

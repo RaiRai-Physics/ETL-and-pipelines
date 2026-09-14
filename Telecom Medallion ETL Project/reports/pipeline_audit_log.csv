@@ -1,0 +1,2 @@
+pipeline_name,run_timestamp_utc,raw_file_count,raw_total_rows,silver_total_rows,quarantine_total_rows,gold_table_count,status
+telecom_5g_medallion_etl_project,2026-09-11T04:28:56.300961+00:00,18,293497,293496,14537,34,SUCCESS
