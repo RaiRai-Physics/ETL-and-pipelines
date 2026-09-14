@@ -1,0 +1,45 @@
+{
+  "voice_calls": {
+    "primary_key": [
+      "call_id"
+    ],
+    "foreign_keys": {
+      "subscriber_id": "subscribers.subscriber_id",
+      "cell_id": "cells.cell_id"
+    }
+  },
+  "data_sessions": {
+    "primary_key": [
+      "session_id"
+    ],
+    "foreign_keys": {
+      "subscriber_id": "subscribers.subscriber_id",
+      "cell_id": "cells.cell_id"
+    }
+  },
+  "invoices": {
+    "primary_key": [
+      "invoice_id"
+    ],
+    "foreign_keys": {
+      "subscriber_id": "subscribers.subscriber_id"
+    }
+  },
+  "payments": {
+    "primary_key": [
+      "payment_id"
+    ],
+    "foreign_keys": {
+      "invoice_id": "invoices.invoice_id"
+    }
+  },
+  "cell_kpis": {
+    "primary_key": [
+      "cell_id",
+      "kpi_ts"
+    ],
+    "foreign_keys": {
+      "cell_id": "cells.cell_id"
+    }
+  }
+}
