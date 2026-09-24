@@ -1,0 +1,934 @@
+customer_id,customer_name,customer_segment,city,region,signup_date,credit_class,autopay_flag,active_flag,ticket_count,open_ticket_count,avg_resolution_hours,total_data_gb,dropped_calls,poor_qoe_sessions,billed_amount,open_amount,past_due_invoices,churn_risk_score
+CUST00000004,Morgan Kim 4,Government,Indianapolis,Midwest,,D,False,False,4.0,1.0,43.666666666666664,2.5838544921875,0.0,0.0,177.99,11.439999999999998,0.0,31.0
+CUST00000009,Casey Lee 9,Government,Albuquerque,Southwest,2024-07-23,B,False,False,1.0,0.0,47.0,10.48015234375,0.0,1.0,578.66,578.66,2.0,26.25
+CUST00000011,Alex Kim 11,Government,Jacksonville,Southeast,2022-09-20,D,True,False,0.0,0.0,,5.790171875,1.0,0.0,273.82,120.63000000000001,1.0,22.5
+CUST00000013,Taylor Garcia 13,Consumer,Jacksonville,Southeast,2018-06-03,D,False,False,1.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000016,Taylor Garcia 16,Enterprise,Dallas,Southwest,,C,False,False,0.0,0.0,,9.8990888671875,0.0,2.0,411.83,411.83,1.0,22.5
+CUST00000025,Alex Smith 25,Enterprise,Denver,West,2020-04-07,B,False,False,1.0,0.0,111.0,0.0,0.0,0.0,216.74,0.0,0.0,22.0
+CUST00000028,Jordan Smith 28,Small Business,Jacksonville,Southeast,2023-03-30,A,True,True,3.0,2.0,52.0,6.067482421875,3.0,2.0,287.1,250.45000000000002,1.0,16.0
+CUST00000036,Morgan Patel 36,Enterprise,Philadelphia,Northeast,,A,True,False,0.0,0.0,,5.758005859375,0.0,0.0,311.71000000000004,54.54,0.0,20.0
+CUST00000040,Riley Lee 40,Small Business,Boston,Northeast,2025-11-02,B,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000043,Casey Kim 43,Small Business,Philadelphia,Northeast,2024-02-05,C,False,False,1.0,1.0,,4.2183349609375,0.0,1.0,218.62,208.24,1.0,27.25
+CUST00000048,Alex Patel 48,Consumer,Phoenix,Southwest,2022-07-09,D,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000071,Jordan Brown 71,Consumer,San Diego,West,2021-01-19,A,True,True,4.0,2.0,67.5,0.5863720703125,1.0,0.0,396.27,286.76,2.0,18.5
+CUST00000079,Jordan Smith 79,Consumer,Jacksonville,Southeast,,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000081,Alex Kim 81,Government,Austin,Southwest,2019-04-13,C,True,False,3.0,0.0,68.33333333333333,4.310390625,0.0,2.0,256.32,52.65,1.0,28.5
+CUST00000083,Riley Lee 83,Consumer,Columbus,Midwest,2024-09-30,A,False,False,1.0,0.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000094,Morgan Patel 94,Consumer,Nashville,Southeast,,A,False,False,2.0,0.0,74.5,8.3491865234375,2.0,0.0,239.54999999999998,239.54999999999998,1.0,27.0
+CUST00000099,Alex Patel 99,Consumer,Jacksonville,Southeast,2024-05-05,A,True,False,2.0,0.0,101.0,4.2705966796874995,0.0,0.0,411.07,411.07,1.0,26.0
+CUST00000106,Riley Brown 106,Enterprise,Austin,Southwest,,A,True,False,1.0,0.0,35.0,12.744142578125,1.0,0.0,797.49,577.8499999999999,3.0,28.5
+CUST00000109,Morgan Patel 109,Consumer,Chicago,Midwest,,A,True,False,2.0,0.0,76.0,14.200984375,1.0,1.0,964.13,857.36,2.0,28.75
+CUST00000115,Riley Kim 115,Consumer,Atlanta,Southeast,2022-08-22,D,True,False,0.0,0.0,,7.8477265625,1.0,0.0,471.90999999999997,390.89,2.0,24.5
+CUST00000117,Morgan Patel 117,Enterprise,Columbus,Midwest,2021-06-23,C,True,False,4.0,0.0,76.75,16.4657890625,1.0,0.0,579.76,526.22,2.0,32.5
+CUST00000118,Taylor Patel 118,Enterprise,Nashville,Southeast,2018-03-29,C,False,False,0.0,0.0,,5.221998046875,0.0,1.0,158.51,19.120000000000005,1.0,22.25
+CUST00000123,Alex Patel 123,Consumer,Jacksonville,Southeast,,C,True,False,2.0,0.0,20.5,6.0243564453125,1.0,0.0,622.81,622.81,2.0,28.5
+CUST00000124,Taylor Brown 124,Small Business,Albuquerque,Southwest,,B,False,False,0.0,0.0,,7.8029023437500005,0.0,0.0,875.43,534.27,3.0,26.0
+CUST00000134,Morgan Brown 134,Small Business,Phoenix,Southwest,,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000136,Alex Brown 136,Consumer,Buffalo,Northeast,2021-04-23,A,False,False,0.0,0.0,,7.8260419921875,1.0,0.0,690.1600000000001,0.0,0.0,20.5
+CUST00000139,Alex Smith 139,Consumer,Austin,Southwest,2018-05-27,B,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000148,Jordan Lee 148,Consumer,Nashville,Southeast,2024-09-27,C,True,False,3.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00000150,Riley Garcia 150,Government,Boston,Northeast,,A,True,False,2.0,0.0,48.0,2.7595009765625003,1.0,1.0,107.35,61.73,0.0,24.75
+CUST00000158,Morgan Lee 158,Government,Birmingham,Southeast,2019-05-23,A,False,False,0.0,0.0,,5.4431787109375,1.0,0.0,271.9,271.9,1.0,22.5
+CUST00000163,Jordan Kim 163,Government,Detroit,Midwest,,D,True,False,1.0,0.0,113.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000168,Morgan Garcia 168,Small Business,Boston,Northeast,,A,True,False,1.0,0.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000170,Casey Smith 170,Small Business,Detroit,Midwest,,D,True,False,1.0,0.0,68.0,13.9965498046875,1.0,4.0,671.69,117.17,1.0,25.5
+CUST00000171,Alex Brown 171,Consumer,Albuquerque,Southwest,2024-06-22,D,True,False,1.0,1.0,,3.62989453125,3.0,1.0,298.01,264.25,1.0,28.75
+CUST00000175,Morgan Smith 175,Government,Chicago,Midwest,2018-02-14,C,True,False,4.0,1.0,52.0,9.8746015625,2.0,0.0,384.21,179.82,1.0,34.0
+CUST00000176,Casey Smith 176,Consumer,Denver,West,,D,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000188,Riley Garcia 188,Small Business,Denver,West,,A,False,False,0.0,0.0,,1.911080078125,0.0,1.0,320.27,23.66,1.0,22.25
+CUST00000189,Riley Smith 189,Consumer,Albuquerque,Southwest,2019-11-26,B,False,False,2.0,0.0,84.0,6.05289453125,2.0,1.0,208.52,208.52,1.0,27.25
+CUST00000191,Jordan Kim 191,Consumer,Nashville,Southeast,2019-04-24,D,True,False,1.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000193,Alex Garcia 193,Enterprise,Denver,West,2018-05-15,A,False,True,4.0,1.0,82.0,9.7351083984375,2.0,0.0,593.13,568.79,2.0,16.0
+CUST00000203,Riley Garcia 203,Consumer,Birmingham,Southeast,,B,False,False,3.0,1.0,76.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00000212,Riley Kim 212,Enterprise,Phoenix,Southwest,,B,False,False,1.0,1.0,,3.765115234375,2.0,1.0,394.75,364.18,2.0,30.25
+CUST00000213,Morgan Patel 213,Consumer,Buffalo,Northeast,2018-04-24,C,True,False,3.0,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00000215,Riley Smith 215,Enterprise,Buffalo,Northeast,2023-11-12,A,False,False,2.0,0.0,42.0,7.011181640625,3.0,2.0,643.74,196.2,1.0,28.0
+CUST00000222,Jordan Smith 222,Small Business,Chicago,Midwest,2024-07-23,B,False,False,3.0,0.0,91.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00000223,Jordan Lee 223,Small Business,Philadelphia,Northeast,,A,False,False,3.0,0.0,67.0,1.8423623046875,0.0,0.0,220.34,25.02,0.0,26.0
+CUST00000240,Alex Patel 240,Consumer,Boston,Northeast,2023-04-25,A,False,False,4.0,0.0,37.5,10.2380693359375,2.0,1.0,780.75,453.35,1.0,31.25
+CUST00000244,Jordan Smith 244,Enterprise,Philadelphia,Northeast,2019-02-28,C,False,False,1.0,0.0,104.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000248,Casey Lee 248,Consumer,Albany,Northeast,,A,True,False,0.0,0.0,,4.4110087890625,1.0,0.0,430.2,196.38,0.0,20.5
+CUST00000261,Riley Garcia 261,Consumer,Phoenix,Southwest,,A,True,False,1.0,0.0,115.0,1.8313369140625,1.0,0.0,267.65999999999997,156.6,1.0,24.5
+CUST00000264,Riley Brown 264,Enterprise,Detroit,Midwest,,B,False,False,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+CUST00000276,Taylor Smith 276,Small Business,Austin,Southwest,2022-08-16,A,False,False,3.0,0.0,50.666666666666664,1.4024511718750001,0.0,2.0,388.02,388.02,1.0,28.5
+CUST00000279,Casey Patel 279,Consumer,Jacksonville,Southeast,2023-05-14,A,True,False,1.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000284,Casey Garcia 284,Consumer,Birmingham,Southeast,2025-10-11,D,False,False,0.0,0.0,,6.873369140625,2.0,1.0,731.92,378.84,1.0,23.25
+CUST00000286,Casey Kim 286,Small Business,Albany,Northeast,,B,False,False,1.0,0.0,63.0,3.4113037109375,2.0,0.0,537.82,245.0,2.0,27.0
+CUST00000287,Alex Patel 287,Consumer,Albany,Northeast,2021-05-25,A,False,False,0.0,0.0,,6.727693359375,2.0,0.0,585.33,478.88000000000005,2.0,25.0
+CUST00000296,Taylor Smith 296,Consumer,Indianapolis,Midwest,2022-03-05,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000297,Alex Garcia 297,Enterprise,Denver,West,,B,True,True,5.0,0.0,42.4,13.7926787109375,5.0,0.0,666.5699999999999,401.28999999999996,2.0,16.5
+CUST00000298,Casey Brown 298,Small Business,Dallas,Southwest,2025-12-28,D,False,False,0.0,0.0,,1.8684921875,1.0,0.0,110.74,110.74,1.0,22.5
+CUST00000300,Casey Brown 300,Enterprise,Columbus,Midwest,2023-05-24,C,True,False,1.0,0.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000301,Taylor Lee 301,Consumer,Birmingham,Southeast,,C,True,False,1.0,0.0,106.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000308,Jordan Brown 308,Government,Philadelphia,Northeast,,D,False,False,4.0,1.0,82.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+CUST00000314,Casey Lee 314,Consumer,Austin,Southwest,2023-02-21,C,False,False,2.0,2.0,,0.0,0.0,0.0,0.0,0.0,0.0,30.0
+CUST00000320,Taylor Kim 320,Government,Philadelphia,Northeast,,C,False,False,2.0,1.0,8.0,3.6874687500000003,1.0,0.0,216.0,216.0,1.0,29.5
+CUST00000329,Alex Patel 329,Consumer,Denver,West,2024-07-25,D,True,False,1.0,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000344,Riley Lee 344,Small Business,Buffalo,Northeast,2018-09-30,C,False,False,2.0,1.0,95.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00000349,Casey Smith 349,Small Business,Atlanta,Southeast,,A,True,False,1.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000358,Casey Smith 358,Small Business,San Diego,West,,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000368,Casey Kim 368,Government,Boston,Northeast,,C,True,False,5.0,1.0,35.75,7.315447265625,0.0,1.0,329.53999999999996,0.0,0.0,33.25
+CUST00000375,Jordan Smith 375,Consumer,Austin,Southwest,2024-10-10,A,True,False,0.0,0.0,,12.364748046874999,1.0,0.0,379.33,224.57,2.0,24.5
+CUST00000379,Taylor Smith 379,Enterprise,Indianapolis,Midwest,2024-11-28,A,False,False,2.0,0.0,72.0,11.6121826171875,2.0,1.0,421.61,421.61,2.0,29.25
+CUST00000384,Riley Garcia 384,Consumer,Portland,West,2021-03-22,A,False,False,3.0,0.0,80.33333333333333,6.2899521484375,0.0,0.0,336.7,114.91,1.0,28.0
+CUST00000391,Morgan Patel 391,Small Business,Atlanta,Southeast,,B,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000393,Taylor Brown 393,Consumer,Phoenix,Southwest,,C,False,False,0.0,0.0,,3.613544921875,0.0,1.0,287.03,29.09,1.0,22.25
+CUST00000414,Riley Smith 414,Government,Portland,West,,B,False,False,1.0,0.0,46.0,7.6366806640625,0.0,0.0,449.7,256.88,2.0,26.0
+CUST00000420,Alex Garcia 420,Enterprise,Indianapolis,Midwest,,B,True,False,2.0,0.0,107.0,2.0006425781250003,1.0,1.0,125.92999999999999,125.92999999999999,1.0,26.75
+CUST00000423,Morgan Kim 423,Government,Albuquerque,Southwest,2023-07-07,A,False,False,2.0,0.0,25.5,13.80676171875,0.0,1.0,137.62,61.56,1.0,26.25
+CUST00000431,Taylor Brown 431,Small Business,Birmingham,Southeast,,A,True,False,3.0,2.0,55.0,3.157607421875,0.0,0.0,247.45,247.45,1.0,34.0
+CUST00000433,Jordan Smith 433,Consumer,Boston,Northeast,,B,False,False,4.0,1.0,69.33333333333333,5.3919443359375,2.0,1.0,463.72,245.89,0.0,32.25
+CUST00000434,Jordan Lee 434,Enterprise,Detroit,Midwest,,D,True,False,2.0,0.0,47.0,4.2534140625,2.0,0.0,298.82,258.68,0.0,25.0
+CUST00000436,Jordan Smith 436,Consumer,Detroit,Midwest,2024-09-11,C,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000439,Jordan Brown 439,Consumer,Atlanta,Southeast,,D,True,False,1.0,0.0,120.0,4.645975585937499,2.0,0.0,93.61,93.61,1.0,25.0
+CUST00000440,Casey Patel 440,Enterprise,Buffalo,Northeast,2019-08-07,C,False,False,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+CUST00000447,Morgan Kim 447,Consumer,Philadelphia,Northeast,2025-12-26,C,False,False,1.0,0.0,96.0,8.3635595703125,1.0,0.0,415.8,154.7,1.0,24.5
+CUST00000453,Taylor Garcia 453,Consumer,Columbus,Midwest,,C,False,False,1.0,0.0,81.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000459,Alex Brown 459,Government,Atlanta,Southeast,,C,False,False,1.0,0.0,1.0,7.6090107421875,0.0,1.0,831.62,586.87,3.0,28.25
+CUST00000461,Alex Kim 461,Small Business,Detroit,Midwest,,C,True,True,3.0,1.0,92.5,18.0705595703125,3.0,4.0,555.86,401.93,2.0,15.5
+CUST00000475,Alex Kim 475,Consumer,San Diego,West,,A,False,False,2.0,0.0,49.0,9.926664062499999,1.0,0.0,377.09000000000003,285.58,1.0,26.5
+CUST00000477,Taylor Smith 477,Consumer,Albuquerque,Southwest,2019-03-09,C,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000480,Taylor Brown 480,Consumer,Indianapolis,Midwest,2020-05-11,A,False,False,1.0,0.0,38.0,13.5592841796875,2.0,3.0,810.5600000000001,167.02000000000004,1.0,25.75
+CUST00000484,Alex Kim 484,Enterprise,Boston,Northeast,,A,True,False,2.0,1.0,73.0,6.9003056640625005,1.0,0.0,499.51,244.77999999999997,2.0,31.5
+CUST00000490,Jordan Patel 490,Consumer,Albuquerque,Southwest,,A,False,False,1.0,0.0,57.0,13.6986044921875,0.0,1.0,792.66,792.66,3.0,28.25
+CUST00000492,Morgan Patel 492,Small Business,Portland,West,,A,False,False,2.0,0.0,84.0,5.6112158203125,1.0,1.0,249.98000000000002,124.99000000000001,1.0,26.75
+CUST00000498,Casey Garcia 498,Government,Chicago,Midwest,,A,True,False,3.0,2.0,35.0,20.358749023437497,2.0,0.0,592.08,493.07000000000005,3.0,39.0
+CUST00000502,Casey Lee 502,Consumer,Indianapolis,Midwest,,A,False,False,4.0,0.0,66.75,19.765744140625,0.0,2.0,1032.74,495.85,1.0,30.5
+CUST00000503,Jordan Kim 503,Enterprise,Indianapolis,Midwest,,A,True,False,4.0,1.0,58.333333333333336,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+CUST00000504,Riley Patel 504,Consumer,Indianapolis,Midwest,,C,True,False,0.0,0.0,,3.6270957031249997,0.0,0.0,225.98999999999998,62.73,1.0,22.0
+CUST00000507,Jordan Smith 507,Consumer,Austin,Southwest,2025-06-27,A,False,False,3.0,2.0,4.0,3.4419853515625,2.0,0.0,384.84000000000003,361.69,3.0,39.0
+CUST00000519,Morgan Lee 519,Small Business,Chicago,Midwest,,A,False,False,0.0,0.0,,9.6726171875,1.0,0.0,411.86,191.61,1.0,22.5
+CUST00000529,Riley Lee 529,Small Business,Philadelphia,Northeast,,C,False,True,4.0,2.0,66.5,5.590152343750001,2.0,0.0,550.3100000000001,509.35,2.0,19.0
+CUST00000533,Alex Brown 533,Enterprise,Phoenix,Southwest,2023-04-10,D,False,False,1.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000538,Riley Brown 538,Consumer,Nashville,Southeast,2020-01-27,A,True,False,1.0,0.0,1.0,9.5976748046875,0.0,2.0,452.06,372.75,2.0,26.5
+CUST00000542,Riley Kim 542,Enterprise,San Diego,West,,C,True,False,1.0,0.0,82.0,3.5844267578125,0.0,0.0,405.17,157.33,0.0,22.0
+CUST00000543,Riley Lee 543,Consumer,Buffalo,Northeast,2018-07-30,C,True,False,1.0,0.0,112.0,18.5411220703125,5.0,1.0,1111.67,911.74,4.0,32.75
+CUST00000545,Jordan Smith 545,Consumer,Denver,West,2023-12-20,A,False,False,0.0,0.0,,1.08737109375,2.0,0.0,483.44,295.59000000000003,2.0,25.0
+CUST00000547,Taylor Smith 547,Enterprise,Dallas,Southwest,2026-03-18,A,False,False,3.0,0.0,91.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00000554,Morgan Garcia 554,Consumer,Birmingham,Southeast,2021-07-04,A,False,False,2.0,1.0,46.0,2.691025390625,0.0,0.0,228.12,0.0,0.0,27.0
+CUST00000590,Alex Lee 590,Small Business,Columbus,Midwest,,D,True,False,1.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000596,Alex Garcia 596,Consumer,Austin,Southwest,,B,False,False,1.0,0.0,106.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000606,Morgan Garcia 606,Enterprise,Detroit,Midwest,2018-10-11,C,False,False,0.0,0.0,,2.2501171875,0.0,0.0,462.19,462.19,1.0,22.0
+CUST00000618,Morgan Kim 618,Government,Chicago,Midwest,2025-04-13,A,True,False,0.0,0.0,,4.204383789062501,2.0,0.0,326.12,181.32999999999998,1.0,23.0
+CUST00000625,Taylor Smith 625,Government,Albany,Northeast,2025-11-18,B,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000630,Casey Garcia 630,Consumer,Detroit,Midwest,2020-09-08,B,False,False,2.0,1.0,47.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00000632,Jordan Garcia 632,Consumer,Albany,Northeast,,D,False,False,2.0,0.0,28.5,2.154298828125,1.0,0.0,155.57,13.280000000000001,1.0,26.5
+CUST00000634,Morgan Kim 634,Consumer,San Diego,West,,B,True,False,1.0,0.0,59.0,1.2850576171875,0.0,0.0,237.0,237.0,1.0,24.0
+CUST00000636,Morgan Brown 636,Consumer,Jacksonville,Southeast,,A,False,False,3.0,0.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00000643,Casey Lee 643,Government,Detroit,Midwest,,C,True,False,2.0,0.0,35.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000644,Riley Garcia 644,Consumer,Detroit,Midwest,,A,True,False,4.0,0.0,50.75,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+CUST00000649,Morgan Garcia 649,Consumer,Seattle,West,,D,False,False,0.0,0.0,,6.629672851562501,0.0,1.0,339.18,339.18,1.0,22.25
+CUST00000650,Jordan Brown 650,Consumer,Jacksonville,Southeast,2022-09-23,C,True,False,2.0,0.0,70.5,6.961669921875,0.0,0.0,328.5,132.92,0.0,24.0
+CUST00000653,Taylor Brown 653,Government,Boston,Northeast,2020-10-27,A,True,False,2.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000658,Jordan Lee 658,Enterprise,Chicago,Midwest,2024-04-19,B,True,False,3.0,1.0,94.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00000662,Morgan Lee 662,Enterprise,Buffalo,Northeast,2018-10-15,D,False,False,1.0,0.0,61.0,7.8187333984375,1.0,1.0,595.91,0.0,0.0,22.75
+CUST00000665,Riley Lee 665,Small Business,Chicago,Midwest,2025-08-20,C,True,False,1.0,0.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000668,Casey Kim 668,Small Business,Denver,West,,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000670,Casey Garcia 670,Consumer,Chicago,Midwest,,A,True,False,0.0,0.0,,6.715578125,2.0,3.0,651.88,356.55,2.0,25.75
+CUST00000672,Alex Smith 672,Consumer,Austin,Southwest,,A,False,False,3.0,0.0,51.333333333333336,6.730140624999999,2.0,1.0,1090.01,713.9,3.0,33.25
+CUST00000674,Riley Kim 674,Government,Detroit,Midwest,2026-01-11,A,True,False,1.0,0.0,103.0,4.3060791015625,0.0,0.0,320.69,320.69,1.0,24.0
+CUST00000679,Taylor Brown 679,Consumer,Seattle,West,,C,True,False,3.0,0.0,67.66666666666667,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00000684,Jordan Smith 684,Consumer,Nashville,Southeast,,C,False,False,0.0,0.0,,1.8952080078125,1.0,1.0,236.67,236.67,1.0,22.75
+CUST00000685,Casey Kim 685,Enterprise,Atlanta,Southeast,2025-04-23,A,True,False,2.0,0.0,55.0,4.0049423828125,0.0,1.0,228.20000000000002,228.20000000000002,1.0,26.25
+CUST00000689,Alex Kim 689,Government,Philadelphia,Northeast,,D,True,True,3.0,2.0,20.0,4.243611328125,2.0,2.0,277.43,277.43,1.0,15.5
+CUST00000700,Taylor Lee 700,Enterprise,San Diego,West,,B,False,False,1.0,0.0,31.0,3.326029296875,2.0,1.0,147.52,0.0,0.0,23.25
+CUST00000708,Alex Lee 708,Enterprise,Austin,Southwest,,D,False,False,3.0,0.0,85.0,1.3120849609375,1.0,0.0,692.72,435.89,2.0,30.5
+CUST00000716,Taylor Patel 716,Consumer,Boston,Northeast,,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000718,Alex Garcia 718,Enterprise,Jacksonville,Southeast,2025-04-27,A,True,False,2.0,1.0,99.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00000719,Morgan Smith 719,Consumer,Phoenix,Southwest,2025-12-05,C,True,False,4.0,0.0,63.5,4.837748046875,1.0,1.0,419.45,354.68,2.0,32.75
+CUST00000721,Alex Smith 721,Enterprise,Seattle,West,,B,False,False,1.0,0.0,89.0,2.7036416015625,0.0,1.0,624.5500000000001,406.59000000000003,1.0,24.25
+CUST00000722,Morgan Brown 722,Consumer,Phoenix,Southwest,,B,True,False,1.0,0.0,71.0,3.7532705078125,0.0,0.0,73.45,0.0,0.0,22.0
+CUST00000734,Morgan Lee 734,Consumer,Columbus,Midwest,2021-07-17,B,False,False,0.0,0.0,,3.036548828125,0.0,0.0,286.75,286.75,1.0,22.0
+CUST00000738,Riley Smith 738,Consumer,Columbus,Midwest,,A,False,False,1.0,0.0,65.0,4.7401962890625,0.0,1.0,528.14,353.83000000000004,2.0,26.25
+CUST00000754,Alex Kim 754,Enterprise,Jacksonville,Southeast,,A,True,False,2.0,0.0,75.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000761,Jordan Patel 761,Enterprise,Nashville,Southeast,,A,True,False,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+CUST00000763,Jordan Smith 763,Consumer,Chicago,Midwest,2018-05-16,D,False,True,6.0,1.0,69.4,0.0,0.0,0.0,0.0,0.0,0.0,15.0
+CUST00000766,Jordan Patel 766,Consumer,San Diego,West,2025-03-16,A,False,False,3.0,0.0,64.33333333333333,3.0017744140625,0.0,1.0,240.19,0.0,0.0,26.25
+CUST00000777,Casey Garcia 777,Consumer,Dallas,Southwest,2026-04-27,A,False,False,2.0,0.0,67.0,13.52539453125,3.0,2.0,645.61,246.39999999999998,1.0,28.0
+CUST00000779,Alex Kim 779,Enterprise,Nashville,Southeast,2019-11-02,D,True,False,1.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000781,Morgan Brown 781,Consumer,Austin,Southwest,2023-07-26,B,False,False,2.0,1.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00000783,Jordan Lee 783,Government,Chicago,Midwest,2023-06-04,D,True,False,6.0,2.0,73.25,5.6230224609375,1.0,2.0,560.64,220.03,1.0,41.0
+CUST00000789,Alex Smith 789,Consumer,Portland,West,,D,False,False,1.0,0.0,102.0,5.435283203125,2.0,1.0,271.79999999999995,110.91,1.0,25.25
+CUST00000792,Morgan Smith 792,Consumer,Albuquerque,Southwest,2021-05-31,D,False,False,2.0,0.0,53.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000794,Alex Lee 794,Enterprise,Seattle,West,2024-08-21,C,False,False,2.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000803,Jordan Garcia 803,Consumer,San Diego,West,2024-09-30,A,True,False,1.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000808,Morgan Smith 808,Consumer,Phoenix,Southwest,,A,True,True,6.0,0.0,47.5,19.197474609375,1.0,1.0,500.98,358.78000000000003,2.0,16.75
+CUST00000809,Riley Patel 809,Enterprise,Columbus,Midwest,2020-04-24,D,False,False,2.0,0.0,71.0,21.3590634765625,0.0,1.0,933.03,572.0,1.0,26.25
+CUST00000811,Riley Smith 811,Consumer,Birmingham,Southeast,,A,False,False,3.0,0.0,62.666666666666664,3.3365966796874997,1.0,0.0,788.04,292.89,1.0,28.5
+CUST00000812,Jordan Smith 812,Government,Jacksonville,Southeast,2019-03-02,A,False,False,1.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000816,Riley Garcia 816,Enterprise,Birmingham,Southeast,2019-10-28,D,True,False,2.0,1.0,111.0,14.7075400390625,3.0,1.0,433.33,248.23,1.0,30.75
+CUST00000826,Alex Brown 826,Enterprise,Albany,Northeast,,C,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000830,Riley Brown 830,Small Business,Chicago,Midwest,2022-05-15,A,False,True,4.0,0.0,45.75,18.9276923828125,3.0,0.0,844.87,624.57,3.0,15.5
+CUST00000833,Alex Brown 833,Government,Portland,West,2018-10-15,A,True,False,3.0,0.0,33.666666666666664,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00000834,Jordan Lee 834,Government,Indianapolis,Midwest,2023-01-05,B,False,False,3.0,1.0,93.5,7.1506552734375,0.0,0.0,292.92,0.0,0.0,29.0
+CUST00000837,Taylor Kim 837,Enterprise,Philadelphia,Northeast,,B,False,False,2.0,0.0,44.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000839,Casey Brown 839,Small Business,Albany,Northeast,2021-06-29,C,False,False,2.0,0.0,78.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000853,Alex Smith 853,Small Business,Portland,West,2020-07-12,A,False,True,3.0,1.0,44.0,15.6389755859375,2.0,1.0,977.78,589.04,3.0,16.25
+CUST00000855,Riley Smith 855,Consumer,Phoenix,Southwest,,A,True,False,2.0,0.0,46.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000856,Alex Kim 856,Enterprise,Seattle,West,,A,False,False,0.0,0.0,,1.051265625,0.0,0.0,125.25,83.24,1.0,22.0
+CUST00000858,Alex Brown 858,Consumer,Detroit,Midwest,,A,False,False,3.0,0.0,43.333333333333336,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00000862,Casey Kim 862,Enterprise,Philadelphia,Northeast,2021-01-19,D,True,False,0.0,0.0,,5.922594726562499,0.0,0.0,191.60000000000002,191.60000000000002,1.0,22.0
+CUST00000867,Casey Brown 867,Consumer,Nashville,Southeast,2025-10-25,D,True,False,2.0,0.0,76.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000871,Casey Patel 871,Enterprise,San Diego,West,,A,True,False,0.0,0.0,,4.002201171875,0.0,0.0,290.06,130.44,0.0,20.0
+CUST00000876,Riley Kim 876,Small Business,Philadelphia,Northeast,,C,False,False,1.0,0.0,53.0,5.6065478515625005,0.0,1.0,423.48,186.53,0.0,22.25
+CUST00000880,Taylor Kim 880,Consumer,Buffalo,Northeast,,A,True,False,2.0,0.0,66.5,5.643368164062499,2.0,0.0,1072.16,759.9300000000001,3.0,31.0
+CUST00000886,Taylor Garcia 886,Consumer,Chicago,Midwest,2018-06-29,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000889,Taylor Smith 889,Small Business,Buffalo,Northeast,2025-10-30,A,False,False,2.0,0.0,17.5,4.562212890625,0.0,0.0,220.66000000000003,220.66000000000003,1.0,26.0
+CUST00000896,Riley Kim 896,Enterprise,Birmingham,Southeast,2019-10-25,C,True,False,2.0,0.0,78.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000900,Taylor Kim 900,Consumer,Birmingham,Southeast,2023-07-31,A,True,False,2.0,1.0,12.0,5.4661796875,0.0,0.0,281.15999999999997,95.19,0.0,27.0
+CUST00000903,Riley Kim 903,Enterprise,Portland,West,2018-01-28,C,False,False,3.0,1.0,53.5,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00000913,Alex Patel 913,Small Business,Albuquerque,Southwest,,C,False,False,3.0,1.0,68.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00000919,Casey Garcia 919,Consumer,Atlanta,Southeast,,A,False,False,0.0,0.0,,0.7498369140625,0.0,0.0,257.15999999999997,105.52,0.0,20.0
+CUST00000928,Casey Patel 928,Consumer,Albuquerque,Southwest,,D,False,False,1.0,0.0,91.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000932,Taylor Lee 932,Consumer,Indianapolis,Midwest,2025-02-12,D,True,False,1.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000936,Alex Brown 936,Small Business,Philadelphia,Northeast,2020-02-26,B,False,False,4.0,0.0,63.25,5.3795693359375,1.0,0.0,430.31,201.03,0.0,28.5
+CUST00000938,Taylor Smith 938,Small Business,Portland,West,,C,True,False,1.0,0.0,38.0,3.8122080078125,0.0,1.0,174.88,107.6,1.0,24.25
+CUST00000945,Casey Patel 945,Small Business,Dallas,Southwest,,A,False,False,1.0,0.0,22.0,8.4136962890625,1.0,0.0,212.85000000000002,43.09,1.0,24.5
+CUST00000949,Morgan Garcia 949,Small Business,Boston,Northeast,2022-04-01,A,True,False,1.0,0.0,106.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00000964,Alex Lee 964,Consumer,Columbus,Midwest,2018-08-16,C,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000967,Riley Lee 967,Small Business,Chicago,Midwest,2026-03-06,D,False,False,0.0,0.0,,21.222939453125,0.0,3.0,617.31,617.31,2.0,24.75
+CUST00000970,Taylor Brown 970,Consumer,San Diego,West,2023-02-24,B,False,False,0.0,0.0,,8.730994140625,3.0,0.0,1057.97,767.97,2.0,25.5
+CUST00000975,Casey Smith 975,Small Business,Detroit,Midwest,,B,True,False,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+CUST00000978,Morgan Brown 978,Consumer,Indianapolis,Midwest,2020-08-23,A,False,False,1.0,0.0,35.0,5.6049111328125,1.0,0.0,299.20000000000005,234.39000000000001,1.0,24.5
+CUST00000979,Morgan Lee 979,Small Business,Denver,West,2023-02-21,A,True,False,2.0,0.0,45.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00000984,Riley Garcia 984,Government,Austin,Southwest,,D,False,False,0.0,0.0,,5.6674892578125,1.0,0.0,112.52,26.91,0.0,20.5
+CUST00000993,Casey Brown 993,Enterprise,Phoenix,Southwest,2025-04-09,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00000996,Morgan Brown 996,Small Business,Austin,Southwest,,A,False,False,2.0,1.0,83.0,7.5906513671875,0.0,0.0,894.54,894.54,2.0,31.0
+CUST00001006,Jordan Brown 1006,Government,Boston,Northeast,,C,False,False,1.0,0.0,8.0,5.9024619140625,1.0,2.0,265.91,265.91,1.0,25.0
+CUST00001013,Jordan Smith 1013,Enterprise,Austin,Southwest,2020-04-24,A,True,False,1.0,0.0,13.0,8.4278369140625,1.0,0.0,332.96000000000004,332.96000000000004,1.0,24.5
+CUST00001018,Morgan Smith 1018,Enterprise,Atlanta,Southeast,,C,False,False,2.0,0.0,76.0,15.4815341796875,2.0,0.0,359.13,187.35,2.0,29.0
+CUST00001027,Alex Kim 1027,Consumer,Indianapolis,Midwest,2025-09-13,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001031,Morgan Lee 1031,Consumer,Austin,Southwest,2023-07-24,A,True,False,2.0,0.0,20.0,4.0687138671875,0.0,2.0,575.9499999999999,167.79,1.0,26.5
+CUST00001033,Taylor Brown 1033,Consumer,Buffalo,Northeast,,D,False,False,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+CUST00001050,Morgan Patel 1050,Consumer,Indianapolis,Midwest,,A,True,False,0.0,0.0,,17.061988281250002,1.0,1.0,561.04,20.61,1.0,22.75
+CUST00001053,Casey Smith 1053,Consumer,Albany,Northeast,2024-02-12,B,True,False,1.0,0.0,119.0,4.3971640625,0.0,2.0,308.28,169.73,1.0,24.5
+CUST00001059,Alex Patel 1059,Small Business,Buffalo,Northeast,,C,False,False,1.0,0.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001060,Casey Brown 1060,Enterprise,Buffalo,Northeast,2024-06-09,C,True,False,4.0,0.0,50.0,0.0,0.0,0.0,247.04999999999998,126.49999999999999,1.0,30.0
+CUST00001064,Morgan Brown 1064,Small Business,Detroit,Midwest,,B,True,True,4.0,1.0,42.333333333333336,9.7764228515625,1.0,1.0,869.07,795.08,3.0,17.75
+CUST00001068,Alex Lee 1068,Enterprise,Boston,Northeast,,A,True,False,1.0,0.0,33.0,10.267021484375,3.0,1.0,569.61,227.13,1.0,25.75
+CUST00001073,Jordan Smith 1073,Government,Birmingham,Southeast,2021-08-14,A,True,False,4.0,0.0,62.75,4.213486328125,0.0,0.0,368.55,200.62,1.0,30.0
+CUST00001086,Alex Kim 1086,Government,Columbus,Midwest,,A,False,False,1.0,1.0,,17.707313476562497,2.0,2.0,1011.56,721.87,3.0,32.5
+CUST00001092,Jordan Brown 1092,Consumer,Albany,Northeast,,C,True,False,3.0,0.0,93.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00001099,Alex Garcia 1099,Government,Portland,West,,D,False,False,0.0,0.0,,11.5487255859375,2.0,0.0,785.97,485.9,2.0,25.0
+CUST00001108,Taylor Brown 1108,Government,Phoenix,Southwest,,C,True,False,1.0,0.0,63.0,9.753623046875,1.0,0.0,724.98,528.88,2.0,26.5
+CUST00001109,Jordan Lee 1109,Small Business,Seattle,West,2025-07-29,B,True,False,1.0,0.0,24.0,15.3265107421875,1.0,4.0,343.52,286.69,2.0,27.5
+CUST00001110,Taylor Brown 1110,Consumer,Denver,West,2019-09-19,A,True,False,3.0,0.0,61.0,25.8657421875,4.0,1.0,1168.4,759.31,3.0,34.25
+CUST00001120,Casey Patel 1120,Enterprise,Columbus,Midwest,2024-09-13,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001121,Casey Kim 1121,Consumer,Detroit,Midwest,2022-07-18,C,False,False,2.0,0.0,84.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00001126,Riley Patel 1126,Consumer,Phoenix,Southwest,2026-01-16,B,False,False,0.0,0.0,,5.1838486328125,2.0,0.0,82.8,82.8,1.0,23.0
+CUST00001127,Jordan Garcia 1127,Government,Denver,West,,D,True,False,2.0,0.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00001135,Casey Kim 1135,Enterprise,Portland,West,,A,True,False,3.0,1.0,97.0,6.9751943359375,1.0,0.0,664.11,345.9,2.0,33.5
+CUST00001136,Jordan Garcia 1136,Enterprise,Jacksonville,Southeast,,C,True,False,1.0,0.0,34.0,1.3104912109375,0.0,0.0,219.63,197.63,1.0,24.0
+CUST00001139,Casey Lee 1139,Small Business,Denver,West,,C,True,False,1.0,0.0,44.0,21.5795625,1.0,1.0,841.72,445.01,2.0,26.75
+CUST00001141,Alex Patel 1141,Enterprise,San Diego,West,2023-06-03,C,True,False,2.0,1.0,26.0,3.685302734375,1.0,0.0,433.17999999999995,0.0,0.0,27.5
+CUST00001142,Morgan Garcia 1142,Enterprise,Phoenix,Southwest,,D,False,False,4.0,0.0,67.5,5.6555595703125,1.0,0.0,269.71000000000004,34.17,1.0,30.5
+CUST00001146,Taylor Garcia 1146,Consumer,Portland,West,2021-04-07,B,False,False,2.0,1.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00001149,Alex Brown 1149,Consumer,Indianapolis,Midwest,,D,False,False,1.0,0.0,99.0,2.4933232421875,1.0,0.0,233.24,79.0,0.0,22.5
+CUST00001157,Morgan Lee 1157,Small Business,Buffalo,Northeast,2025-07-19,B,True,True,4.0,1.0,84.66666666666667,1.221888671875,0.0,1.0,510.11,440.53999999999996,2.0,15.25
+CUST00001159,Casey Patel 1159,Consumer,San Diego,West,2024-09-01,B,False,False,1.0,0.0,119.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001162,Taylor Brown 1162,Small Business,Atlanta,Southeast,2020-05-13,C,True,True,5.0,1.0,39.0,8.72181640625,3.0,1.0,860.4,487.1,2.0,18.75
+CUST00001167,Riley Smith 1167,Enterprise,San Diego,West,,C,False,False,0.0,0.0,,17.9151953125,1.0,2.0,799.79,363.89,3.0,27.0
+CUST00001175,Morgan Smith 1175,Enterprise,San Diego,West,2021-04-21,D,True,False,1.0,0.0,22.0,10.6571455078125,3.0,1.0,394.38,170.98,2.0,27.75
+CUST00001178,Taylor Garcia 1178,Enterprise,Boston,Northeast,2019-06-11,C,True,True,5.0,1.0,70.75,1.9065390625,0.0,1.0,344.74,139.45,1.0,15.25
+CUST00001181,Morgan Brown 1181,Small Business,Indianapolis,Midwest,2021-11-02,A,False,False,1.0,0.0,113.0,1.89715234375,1.0,0.0,399.69,322.09000000000003,1.0,24.5
+CUST00001183,Riley Brown 1183,Consumer,Phoenix,Southwest,2021-08-25,B,False,False,0.0,0.0,,7.0443125,1.0,1.0,202.59,160.32,0.0,20.75
+CUST00001188,Casey Lee 1188,Consumer,Albany,Northeast,2021-10-07,A,False,False,2.0,0.0,7.0,5.5022138671875,1.0,0.0,366.40999999999997,0.0,0.0,24.5
+CUST00001192,Riley Smith 1192,Consumer,Boston,Northeast,,A,True,False,0.0,0.0,,2.5378369140625,1.0,0.0,198.43,198.43,1.0,22.5
+CUST00001195,Morgan Garcia 1195,Small Business,Indianapolis,Midwest,,B,False,False,0.0,0.0,,2.4437255859375,0.0,0.0,444.78999999999996,277.67999999999995,1.0,22.0
+CUST00001202,Riley Brown 1202,Consumer,Austin,Southwest,,B,False,False,2.0,0.0,75.5,1.6398876953125,0.0,1.0,611.9599999999999,264.59,2.0,28.25
+CUST00001205,Casey Patel 1205,Enterprise,Dallas,Southwest,2018-06-13,C,True,False,1.0,0.0,43.0,11.48971484375,1.0,1.0,612.05,585.66,2.0,26.75
+CUST00001209,Alex Brown 1209,Consumer,Philadelphia,Northeast,2022-07-19,D,True,False,4.0,0.0,51.75,7.610544921875,1.0,1.0,685.7,647.24,3.0,34.75
+CUST00001210,Casey Brown 1210,Small Business,Jacksonville,Southeast,,C,True,False,0.0,0.0,,5.970569335937499,2.0,2.0,661.72,479.40999999999997,3.0,27.5
+CUST00001212,Riley Lee 1212,Consumer,Philadelphia,Northeast,,C,False,False,2.0,0.0,93.5,3.20141796875,2.0,0.0,601.03,601.03,2.0,29.0
+CUST00001215,Riley Lee 1215,Enterprise,Boston,Northeast,,C,True,True,4.0,2.0,66.5,2.165552734375,0.0,1.0,343.3,155.61,1.0,16.25
+CUST00001219,Riley Smith 1219,Consumer,Philadelphia,Northeast,,A,True,False,1.0,0.0,58.0,4.6694111328125,0.0,0.0,416.59000000000003,171.8,1.0,24.0
+CUST00001227,Taylor Garcia 1227,Consumer,Seattle,West,,C,True,False,1.0,0.0,61.0,5.8512119140625005,2.0,0.0,376.26,376.26,1.0,25.0
+CUST00001231,Riley Brown 1231,Government,Portland,West,2018-09-20,C,False,False,1.0,0.0,115.0,0.45434570312499994,0.0,0.0,156.0,156.0,1.0,24.0
+CUST00001236,Casey Patel 1236,Enterprise,Chicago,Midwest,2024-10-02,B,True,False,0.0,0.0,,6.15728515625,2.0,2.0,339.54,265.59000000000003,2.0,25.5
+CUST00001243,Morgan Lee 1243,Small Business,Austin,Southwest,,B,True,False,4.0,0.0,49.75,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+CUST00001247,Alex Lee 1247,Government,Austin,Southwest,,A,True,False,1.0,0.0,119.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001249,Jordan Lee 1249,Consumer,Buffalo,Northeast,2025-07-16,A,False,False,2.0,0.0,71.0,8.649986328125,1.0,1.0,668.3199999999999,478.03,2.0,28.75
+CUST00001256,Taylor Garcia 1256,Government,Detroit,Midwest,2024-10-01,B,True,False,1.0,0.0,86.0,6.8632099609375,0.0,1.0,763.62,402.88,1.0,24.25
+CUST00001277,Morgan Lee 1277,Government,Seattle,West,,C,False,False,1.0,0.0,90.0,2.6799775390625,0.0,1.0,300.89,300.89,1.0,24.25
+CUST00001279,Morgan Garcia 1279,Enterprise,Albuquerque,Southwest,,A,False,False,4.0,1.0,89.66666666666667,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+CUST00001284,Taylor Patel 1284,Small Business,Philadelphia,Northeast,2018-07-19,C,True,False,1.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001286,Alex Kim 1286,Consumer,Denver,West,2024-11-21,A,False,False,1.0,0.0,61.0,0.8792187499999999,0.0,0.0,313.6,114.04,1.0,24.0
+CUST00001289,Casey Lee 1289,Government,Albany,Northeast,2023-09-22,A,False,True,2.0,2.0,,16.297501953125,2.0,0.0,840.68,760.67,2.0,15.0
+CUST00001293,Jordan Smith 1293,Small Business,Atlanta,Southeast,2024-06-04,D,True,False,3.0,0.0,65.66666666666667,12.40815234375,1.0,1.0,618.8100000000001,79.25,1.0,28.75
+CUST00001295,Alex Brown 1295,Consumer,Phoenix,Southwest,,D,True,False,3.0,1.0,97.5,5.980064453125,0.0,0.0,398.69,229.25,1.0,31.0
+CUST00001299,Riley Patel 1299,Consumer,Philadelphia,Northeast,,A,True,False,1.0,0.0,113.0,1.167810546875,0.0,0.0,314.48,314.48,1.0,24.0
+CUST00001301,Alex Patel 1301,Consumer,Nashville,Southeast,2023-08-03,B,True,True,3.0,1.0,64.0,5.8053544921875,6.0,0.0,1301.01,713.42,2.0,16.0
+CUST00001304,Jordan Brown 1304,Consumer,Philadelphia,Northeast,,A,False,False,3.0,0.0,34.0,8.86702734375,1.0,2.0,572.22,209.17000000000002,1.0,29.0
+CUST00001307,Jordan Smith 1307,Consumer,San Diego,West,,A,False,True,4.0,1.0,44.333333333333336,6.9914189453125,2.0,0.0,1013.02,407.93,2.0,16.0
+CUST00001311,Taylor Lee 1311,Small Business,Dallas,Southwest,,A,True,False,1.0,0.0,61.0,3.6727480468750002,0.0,0.0,257.12,167.95,0.0,22.0
+CUST00001314,Alex Smith 1314,Consumer,Indianapolis,Midwest,,D,True,False,0.0,0.0,,9.8764306640625,2.0,0.0,287.96,0.0,0.0,21.0
+CUST00001330,Morgan Kim 1330,Enterprise,Portland,West,,A,False,True,6.0,0.0,39.666666666666664,0.0,0.0,0.0,667.55,605.01,2.0,16.0
+CUST00001335,Jordan Patel 1335,Enterprise,Indianapolis,Midwest,,A,False,False,3.0,2.0,94.0,6.2693779296875,2.0,1.0,549.19,342.61,2.0,37.25
+CUST00001344,Riley Lee 1344,Small Business,Portland,West,,B,False,False,4.0,0.0,47.75,7.9677314453125,5.0,0.0,822.05,470.59999999999997,2.0,34.5
+CUST00001346,Alex Patel 1346,Enterprise,Columbus,Midwest,,A,True,False,3.0,0.0,92.33333333333333,7.013058593749999,1.0,1.0,148.51,74.79,1.0,28.75
+CUST00001347,Jordan Patel 1347,Consumer,Chicago,Midwest,,C,True,False,2.0,0.0,53.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00001348,Jordan Lee 1348,Enterprise,Albany,Northeast,2022-02-28,A,False,False,1.0,0.0,103.0,13.6906494140625,2.0,3.0,530.14,320.51,2.0,27.75
+CUST00001351,Morgan Patel 1351,Consumer,Austin,Southwest,,A,False,False,1.0,0.0,68.0,4.39930078125,0.0,0.0,214.97,106.5,1.0,24.0
+CUST00001358,Jordan Kim 1358,Consumer,Boston,Northeast,,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001362,Jordan Garcia 1362,Enterprise,Nashville,Southeast,,A,False,False,0.0,0.0,,0.994130859375,0.0,0.0,379.53,115.83,0.0,20.0
+CUST00001371,Alex Garcia 1371,Consumer,Portland,West,2024-05-21,D,True,False,1.0,0.0,88.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001374,Morgan Garcia 1374,Enterprise,Seattle,West,2024-03-22,C,True,False,0.0,0.0,,18.3874208984375,2.0,1.0,571.6,367.29,2.0,25.25
+CUST00001375,Alex Lee 1375,Enterprise,Phoenix,Southwest,2018-03-26,A,False,False,3.0,0.0,92.33333333333333,4.992515624999999,1.0,0.0,650.23,383.04,1.0,28.5
+CUST00001377,Jordan Garcia 1377,Government,Dallas,Southwest,,A,True,False,1.0,0.0,73.0,9.662130859375,0.0,1.0,878.0500000000001,493.24,2.0,26.25
+CUST00001384,Alex Kim 1384,Consumer,Austin,Southwest,,A,True,False,0.0,0.0,,0.0,0.0,0.0,160.73,59.21,1.0,22.0
+CUST00001390,Riley Kim 1390,Small Business,Albany,Northeast,,B,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001391,Casey Smith 1391,Consumer,Phoenix,Southwest,,B,True,True,6.0,3.0,37.0,1.067822265625,0.0,0.0,626.47,233.92,0.0,21.0
+CUST00001392,Alex Patel 1392,Small Business,Philadelphia,Northeast,2019-09-26,C,True,False,1.0,1.0,,1.641162109375,0.0,0.0,276.27,25.37,1.0,27.0
+CUST00001394,Alex Kim 1394,Government,Portland,West,,A,False,False,2.0,0.0,36.0,8.3533046875,2.0,1.0,653.14,521.42,2.0,29.25
+CUST00001395,Jordan Smith 1395,Consumer,Nashville,Southeast,,A,False,False,5.0,0.0,42.6,0.0631142578125,0.0,1.0,189.78,189.78,1.0,32.25
+CUST00001398,Casey Patel 1398,Consumer,Buffalo,Northeast,2020-04-29,A,False,False,2.0,0.0,87.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00001400,Jordan Garcia 1400,Government,Albany,Northeast,,A,True,False,0.0,0.0,,5.639976562499999,2.0,0.0,362.12,245.32,1.0,23.0
+CUST00001401,Jordan Garcia 1401,Government,Seattle,West,,B,False,False,1.0,0.0,74.0,14.905724609375,3.0,0.0,425.9,396.57000000000005,1.0,25.5
+CUST00001412,Jordan Garcia 1412,Government,Columbus,Midwest,,A,True,False,4.0,1.0,70.66666666666667,3.4211669921875,1.0,0.0,168.28,94.46000000000001,1.0,33.5
+CUST00001413,Riley Brown 1413,Enterprise,Columbus,Midwest,,A,False,False,1.0,0.0,9.0,0.37266015625000004,0.0,0.0,165.66,124.71,0.0,22.0
+CUST00001416,Riley Lee 1416,Small Business,Portland,West,,A,True,False,2.0,0.0,84.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00001424,Jordan Kim 1424,Small Business,Chicago,Midwest,,C,False,False,3.0,0.0,44.666666666666664,16.603111328125,1.0,1.0,788.35,239.08,0.0,26.75
+CUST00001434,Riley Kim 1434,Small Business,Albuquerque,Southwest,,C,True,False,2.0,0.0,21.5,8.267583984375001,2.0,2.0,556.53,309.70000000000005,1.0,27.5
+CUST00001446,Riley Garcia 1446,Enterprise,Albuquerque,Southwest,,C,False,False,1.0,0.0,119.0,5.2472421875,1.0,0.0,569.91,329.45,1.0,24.5
+CUST00001448,Alex Lee 1448,Consumer,Nashville,Southeast,2024-08-23,D,False,False,1.0,0.0,105.0,0.5173291015625,0.0,1.0,713.0600000000001,285.36,0.0,22.25
+CUST00001461,Jordan Smith 1461,Consumer,Buffalo,Northeast,,A,True,False,2.0,0.0,48.5,3.2241142578125,0.0,0.0,144.24,97.59,0.0,24.0
+CUST00001465,Morgan Garcia 1465,Enterprise,Austin,Southwest,,C,True,False,1.0,0.0,66.0,0.0,0.0,0.0,458.16,458.16,1.0,24.0
+CUST00001467,Morgan Kim 1467,Consumer,Albuquerque,Southwest,2020-06-22,A,True,False,0.0,0.0,,5.4604619140625,2.0,0.0,1111.99,676.61,2.0,25.0
+CUST00001469,Alex Lee 1469,Small Business,Denver,West,2024-10-07,A,False,False,1.0,0.0,67.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001471,Casey Garcia 1471,Enterprise,Indianapolis,Midwest,2019-02-04,C,False,False,3.0,1.0,28.5,8.3537587890625,4.0,0.0,959.54,701.12,2.0,35.0
+CUST00001478,Morgan Kim 1478,Small Business,Buffalo,Northeast,,B,False,False,3.0,0.0,59.333333333333336,5.747494140624999,4.0,1.0,477.59000000000003,260.68,2.0,32.25
+CUST00001484,Alex Lee 1484,Enterprise,Boston,Northeast,,A,True,False,0.0,0.0,,15.694086914062499,3.0,1.0,581.3199999999999,297.46,1.0,23.75
+CUST00001486,Jordan Garcia 1486,Enterprise,Detroit,Midwest,,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001489,Alex Garcia 1489,Enterprise,Phoenix,Southwest,,A,True,False,2.0,0.0,94.5,4.629673828125,0.0,1.0,650.71,345.56,2.0,28.25
+CUST00001490,Casey Kim 1490,Government,Columbus,Midwest,,A,False,False,0.0,0.0,,1.6276816406249999,1.0,0.0,114.98,84.54,0.0,20.5
+CUST00001491,Jordan Kim 1491,Enterprise,Nashville,Southeast,,B,False,False,2.0,0.0,30.0,8.7661943359375,1.0,1.0,511.54,245.1,0.0,24.75
+CUST00001495,Casey Kim 1495,Consumer,Chicago,Midwest,,D,True,False,5.0,1.0,61.75,11.867247070312501,3.0,1.0,987.65,596.79,3.0,40.75
+CUST00001498,Jordan Kim 1498,Consumer,Dallas,Southwest,,A,False,False,2.0,1.0,99.0,1.8950869140625,0.0,0.0,366.91999999999996,91.72999999999999,1.0,29.0
+CUST00001500,Jordan Brown 1500,Small Business,Albany,Northeast,,C,True,False,5.0,1.0,48.75,4.6267802734375,2.0,0.0,692.52,390.98,1.0,36.0
+CUST00001503,Alex Kim 1503,Small Business,Seattle,West,,C,False,False,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001506,Taylor Lee 1506,Government,Jacksonville,Southeast,2018-06-04,C,False,False,1.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001508,Riley Brown 1508,Enterprise,Buffalo,Northeast,2022-12-06,B,True,False,1.0,0.0,19.0,2.2743984375,0.0,0.0,329.18,108.38,0.0,22.0
+CUST00001514,Taylor Brown 1514,Consumer,Albany,Northeast,2023-06-04,B,True,False,2.0,0.0,91.5,11.4035986328125,0.0,1.0,525.54,97.19999999999999,1.0,26.25
+CUST00001517,Casey Patel 1517,Small Business,Buffalo,Northeast,,C,False,False,2.0,0.0,89.0,6.008849609375,0.0,0.0,456.83,182.82,1.0,26.0
+CUST00001519,Morgan Brown 1519,Government,Buffalo,Northeast,,B,False,False,4.0,0.0,88.75,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+CUST00001525,Morgan Garcia 1525,Consumer,Boston,Northeast,2023-06-24,A,True,False,1.0,0.0,63.0,17.002625,4.0,0.0,1366.74,532.91,2.0,28.0
+CUST00001527,Riley Lee 1527,Small Business,Indianapolis,Midwest,,C,True,False,4.0,0.0,47.75,2.930908203125,0.0,0.0,146.46,86.43,0.0,28.0
+CUST00001539,Casey Kim 1539,Enterprise,Birmingham,Southeast,,A,True,False,3.0,1.0,57.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00001540,Jordan Lee 1540,Government,San Diego,West,2019-03-10,D,True,False,1.0,0.0,1.0,12.2410107421875,2.0,0.0,534.69,272.07,1.0,25.0
+CUST00001543,Alex Brown 1543,Enterprise,Albuquerque,Southwest,,B,False,False,1.0,0.0,47.0,1.2585751953125,0.0,0.0,233.78,233.78,1.0,24.0
+CUST00001548,Casey Garcia 1548,Consumer,Detroit,Midwest,,D,False,True,3.0,1.0,102.0,3.1009160156249997,1.0,0.0,782.5699999999999,575.16,3.0,15.5
+CUST00001552,Alex Kim 1552,Consumer,Jacksonville,Southeast,,B,True,False,1.0,0.0,62.0,1.8195117187499998,2.0,0.0,266.95,192.72,0.0,23.0
+CUST00001553,Casey Patel 1553,Consumer,Boston,Northeast,,A,False,False,2.0,0.0,59.0,1.054796875,0.0,0.0,263.93,263.93,1.0,26.0
+CUST00001554,Riley Lee 1554,Consumer,Chicago,Midwest,,D,True,False,2.0,0.0,39.0,4.658633789062501,0.0,1.0,143.18,143.18,1.0,26.25
+CUST00001555,Jordan Patel 1555,Small Business,San Diego,West,2026-03-17,A,False,False,1.0,0.0,89.0,4.6101328125,0.0,2.0,217.56,189.54,1.0,24.5
+CUST00001557,Casey Brown 1557,Small Business,Dallas,Southwest,2022-09-29,A,True,False,3.0,0.0,39.333333333333336,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00001558,Casey Kim 1558,Government,Nashville,Southeast,2025-11-03,A,True,False,2.0,0.0,75.0,8.32571484375,1.0,1.0,501.93,206.54000000000002,2.0,28.75
+CUST00001566,Alex Kim 1566,Consumer,Buffalo,Northeast,2024-07-27,D,False,False,2.0,1.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00001571,Taylor Smith 1571,Consumer,Philadelphia,Northeast,2019-10-17,A,False,False,1.0,0.0,102.0,3.2403984375,1.0,0.0,263.99,229.79,1.0,24.5
+CUST00001576,Casey Brown 1576,Enterprise,Austin,Southwest,,A,True,False,1.0,0.0,93.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001583,Taylor Garcia 1583,Consumer,Philadelphia,Northeast,,B,True,False,1.0,1.0,,1.2697470703125,1.0,0.0,280.87,192.97,0.0,25.5
+CUST00001591,Jordan Smith 1591,Consumer,Atlanta,Southeast,,D,True,False,1.0,0.0,101.0,4.2342509765625,1.0,1.0,765.05,489.27,2.0,26.75
+CUST00001592,Alex Smith 1592,Small Business,Atlanta,Southeast,,A,False,False,1.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001597,Taylor Kim 1597,Consumer,Portland,West,2024-10-05,A,False,False,0.0,0.0,,12.4506640625,1.0,0.0,574.5,416.64,2.0,24.5
+CUST00001605,Jordan Smith 1605,Consumer,Phoenix,Southwest,,B,True,False,2.0,0.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00001606,Taylor Patel 1606,Government,Boston,Northeast,,A,True,False,1.0,0.0,15.0,0.8554130859375,1.0,0.0,266.51,27.179999999999993,0.0,22.5
+CUST00001607,Casey Lee 1607,Government,Chicago,Midwest,2019-07-28,B,True,False,1.0,0.0,95.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001612,Casey Brown 1612,Consumer,Phoenix,Southwest,,D,False,False,1.0,1.0,,7.009451171875,1.0,0.0,305.25,305.25,1.0,27.5
+CUST00001613,Alex Patel 1613,Enterprise,Albuquerque,Southwest,,A,True,False,2.0,1.0,72.0,2.751205078125,1.0,0.0,312.15,78.03,1.0,29.5
+CUST00001614,Riley Brown 1614,Consumer,Atlanta,Southeast,2024-10-06,C,False,False,1.0,0.0,102.0,9.355735351562501,3.0,0.0,456.25,169.07,1.0,25.5
+CUST00001615,Morgan Brown 1615,Enterprise,Jacksonville,Southeast,,C,False,False,1.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001619,Jordan Smith 1619,Consumer,Buffalo,Northeast,,A,False,True,8.0,0.0,24.5,2.8531064453125,1.0,0.0,266.67,237.15,1.0,18.5
+CUST00001625,Casey Kim 1625,Consumer,Birmingham,Southeast,2019-04-26,B,False,False,1.0,0.0,94.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001629,Taylor Smith 1629,Government,Dallas,Southwest,2021-05-07,B,False,False,2.0,0.0,80.0,6.98024609375,1.0,0.0,130.1,130.1,1.0,26.5
+CUST00001631,Riley Smith 1631,Small Business,Albuquerque,Southwest,,C,True,False,3.0,1.0,94.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00001634,Jordan Garcia 1634,Enterprise,Birmingham,Southeast,2021-04-29,C,False,False,1.0,0.0,93.0,2.2677382812499998,0.0,0.0,242.35000000000002,165.15,1.0,24.0
+CUST00001638,Morgan Kim 1638,Small Business,Dallas,Southwest,,C,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001639,Morgan Patel 1639,Small Business,Seattle,West,2019-12-15,D,False,False,2.0,0.0,73.0,10.56328515625,0.0,2.0,609.97,441.02,2.0,28.5
+CUST00001640,Alex Smith 1640,Government,Albuquerque,Southwest,2022-06-17,D,True,False,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+CUST00001648,Jordan Patel 1648,Consumer,Jacksonville,Southeast,,A,False,False,1.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001650,Jordan Smith 1650,Government,Detroit,Midwest,2023-07-30,B,True,False,1.0,0.0,75.0,3.5442304687500004,1.0,0.0,366.20000000000005,366.20000000000005,1.0,24.5
+CUST00001651,Riley Patel 1651,Consumer,Detroit,Midwest,2021-11-07,C,True,False,3.0,0.0,15.0,10.515076171875,2.0,1.0,827.39,472.53,2.0,31.25
+CUST00001654,Taylor Lee 1654,Consumer,Philadelphia,Northeast,2018-01-20,D,True,False,2.0,1.0,65.0,5.074298828125,1.0,0.0,252.32999999999998,252.32999999999998,1.0,29.5
+CUST00001661,Morgan Smith 1661,Consumer,Birmingham,Southeast,2020-10-23,A,True,False,1.0,0.0,49.0,2.6310654296875002,2.0,1.0,201.12,71.35,0.0,23.25
+CUST00001663,Riley Patel 1663,Government,Birmingham,Southeast,,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001675,Jordan Lee 1675,Consumer,Phoenix,Southwest,,A,True,False,0.0,0.0,,8.3836748046875,3.0,1.0,308.21,278.84000000000003,2.0,25.75
+CUST00001677,Taylor Brown 1677,Government,Austin,Southwest,2019-01-15,A,True,False,4.0,0.0,52.5,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+CUST00001685,Morgan Kim 1685,Enterprise,Chicago,Midwest,,C,False,False,1.0,0.0,4.0,13.8581708984375,1.0,1.0,873.24,255.32000000000005,3.0,28.75
+CUST00001686,Jordan Garcia 1686,Consumer,Atlanta,Southeast,,A,False,False,0.0,0.0,,3.6855185546875,0.0,1.0,291.35,291.35,1.0,22.25
+CUST00001702,Jordan Smith 1702,Small Business,Phoenix,Southwest,,A,True,False,1.0,0.0,89.0,6.620205078125,1.0,0.0,283.42,283.42,1.0,24.5
+CUST00001718,Taylor Brown 1718,Small Business,Seattle,West,2020-09-18,B,False,False,4.0,1.0,51.333333333333336,0.0,0.0,0.0,0.0,0.0,0.0,31.0
+CUST00001719,Alex Lee 1719,Consumer,Buffalo,Northeast,,B,True,False,3.0,1.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00001720,Taylor Patel 1720,Small Business,Albany,Northeast,,C,False,False,3.0,0.0,33.0,13.596494140625001,3.0,3.0,620.1999999999999,496.73,3.0,34.25
+CUST00001726,Riley Garcia 1726,Small Business,Atlanta,Southeast,,A,True,False,0.0,0.0,,3.0946396484375,0.0,0.0,293.2,205.21,0.0,20.0
+CUST00001727,Morgan Kim 1727,Enterprise,Indianapolis,Midwest,,A,True,True,3.0,1.0,87.0,3.3947666015625,2.0,1.0,723.42,661.38,3.0,16.25
+CUST00001735,Casey Lee 1735,Small Business,Albany,Northeast,,D,False,False,2.0,1.0,32.0,15.3568662109375,2.0,1.0,1263.6599999999999,793.02,4.0,36.25
+CUST00001742,Jordan Garcia 1742,Small Business,Albany,Northeast,,D,True,False,0.0,0.0,,3.1616787109375,0.0,0.0,368.32,92.08,1.0,22.0
+CUST00001744,Morgan Patel 1744,Consumer,Indianapolis,Midwest,2020-01-21,A,True,False,3.0,1.0,24.5,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00001758,Casey Smith 1758,Consumer,Chicago,Midwest,,A,True,False,2.0,1.0,46.0,1.229435546875,0.0,0.0,382.59000000000003,0.0,0.0,27.0
+CUST00001761,Alex Brown 1761,Consumer,Atlanta,Southeast,,A,True,False,1.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001763,Jordan Kim 1763,Small Business,Boston,Northeast,,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001766,Jordan Lee 1766,Consumer,Albuquerque,Southwest,2022-04-13,A,False,False,0.0,0.0,,2.5507529296875,0.0,0.0,124.25999999999999,124.25999999999999,1.0,22.0
+CUST00001768,Alex Patel 1768,Consumer,Indianapolis,Midwest,,C,False,False,2.0,0.0,51.5,0.1953857421875,1.0,0.0,872.5699999999999,368.65999999999997,1.0,26.5
+CUST00001772,Taylor Lee 1772,Government,Chicago,Midwest,,C,False,False,0.0,0.0,,6.1045908203125006,0.0,0.0,282.37,27.15,0.0,20.0
+CUST00001773,Alex Garcia 1773,Small Business,Austin,Southwest,2023-07-18,D,False,False,2.0,0.0,47.0,1.4401796875000001,0.0,0.0,736.5,582.56,2.0,28.0
+CUST00001778,Jordan Smith 1778,Small Business,Buffalo,Northeast,2020-11-02,D,True,True,3.0,1.0,56.0,14.3927294921875,2.0,2.0,917.29,745.35,3.0,16.5
+CUST00001781,Morgan Lee 1781,Consumer,Portland,West,2019-07-19,C,False,False,1.0,0.0,9.0,3.6762060546875,0.0,0.0,340.41999999999996,194.38,1.0,24.0
+CUST00001793,Taylor Garcia 1793,Small Business,Austin,Southwest,,A,True,False,2.0,0.0,85.5,1.0797041015625002,1.0,0.0,433.76,247.56000000000003,1.0,26.5
+CUST00001798,Alex Brown 1798,Small Business,Chicago,Midwest,,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001800,Taylor Brown 1800,Government,Portland,West,,D,True,False,2.0,0.0,11.0,2.7182314453125,1.0,0.0,335.12,335.12,1.0,26.5
+CUST00001801,Morgan Brown 1801,Small Business,Nashville,Southeast,,C,True,False,0.0,0.0,,5.461984375,0.0,0.0,327.98,234.96,0.0,20.0
+CUST00001804,Riley Smith 1804,Consumer,Dallas,Southwest,,A,False,False,3.0,0.0,87.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00001805,Morgan Lee 1805,Small Business,Jacksonville,Southeast,2019-09-23,C,True,False,2.0,0.0,68.0,8.367716796875,3.0,2.0,354.12,318.05,2.0,30.0
+CUST00001809,Alex Lee 1809,Enterprise,Indianapolis,Midwest,,D,True,False,1.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001815,Casey Smith 1815,Enterprise,Boston,Northeast,,A,False,False,2.0,0.0,96.0,12.69142578125,3.0,3.0,1102.01,423.7,2.0,30.25
+CUST00001822,Riley Lee 1822,Small Business,Philadelphia,Northeast,2020-10-08,C,True,False,2.0,0.0,58.0,1.7526572265625,0.0,1.0,270.49,54.43,0.0,24.25
+CUST00001836,Alex Kim 1836,Enterprise,Nashville,Southeast,,C,True,False,2.0,1.0,39.0,4.81062890625,1.0,0.0,451.5,200.08999999999997,0.0,27.5
+CUST00001839,Jordan Garcia 1839,Consumer,Denver,West,,D,True,False,2.0,0.0,89.0,2.135927734375,1.0,1.0,109.89,109.89,1.0,26.75
+CUST00001851,Casey Patel 1851,Consumer,Nashville,Southeast,2018-12-18,A,True,False,0.0,0.0,,1.3348115234375,1.0,0.0,408.03999999999996,0.0,0.0,20.5
+CUST00001855,Taylor Lee 1855,Government,Albuquerque,Southwest,,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001861,Morgan Garcia 1861,Enterprise,Austin,Southwest,,A,False,False,2.0,0.0,81.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00001868,Taylor Lee 1868,Enterprise,Nashville,Southeast,2025-02-14,D,False,False,0.0,0.0,,2.5648251953125,2.0,1.0,296.91,296.91,1.0,23.25
+CUST00001876,Jordan Brown 1876,Government,Jacksonville,Southeast,,A,True,True,5.0,1.0,95.75,2.5942021484374997,2.0,0.0,755.59,665.74,2.0,18.0
+CUST00001877,Casey Brown 1877,Enterprise,Atlanta,Southeast,2024-07-25,C,False,False,1.0,1.0,,10.128279296875,0.0,0.0,750.91,406.13,2.0,29.0
+CUST00001880,Taylor Brown 1880,Enterprise,Seattle,West,2019-05-07,D,False,False,2.0,1.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00001892,Riley Smith 1892,Small Business,Albuquerque,Southwest,2018-03-03,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001897,Riley Lee 1897,Consumer,Indianapolis,Midwest,,A,True,False,1.0,0.0,83.0,6.93250390625,2.0,1.0,323.75,32.19,0.0,23.25
+CUST00001898,Taylor Brown 1898,Enterprise,Buffalo,Northeast,,A,False,True,4.0,1.0,38.333333333333336,9.849625,0.0,1.0,534.6500000000001,407.73,2.0,15.25
+CUST00001899,Taylor Smith 1899,Government,Portland,West,,B,False,False,2.0,0.0,101.5,7.03646875,1.0,0.0,440.92999999999995,440.92999999999995,1.0,26.5
+CUST00001917,Jordan Patel 1917,Government,Philadelphia,Northeast,2023-03-21,C,False,False,1.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001922,Taylor Brown 1922,Small Business,Chicago,Midwest,,C,True,False,3.0,0.0,27.0,11.52244140625,1.0,1.0,723.49,123.81000000000002,1.0,28.75
+CUST00001924,Jordan Brown 1924,Enterprise,Boston,Northeast,2022-11-29,B,False,False,1.0,0.0,107.0,6.2987919921875,0.0,1.0,465.75,465.75,2.0,26.25
+CUST00001934,Morgan Lee 1934,Small Business,Denver,West,,D,True,False,1.0,0.0,58.0,4.0107617187499995,1.0,1.0,298.35,227.35000000000002,1.0,24.75
+CUST00001937,Alex Kim 1937,Small Business,Albany,Northeast,,A,False,False,0.0,0.0,,16.224543945312497,1.0,0.0,464.07,414.9,2.0,24.5
+CUST00001942,Alex Smith 1942,Small Business,Albany,Northeast,2025-08-23,D,True,False,1.0,0.0,119.0,26.086302734375,1.0,1.0,1206.56,694.71,3.0,28.75
+CUST00001943,Taylor Kim 1943,Enterprise,Detroit,Midwest,,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001947,Morgan Smith 1947,Small Business,Portland,West,2022-09-06,A,False,False,0.0,0.0,,8.8936259765625,1.0,1.0,238.89,173.91,1.0,22.75
+CUST00001948,Casey Smith 1948,Enterprise,Atlanta,Southeast,,D,False,False,0.0,0.0,,4.4342763671875005,2.0,0.0,185.42000000000002,108.27,0.0,21.0
+CUST00001949,Riley Brown 1949,Enterprise,Dallas,Southwest,2021-09-25,C,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001951,Alex Smith 1951,Consumer,Detroit,Midwest,,B,True,False,2.0,0.0,74.0,8.41378125,4.0,2.0,251.17000000000002,75.91,1.0,28.5
+CUST00001956,Jordan Smith 1956,Consumer,Dallas,Southwest,,D,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00001961,Jordan Smith 1961,Consumer,Phoenix,Southwest,,D,True,False,2.0,0.0,97.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00001967,Morgan Patel 1967,Enterprise,Nashville,Southeast,2020-07-07,D,False,False,1.0,0.0,88.0,14.803390624999999,3.0,2.0,555.8399999999999,29.459999999999994,0.0,24.0
+CUST00001968,Jordan Kim 1968,Government,Austin,Southwest,,A,True,False,1.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00001971,Casey Smith 1971,Government,Phoenix,Southwest,,A,True,False,2.0,0.0,72.0,7.153001953125,0.0,0.0,752.81,390.01,2.0,28.0
+CUST00001976,Morgan Garcia 1976,Small Business,Nashville,Southeast,,A,False,True,4.0,2.0,77.0,9.1057431640625,2.0,0.0,803.09,423.92,2.0,19.0
+CUST00001978,Riley Smith 1978,Consumer,Albany,Northeast,2021-06-10,B,False,False,0.0,0.0,,2.11880859375,0.0,1.0,379.89,379.89,1.0,22.25
+CUST00001981,Riley Lee 1981,Small Business,Detroit,Midwest,,A,False,False,4.0,0.0,57.25,3.895412109375,2.0,0.0,541.28,541.28,2.0,33.0
+CUST00001983,Casey Lee 1983,Enterprise,Buffalo,Northeast,,A,True,False,1.0,0.0,31.0,6.563041015625,1.0,0.0,292.99,228.21999999999997,1.0,24.5
+CUST00001992,Morgan Brown 1992,Small Business,Nashville,Southeast,,A,True,False,3.0,0.0,69.66666666666667,10.6118447265625,0.0,2.0,460.3,109.94999999999999,2.0,30.5
+CUST00001995,Casey Lee 1995,Government,Columbus,Midwest,,B,True,False,2.0,1.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00001996,Alex Patel 1996,Small Business,Boston,Northeast,,B,True,False,2.0,0.0,16.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002002,Casey Kim 2002,Government,San Diego,West,2023-04-11,C,True,False,1.0,0.0,83.0,2.7707607421875,2.0,0.0,475.55000000000007,49.86000000000001,1.0,25.0
+CUST00002003,Riley Kim 2003,Small Business,Portland,West,,B,True,False,3.0,1.0,103.0,6.7534521484375,1.0,0.0,322.27,119.11,1.0,31.5
+CUST00002004,Alex Kim 2004,Enterprise,Philadelphia,Northeast,,C,False,False,2.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002008,Taylor Kim 2008,Government,Nashville,Southeast,2025-01-03,B,False,False,0.0,0.0,,2.2771708984375,1.0,0.0,313.3,190.64999999999998,1.0,22.5
+CUST00002010,Alex Kim 2010,Small Business,Albany,Northeast,,A,False,False,0.0,0.0,,4.622799804687499,0.0,0.0,235.87,111.55,1.0,22.0
+CUST00002015,Taylor Garcia 2015,Enterprise,Atlanta,Southeast,2023-12-18,C,False,False,0.0,0.0,,16.7635927734375,3.0,1.0,922.89,569.34,3.0,27.75
+CUST00002022,Morgan Kim 2022,Consumer,Phoenix,Southwest,,D,False,True,3.0,2.0,14.0,12.957671874999999,2.0,0.0,826.61,647.16,3.0,19.0
+CUST00002023,Morgan Kim 2023,Government,Chicago,Midwest,,A,False,False,0.0,0.0,,17.7420791015625,2.0,0.0,613.68,597.4399999999999,2.0,25.0
+CUST00002026,Alex Lee 2026,Government,Boston,Northeast,2022-08-21,C,True,False,1.0,0.0,97.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002027,Morgan Brown 2027,Enterprise,Nashville,Southeast,2020-09-19,B,True,False,1.0,0.0,118.0,6.309260742187501,0.0,2.0,422.31,303.40999999999997,1.0,24.5
+CUST00002029,Casey Garcia 2029,Consumer,Phoenix,Southwest,2022-02-16,B,True,False,2.0,1.0,83.0,0.0,0.0,0.0,336.87,78.0,0.0,27.0
+CUST00002030,Riley Garcia 2030,Consumer,San Diego,West,2025-07-20,A,False,False,2.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002031,Taylor Patel 2031,Government,Birmingham,Southeast,,D,False,False,0.0,0.0,,7.752837890625001,1.0,0.0,659.21,659.21,2.0,24.5
+CUST00002035,Riley Kim 2035,Consumer,Denver,West,,B,False,False,1.0,0.0,54.0,4.0516142578125,0.0,0.0,130.61,32.65000000000002,0.0,22.0
+CUST00002036,Alex Kim 2036,Government,Philadelphia,Northeast,,C,True,False,1.0,1.0,,3.0248789062499997,1.0,0.0,398.84000000000003,398.84000000000003,1.0,27.5
+CUST00002041,Riley Brown 2041,Enterprise,Phoenix,Southwest,2023-04-12,D,True,False,2.0,0.0,63.5,2.639935546875,1.0,1.0,362.35,211.83,1.0,26.75
+CUST00002045,Riley Garcia 2045,Enterprise,Atlanta,Southeast,,D,True,False,3.0,2.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+CUST00002049,Riley Brown 2049,Consumer,Phoenix,Southwest,,A,False,False,0.0,0.0,,9.060671875,1.0,3.0,786.09,143.71999999999997,1.0,23.25
+CUST00002051,Casey Brown 2051,Government,Detroit,Midwest,2019-03-12,B,True,False,3.0,0.0,68.66666666666667,11.331998046875,1.0,1.0,425.96000000000004,335.59000000000003,2.0,30.75
+CUST00002054,Casey Kim 2054,Enterprise,San Diego,West,2018-05-24,B,True,False,1.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002058,Morgan Lee 2058,Consumer,Columbus,Midwest,,B,False,False,2.0,0.0,89.5,5.007482421875,0.0,1.0,698.63,698.63,2.0,28.25
+CUST00002060,Taylor Garcia 2060,Enterprise,Detroit,Midwest,2020-01-01,C,False,False,0.0,0.0,,2.4609580078124997,0.0,0.0,341.69,122.89,1.0,22.0
+CUST00002061,Taylor Brown 2061,Consumer,Albuquerque,Southwest,,C,False,False,1.0,0.0,95.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002064,Morgan Smith 2064,Government,Austin,Southwest,2019-09-13,B,False,False,1.0,0.0,28.0,11.415580078125,0.0,2.0,557.91,483.40999999999997,2.0,26.5
+CUST00002070,Taylor Garcia 2070,Government,Atlanta,Southeast,2019-04-01,B,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00002072,Alex Smith 2072,Consumer,Chicago,Midwest,2020-10-20,C,False,False,1.0,0.0,51.0,5.4237333984375,0.0,1.0,78.18,10.469999999999999,1.0,24.25
+CUST00002075,Riley Patel 2075,Enterprise,Denver,West,2018-04-27,C,True,True,4.0,3.0,104.0,1.412482421875,0.0,0.0,191.60999999999999,144.0,1.0,19.0
+CUST00002087,Jordan Patel 2087,Consumer,Buffalo,Northeast,2018-08-09,A,False,False,1.0,0.0,105.0,2.92832421875,0.0,0.0,308.4,42.010000000000005,1.0,24.0
+CUST00002090,Casey Smith 2090,Government,Dallas,Southwest,,A,False,False,1.0,0.0,37.0,2.3928076171875,1.0,1.0,353.8,187.61,1.0,24.75
+CUST00002094,Alex Smith 2094,Consumer,Albuquerque,Southwest,2024-10-05,D,True,False,3.0,0.0,79.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002095,Jordan Patel 2095,Consumer,Columbus,Midwest,2025-06-10,D,True,False,2.0,0.0,35.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002098,Alex Garcia 2098,Government,Phoenix,Southwest,2019-08-16,A,False,False,2.0,0.0,51.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002105,Riley Lee 2105,Enterprise,Buffalo,Northeast,2024-09-17,A,True,False,2.0,0.0,47.5,9.4965576171875,0.0,3.0,731.44,600.35,2.0,28.75
+CUST00002111,Riley Lee 2111,Consumer,Denver,West,2019-06-06,A,False,False,0.0,0.0,,4.8444462890625,1.0,1.0,748.83,500.72,1.0,22.75
+CUST00002118,Riley Patel 2118,Small Business,Indianapolis,Midwest,2026-01-22,C,False,False,2.0,0.0,41.5,0.0,0.0,0.0,301.54,119.65,0.0,24.0
+CUST00002119,Alex Kim 2119,Small Business,Columbus,Midwest,,D,False,False,1.0,0.0,16.0,18.667658203125,5.0,1.0,1154.78,514.9300000000001,2.0,28.75
+CUST00002122,Alex Lee 2122,Enterprise,Albuquerque,Southwest,2021-01-23,A,True,False,2.0,1.0,64.0,2.04326953125,2.0,0.0,264.75,240.99,1.0,30.0
+CUST00002135,Morgan Brown 2135,Small Business,Atlanta,Southeast,,C,True,False,3.0,0.0,40.333333333333336,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002154,Jordan Lee 2154,Consumer,Albuquerque,Southwest,,A,True,False,1.0,0.0,74.0,11.3373515625,1.0,2.0,511.13,65.55,1.0,25.0
+CUST00002162,Jordan Kim 2162,Government,Dallas,Southwest,2026-02-08,A,True,False,1.0,0.0,30.0,3.7535605468749997,0.0,0.0,188.21,63.07,0.0,22.0
+CUST00002164,Jordan Lee 2164,Enterprise,Nashville,Southeast,,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00002165,Riley Lee 2165,Government,Boston,Northeast,,A,True,False,0.0,0.0,,0.931939453125,0.0,0.0,256.31,256.31,1.0,22.0
+CUST00002173,Morgan Lee 2173,Small Business,Dallas,Southwest,2019-01-29,A,True,False,3.0,0.0,52.333333333333336,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002178,Riley Smith 2178,Small Business,San Diego,West,2024-06-07,C,False,False,0.0,0.0,,10.602873046875,1.0,1.0,601.74,165.93,2.0,24.75
+CUST00002179,Casey Garcia 2179,Consumer,Philadelphia,Northeast,2024-05-18,C,False,False,1.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002180,Riley Brown 2180,Consumer,Albany,Northeast,,B,False,False,3.0,0.0,92.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002183,Jordan Kim 2183,Enterprise,Dallas,Southwest,2018-08-18,C,False,False,2.0,0.0,35.0,4.9262275390625,2.0,0.0,268.96000000000004,9.059999999999999,0.0,25.0
+CUST00002185,Jordan Garcia 2185,Government,Albuquerque,Southwest,2018-09-08,D,False,True,5.0,0.0,98.0,13.492706054687499,5.0,1.0,1836.3799999999999,977.61,4.0,20.75
+CUST00002188,Jordan Garcia 2188,Government,Birmingham,Southeast,2018-12-27,A,True,False,2.0,1.0,86.0,7.41576171875,3.0,1.0,390.38,390.38,1.0,30.75
+CUST00002189,Alex Patel 2189,Consumer,Jacksonville,Southeast,,C,False,False,0.0,0.0,,1.908939453125,0.0,0.0,174.11,0.0,0.0,20.0
+CUST00002191,Taylor Brown 2191,Consumer,Detroit,Midwest,,C,True,False,1.0,0.0,107.0,20.2948759765625,2.0,4.0,903.73,644.1800000000001,2.0,28.0
+CUST00002198,Casey Garcia 2198,Consumer,Austin,Southwest,,B,False,False,1.0,0.0,51.0,2.0892958984375,0.0,0.0,248.1,248.1,1.0,24.0
+CUST00002201,Riley Patel 2201,Enterprise,Albuquerque,Southwest,2018-12-21,D,True,False,3.0,1.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00002206,Casey Brown 2206,Small Business,Jacksonville,Southeast,2022-06-13,A,False,False,2.0,2.0,,0.0,0.0,0.0,0.0,0.0,0.0,30.0
+CUST00002212,Morgan Patel 2212,Enterprise,Atlanta,Southeast,2019-10-30,C,False,False,0.0,0.0,,5.0111162109375,2.0,0.0,706.52,605.6,2.0,25.0
+CUST00002213,Alex Lee 2213,Government,Phoenix,Southwest,,D,False,False,3.0,0.0,68.66666666666667,1.6252568359375,0.0,0.0,156.85,78.78999999999999,1.0,28.0
+CUST00002216,Jordan Lee 2216,Government,Dallas,Southwest,2022-10-15,D,False,False,2.0,0.0,63.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002222,Morgan Smith 2222,Enterprise,Atlanta,Southeast,2025-01-23,B,False,False,3.0,0.0,76.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002227,Alex Smith 2227,Small Business,Chicago,Midwest,,D,False,True,5.0,1.0,94.75,5.373591796875,1.0,0.0,526.76,291.47,2.0,17.5
+CUST00002234,Casey Kim 2234,Enterprise,Boston,Northeast,2019-06-16,A,True,False,1.0,0.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002235,Jordan Garcia 2235,Consumer,Albuquerque,Southwest,,C,True,False,0.0,0.0,,34.515265625000005,2.0,4.0,1239.01,767.55,3.0,28.0
+CUST00002236,Taylor Patel 2236,Government,Portland,West,,A,False,False,3.0,0.0,36.0,4.7043085937499995,0.0,0.0,191.67000000000002,191.67000000000002,1.0,28.0
+CUST00002250,Morgan Smith 2250,Consumer,Denver,West,2024-06-09,C,False,False,2.0,0.0,46.0,5.378953125,1.0,1.0,367.69,193.01,1.0,26.75
+CUST00002264,Casey Smith 2264,Small Business,Buffalo,Northeast,2018-11-07,A,True,False,3.0,0.0,59.666666666666664,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002267,Riley Brown 2267,Enterprise,Indianapolis,Midwest,2018-06-23,D,False,False,0.0,0.0,,4.0728134765625,1.0,1.0,117.91999999999999,105.22,1.0,22.75
+CUST00002271,Morgan Brown 2271,Consumer,Indianapolis,Midwest,,C,True,False,1.0,0.0,112.0,3.0495107421875,1.0,0.0,250.85,84.12,1.0,24.5
+CUST00002272,Casey Patel 2272,Government,Albany,Northeast,2023-07-12,C,False,False,1.0,1.0,,19.3167041015625,0.0,4.0,782.9100000000001,598.3,2.0,30.0
+CUST00002278,Riley Kim 2278,Government,Austin,Southwest,,D,True,False,0.0,0.0,,7.8917392578125,1.0,0.0,695.54,392.6,2.0,24.5
+CUST00002281,Alex Patel 2281,Small Business,Seattle,West,2024-04-14,D,True,False,3.0,0.0,88.66666666666667,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002283,Jordan Smith 2283,Enterprise,San Diego,West,,A,False,False,2.0,0.0,46.5,2.2936357421875,0.0,0.0,448.99,56.56999999999999,0.0,24.0
+CUST00002285,Alex Lee 2285,Consumer,Albuquerque,Southwest,2024-03-02,C,False,False,1.0,1.0,,2.67591015625,0.0,1.0,424.49,168.99,1.0,27.25
+CUST00002293,Taylor Smith 2293,Enterprise,Albany,Northeast,2018-05-15,B,True,True,2.0,1.0,60.0,14.7810673828125,8.0,2.0,1385.95,726.0699999999999,2.0,15.5
+CUST00002295,Jordan Smith 2295,Government,Nashville,Southeast,2023-09-09,C,True,False,5.0,0.0,82.0,2.409671875,0.0,0.0,402.87,254.95,1.0,32.0
+CUST00002305,Casey Smith 2305,Small Business,Albuquerque,Southwest,,B,False,False,1.0,0.0,35.0,6.5184404296875,2.0,0.0,412.3,124.94,0.0,23.0
+CUST00002307,Alex Brown 2307,Consumer,Denver,West,,A,False,False,1.0,0.0,107.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002310,Casey Patel 2310,Small Business,Austin,Southwest,2018-04-13,A,False,False,1.0,0.0,20.0,11.28551171875,4.0,2.0,762.87,556.6899999999999,2.0,28.5
+CUST00002313,Alex Patel 2313,Consumer,Jacksonville,Southeast,2019-09-26,C,False,False,1.0,0.0,109.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002315,Alex Kim 2315,Consumer,Denver,West,2026-03-01,C,False,False,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002318,Taylor Garcia 2318,Consumer,Jacksonville,Southeast,2022-10-03,C,False,False,2.0,0.0,88.5,10.7072919921875,0.0,1.0,603.2,446.07000000000005,1.0,26.25
+CUST00002319,Riley Kim 2319,Enterprise,Atlanta,Southeast,2025-01-21,B,True,False,1.0,0.0,48.0,4.349451171875,1.0,0.0,229.85000000000002,229.85000000000002,1.0,24.5
+CUST00002320,Alex Garcia 2320,Small Business,Denver,West,,A,False,False,1.0,0.0,63.0,4.2543134765624995,2.0,0.0,469.39,280.85,1.0,25.0
+CUST00002323,Riley Patel 2323,Government,Chicago,Midwest,,B,False,False,3.0,0.0,97.66666666666667,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002324,Jordan Brown 2324,Enterprise,Albany,Northeast,,C,False,False,0.0,0.0,,5.1026162109375,0.0,0.0,385.97,385.97,1.0,22.0
+CUST00002326,Riley Lee 2326,Government,Detroit,Midwest,2018-10-25,C,True,False,1.0,0.0,91.0,1.7513388671875,0.0,1.0,353.34000000000003,353.34000000000003,1.0,24.25
+CUST00002327,Taylor Brown 2327,Consumer,Denver,West,2020-06-11,C,True,False,1.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002331,Casey Smith 2331,Enterprise,Atlanta,Southeast,2019-12-23,A,False,False,1.0,0.0,19.0,8.2524560546875,1.0,2.0,588.64,411.49,1.0,25.0
+CUST00002347,Riley Garcia 2347,Consumer,Albany,Northeast,2025-01-26,A,True,False,0.0,0.0,,4.941034179687501,2.0,0.0,281.92,281.92,1.0,23.0
+CUST00002352,Riley Patel 2352,Consumer,Indianapolis,Midwest,2023-08-18,C,True,False,3.0,1.0,81.5,12.1810341796875,3.0,1.0,705.1,350.03999999999996,2.0,34.75
+CUST00002363,Riley Lee 2363,Consumer,Philadelphia,Northeast,2022-01-22,D,False,False,1.0,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002366,Taylor Garcia 2366,Consumer,Detroit,Midwest,,A,False,False,1.0,0.0,5.0,3.83391796875,2.0,0.0,351.31,85.84,1.0,25.0
+CUST00002368,Casey Garcia 2368,Consumer,Seattle,West,,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00002376,Casey Lee 2376,Government,Atlanta,Southeast,,D,False,False,1.0,0.0,22.0,6.2635048828125,3.0,0.0,475.98,412.55,1.0,25.5
+CUST00002380,Riley Kim 2380,Small Business,Indianapolis,Midwest,2021-05-01,B,False,False,1.0,0.0,71.0,2.8467919921875,0.0,1.0,134.61,134.61,1.0,24.25
+CUST00002384,Riley Patel 2384,Small Business,Albuquerque,Southwest,,B,False,False,1.0,0.0,81.0,11.251664062500002,0.0,3.0,184.09,184.09,1.0,24.75
+CUST00002392,Alex Kim 2392,Consumer,Jacksonville,Southeast,2023-01-01,A,False,False,0.0,0.0,,3.6875751953125,0.0,0.0,320.75,269.71,1.0,22.0
+CUST00002403,Alex Patel 2403,Consumer,Philadelphia,Northeast,2026-03-28,D,True,False,0.0,0.0,,3.5660898437499995,2.0,0.0,284.25,284.25,1.0,23.0
+CUST00002409,Riley Brown 2409,Government,Seattle,West,,A,True,False,1.0,0.0,32.0,8.244783203125,1.0,0.0,773.03,434.66999999999996,1.0,24.5
+CUST00002416,Riley Brown 2416,Small Business,Philadelphia,Northeast,,C,False,False,0.0,0.0,,6.5288681640625,2.0,0.0,186.45,20.23,0.0,21.0
+CUST00002422,Taylor Garcia 2422,Government,Portland,West,,C,True,False,2.0,0.0,47.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002430,Casey Patel 2430,Government,Nashville,Southeast,2019-08-03,D,True,False,2.0,0.0,65.5,5.1085009765625,3.0,2.0,391.99,265.0,1.0,28.0
+CUST00002438,Casey Kim 2438,Consumer,Nashville,Southeast,2024-11-08,B,False,False,1.0,1.0,,2.533708984375,0.0,0.0,264.11,127.55999999999999,1.0,27.0
+CUST00002439,Taylor Kim 2439,Small Business,Jacksonville,Southeast,2018-12-20,C,True,False,2.0,0.0,39.0,15.605525390625,5.0,2.0,982.95,826.76,2.0,31.0
+CUST00002454,Taylor Kim 2454,Consumer,Jacksonville,Southeast,,A,True,False,1.0,0.0,61.0,6.355703125,0.0,0.0,276.64,276.64,1.0,24.0
+CUST00002455,Casey Kim 2455,Government,San Diego,West,,D,True,False,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002458,Taylor Brown 2458,Small Business,San Diego,West,,A,False,True,5.0,1.0,59.0,7.7502548828124995,0.0,1.0,204.28,64.68,1.0,15.25
+CUST00002461,Riley Garcia 2461,Consumer,Buffalo,Northeast,2019-08-21,D,True,False,1.0,0.0,101.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002462,Jordan Smith 2462,Government,Dallas,Southwest,2026-03-23,D,False,False,2.0,0.0,78.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002473,Riley Lee 2473,Government,Nashville,Southeast,2022-10-24,B,False,False,3.0,0.0,83.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002476,Taylor Patel 2476,Consumer,Indianapolis,Midwest,,A,True,False,1.0,0.0,97.0,3.89244921875,1.0,0.0,143.38,143.38,1.0,24.5
+CUST00002479,Morgan Garcia 2479,Small Business,Atlanta,Southeast,2021-11-29,B,False,False,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002481,Casey Brown 2481,Government,Phoenix,Southwest,2020-08-01,C,False,False,3.0,0.0,43.333333333333336,2.0996962890625,0.0,1.0,370.03,259.92,1.0,28.25
+CUST00002483,Jordan Patel 2483,Consumer,Indianapolis,Midwest,,B,True,False,0.0,0.0,,12.5137265625,4.0,0.0,593.32,324.98,2.0,26.0
+CUST00002490,Riley Lee 2490,Consumer,Nashville,Southeast,2019-04-27,C,False,False,2.0,0.0,70.5,5.6477841796875,0.0,2.0,403.31,323.75,2.0,28.5
+CUST00002496,Alex Lee 2496,Consumer,Buffalo,Northeast,,C,True,False,2.0,0.0,54.5,4.149533203125,2.0,0.0,619.12,491.9,2.0,29.0
+CUST00002501,Casey Smith 2501,Consumer,Columbus,Midwest,,B,False,False,3.0,0.0,69.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002506,Jordan Kim 2506,Small Business,Boston,Northeast,,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00002509,Morgan Smith 2509,Small Business,Albany,Northeast,2025-11-09,D,False,False,2.0,0.0,60.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002514,Jordan Lee 2514,Small Business,Columbus,Midwest,2019-10-07,A,True,False,2.0,0.0,78.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002522,Alex Garcia 2522,Consumer,Birmingham,Southeast,2019-12-02,C,False,True,4.0,2.0,73.0,8.1527880859375,4.0,1.0,1034.47,615.83,3.0,22.25
+CUST00002523,Morgan Lee 2523,Government,Nashville,Southeast,2024-03-15,A,True,False,0.0,0.0,,7.2145410156250005,0.0,1.0,231.07,231.07,1.0,22.25
+CUST00002524,Morgan Garcia 2524,Consumer,Seattle,West,,B,False,False,0.0,0.0,,0.0,0.0,0.0,359.27,359.27,1.0,22.0
+CUST00002526,Alex Smith 2526,Enterprise,Jacksonville,Southeast,,C,True,True,5.0,3.0,58.0,4.630431640625,2.0,0.0,270.52,270.52,1.0,22.0
+CUST00002537,Morgan Garcia 2537,Small Business,Dallas,Southwest,2021-01-27,A,False,False,3.0,0.0,88.66666666666667,3.9056748046875,0.0,1.0,181.18,118.29999999999998,1.0,28.25
+CUST00002538,Taylor Patel 2538,Small Business,Detroit,Midwest,2024-07-21,B,True,False,2.0,0.0,104.5,24.901200195312498,4.0,3.0,699.38,660.51,3.0,32.75
+CUST00002541,Taylor Kim 2541,Small Business,Buffalo,Northeast,2018-12-16,A,False,False,3.0,1.0,104.5,4.84226171875,2.0,1.0,338.88,338.88,1.0,32.25
+CUST00002551,Morgan Patel 2551,Enterprise,Columbus,Midwest,,C,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00002552,Riley Smith 2552,Consumer,Phoenix,Southwest,2019-01-01,A,True,False,3.0,0.0,53.333333333333336,10.9089091796875,0.0,1.0,497.49,408.03,1.0,28.25
+CUST00002556,Morgan Smith 2556,Enterprise,San Diego,West,,B,True,False,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002559,Alex Garcia 2559,Government,Albuquerque,Southwest,2022-03-08,B,True,True,5.0,2.0,57.333333333333336,0.0,0.0,0.0,0.0,0.0,0.0,16.0
+CUST00002560,Riley Brown 2560,Consumer,Nashville,Southeast,2020-06-27,C,False,True,4.0,0.0,81.25,22.6755224609375,2.0,2.0,1476.81,771.12,3.0,15.5
+CUST00002562,Taylor Lee 2562,Enterprise,Buffalo,Northeast,2023-08-07,C,False,False,1.0,0.0,87.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002566,Riley Smith 2566,Government,Denver,West,2018-01-30,C,True,False,1.0,0.0,99.0,4.72269921875,1.0,0.0,556.82,372.3,1.0,24.5
+CUST00002570,Taylor Lee 2570,Small Business,Albuquerque,Southwest,,A,False,False,1.0,0.0,114.0,4.9849677734375,1.0,0.0,751.22,291.32000000000005,1.0,24.5
+CUST00002581,Taylor Smith 2581,Enterprise,Philadelphia,Northeast,2020-02-22,B,True,False,2.0,1.0,119.0,2.4826201171875,0.0,0.0,297.84,169.26999999999998,1.0,29.0
+CUST00002583,Alex Garcia 2583,Consumer,Albuquerque,Southwest,,C,True,False,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+CUST00002593,Alex Brown 2593,Small Business,Seattle,West,,C,False,False,3.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002599,Morgan Lee 2599,Enterprise,Seattle,West,,C,True,False,1.0,0.0,71.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002605,Riley Kim 2605,Small Business,Dallas,Southwest,2025-01-19,C,False,False,2.0,0.0,20.0,5.666910156250001,2.0,0.0,247.24,74.26,0.0,25.0
+CUST00002609,Casey Smith 2609,Enterprise,Portland,West,2018-04-06,A,True,False,1.0,0.0,116.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002610,Jordan Garcia 2610,Enterprise,Philadelphia,Northeast,,A,True,False,2.0,0.0,63.5,5.6985019531250005,1.0,2.0,786.15,373.76,1.0,27.0
+CUST00002616,Riley Kim 2616,Small Business,Albany,Northeast,2020-08-28,A,True,False,3.0,0.0,87.66666666666667,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002619,Morgan Garcia 2619,Consumer,Portland,West,,C,False,False,1.0,0.0,69.0,0.6732705078125,0.0,0.0,389.4,69.57999999999998,0.0,22.0
+CUST00002620,Jordan Patel 2620,Enterprise,Indianapolis,Midwest,,C,True,False,1.0,0.0,96.0,8.62247265625,1.0,0.0,235.42000000000002,127.80000000000001,1.0,24.5
+CUST00002622,Casey Lee 2622,Enterprise,Philadelphia,Northeast,,A,False,False,1.0,0.0,25.0,5.0347861328125,0.0,0.0,223.72,48.83,0.0,22.0
+CUST00002639,Morgan Garcia 2639,Consumer,Dallas,Southwest,,A,False,True,3.0,3.0,,0.0,0.0,0.0,0.0,0.0,0.0,15.0
+CUST00002640,Morgan Smith 2640,Government,Seattle,West,,D,False,False,1.0,0.0,48.0,2.526416015625,1.0,0.0,789.15,576.6,2.0,26.5
+CUST00002646,Jordan Smith 2646,Consumer,Columbus,Midwest,2026-04-27,D,False,False,3.0,0.0,71.33333333333333,6.7762626953125,1.0,0.0,374.02,142.4,0.0,26.5
+CUST00002652,Riley Patel 2652,Consumer,Austin,Southwest,,B,True,False,0.0,0.0,,2.461048828125,1.0,0.0,580.09,269.72,2.0,24.5
+CUST00002658,Taylor Garcia 2658,Consumer,Boston,Northeast,,B,True,False,2.0,1.0,49.0,2.5055361328125,2.0,1.0,299.18,219.85,2.0,32.25
+CUST00002661,Alex Smith 2661,Government,Jacksonville,Southeast,,C,False,False,3.0,0.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002686,Alex Brown 2686,Government,Albany,Northeast,2021-12-15,B,True,False,1.0,0.0,45.0,6.1977626953125,2.0,2.0,221.56,174.32,1.0,25.5
+CUST00002687,Casey Kim 2687,Small Business,Jacksonville,Southeast,,C,False,False,0.0,0.0,,3.643177734375,5.0,0.0,820.3,382.74,2.0,26.5
+CUST00002689,Taylor Brown 2689,Consumer,Boston,Northeast,,A,False,False,3.0,0.0,39.666666666666664,0.2894677734375,1.0,0.0,138.39,138.39,1.0,28.5
+CUST00002693,Jordan Smith 2693,Small Business,San Diego,West,,A,True,False,1.0,0.0,10.0,0.2998427734375,2.0,0.0,206.32,206.32,1.0,25.0
+CUST00002695,Jordan Garcia 2695,Consumer,Buffalo,Northeast,2020-10-31,B,True,False,2.0,0.0,48.5,8.05285546875,2.0,1.0,441.47,205.01,1.0,27.25
+CUST00002697,Riley Garcia 2697,Consumer,Albuquerque,Southwest,,B,True,False,0.0,0.0,,5.7833056640625,1.0,1.0,582.51,582.51,2.0,24.75
+CUST00002717,Alex Kim 2717,Enterprise,Atlanta,Southeast,,A,True,False,3.0,2.0,69.0,5.480998046875,0.0,0.0,307.76,36.42,1.0,34.0
+CUST00002718,Riley Garcia 2718,Government,Atlanta,Southeast,2018-10-26,D,False,False,1.0,0.0,68.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002720,Taylor Garcia 2720,Consumer,Birmingham,Southeast,,A,False,False,2.0,0.0,67.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002724,Taylor Brown 2724,Consumer,Dallas,Southwest,2026-03-29,C,False,False,1.0,1.0,,7.095048828125,0.0,1.0,458.8,85.58999999999997,2.0,29.25
+CUST00002726,Morgan Patel 2726,Consumer,Albany,Northeast,2018-11-21,B,True,False,1.0,0.0,39.0,10.326819335937499,2.0,0.0,591.4399999999999,346.51,1.0,25.0
+CUST00002727,Alex Patel 2727,Consumer,Atlanta,Southeast,2021-03-15,B,True,False,2.0,1.0,80.0,2.8882607421874997,1.0,1.0,315.66,0.0,0.0,27.75
+CUST00002732,Taylor Smith 2732,Small Business,Denver,West,,A,False,False,2.0,0.0,44.0,2.8703085937500004,3.0,0.0,319.53999999999996,0.0,0.0,25.5
+CUST00002738,Riley Patel 2738,Consumer,Buffalo,Northeast,,B,False,False,0.0,0.0,,4.32458203125,0.0,0.0,265.58,159.2,0.0,20.0
+CUST00002743,Taylor Brown 2743,Enterprise,Birmingham,Southeast,,B,True,False,1.0,0.0,94.0,3.7678828125,2.0,1.0,311.90999999999997,0.0,0.0,23.25
+CUST00002747,Riley Patel 2747,Consumer,Detroit,Midwest,,C,False,False,1.0,0.0,116.0,9.8639189453125,3.0,2.0,584.29,291.5,1.0,26.0
+CUST00002761,Taylor Smith 2761,Small Business,Seattle,West,2022-12-27,A,False,False,1.0,0.0,42.0,11.178966796875,1.0,0.0,509.39,309.82000000000005,1.0,24.5
+CUST00002769,Riley Brown 2769,Government,Denver,West,,C,True,False,3.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002772,Casey Patel 2772,Enterprise,Portland,West,,B,True,False,1.0,0.0,63.0,3.6564765625,0.0,0.0,203.72,122.5,1.0,24.0
+CUST00002784,Alex Smith 2784,Small Business,Birmingham,Southeast,2025-06-07,A,True,False,1.0,0.0,74.0,7.143634765625,0.0,0.0,135.89000000000001,34.99,1.0,24.0
+CUST00002785,Casey Patel 2785,Small Business,Birmingham,Southeast,,A,True,False,2.0,0.0,55.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002789,Riley Kim 2789,Small Business,San Diego,West,2019-08-25,A,False,True,5.0,1.0,47.0,18.238990234375,1.0,0.0,909.52,909.52,3.0,19.5
+CUST00002791,Casey Brown 2791,Government,Buffalo,Northeast,,A,True,False,1.0,0.0,28.0,5.51940234375,0.0,1.0,463.32,400.71,1.0,24.25
+CUST00002796,Morgan Garcia 2796,Consumer,Portland,West,,D,True,False,1.0,0.0,110.0,13.457108398437502,1.0,0.0,378.53999999999996,178.68,0.0,22.5
+CUST00002797,Riley Garcia 2797,Consumer,Detroit,Midwest,,D,False,False,2.0,0.0,40.5,0.0,0.0,0.0,234.72,0.0,0.0,24.0
+CUST00002809,Morgan Patel 2809,Consumer,Albany,Northeast,2021-12-17,A,False,False,1.0,0.0,89.0,14.510554687499999,2.0,2.0,838.5,579.51,2.0,27.5
+CUST00002814,Alex Lee 2814,Consumer,Albuquerque,Southwest,,A,True,False,1.0,0.0,93.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002815,Jordan Garcia 2815,Small Business,Austin,Southwest,2023-01-30,D,False,False,5.0,1.0,53.5,0.0,0.0,0.0,0.0,0.0,0.0,33.0
+CUST00002819,Riley Smith 2819,Government,Denver,West,,C,True,False,3.0,0.0,77.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00002823,Casey Lee 2823,Small Business,Denver,West,,C,True,False,2.0,0.0,79.0,3.06791015625,2.0,0.0,348.77000000000004,22.950000000000003,1.0,27.0
+CUST00002826,Riley Smith 2826,Consumer,Columbus,Midwest,2022-07-17,B,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00002829,Alex Lee 2829,Consumer,Albuquerque,Southwest,,D,True,False,3.0,0.0,57.333333333333336,1.8435380859375,1.0,0.0,358.02,202.19,1.0,28.5
+CUST00002834,Taylor Garcia 2834,Consumer,Albany,Northeast,2024-07-08,A,True,False,0.0,0.0,,4.5130537109375,2.0,1.0,320.22,17.689999999999998,0.0,21.25
+CUST00002835,Riley Kim 2835,Enterprise,Phoenix,Southwest,2025-01-15,A,True,False,1.0,0.0,119.0,16.4275595703125,1.0,0.0,743.2,317.07,1.0,24.5
+CUST00002836,Casey Garcia 2836,Consumer,Columbus,Midwest,2018-10-01,A,True,False,2.0,0.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002850,Casey Kim 2850,Consumer,Chicago,Midwest,,A,False,False,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+CUST00002852,Morgan Smith 2852,Enterprise,Jacksonville,Southeast,,C,False,False,1.0,0.0,94.0,4.0505615234375,1.0,0.0,205.86,205.86,1.0,24.5
+CUST00002856,Riley Smith 2856,Government,Nashville,Southeast,2023-10-03,C,False,False,1.0,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002869,Taylor Smith 2869,Government,Chicago,Midwest,2022-05-08,C,False,False,1.0,0.0,104.0,14.010069335937501,3.0,0.0,844.28,563.2,3.0,29.5
+CUST00002876,Casey Garcia 2876,Enterprise,Nashville,Southeast,,A,False,False,3.0,0.0,46.0,4.7235146484375,3.0,0.0,588.33,240.99,2.0,31.5
+CUST00002878,Taylor Garcia 2878,Government,Nashville,Southeast,2022-06-11,A,True,False,1.0,0.0,49.0,9.8567685546875,0.0,0.0,211.91000000000003,75.2,0.0,22.0
+CUST00002879,Riley Patel 2879,Government,Detroit,Midwest,,B,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00002880,Taylor Kim 2880,Enterprise,Phoenix,Southwest,,A,True,False,2.0,1.0,17.0,3.0060253906249996,0.0,0.0,365.28999999999996,239.19,1.0,29.0
+CUST00002890,Morgan Garcia 2890,Small Business,Birmingham,Southeast,,D,False,False,0.0,0.0,,0.31350390625,0.0,0.0,165.95999999999998,29.51,1.0,22.0
+CUST00002891,Alex Kim 2891,Consumer,Indianapolis,Midwest,2022-09-17,C,True,False,2.0,0.0,68.5,7.868236328125,0.0,0.0,718.6800000000001,573.14,2.0,28.0
+CUST00002901,Riley Brown 2901,Consumer,Nashville,Southeast,2024-10-07,C,False,False,1.0,0.0,29.0,4.6289580078125,0.0,0.0,373.4,234.92,1.0,24.0
+CUST00002904,Morgan Brown 2904,Consumer,Atlanta,Southeast,,D,True,False,1.0,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002910,Alex Lee 2910,Consumer,Albany,Northeast,,A,True,False,1.0,0.0,78.0,7.7104970703125,1.0,1.0,755.1,657.88,2.0,26.75
+CUST00002911,Casey Smith 2911,Small Business,Detroit,Midwest,2026-02-03,A,True,False,0.0,0.0,,9.42786328125,1.0,1.0,1133.23,783.52,3.0,26.75
+CUST00002919,Taylor Garcia 2919,Enterprise,Buffalo,Northeast,2023-08-23,C,True,False,0.0,0.0,,12.4357001953125,1.0,1.0,525.22,525.22,2.0,24.75
+CUST00002922,Taylor Smith 2922,Consumer,Atlanta,Southeast,,C,True,False,2.0,0.0,26.0,2.8391552734375,1.0,0.0,144.32999999999998,81.8,0.0,24.5
+CUST00002926,Casey Lee 2926,Consumer,Jacksonville,Southeast,2022-03-09,C,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00002927,Riley Garcia 2927,Enterprise,Chicago,Midwest,,B,False,False,1.0,0.0,95.0,3.3433242187500003,2.0,0.0,314.21,314.21,1.0,25.0
+CUST00002947,Jordan Lee 2947,Government,Denver,West,2020-05-23,C,False,True,7.0,0.0,67.28571428571429,13.726615234375,3.0,0.0,585.4200000000001,444.0,2.0,19.5
+CUST00002952,Riley Brown 2952,Enterprise,Atlanta,Southeast,,B,True,False,1.0,0.0,89.0,8.6937431640625,2.0,0.0,390.72,87.32,1.0,25.0
+CUST00002958,Taylor Kim 2958,Consumer,Phoenix,Southwest,,D,False,False,1.0,0.0,46.0,16.827232421875,4.0,5.0,1018.85,615.16,4.0,33.25
+CUST00002961,Jordan Patel 2961,Consumer,Indianapolis,Midwest,,A,True,False,1.0,0.0,36.0,3.8243642578125003,1.0,2.0,461.63,212.48,1.0,25.0
+CUST00002964,Casey Patel 2964,Consumer,Albany,Northeast,2024-02-08,C,True,True,4.0,2.0,53.0,5.0335322265624995,1.0,0.0,978.73,375.24,2.0,18.5
+CUST00002965,Morgan Brown 2965,Enterprise,Dallas,Southwest,,C,True,False,4.0,0.0,56.0,7.244695312499999,2.0,0.0,443.83,443.83,2.0,33.0
+CUST00002968,Morgan Lee 2968,Government,Denver,West,,A,False,True,4.0,1.0,46.333333333333336,12.2976806640625,1.0,0.0,490.53,294.09000000000003,2.0,15.5
+CUST00002969,Casey Kim 2969,Government,Phoenix,Southwest,,C,True,False,1.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002972,Jordan Lee 2972,Enterprise,Albany,Northeast,2026-04-29,B,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00002981,Alex Kim 2981,Government,Portland,West,2024-04-26,B,True,False,2.0,1.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00002983,Taylor Garcia 2983,Enterprise,Portland,West,2025-12-12,C,False,False,1.0,0.0,76.0,13.8116806640625,1.0,0.0,720.96,552.97,3.0,28.5
+CUST00002985,Casey Kim 2985,Enterprise,Albuquerque,Southwest,,D,True,False,3.0,0.0,51.666666666666664,8.699335937499999,0.0,0.0,228.73000000000002,199.96,0.0,26.0
+CUST00002987,Jordan Smith 2987,Consumer,Philadelphia,Northeast,2021-05-07,C,False,False,2.0,0.0,31.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00002988,Alex Patel 2988,Small Business,Philadelphia,Northeast,,B,True,False,0.0,0.0,,0.8554609375,0.0,0.0,305.63,305.63,1.0,22.0
+CUST00002991,Alex Lee 2991,Consumer,Boston,Northeast,2024-03-13,A,False,False,1.0,0.0,71.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00002993,Jordan Patel 2993,Enterprise,Detroit,Midwest,2023-09-18,C,False,False,0.0,0.0,,5.961952148437501,2.0,0.0,122.02,0.0,0.0,21.0
+CUST00002995,Casey Lee 2995,Government,Seattle,West,,D,False,False,0.0,0.0,,12.4681640625,3.0,0.0,929.69,900.27,2.0,25.5
+CUST00003012,Morgan Kim 3012,Small Business,Phoenix,Southwest,2024-06-30,D,True,False,0.0,0.0,,10.1612861328125,0.0,0.0,1334.67,471.75,2.0,24.0
+CUST00003014,Riley Brown 3014,Consumer,Austin,Southwest,,B,False,False,0.0,0.0,,3.16762890625,1.0,0.0,257.08,44.279999999999994,0.0,20.5
+CUST00003015,Taylor Garcia 3015,Consumer,Columbus,Midwest,,A,True,False,4.0,1.0,90.66666666666667,7.285256835937499,0.0,0.0,275.02,27.129999999999995,0.0,31.0
+CUST00003018,Alex Brown 3018,Small Business,Jacksonville,Southeast,2019-06-11,A,True,False,3.0,1.0,84.5,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00003021,Jordan Smith 3021,Enterprise,Dallas,Southwest,2022-01-03,B,False,False,2.0,0.0,82.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003024,Morgan Kim 3024,Government,San Diego,West,2023-10-09,C,False,False,1.0,0.0,13.0,7.1584951171875,0.0,0.0,423.40999999999997,209.85,0.0,22.0
+CUST00003025,Casey Smith 3025,Small Business,Buffalo,Northeast,,C,True,False,1.0,0.0,108.0,8.584208984375,0.0,0.0,897.41,367.84000000000003,0.0,22.0
+CUST00003026,Alex Kim 3026,Government,Chicago,Midwest,2025-07-27,B,False,False,2.0,0.0,75.5,3.735546875,1.0,0.0,377.43,185.91,1.0,26.5
+CUST00003029,Taylor Brown 3029,Consumer,Seattle,West,2020-01-29,A,False,False,2.0,0.0,116.0,0.8266123046875,0.0,0.0,266.08,42.53,1.0,26.0
+CUST00003037,Riley Patel 3037,Consumer,Phoenix,Southwest,,A,True,False,3.0,0.0,50.333333333333336,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00003039,Taylor Smith 3039,Consumer,Chicago,Midwest,2025-04-03,C,True,False,2.0,0.0,89.5,0.3223720703125,0.0,0.0,427.19,427.19,1.0,26.0
+CUST00003045,Taylor Patel 3045,Small Business,San Diego,West,,B,False,False,1.0,0.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003053,Morgan Kim 3053,Enterprise,Austin,Southwest,2026-03-12,A,True,False,1.0,0.0,89.0,11.1377470703125,1.0,1.0,414.91999999999996,49.99,1.0,24.75
+CUST00003055,Jordan Kim 3055,Enterprise,Denver,West,2023-03-16,A,True,False,1.0,0.0,92.0,19.0130556640625,0.0,3.0,1161.66,477.66999999999996,2.0,26.75
+CUST00003056,Morgan Kim 3056,Small Business,Albany,Northeast,,C,True,False,1.0,0.0,88.0,7.4600576171875,1.0,0.0,901.71,860.03,3.0,28.5
+CUST00003057,Taylor Brown 3057,Government,Boston,Northeast,2020-11-16,A,True,False,2.0,0.0,100.0,6.0527890625,2.0,0.0,261.34000000000003,201.4,0.0,25.0
+CUST00003064,Jordan Garcia 3064,Consumer,Columbus,Midwest,2019-06-09,B,True,False,2.0,0.0,95.5,6.3271953125,1.0,0.0,633.19,396.37,1.0,26.5
+CUST00003068,Riley Patel 3068,Government,Philadelphia,Northeast,,B,True,False,1.0,1.0,,9.5519462890625,0.0,0.0,78.97,78.97,1.0,27.0
+CUST00003069,Alex Smith 3069,Enterprise,Jacksonville,Southeast,,D,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003071,Jordan Kim 3071,Small Business,Birmingham,Southeast,,B,False,False,2.0,0.0,81.5,0.6154140625,0.0,0.0,340.77,340.77,1.0,26.0
+CUST00003074,Taylor Garcia 3074,Government,Austin,Southwest,,C,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003076,Jordan Kim 3076,Consumer,Boston,Northeast,2022-12-01,A,True,False,3.0,0.0,56.0,2.9314130859375,0.0,0.0,337.93,337.93,1.0,28.0
+CUST00003082,Taylor Brown 3082,Consumer,Jacksonville,Southeast,,B,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003085,Riley Kim 3085,Consumer,Austin,Southwest,2019-09-27,A,False,True,5.0,2.0,44.333333333333336,8.0396416015625,0.0,0.0,278.86,169.61,1.0,18.0
+CUST00003092,Jordan Garcia 3092,Small Business,Dallas,Southwest,2019-01-19,A,True,False,1.0,0.0,110.0,13.4310498046875,1.0,0.0,606.5600000000001,224.28,1.0,24.5
+CUST00003093,Taylor Brown 3093,Government,Birmingham,Southeast,,B,True,False,2.0,1.0,89.0,1.7493144531249998,2.0,0.0,394.44000000000005,204.08,0.0,28.0
+CUST00003096,Taylor Patel 3096,Consumer,Boston,Northeast,2020-12-04,C,True,False,2.0,0.0,53.5,3.5840546874999997,1.0,0.0,339.62,81.98,0.0,24.5
+CUST00003107,Taylor Garcia 3107,Consumer,Chicago,Midwest,,A,False,False,2.0,0.0,62.0,13.18849609375,0.0,0.0,438.66,173.81,2.0,28.0
+CUST00003114,Morgan Garcia 3114,Enterprise,Denver,West,,B,False,False,3.0,0.0,64.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00003118,Alex Brown 3118,Enterprise,Philadelphia,Northeast,,D,True,False,1.0,0.0,110.0,6.280986328125,1.0,1.0,345.73,345.73,2.0,26.75
+CUST00003119,Jordan Lee 3119,Consumer,Albany,Northeast,2023-10-08,C,False,False,2.0,0.0,37.5,10.3706591796875,0.0,0.0,589.3499999999999,368.53999999999996,1.0,26.0
+CUST00003122,Alex Smith 3122,Consumer,Seattle,West,,D,True,False,0.0,0.0,,12.3885771484375,1.0,0.0,581.47,205.07,1.0,22.5
+CUST00003128,Jordan Patel 3128,Enterprise,Birmingham,Southeast,2018-07-11,A,True,False,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003141,Taylor Garcia 3141,Enterprise,Phoenix,Southwest,,D,False,False,1.0,0.0,21.0,6.641875,3.0,1.0,228.16,228.16,1.0,25.75
+CUST00003145,Alex Garcia 3145,Government,Austin,Southwest,,C,False,False,2.0,0.0,70.5,8.3081328125,2.0,0.0,340.28,280.52,2.0,29.0
+CUST00003158,Jordan Garcia 3158,Small Business,Dallas,Southwest,,D,True,False,0.0,0.0,,4.3793222656249995,1.0,0.0,628.06,570.98,2.0,24.5
+CUST00003165,Casey Patel 3165,Consumer,Albany,Northeast,,D,False,False,0.0,0.0,,0.9928710937499999,0.0,1.0,134.7,74.53,1.0,22.25
+CUST00003171,Jordan Smith 3171,Consumer,Chicago,Midwest,,D,True,False,1.0,0.0,95.0,4.2484140625,1.0,1.0,876.1600000000001,674.32,3.0,28.75
+CUST00003175,Morgan Kim 3175,Small Business,Philadelphia,Northeast,2024-04-22,A,True,False,0.0,0.0,,4.23994921875,1.0,1.0,177.58,150.71,1.0,22.75
+CUST00003177,Riley Smith 3177,Government,Portland,West,2021-03-07,D,False,False,0.0,0.0,,8.578641601562499,1.0,0.0,325.68,92.91,0.0,20.5
+CUST00003179,Taylor Kim 3179,Enterprise,Seattle,West,2024-06-11,C,True,False,1.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003183,Taylor Kim 3183,Consumer,Albany,Northeast,2025-07-11,A,False,False,1.0,0.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003188,Alex Patel 3188,Enterprise,Indianapolis,Midwest,,D,False,False,1.0,0.0,89.0,3.5929501953125,0.0,0.0,210.89999999999998,210.89999999999998,1.0,24.0
+CUST00003191,Riley Brown 3191,Consumer,Boston,Northeast,,C,True,False,1.0,0.0,68.0,2.604794921875,1.0,0.0,363.62,99.9,0.0,22.5
+CUST00003194,Jordan Kim 3194,Consumer,Phoenix,Southwest,,A,True,False,1.0,0.0,22.0,0.83065234375,1.0,0.0,173.91,86.05000000000001,1.0,24.5
+CUST00003199,Taylor Patel 3199,Consumer,Detroit,Midwest,2019-09-19,C,False,False,2.0,1.0,37.0,9.7464560546875,0.0,2.0,562.92,470.78,2.0,31.5
+CUST00003201,Morgan Lee 3201,Enterprise,Indianapolis,Midwest,,D,False,False,2.0,2.0,,0.0,0.0,0.0,0.0,0.0,0.0,30.0
+CUST00003207,Taylor Kim 3207,Consumer,Dallas,Southwest,2021-08-28,A,False,False,1.0,0.0,11.0,6.317654296875,1.0,0.0,293.21,293.21,1.0,24.5
+CUST00003210,Alex Patel 3210,Enterprise,Boston,Northeast,,D,True,False,1.0,0.0,92.0,3.770546875,0.0,1.0,286.46,267.3,1.0,24.25
+CUST00003217,Casey Brown 3217,Consumer,Seattle,West,2021-02-17,B,False,False,2.0,0.0,78.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003223,Morgan Patel 3223,Government,Austin,Southwest,,C,False,False,0.0,0.0,,2.950984375,0.0,0.0,185.64,164.23,0.0,20.0
+CUST00003229,Alex Kim 3229,Consumer,Atlanta,Southeast,,A,True,False,3.0,0.0,56.333333333333336,7.8437431640625,0.0,0.0,315.9,110.27,0.0,26.0
+CUST00003234,Alex Lee 3234,Consumer,Atlanta,Southeast,,B,True,False,1.0,0.0,69.0,1.508505859375,0.0,0.0,117.95,86.47,1.0,24.0
+CUST00003242,Casey Smith 3242,Small Business,Birmingham,Southeast,2020-10-06,C,False,False,2.0,0.0,20.0,6.27325390625,0.0,1.0,381.03,207.41,1.0,26.25
+CUST00003256,Riley Patel 3256,Consumer,Atlanta,Southeast,2024-09-09,A,True,False,0.0,0.0,,8.958259765625,1.0,0.0,301.53,194.71,0.0,20.5
+CUST00003259,Riley Smith 3259,Government,Denver,West,2020-02-06,A,False,False,0.0,0.0,,20.387703125,2.0,1.0,1000.81,689.4,3.0,27.25
+CUST00003260,Casey Kim 3260,Consumer,Detroit,Midwest,2025-11-12,A,False,False,0.0,0.0,,5.6777333984375,0.0,0.0,262.78,52.83,1.0,22.0
+CUST00003264,Alex Smith 3264,Small Business,Chicago,Midwest,2024-02-09,A,True,True,4.0,1.0,86.33333333333333,13.8254736328125,1.0,1.0,590.64,520.13,2.0,15.75
+CUST00003269,Jordan Kim 3269,Consumer,Dallas,Southwest,,A,True,False,2.0,0.0,100.0,4.2233662109375,0.0,0.0,152.62,65.67,0.0,24.0
+CUST00003274,Morgan Brown 3274,Enterprise,Denver,West,,D,True,False,1.0,0.0,79.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003278,Riley Brown 3278,Enterprise,Jacksonville,Southeast,2021-01-18,A,True,False,0.0,0.0,,8.8684951171875,0.0,2.0,570.73,349.38,1.0,22.5
+CUST00003281,Casey Kim 3281,Consumer,Jacksonville,Southeast,2024-08-28,D,True,False,2.0,1.0,14.0,1.922740234375,0.0,1.0,138.59,138.59,1.0,29.25
+CUST00003290,Morgan Kim 3290,Consumer,Indianapolis,Midwest,,C,True,True,4.0,0.0,42.25,39.940359375,4.0,2.0,1707.96,1242.45,6.0,22.5
+CUST00003294,Alex Kim 3294,Small Business,Detroit,Midwest,,A,False,False,3.0,1.0,59.0,11.0031845703125,2.0,2.0,1003.05,755.0,3.0,36.5
+CUST00003297,Jordan Kim 3297,Consumer,Nashville,Southeast,2019-05-01,C,True,False,1.0,1.0,,3.009373046875,0.0,0.0,175.92000000000002,153.19,1.0,27.0
+CUST00003299,Riley Lee 3299,Small Business,Birmingham,Southeast,2022-03-28,B,True,True,2.0,0.0,78.0,25.8172939453125,3.0,1.0,1579.83,809.08,5.0,15.75
+CUST00003302,Morgan Brown 3302,Consumer,Philadelphia,Northeast,2023-10-15,C,False,False,4.0,0.0,66.75,0.1268369140625,0.0,0.0,436.04999999999995,241.42,0.0,28.0
+CUST00003304,Riley Kim 3304,Government,Albuquerque,Southwest,2020-11-27,B,True,False,0.0,0.0,,10.8448154296875,4.0,0.0,665.12,353.22,1.0,24.0
+CUST00003306,Riley Garcia 3306,Government,Atlanta,Southeast,2018-02-26,D,False,False,2.0,0.0,116.5,3.20770703125,2.0,1.0,246.76999999999998,246.76999999999998,1.0,27.25
+CUST00003310,Casey Garcia 3310,Consumer,Albany,Northeast,2020-11-25,B,True,False,3.0,0.0,32.333333333333336,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00003322,Alex Patel 3322,Small Business,Denver,West,2020-03-06,A,False,False,1.0,0.0,27.0,2.7663046875,1.0,1.0,228.89,0.0,0.0,22.75
+CUST00003323,Riley Brown 3323,Consumer,Birmingham,Southeast,2020-11-19,A,False,False,2.0,0.0,31.5,0.0,0.0,0.0,139.07,139.07,1.0,26.0
+CUST00003330,Jordan Kim 3330,Enterprise,Chicago,Midwest,2018-06-25,C,False,False,2.0,0.0,73.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003339,Riley Smith 3339,Consumer,Philadelphia,Northeast,,C,True,False,2.0,0.0,20.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003343,Taylor Patel 3343,Consumer,Nashville,Southeast,,A,False,False,2.0,0.0,46.0,3.979216796875,1.0,0.0,187.61999999999998,167.14,0.0,24.5
+CUST00003354,Morgan Lee 3354,Consumer,Phoenix,Southwest,2021-06-24,A,True,False,1.0,0.0,53.0,3.6705468750000003,1.0,0.0,636.13,493.51,1.0,24.5
+CUST00003355,Morgan Smith 3355,Consumer,Phoenix,Southwest,2019-03-10,B,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003359,Morgan Brown 3359,Consumer,Indianapolis,Midwest,2022-04-19,A,True,False,0.0,0.0,,5.365500976562499,2.0,1.0,613.44,400.24,2.0,25.25
+CUST00003364,Jordan Lee 3364,Small Business,Birmingham,Southeast,2022-11-07,A,False,False,0.0,0.0,,0.0,0.0,0.0,337.15,252.81,1.0,22.0
+CUST00003376,Taylor Lee 3376,Consumer,Austin,Southwest,2025-08-17,C,True,False,2.0,0.0,73.0,3.1801533203125003,0.0,1.0,360.75,194.81,0.0,24.25
+CUST00003377,Casey Smith 3377,Government,Denver,West,2021-11-23,C,True,False,0.0,0.0,,6.8793125,1.0,0.0,853.66,448.02,2.0,24.5
+CUST00003379,Morgan Smith 3379,Consumer,Portland,West,,D,True,False,2.0,0.0,24.5,3.6589697265625,0.0,0.0,101.38,69.88,0.0,24.0
+CUST00003386,Taylor Lee 3386,Small Business,Indianapolis,Midwest,2021-05-18,D,True,False,0.0,0.0,,15.733134765625,1.0,1.0,517.41,342.04,1.0,22.75
+CUST00003387,Alex Patel 3387,Enterprise,Philadelphia,Northeast,,C,True,False,1.0,0.0,50.0,0.09650390625,0.0,0.0,151.47,151.47,1.0,24.0
+CUST00003394,Alex Brown 3394,Government,Birmingham,Southeast,,A,True,False,1.0,0.0,25.0,3.7419599609375003,0.0,0.0,314.19,314.19,1.0,24.0
+CUST00003398,Taylor Brown 3398,Small Business,Nashville,Southeast,,D,False,False,3.0,0.0,88.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00003400,Jordan Garcia 3400,Consumer,Philadelphia,Northeast,2025-07-08,B,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003422,Taylor Patel 3422,Enterprise,Philadelphia,Northeast,,D,True,False,2.0,0.0,74.5,7.816297851562499,2.0,2.0,1012.52,544.49,3.0,31.5
+CUST00003427,Riley Smith 3427,Enterprise,Jacksonville,Southeast,2020-05-10,B,True,False,2.0,0.0,71.0,1.3205615234374999,2.0,0.0,269.03999999999996,269.03999999999996,1.0,27.0
+CUST00003428,Morgan Brown 3428,Government,Detroit,Midwest,,C,True,False,2.0,0.0,92.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003434,Riley Smith 3434,Government,Chicago,Midwest,2026-01-29,A,False,False,1.0,0.0,83.0,7.444288085937499,4.0,0.0,627.27,223.09,0.0,24.0
+CUST00003443,Taylor Garcia 3443,Government,Boston,Northeast,,B,True,False,1.0,0.0,44.0,6.4497958984375,2.0,0.0,214.45,214.45,1.0,25.0
+CUST00003455,Riley Smith 3455,Consumer,Seattle,West,2020-02-17,C,True,False,3.0,0.0,78.33333333333333,3.4769472656250002,1.0,0.0,621.35,286.94,0.0,26.5
+CUST00003460,Jordan Kim 3460,Enterprise,Boston,Northeast,,A,True,False,1.0,0.0,100.0,2.020056640625,2.0,0.0,714.86,308.01,2.0,27.0
+CUST00003471,Morgan Smith 3471,Consumer,Columbus,Midwest,2026-02-10,C,False,False,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+CUST00003475,Taylor Patel 3475,Consumer,Birmingham,Southeast,,C,False,False,1.0,0.0,13.0,11.700227539062501,3.0,0.0,888.02,626.86,2.0,27.5
+CUST00003481,Alex Smith 3481,Consumer,Dallas,Southwest,,C,True,False,1.0,0.0,77.0,12.8663125,1.0,2.0,382.89,288.26,1.0,25.0
+CUST00003482,Jordan Patel 3482,Small Business,Columbus,Midwest,,C,True,False,1.0,0.0,117.0,1.4728203125,0.0,0.0,469.42999999999995,256.28,0.0,22.0
+CUST00003485,Morgan Patel 3485,Consumer,Denver,West,,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003499,Jordan Smith 3499,Consumer,Portland,West,2019-09-19,D,False,False,3.0,2.0,82.0,0.378609375,0.0,0.0,361.41999999999996,361.41999999999996,1.0,34.0
+CUST00003500,Casey Lee 3500,Enterprise,Albuquerque,Southwest,2021-11-23,A,False,False,1.0,0.0,28.0,18.882033203125,0.0,1.0,511.58000000000004,511.58000000000004,2.0,26.25
+CUST00003505,Morgan Patel 3505,Small Business,Austin,Southwest,,B,True,False,1.0,0.0,4.0,6.1706884765625,2.0,1.0,437.25,322.77,2.0,27.25
+CUST00003510,Jordan Smith 3510,Consumer,Chicago,Midwest,2019-10-17,D,False,False,0.0,0.0,,27.9539736328125,1.0,0.0,2141.69,1524.9,5.0,30.5
+CUST00003511,Riley Patel 3511,Small Business,Dallas,Southwest,2025-08-15,A,False,False,2.0,1.0,33.0,4.177958984375,1.0,0.0,217.34,217.34,1.0,29.5
+CUST00003512,Jordan Lee 3512,Consumer,Boston,Northeast,,B,False,False,2.0,0.0,91.0,0.8654931640625,0.0,0.0,315.9,315.9,1.0,26.0
+CUST00003513,Taylor Lee 3513,Enterprise,Albany,Northeast,2026-03-08,A,False,False,1.0,0.0,14.0,9.5909677734375,0.0,0.0,333.32,333.32,1.0,24.0
+CUST00003521,Riley Lee 3521,Consumer,Columbus,Midwest,2024-07-30,D,True,False,1.0,0.0,108.0,1.422970703125,0.0,0.0,217.67000000000002,180.52,1.0,24.0
+CUST00003523,Riley Lee 3523,Government,Detroit,Midwest,2018-02-01,D,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003533,Taylor Lee 3533,Government,Seattle,West,,B,False,False,0.0,0.0,,1.3958769531250002,1.0,0.0,85.5,85.5,1.0,22.5
+CUST00003535,Taylor Kim 3535,Consumer,Jacksonville,Southeast,,C,False,False,1.0,0.0,16.0,4.3650146484375,0.0,1.0,402.35,402.35,1.0,24.25
+CUST00003536,Morgan Patel 3536,Government,Seattle,West,2018-03-18,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003543,Morgan Kim 3543,Consumer,Buffalo,Northeast,,A,True,False,3.0,0.0,47.0,1.3542041015625,2.0,0.0,618.15,373.49999999999994,2.0,31.0
+CUST00003546,Taylor Brown 3546,Government,Jacksonville,Southeast,,C,False,False,0.0,0.0,,9.6956611328125,0.0,0.0,562.61,288.9,1.0,22.0
+CUST00003554,Riley Garcia 3554,Consumer,Detroit,Midwest,,C,False,True,3.0,2.0,52.0,10.6462802734375,4.0,1.0,603.93,346.27,1.0,16.25
+CUST00003556,Casey Kim 3556,Enterprise,Denver,West,2022-02-09,A,True,False,2.0,1.0,81.0,1.1975703125000001,1.0,0.0,202.69,202.69,1.0,29.5
+CUST00003557,Riley Garcia 3557,Enterprise,Phoenix,Southwest,,D,False,False,3.0,0.0,87.66666666666667,11.848254882812501,0.0,1.0,656.77,255.37,2.0,30.25
+CUST00003570,Morgan Garcia 3570,Consumer,Detroit,Midwest,,C,True,False,2.0,0.0,92.5,6.20749609375,0.0,0.0,171.01000000000002,79.59000000000002,1.0,26.0
+CUST00003575,Morgan Smith 3575,Government,Albany,Northeast,,A,True,False,3.0,0.0,25.333333333333332,6.8775498046875,0.0,0.0,411.53,224.32,1.0,28.0
+CUST00003577,Riley Smith 3577,Consumer,Jacksonville,Southeast,2021-06-20,D,True,False,2.0,0.0,66.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003580,Riley Garcia 3580,Consumer,Jacksonville,Southeast,2023-01-22,D,False,False,2.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003581,Morgan Brown 3581,Enterprise,Chicago,Midwest,,A,False,False,2.0,0.0,99.5,1.458775390625,0.0,0.0,444.72,193.0,1.0,26.0
+CUST00003587,Taylor Garcia 3587,Government,Chicago,Midwest,,A,False,False,0.0,0.0,,0.0,0.0,0.0,329.84,134.76999999999998,1.0,22.0
+CUST00003589,Riley Brown 3589,Consumer,Nashville,Southeast,2025-06-30,A,True,False,1.0,0.0,104.0,2.6617158203124998,0.0,0.0,177.98,158.69,1.0,24.0
+CUST00003591,Riley Kim 3591,Small Business,Seattle,West,,B,False,False,3.0,0.0,48.333333333333336,1.4182363281250001,0.0,1.0,394.33000000000004,34.629999999999995,1.0,28.25
+CUST00003597,Taylor Patel 3597,Consumer,Denver,West,2019-02-16,D,True,False,2.0,0.0,113.5,14.5815830078125,1.0,0.0,626.9499999999999,252.67,2.0,28.5
+CUST00003602,Casey Patel 3602,Consumer,Dallas,Southwest,,B,False,False,2.0,0.0,61.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003605,Jordan Brown 3605,Government,Phoenix,Southwest,,D,True,False,3.0,0.0,47.333333333333336,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00003606,Alex Brown 3606,Consumer,Austin,Southwest,,B,True,False,1.0,0.0,116.0,0.0,0.0,0.0,412.31,219.91,0.0,22.0
+CUST00003607,Taylor Brown 3607,Enterprise,San Diego,West,,B,True,False,2.0,1.0,97.0,0.0,0.0,0.0,462.43,229.43,0.0,27.0
+CUST00003614,Taylor Patel 3614,Enterprise,Atlanta,Southeast,,A,False,False,2.0,0.0,66.0,4.888728515625,0.0,1.0,379.88,49.150000000000006,0.0,24.25
+CUST00003616,Casey Brown 3616,Small Business,Jacksonville,Southeast,,D,True,True,3.0,3.0,,2.5443955078125,0.0,1.0,399.83,399.83,1.0,17.25
+CUST00003621,Jordan Patel 3621,Consumer,Birmingham,Southeast,,B,True,False,0.0,0.0,,5.351544921875,1.0,0.0,276.24,97.31,1.0,22.5
+CUST00003623,Jordan Garcia 3623,Enterprise,Portland,West,2018-06-14,C,True,False,1.0,0.0,111.0,0.0,0.0,0.0,174.83999999999997,174.83999999999997,1.0,24.0
+CUST00003628,Taylor Lee 3628,Consumer,Portland,West,2020-04-17,C,True,False,1.0,0.0,52.0,9.4336640625,3.0,0.0,968.35,525.37,2.0,27.5
+CUST00003632,Jordan Patel 3632,Consumer,Nashville,Southeast,2020-07-04,A,True,False,2.0,1.0,110.0,1.0803291015625,0.0,0.0,323.76,161.19,1.0,29.0
+CUST00003633,Alex Patel 3633,Government,Dallas,Southwest,,C,True,True,4.0,1.0,44.333333333333336,9.71373046875,0.0,3.0,458.67,458.67,2.0,15.75
+CUST00003639,Alex Brown 3639,Consumer,Albany,Northeast,,B,True,True,6.0,1.0,64.8,7.7819765625,3.0,1.0,529.01,410.76000000000005,2.0,20.75
+CUST00003642,Riley Garcia 3642,Consumer,Indianapolis,Midwest,2023-12-15,A,True,False,1.0,0.0,117.0,2.3279296874999997,0.0,0.0,411.71000000000004,0.0,0.0,22.0
+CUST00003648,Casey Brown 3648,Small Business,Columbus,Midwest,2021-02-25,A,False,False,2.0,1.0,109.0,5.117994140625,1.0,1.0,141.7,79.81,1.0,29.75
+CUST00003652,Taylor Smith 3652,Small Business,San Diego,West,2019-11-12,C,True,False,3.0,1.0,34.0,7.1613876953125,2.0,0.0,169.07999999999998,169.07999999999998,1.0,32.0
+CUST00003654,Alex Smith 3654,Consumer,Albany,Northeast,2022-08-26,A,False,False,1.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003655,Alex Brown 3655,Small Business,Albany,Northeast,,D,True,False,0.0,0.0,,2.5888447265625,1.0,0.0,251.75,228.88,1.0,22.5
+CUST00003660,Morgan Lee 3660,Government,Austin,Southwest,,A,False,False,2.0,0.0,93.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003666,Riley Lee 3666,Enterprise,Buffalo,Northeast,,C,True,False,1.0,1.0,,6.2484892578125,2.0,2.0,338.3,338.3,1.0,28.5
+CUST00003667,Casey Patel 3667,Small Business,San Diego,West,,B,False,False,5.0,0.0,51.6,5.1489365234374995,0.0,2.0,607.53,303.7,1.0,32.5
+CUST00003676,Alex Patel 3676,Small Business,Philadelphia,Northeast,2020-02-22,A,True,False,4.0,1.0,57.333333333333336,8.8889892578125,2.0,1.0,755.96,298.95,1.0,34.25
+CUST00003677,Morgan Kim 3677,Small Business,Birmingham,Southeast,,B,False,False,2.0,1.0,107.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00003679,Alex Smith 3679,Consumer,Boston,Northeast,,B,False,False,1.0,1.0,,5.2591708984375,1.0,0.0,622.62,30.69,0.0,25.5
+CUST00003689,Alex Kim 3689,Consumer,Detroit,Midwest,2024-06-05,A,True,False,0.0,0.0,,2.2631679687500004,2.0,1.0,635.05,399.68,1.0,23.25
+CUST00003690,Riley Smith 3690,Small Business,Jacksonville,Southeast,,D,True,False,2.0,0.0,86.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003692,Morgan Brown 3692,Small Business,Buffalo,Northeast,2021-01-10,A,False,False,3.0,0.0,60.0,7.5870947265625,1.0,0.0,311.44,183.16,0.0,26.5
+CUST00003694,Taylor Lee 3694,Consumer,Denver,West,,B,False,False,3.0,0.0,64.33333333333333,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00003700,Alex Kim 3700,Small Business,Birmingham,Southeast,,B,True,False,1.0,1.0,,1.7215986328125,0.0,0.0,53.18,22.21,0.0,25.0
+CUST00003704,Alex Brown 3704,Government,Columbus,Midwest,,D,True,False,0.0,0.0,,2.886435546875,3.0,0.0,469.99,180.79999999999998,2.0,25.5
+CUST00003706,Morgan Brown 3706,Consumer,Portland,West,,A,True,False,2.0,0.0,54.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003709,Alex Smith 3709,Consumer,Dallas,Southwest,,A,True,False,0.0,0.0,,2.4902451171875,1.0,0.0,270.89,61.66,0.0,20.5
+CUST00003714,Riley Brown 3714,Consumer,Indianapolis,Midwest,,D,True,False,2.0,0.0,75.5,8.872867187499999,1.0,1.0,288.33000000000004,0.0,0.0,24.75
+CUST00003725,Jordan Kim 3725,Consumer,Jacksonville,Southeast,,A,True,False,1.0,0.0,98.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003726,Alex Garcia 3726,Consumer,Albany,Northeast,,A,False,True,6.0,1.0,84.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0
+CUST00003728,Morgan Kim 3728,Consumer,Atlanta,Southeast,2023-03-05,A,True,False,3.0,0.0,77.0,13.694914062499999,0.0,1.0,662.8399999999999,662.8399999999999,2.0,30.25
+CUST00003733,Riley Garcia 3733,Government,Dallas,Southwest,,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003747,Riley Kim 3747,Consumer,Portland,West,2020-12-22,A,False,False,0.0,0.0,,12.4649091796875,0.0,1.0,335.59000000000003,201.24,1.0,22.25
+CUST00003753,Morgan Lee 3753,Government,Albany,Northeast,,B,False,False,1.0,0.0,100.0,9.172557617187499,1.0,0.0,274.74,80.66000000000001,1.0,24.5
+CUST00003757,Morgan Lee 3757,Consumer,Atlanta,Southeast,2024-01-26,C,True,False,0.0,0.0,,7.908921875,0.0,0.0,770.31,371.36,1.0,22.0
+CUST00003760,Riley Smith 3760,Consumer,Detroit,Midwest,2024-01-10,A,False,False,1.0,0.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003761,Morgan Patel 3761,Consumer,Detroit,Midwest,2024-12-20,B,False,False,4.0,0.0,58.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+CUST00003763,Jordan Garcia 3763,Enterprise,Denver,West,,A,False,False,2.0,1.0,16.0,6.0364580078125005,0.0,0.0,342.74,309.86,1.0,29.0
+CUST00003773,Jordan Brown 3773,Consumer,Indianapolis,Midwest,,C,True,False,0.0,0.0,,10.3603955078125,3.0,1.0,340.88,205.77999999999997,1.0,23.75
+CUST00003775,Taylor Brown 3775,Enterprise,Portland,West,2022-10-15,C,True,False,3.0,0.0,60.0,2.084568359375,0.0,0.0,127.71,17.14,1.0,28.0
+CUST00003778,Alex Smith 3778,Consumer,Columbus,Midwest,2020-04-11,A,False,False,2.0,0.0,66.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003787,Jordan Garcia 3787,Small Business,Detroit,Midwest,,A,False,False,0.0,0.0,,11.04028515625,1.0,0.0,688.27,380.52,1.0,22.5
+CUST00003788,Morgan Patel 3788,Small Business,San Diego,West,,C,True,False,3.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00003795,Riley Smith 3795,Consumer,Chicago,Midwest,,B,False,True,5.0,0.0,68.8,10.313690429687501,3.0,3.0,730.1,620.3,2.0,16.25
+CUST00003809,Riley Lee 3809,Consumer,Philadelphia,Northeast,,B,False,False,1.0,0.0,87.0,10.7416201171875,0.0,1.0,860.7,421.08000000000004,1.0,24.25
+CUST00003810,Morgan Lee 3810,Consumer,Atlanta,Southeast,2025-07-15,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003813,Morgan Garcia 3813,Consumer,Detroit,Midwest,2018-04-27,B,True,False,2.0,0.0,50.5,13.53467578125,1.0,0.0,342.52,307.02,2.0,28.5
+CUST00003824,Taylor Brown 3824,Small Business,Philadelphia,Northeast,,A,False,False,1.0,0.0,94.0,3.2545732421875,0.0,0.0,260.34000000000003,219.69,1.0,24.0
+CUST00003825,Taylor Lee 3825,Enterprise,Denver,West,2019-05-03,B,True,False,2.0,0.0,66.5,6.885320312499999,1.0,1.0,324.24,324.24,1.0,26.75
+CUST00003831,Alex Lee 3831,Enterprise,San Diego,West,2024-12-10,A,False,False,2.0,1.0,80.0,16.883833984375,0.0,1.0,603.91,408.14,2.0,31.25
+CUST00003835,Alex Smith 3835,Consumer,Atlanta,Southeast,2025-04-24,A,True,False,3.0,2.0,99.0,5.2784619140624995,0.0,0.0,589.0,479.73999999999995,1.0,34.0
+CUST00003841,Alex Garcia 3841,Consumer,Albuquerque,Southwest,2024-12-24,C,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003848,Casey Patel 3848,Consumer,Boston,Northeast,,A,True,False,3.0,0.0,48.0,3.9345703125,0.0,0.0,511.71,285.32,2.0,30.0
+CUST00003867,Morgan Garcia 3867,Consumer,San Diego,West,,C,True,False,1.0,0.0,36.0,3.1735927734374996,0.0,0.0,445.14,445.14,1.0,24.0
+CUST00003874,Riley Garcia 3874,Consumer,Nashville,Southeast,,B,False,False,2.0,0.0,86.5,7.3949677734375,0.0,0.0,203.41,117.63,0.0,24.0
+CUST00003879,Morgan Lee 3879,Small Business,Boston,Northeast,,A,False,False,0.0,0.0,,3.8371679687499998,1.0,0.0,676.16,375.37,1.0,22.5
+CUST00003901,Alex Smith 3901,Government,Boston,Northeast,,C,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003905,Taylor Lee 3905,Government,Portland,West,2024-10-16,A,True,False,2.0,0.0,63.0,0.4911865234375,0.0,0.0,276.93,276.93,1.0,26.0
+CUST00003908,Casey Smith 3908,Small Business,Denver,West,,B,True,False,1.0,0.0,36.0,3.608908203125,0.0,0.0,393.91999999999996,393.91999999999996,1.0,24.0
+CUST00003909,Jordan Smith 3909,Consumer,Nashville,Southeast,2019-08-03,B,True,False,1.0,0.0,76.0,4.9969443359375,0.0,0.0,287.12,91.93,1.0,24.0
+CUST00003910,Casey Garcia 3910,Consumer,Atlanta,Southeast,,D,True,False,0.0,0.0,,1.924822265625,0.0,0.0,282.46,282.46,1.0,22.0
+CUST00003912,Taylor Garcia 3912,Government,Birmingham,Southeast,2023-01-20,D,False,False,0.0,0.0,,8.579183593749999,1.0,0.0,620.59,620.59,2.0,24.5
+CUST00003917,Morgan Smith 3917,Government,Jacksonville,Southeast,2018-06-05,A,True,False,2.0,0.0,58.5,7.9769404296875,2.0,0.0,898.23,615.1700000000001,2.0,29.0
+CUST00003918,Morgan Patel 3918,Enterprise,Nashville,Southeast,,A,True,False,1.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+CUST00003920,Casey Smith 3920,Small Business,Detroit,Midwest,,D,False,False,1.0,0.0,99.0,13.736060546874999,2.0,1.0,1029.24,758.0899999999999,3.0,29.25
+CUST00003926,Morgan Kim 3926,Enterprise,San Diego,West,2023-04-01,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00003928,Alex Patel 3928,Consumer,Dallas,Southwest,2018-09-18,B,True,False,2.0,0.0,74.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00003929,Morgan Garcia 3929,Consumer,Denver,West,2019-07-12,A,True,False,1.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003931,Taylor Garcia 3931,Small Business,Philadelphia,Northeast,2020-11-17,B,True,False,1.0,0.0,32.0,9.05126953125,1.0,0.0,329.27,329.27,2.0,26.5
+CUST00003939,Taylor Kim 3939,Small Business,Philadelphia,Northeast,,A,True,False,2.0,0.0,93.0,8.0345380859375,5.0,1.0,719.0899999999999,427.11,2.0,30.75
+CUST00003943,Jordan Lee 3943,Consumer,Indianapolis,Midwest,,C,False,False,0.0,0.0,,9.8431474609375,2.0,0.0,504.78000000000003,233.99,2.0,25.0
+CUST00003945,Riley Kim 3945,Government,Phoenix,Southwest,2018-01-26,B,False,False,2.0,0.0,41.5,7.393337890625,2.0,1.0,699.98,504.11,1.0,27.25
+CUST00003947,Taylor Patel 3947,Consumer,Dallas,Southwest,2022-08-26,A,True,False,0.0,0.0,,1.6420869140625,0.0,0.0,285.83,285.83,1.0,22.0
+CUST00003965,Riley Patel 3965,Government,Buffalo,Northeast,,A,True,False,1.0,0.0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003967,Taylor Kim 3967,Consumer,Seattle,West,,A,True,False,0.0,0.0,,18.1635185546875,1.0,1.0,740.95,313.36,3.0,26.75
+CUST00003976,Taylor Smith 3976,Small Business,Boston,Northeast,2026-04-27,A,True,False,1.0,0.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00003977,Taylor Kim 3977,Enterprise,Nashville,Southeast,,D,True,False,2.0,0.0,56.5,5.472171875,0.0,0.0,399.61,52.94000000000001,2.0,28.0
+CUST00003986,Riley Garcia 3986,Consumer,Albuquerque,Southwest,,A,True,True,2.0,2.0,,15.8226708984375,3.0,0.0,1098.72,926.88,3.0,17.5
+CUST00003996,Alex Brown 3996,Consumer,Columbus,Midwest,,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004000,Alex Kim 4000,Consumer,Seattle,West,,B,False,False,0.0,0.0,,2.3388603515625,0.0,0.0,351.96000000000004,209.94,1.0,22.0
+CUST00004016,Morgan Lee 4016,Consumer,Detroit,Midwest,,B,True,False,1.0,0.0,95.0,13.0683857421875,1.0,0.0,825.64,614.6,1.0,24.5
+CUST00004031,Jordan Smith 4031,Government,Seattle,West,2021-08-19,C,True,False,2.0,0.0,36.0,5.546771484375,0.0,1.0,531.5,419.90999999999997,1.0,26.25
+CUST00004036,Jordan Brown 4036,Government,Detroit,Midwest,2023-04-29,A,False,True,3.0,2.0,63.0,5.742271484374999,0.0,0.0,602.15,405.58,2.0,16.0
+CUST00004047,Morgan Garcia 4047,Consumer,Austin,Southwest,2024-03-30,A,False,False,1.0,0.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00004050,Casey Patel 4050,Enterprise,Nashville,Southeast,2021-10-25,A,False,False,2.0,0.0,35.5,5.371615234375,1.0,0.0,187.42,44.25,1.0,26.5
+CUST00004052,Morgan Kim 4052,Consumer,Portland,West,,A,True,False,1.0,0.0,67.0,10.30978125,0.0,1.0,336.63,121.07000000000001,1.0,24.25
+CUST00004054,Jordan Lee 4054,Consumer,Austin,Southwest,,C,True,False,1.0,0.0,92.0,3.057689453125,0.0,0.0,178.07,11.04,0.0,22.0
+CUST00004057,Taylor Brown 4057,Small Business,Chicago,Midwest,2021-04-06,D,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004069,Alex Patel 4069,Small Business,Indianapolis,Midwest,,A,False,False,3.0,0.0,76.0,11.464848632812501,0.0,2.0,477.21,163.87,1.0,28.5
+CUST00004071,Morgan Brown 4071,Consumer,Phoenix,Southwest,,D,False,False,3.0,1.0,58.5,1.6584746093749998,0.0,0.0,169.11,169.11,1.0,31.0
+CUST00004073,Riley Kim 4073,Small Business,Jacksonville,Southeast,2023-08-10,A,False,False,0.0,0.0,,1.8466328125,1.0,0.0,425.83000000000004,0.0,0.0,20.5
+CUST00004078,Jordan Lee 4078,Consumer,Chicago,Midwest,2020-03-21,C,True,False,1.0,0.0,54.0,16.399708984375,0.0,1.0,1450.21,753.04,3.0,28.25
+CUST00004079,Riley Patel 4079,Consumer,Birmingham,Southeast,,B,False,False,4.0,0.0,65.0,3.2960615234375,1.0,0.0,1035.54,354.55,2.0,32.5
+CUST00004095,Alex Brown 4095,Consumer,Phoenix,Southwest,,D,False,False,1.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00004112,Taylor Garcia 4112,Consumer,Atlanta,Southeast,2021-07-08,A,True,False,2.0,0.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00004117,Morgan Kim 4117,Consumer,Detroit,Midwest,2022-11-16,A,False,True,4.0,1.0,47.0,6.2205888671875,0.0,0.0,776.29,520.54,2.0,15.0
+CUST00004123,Riley Brown 4123,Consumer,Portland,West,2023-10-02,A,False,True,4.0,1.0,75.33333333333333,10.271150390625,0.0,0.0,490.57,490.57,2.0,15.0
+CUST00004134,Taylor Brown 4134,Consumer,Detroit,Midwest,,C,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004153,Riley Kim 4153,Small Business,Albuquerque,Southwest,2020-10-22,A,True,False,0.0,0.0,,6.9624765625,0.0,0.0,398.33,56.98999999999998,0.0,20.0
+CUST00004164,Taylor Kim 4164,Government,Phoenix,Southwest,2019-12-19,A,True,True,5.0,1.0,57.0,8.8049287109375,0.0,0.0,510.26,386.5,2.0,17.0
+CUST00004165,Jordan Kim 4165,Government,Atlanta,Southeast,2022-07-13,C,True,False,1.0,0.0,49.0,6.852076171875,2.0,0.0,787.63,356.91999999999996,1.0,25.0
+CUST00004166,Morgan Patel 4166,Enterprise,Dallas,Southwest,,D,False,False,2.0,0.0,76.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00004170,Taylor Smith 4170,Consumer,Birmingham,Southeast,2022-02-11,D,False,False,1.0,0.0,53.0,1.8624794921875,0.0,0.0,268.18,268.18,1.0,24.0
+CUST00004171,Alex Garcia 4171,Consumer,Philadelphia,Northeast,2025-09-30,C,True,False,1.0,0.0,57.0,4.530466796875,0.0,0.0,204.43,204.43,1.0,24.0
+CUST00004173,Alex Kim 4173,Consumer,Phoenix,Southwest,2021-07-11,A,True,False,3.0,1.0,58.5,8.301177734374999,0.0,2.0,845.3299999999999,480.71,2.0,33.5
+CUST00004180,Casey Kim 4180,Small Business,Columbus,Midwest,,D,True,False,2.0,1.0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00004188,Morgan Lee 4188,Consumer,Albuquerque,Southwest,2024-09-06,A,False,False,1.0,0.0,18.0,23.127224609375002,1.0,2.0,1050.5,582.35,2.0,27.0
+CUST00004193,Morgan Brown 4193,Government,Chicago,Midwest,,C,True,False,0.0,0.0,,10.7328076171875,2.0,0.0,325.24,243.73000000000002,1.0,23.0
+CUST00004194,Casey Garcia 4194,Consumer,Columbus,Midwest,,B,True,False,3.0,0.0,16.666666666666668,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+CUST00004200,Riley Brown 4200,Small Business,Nashville,Southeast,,C,True,False,0.0,0.0,,12.775673828125,6.0,2.0,758.34,685.59,2.0,27.5
+CUST00004204,Casey Lee 4204,Government,Detroit,Midwest,2023-06-11,A,True,False,1.0,0.0,29.0,7.20218359375,0.0,0.0,288.52,288.52,1.0,24.0
+CUST00004213,Jordan Smith 4213,Enterprise,Boston,Northeast,2019-01-01,C,True,False,0.0,0.0,,7.200513671875,1.0,2.0,336.78,199.73,1.0,23.0
+CUST00004216,Casey Patel 4216,Consumer,Jacksonville,Southeast,,C,False,False,3.0,1.0,90.5,7.094234375,1.0,1.0,1054.84,588.19,2.0,33.75
+CUST00004222,Taylor Brown 4222,Enterprise,Albany,Northeast,,A,True,False,2.0,0.0,46.5,15.061143554687499,1.0,1.0,823.84,809.97,3.0,30.75
+CUST00004227,Morgan Patel 4227,Consumer,Chicago,Midwest,,A,False,False,3.0,0.0,54.333333333333336,1.8506416015625,1.0,0.0,729.36,620.8,2.0,30.5
+CUST00004230,Taylor Patel 4230,Small Business,San Diego,West,2025-01-03,A,True,False,3.0,0.0,37.0,1.2369902343749999,2.0,1.0,224.28,224.28,1.0,29.25
+CUST00004234,Riley Garcia 4234,Consumer,Chicago,Midwest,2020-12-08,C,True,False,0.0,0.0,,6.8474736328125,1.0,0.0,181.91,181.91,1.0,22.5
+CUST00004237,Morgan Lee 4237,Small Business,Dallas,Southwest,,C,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004240,Morgan Garcia 4240,Consumer,Albany,Northeast,,A,False,False,3.0,0.0,71.66666666666667,4.703640625,0.0,0.0,343.98,246.62,1.0,28.0
+CUST00004243,Morgan Smith 4243,Small Business,Jacksonville,Southeast,2025-09-25,B,False,True,5.0,1.0,57.5,12.2017958984375,0.0,0.0,1090.71,742.09,3.0,19.0
+CUST00004246,Riley Lee 4246,Consumer,San Diego,West,2018-07-13,D,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004250,Alex Kim 4250,Consumer,Albuquerque,Southwest,,A,False,True,5.0,1.0,55.0,7.6431162109374995,0.0,0.0,214.29,182.54999999999998,1.0,15.0
+CUST00004252,Taylor Garcia 4252,Consumer,Chicago,Midwest,,D,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004284,Alex Smith 4284,Government,Denver,West,2020-10-17,A,False,False,0.0,0.0,,0.0,0.0,0.0,128.44,41.56,0.0,20.0
+CUST00004291,Taylor Patel 4291,Consumer,Phoenix,Southwest,,D,False,False,2.0,0.0,18.0,4.86274609375,0.0,0.0,285.15,169.15,1.0,26.0
+CUST00004299,Morgan Patel 4299,Small Business,Buffalo,Northeast,2025-10-02,A,False,False,1.0,0.0,53.0,14.2106025390625,2.0,1.0,610.17,256.57,1.0,25.25
+CUST00004311,Jordan Patel 4311,Consumer,Columbus,Midwest,2024-11-30,A,False,False,0.0,0.0,,3.4717744140624998,1.0,0.0,335.38,104.55,0.0,20.5
+CUST00004315,Jordan Lee 4315,Government,Detroit,Midwest,2023-03-09,A,False,False,2.0,1.0,103.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0
+CUST00004316,Taylor Kim 4316,Enterprise,Albany,Northeast,2022-12-09,D,False,False,2.0,0.0,34.5,13.4163720703125,1.0,1.0,498.05999999999995,460.91999999999996,2.0,28.75
+CUST00004317,Casey Kim 4317,Enterprise,Albuquerque,Southwest,,D,False,False,3.0,0.0,38.333333333333336,0.3899326171875,0.0,1.0,201.5,45.95,1.0,28.25
+CUST00004323,Alex Garcia 4323,Enterprise,Nashville,Southeast,2022-04-05,C,False,False,3.0,1.0,89.5,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00004329,Jordan Kim 4329,Consumer,Seattle,West,,A,False,False,3.0,1.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00004335,Casey Brown 4335,Consumer,Philadelphia,Northeast,2021-06-25,A,True,False,2.0,1.0,12.0,1.5521142578125,0.0,0.0,409.94,178.57,0.0,27.0
+CUST00004336,Alex Kim 4336,Consumer,Philadelphia,Northeast,,A,True,False,3.0,1.0,82.5,14.5281103515625,7.0,4.0,806.49,466.62,2.0,37.5
+CUST00004337,Riley Patel 4337,Small Business,Atlanta,Southeast,2019-03-22,C,False,False,1.0,0.0,87.0,7.7770751953125,2.0,0.0,146.29999999999998,57.23,0.0,23.0
+CUST00004348,Alex Patel 4348,Government,Albuquerque,Southwest,,A,True,False,1.0,0.0,43.0,6.489339843750001,2.0,0.0,321.78,321.78,1.0,25.0
+CUST00004351,Morgan Lee 4351,Enterprise,Indianapolis,Midwest,2023-10-07,A,False,False,1.0,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00004356,Jordan Patel 4356,Consumer,Birmingham,Southeast,,A,False,False,1.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00004358,Jordan Smith 4358,Consumer,Boston,Northeast,,B,False,False,0.0,0.0,,3.592810546875,1.0,1.0,747.47,460.41999999999996,1.0,22.75
+CUST00004362,Casey Kim 4362,Consumer,Austin,Southwest,2025-09-19,A,False,False,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00004369,Morgan Patel 4369,Consumer,Birmingham,Southeast,2023-08-18,B,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004370,Jordan Garcia 4370,Consumer,Birmingham,Southeast,2022-10-06,C,True,False,1.0,0.0,21.0,0.5389658203125,2.0,0.0,613.46,413.64,2.0,27.0
+CUST00004371,Alex Kim 4371,Small Business,Atlanta,Southeast,2019-02-25,A,True,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004379,Morgan Garcia 4379,Enterprise,Birmingham,Southeast,2019-03-10,D,False,False,1.0,0.0,41.0,16.4879873046875,5.0,2.0,803.3299999999999,572.93,2.0,29.0
+CUST00004381,Morgan Garcia 4381,Government,Buffalo,Northeast,2025-08-21,A,True,False,2.0,0.0,94.5,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00004386,Alex Brown 4386,Small Business,Birmingham,Southeast,2022-12-20,D,True,False,0.0,0.0,,10.7214541015625,1.0,0.0,938.6,744.77,3.0,26.5
+CUST00004390,Casey Garcia 4390,Enterprise,Detroit,Midwest,,D,False,False,7.0,1.0,63.833333333333336,7.48880078125,2.0,0.0,653.34,274.08,1.0,40.0
+CUST00004401,Morgan Brown 4401,Consumer,Denver,West,,B,False,False,4.0,0.0,74.0,2.6355791015624996,0.0,0.0,367.18,109.51,1.0,30.0
+CUST00004405,Morgan Patel 4405,Consumer,Nashville,Southeast,,C,False,False,1.0,0.0,105.0,9.9785498046875,0.0,1.0,853.9499999999999,726.3399999999999,3.0,28.25
+CUST00004410,Riley Brown 4410,Enterprise,Phoenix,Southwest,2019-12-24,A,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004434,Riley Lee 4434,Consumer,Denver,West,,D,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004438,Riley Kim 4438,Consumer,Buffalo,Northeast,,D,True,False,0.0,0.0,,7.1466699218750005,2.0,0.0,296.46,255.91000000000003,2.0,25.0
+CUST00004441,Casey Brown 4441,Consumer,Philadelphia,Northeast,,A,False,False,1.0,0.0,110.0,4.8944013671875,0.0,0.0,386.21,386.21,1.0,24.0
+CUST00004447,Casey Smith 4447,Consumer,Boston,Northeast,2025-09-13,D,False,False,0.0,0.0,,4.0292587890625,0.0,0.0,274.62,0.0,0.0,20.0
+CUST00004450,Morgan Kim 4450,Government,Albany,Northeast,2023-01-02,C,False,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+CUST00004469,Riley Smith 4469,Government,Jacksonville,Southeast,,D,False,False,2.0,0.0,90.5,1.9648984375,1.0,0.0,327.62,255.8,1.0,26.5
+CUST00004470,Riley Garcia 4470,Government,Nashville,Southeast,2023-03-15,C,True,False,2.0,0.0,68.0,0.22792968749999998,1.0,0.0,172.07,31.54,1.0,26.5
+CUST00004477,Riley Lee 4477,Government,Indianapolis,Midwest,,B,True,False,2.0,0.0,62.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0
+CUST00004480,Jordan Garcia 4480,Enterprise,Detroit,Midwest,2019-10-10,C,True,False,2.0,0.0,59.5,6.9902333984375,2.0,0.0,479.5,369.6,2.0,29.0
+CUST00004481,Morgan Brown 4481,Enterprise,Dallas,Southwest,,C,False,False,1.0,0.0,92.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00004482,Alex Brown 4482,Consumer,Columbus,Midwest,,D,True,False,0.0,0.0,,8.497822265625,2.0,1.0,924.02,572.8299999999999,1.0,23.25
+CUST00004485,Riley Smith 4485,Consumer,Austin,Southwest,2023-06-24,B,True,False,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+CUST00004486,Jordan Smith 4486,Consumer,Indianapolis,Midwest,2024-07-01,C,True,True,5.0,2.0,41.666666666666664,11.6354521484375,0.0,0.0,557.31,485.37,2.0,20.0
+CUST00004499,Taylor Smith 4499,Small Business,Dallas,Southwest,,D,False,False,3.0,1.0,106.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+CUST00004500,Riley Smith 4500,Consumer,Denver,West,,D,True,False,1.0,0.0,79.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
