@@ -1,0 +1,1 @@
+subscriber_id,customer_id,plan_id,device_id,home_region,month,voice_minutes,call_count,dropped_calls,roaming_calls,data_gb,data_sessions,poor_qoe_sessions,avg_latency_ms,avg_downlink_mbps,sms_count,failed_sms,monthly_fee,included_voice_minutes,included_sms,included_data_gb,overage_per_gb,data_overage_gb,estimated_data_overage_charge,high_usage_flag
