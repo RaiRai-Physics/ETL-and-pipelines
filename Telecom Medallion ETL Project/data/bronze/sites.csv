@@ -1,0 +1,61 @@
+site_id,site_name,city,region,latitude,longitude,site_type,backhaul_type,active_flag,_ingested_at_utc,_source_file,_source_system
+SITE00001,Atlanta Macro 1,Atlanta,Southeast,41.21616,-108.39450,Small Cell,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00002,Atlanta Macro 2,Atlanta,Southeast,43.22002,-95.88055,Macro,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00003,Atlanta Macro 3,Atlanta,Southeast,42.00836,-114.53086,Rooftop,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00004,Birmingham Macro 4,Birmingham,Southeast,47.82204,-109.83231,Small Cell,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00005,Birmingham Macro 5,Birmingham,Southeast,30.89042,-99.68452,Macro,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00006,Birmingham Macro 6,Birmingham,Southeast,33.00580,-97.04092,Small Cell,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00007,Nashville Macro 7,Nashville,Southeast,36.09083,-72.27131,Macro,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00008,Nashville Macro 8,Nashville,Southeast,34.49869,-104.34355,Rooftop,Ethernet,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00009,Nashville Macro 9,Nashville,Southeast,45.74490,-96.02739,Rooftop,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00010,Jacksonville Macro 10,Jacksonville,Southeast,40.27618,-108.33368,Small Cell,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00011,Jacksonville Macro 11,Jacksonville,Southeast,34.85354,-113.74644,Macro,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00012,Jacksonville Macro 12,Jacksonville,Southeast,44.20691,-93.95391,Small Cell,Ethernet,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00013,Chicago Macro 13,Chicago,Midwest,43.22777,-76.52596,Macro,Microwave,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00014,Chicago Macro 14,Chicago,Midwest,46.65337,-72.19069,Rooftop,Microwave,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00015,Chicago Macro 15,Chicago,Midwest,43.21374,-116.36125,Macro,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00016,Detroit Macro 16,Detroit,Midwest,42.32747,-120.71979,Small Cell,Fiber,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00017,Detroit Macro 17,Detroit,Midwest,45.29647,-83.17362,Rooftop,Microwave,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00018,Detroit Macro 18,Detroit,Midwest,30.71517,-98.29418,Macro,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00019,Columbus Macro 19,Columbus,Midwest,45.74880,-115.18999,Rooftop,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00020,Columbus Macro 20,Columbus,Midwest,47.49454,-121.06514,Small Cell,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00021,Columbus Macro 21,Columbus,Midwest,26.26198,-105.54079,Rooftop,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00022,Indianapolis Macro 22,Indianapolis,Midwest,47.59726,-74.77319,Small Cell,Fiber,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00023,Indianapolis Macro 23,Indianapolis,Midwest,29.16262,-84.49461,Rooftop,Fiber,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00024,Indianapolis Macro 24,Indianapolis,Midwest,29.33585,-110.03270,Small Cell,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00025,Dallas Macro 25,Dallas,Southwest,47.69925,-81.78056,Macro,Ethernet,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00026,Dallas Macro 26,Dallas,Southwest,35.92885,-113.99146,Rooftop,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00027,Dallas Macro 27,Dallas,Southwest,26.66225,-92.87796,Rooftop,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00028,Austin Macro 28,Austin,Southwest,36.36564,-122.19580,Rooftop,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00029,Austin Macro 29,Austin,Southwest,30.44445,-71.54468,Rooftop,Microwave,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00030,Austin Macro 30,Austin,Southwest,43.84977,-120.13396,Macro,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00031,Phoenix Macro 31,Phoenix,Southwest,32.35574,-86.59109,Small Cell,Fiber,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00032,Phoenix Macro 32,Phoenix,Southwest,45.29302,-86.52265,Small Cell,Ethernet,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00033,Phoenix Macro 33,Phoenix,Southwest,32.49609,-107.39442,Macro,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00034,Albuquerque Macro 34,Albuquerque,Southwest,43.16347,-90.10271,Macro,Microwave,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00035,Albuquerque Macro 35,Albuquerque,Southwest,33.91903,-72.05010,Small Cell,Microwave,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00036,Albuquerque Macro 36,Albuquerque,Southwest,29.47457,-84.10181,Rooftop,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00037,Seattle Macro 37,Seattle,West,28.57123,-99.44023,Macro,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00038,Seattle Macro 38,Seattle,West,26.93569,-81.42364,Rooftop,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00039,Seattle Macro 39,Seattle,West,38.28784,-96.96796,Small Cell,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00040,Denver Macro 40,Denver,West,27.02158,-88.50121,Small Cell,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00041,Denver Macro 41,Denver,West,36.39037,-79.17665,Rooftop,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00042,Denver Macro 42,Denver,West,43.49521,-115.26788,Small Cell,Ethernet,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00043,Portland Macro 43,Portland,West,25.17317,-103.86944,Rooftop,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00044,Portland Macro 44,Portland,West,40.65594,-96.70582,Rooftop,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00045,Portland Macro 45,Portland,West,34.82880,-110.73590,Macro,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00046,San Diego Macro 46,San Diego,West,38.26269,-99.25907,Macro,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00047,San Diego Macro 47,San Diego,West,43.02212,-93.37213,Macro,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00048,San Diego Macro 48,San Diego,West,44.77453,-79.60805,Rooftop,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00049,Boston Macro 49,Boston,Northeast,33.51237,-105.82133,Macro,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00050,Boston Macro 50,Boston,Northeast,38.70495,-108.02266,Rooftop,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00051,Boston Macro 51,Boston,Northeast,29.21266,-102.34534,Macro,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00052,Albany Macro 52,Albany,Northeast,27.69982,-85.37510,Macro,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00053,Albany Macro 53,Albany,Northeast,43.78988,-115.23679,Small Cell,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00054,Albany Macro 54,Albany,Northeast,42.84332,-120.87411,Rooftop,Fiber,N,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00055,Buffalo Macro 55,Buffalo,Northeast,41.93163,-91.62506,Macro,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00056,Buffalo Macro 56,Buffalo,Northeast,32.85906,-89.76411,Macro,Ethernet,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00057,Buffalo Macro 57,Buffalo,Northeast,28.02095,-117.65642,Small Cell,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00058,Philadelphia Macro 58,Philadelphia,Northeast,45.83986,-112.41298,Macro,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00059,Philadelphia Macro 59,Philadelphia,Northeast,39.75860,-78.21868,Macro,Microwave,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites
+SITE00060,Philadelphia Macro 60,Philadelphia,Northeast,27.50220,-91.71498,Small Cell,Fiber,Y,2026-09-11T04:28:50.111439+00:00,data/raw/master/sites.csv,sites

@@ -1,0 +1,21 @@
+plan_id,plan_name,plan_type,monthly_fee,included_voice_minutes,included_sms,included_data_gb,overage_per_gb,active_flag,_ingested_at_utc,_source_file,_source_system
+PLN001,Plus 1,Postpaid,25.00,500,500,10,15.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN002,Premium 2,Postpaid,110.00,2000,500,20,5.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN003,Unlimited 3,Postpaid,150.00,1000,500,5,10.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN004,Premium 4,Postpaid,25.00,1000,1000,5,5.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN005,Business 5,Business,35.00,99999,99999,100,10.00,N,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN006,Plus 6,Postpaid,25.00,2000,1000,20,10.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN007,Starter 7,Business,70.00,2000,99999,10,5.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN008,Plus 8,Postpaid,25.00,1000,500,5,5.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN009,Plus 9,Postpaid,35.00,1000,1000,100,10.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN010,Unlimited 10,Prepaid,35.00,1000,500,10,5.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN011,Unlimited 11,Prepaid,85.00,99999,99999,20,10.00,N,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN012,Unlimited 12,Prepaid,70.00,1000,500,999,10.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN013,Premium 13,Prepaid,45.00,500,500,5,10.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN014,Starter 14,Postpaid,35.00,99999,99999,100,15.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN015,Plus 15,Business,25.00,99999,99999,20,10.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN016,Unlimited 16,Prepaid,85.00,2000,500,20,10.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN017,Business 17,Prepaid,85.00,99999,99999,10,10.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN018,Plus 18,Prepaid,35.00,2000,1000,999,10.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN019,Plus 19,Postpaid,35.00,500,99999,20,15.00,Y,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
+PLN020,Premium 20,Postpaid,45.00,500,500,10,5.00,N,2026-09-11T04:28:50.033103+00:00,data/raw/master/plans.csv,plans
