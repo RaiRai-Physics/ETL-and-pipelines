@@ -1,0 +1,501 @@
+cdc_id,customer_id,effective_ts,operation,new_segment,new_credit_class,new_autopay_flag,change_reason,_ingested_at_utc,_source_file,_source_system
+CCDC0000001,CUST00001686,2026-05-01 06:05:14,UPDATE,Small Business,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000002,CUST00004084,2026-02-10 12:42:19,UPDATE,Small Business,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000003,CUST00001902,2026-04-04 04:28:23,UPDATE,Enterprise,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000004,CUST00000287,2026-02-19 03:10:40,UPDATE,Enterprise,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000005,CUST00002290,2026-04-28 17:30:13,UPDATE,Government,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000006,CUST00001088,2026-02-28 16:51:44,UPDATE,Government,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000007,CUST00001693,2026-04-26 22:46:12,UPDATE,Enterprise,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000008,CUST00003861,2026-02-16 07:00:17,UPDATE,Government,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000009,CUST00000174,2026-03-07 04:25:08,UPDATE,Small Business,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000010,CUST00003929,2026-02-28 04:32:08,UPDATE,Enterprise,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000011,CUST00002630,2026-04-12 02:03:11,UPDATE,Government,A,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000012,CUST00000470,2026-02-13 11:23:54,UPDATE,Government,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000013,CUST00001364,2026-03-05 05:33:26,UPDATE,Consumer,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000014,CUST00002952,2026-03-21 11:54:21,UPDATE,Small Business,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000015,CUST00001323,2026-05-29 04:03:00,UPDATE,Small Business,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000016,CUST00003020,2026-05-08 09:24:12,UPDATE,Government,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000017,CUST00000026,2026-05-07 00:57:58,UPDATE,Government,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000018,CUST00004298,2026-04-13 17:47:22,UPDATE,Enterprise,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000019,CUST00002369,2026-02-25 03:32:16,UPDATE,Small Business,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000020,CUST00002969,2026-03-11 22:23:49,UPDATE,Government,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000021,CUST00000290,2026-02-06 14:28:17,UPDATE,Government,A,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000022,CUST00002242,2026-05-05 05:04:34,UPDATE,Government,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000023,CUST00003296,2026-02-14 01:45:13,UPDATE,Government,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000024,CUST00001468,2026-04-01 20:26:09,UPDATE,Enterprise,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000025,CUST00001083,2026-02-03 05:58:10,UPDATE,Government,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000026,CUST00002418,2026-02-16 07:15:01,UPDATE,Consumer,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000027,CUST00002002,2026-03-20 14:51:02,UPDATE,Consumer,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000028,CUST00003396,2026-03-07 10:29:22,UPDATE,Small Business,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000029,CUST00000957,2026-02-19 01:47:07,UPDATE,Enterprise,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000030,CUST00002054,2026-04-13 20:09:08,UPDATE,Consumer,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000031,CUST00001814,2026-02-21 17:30:29,UPDATE,Consumer,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000032,CUST00004237,2026-04-17 16:14:47,UPDATE,Small Business,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000033,CUST00004054,2026-05-08 19:12:53,UPDATE,Enterprise,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000034,CUST00003811,2026-04-21 06:40:07,UPDATE,Government,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000035,CUST00000288,2026-04-22 13:02:43,UPDATE,Small Business,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000036,CUST00003931,2026-04-24 03:00:02,UPDATE,Enterprise,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000037,CUST00001628,2026-03-31 14:58:40,UPDATE,Small Business,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000038,CUST00001723,2026-04-08 07:52:20,UPDATE,Government,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000039,CUST00000851,2026-04-12 20:41:31,UPDATE,Government,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000040,CUST00000844,2026-03-23 14:31:34,UPDATE,Enterprise,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000041,CUST00001774,2026-03-09 17:33:38,UPDATE,Consumer,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000042,CUST00003825,2026-04-27 05:46:44,UPDATE,Government,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000043,CUST00000855,2026-02-02 19:01:21,UPDATE,Consumer,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000044,CUST00002878,2026-03-25 05:53:47,UPDATE,Consumer,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000045,CUST00002221,2026-04-06 00:18:50,UPDATE,Enterprise,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000046,CUST00000793,2026-04-09 11:12:55,UPDATE,Small Business,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000047,CUST00003913,2026-04-26 19:40:54,UPDATE,Small Business,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000048,CUST00000912,2026-04-12 04:20:13,UPDATE,Government,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000049,CUST00001802,2026-04-18 23:15:47,UPDATE,Enterprise,B,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000050,CUST00000392,2026-03-11 13:51:27,UPDATE,Small Business,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000051,CUST00000724,2026-02-16 03:53:32,UPDATE,Small Business,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000052,CUST00000062,2026-02-18 06:25:32,UPDATE,Small Business,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000053,CUST00002590,2026-04-26 12:20:12,UPDATE,Enterprise,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000054,CUST00001334,2026-05-09 11:55:35,UPDATE,Consumer,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000055,CUST00002078,2026-02-04 07:30:23,UPDATE,Enterprise,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000056,CUST00003069,2026-03-16 14:50:40,UPDATE,Consumer,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000057,CUST00001552,2026-02-04 15:14:22,UPDATE,Small Business,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000058,CUST00000680,2026-04-19 02:51:48,UPDATE,Small Business,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000059,CUST00000787,2026-04-18 05:49:37,UPDATE,Government,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000060,CUST00004413,2026-05-22 00:16:45,UPDATE,Consumer,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000061,CUST00001608,2026-02-02 15:09:00,UPDATE,Consumer,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000062,CUST00002361,2026-02-22 13:39:33,UPDATE,Consumer,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000063,CUST00000350,2026-04-18 22:10:17,UPDATE,Government,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000064,CUST00000831,2026-02-08 03:52:11,UPDATE,Enterprise,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000065,CUST00003830,2026-02-19 14:37:16,UPDATE,Government,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000066,CUST00002636,2026-03-25 04:35:40,UPDATE,Small Business,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000067,CUST00004473,2026-03-15 10:59:00,UPDATE,Government,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000068,CUST00000340,2026-03-09 22:01:36,UPDATE,Consumer,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000069,CUST00002814,2026-04-26 19:36:48,UPDATE,Enterprise,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000070,CUST00000750,2026-03-06 00:16:49,UPDATE,Enterprise,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000071,CUST00002703,2026-04-01 20:44:42,UPDATE,Enterprise,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000072,CUST00003102,2026-02-04 07:49:25,UPDATE,Consumer,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000073,CUST00003214,2026-05-21 16:11:40,UPDATE,Government,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000074,CUST00002839,2026-03-29 11:42:35,UPDATE,Enterprise,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000075,CUST00003842,2026-02-01 03:26:22,UPDATE,Small Business,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000076,CUST00004293,2026-05-23 04:28:18,UPDATE,Consumer,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000077,CUST00000869,2026-03-25 09:38:09,UPDATE,Government,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000078,CUST00000940,2026-05-06 15:52:12,UPDATE,Enterprise,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000079,CUST00003260,2026-05-07 08:13:46,UPDATE,Consumer,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000080,CUST00002311,2026-04-01 04:39:58,UPDATE,Consumer,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000081,CUST00004132,2026-03-11 00:42:36,UPDATE,Consumer,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000082,CUST00003558,2026-03-12 14:15:16,UPDATE,Government,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000083,CUST00001082,2026-03-20 08:07:48,UPDATE,Consumer,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000084,CUST00000395,2026-04-07 22:37:31,UPDATE,Government,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000085,CUST00000682,2026-05-04 09:05:24,UPDATE,Consumer,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000086,CUST00000422,2026-03-12 06:48:57,UPDATE,Enterprise,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000087,CUST00003365,2026-04-07 02:04:41,UPDATE,Consumer,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000088,CUST00000609,2026-04-01 13:07:11,UPDATE,Consumer,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000089,CUST00000478,2026-05-09 19:22:06,UPDATE,Enterprise,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000090,CUST00002531,2026-02-14 06:55:20,UPDATE,Consumer,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000091,CUST00000272,2026-02-05 00:34:59,UPDATE,Small Business,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000092,CUST00000543,2026-03-14 04:56:13,UPDATE,Consumer,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000093,CUST00001058,2026-04-23 12:21:50,UPDATE,Government,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000094,CUST00003394,2026-02-21 06:51:04,UPDATE,Small Business,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000095,CUST00001199,2026-02-07 03:35:25,UPDATE,Small Business,B,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000096,CUST00004090,2026-05-01 14:30:56,UPDATE,Enterprise,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000097,CUST00000389,2026-02-23 07:04:08,UPDATE,Consumer,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000098,CUST00001105,2026-05-24 19:51:19,UPDATE,Small Business,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000099,CUST00003533,2026-04-27 21:30:14,UPDATE,Consumer,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000100,CUST00002610,2026-04-29 21:55:12,UPDATE,Enterprise,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000101,CUST00002656,2026-05-27 23:11:58,UPDATE,Enterprise,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000102,CUST00001037,2026-02-12 11:28:31,UPDATE,Government,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000103,CUST00000520,2026-04-05 10:36:52,UPDATE,Small Business,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000104,CUST00003542,2026-02-16 19:01:36,UPDATE,Small Business,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000105,CUST00000072,2026-02-10 14:54:51,UPDATE,Government,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000106,CUST00002510,2026-03-07 03:37:14,UPDATE,Small Business,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000107,CUST00000618,2026-04-28 09:18:40,UPDATE,Small Business,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000108,CUST00002774,2026-04-30 13:43:22,UPDATE,Small Business,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000109,CUST00000921,2026-05-21 13:21:33,UPDATE,Small Business,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000110,CUST00000211,2026-05-01 18:16:02,UPDATE,Consumer,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000111,CUST00000506,2026-05-10 03:18:46,UPDATE,Consumer,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000112,CUST00001718,2026-04-18 06:21:57,UPDATE,Small Business,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000113,CUST00003622,2026-02-25 11:44:45,UPDATE,Small Business,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000114,CUST00003441,2026-04-21 13:47:39,UPDATE,Enterprise,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000115,CUST00004439,2026-04-29 13:53:24,UPDATE,Enterprise,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000116,CUST00003024,2026-04-23 13:32:59,UPDATE,Government,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000117,CUST00002784,2026-05-08 04:23:06,UPDATE,Government,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000118,CUST00000493,2026-02-03 19:22:52,UPDATE,Government,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000119,CUST00000629,2026-02-10 22:12:30,UPDATE,Enterprise,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000120,CUST00003330,2026-03-07 21:31:14,UPDATE,Enterprise,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000121,CUST00003247,2026-03-28 02:46:08,UPDATE,Government,D,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000122,CUST00003763,2026-02-18 11:29:03,UPDATE,Consumer,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000123,CUST00001782,2026-05-13 00:59:02,UPDATE,Government,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000124,CUST00003409,2026-02-01 10:30:23,UPDATE,Government,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000125,CUST00003413,2026-03-13 07:31:08,UPDATE,Consumer,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000126,CUST00001495,2026-02-16 14:47:19,UPDATE,Government,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000127,CUST00003432,2026-05-25 13:33:09,UPDATE,Consumer,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000128,CUST00000859,2026-05-10 11:57:22,UPDATE,Government,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000129,CUST00004369,2026-04-08 16:18:12,UPDATE,Government,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000130,CUST00004440,2026-03-07 01:53:55,UPDATE,Small Business,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000131,CUST00001208,2026-02-27 01:44:12,UPDATE,Small Business,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000132,CUST00000218,2026-03-29 02:50:12,UPDATE,Small Business,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000133,CUST00001739,2026-04-26 07:18:50,UPDATE,Government,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000134,CUST00003143,2026-02-01 19:57:20,UPDATE,Government,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000135,CUST00000961,2026-04-15 16:54:51,UPDATE,Enterprise,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000136,CUST00001524,2026-02-17 18:40:54,UPDATE,Consumer,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000137,CUST00001724,2026-03-25 02:48:53,UPDATE,Enterprise,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000138,CUST00000341,2026-03-28 08:44:17,UPDATE,Consumer,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000139,CUST00001837,2026-05-04 22:36:35,UPDATE,Small Business,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000140,CUST00002347,2026-02-16 02:29:35,UPDATE,Small Business,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000141,CUST00001503,2026-05-10 07:39:56,UPDATE,Enterprise,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000142,CUST00003000,2026-04-17 11:36:39,UPDATE,Consumer,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000143,CUST00001863,2026-02-08 03:49:42,UPDATE,Consumer,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000144,CUST00000515,2026-02-20 12:26:29,UPDATE,Consumer,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000145,CUST00000087,2026-03-31 14:54:26,UPDATE,Enterprise,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000146,CUST00000073,2026-05-20 18:25:40,UPDATE,Government,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000147,CUST00000182,2026-04-09 04:59:24,UPDATE,Enterprise,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000148,CUST00002959,2026-05-26 10:28:15,UPDATE,Enterprise,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000149,CUST00001756,2026-02-07 02:42:29,UPDATE,Consumer,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000150,CUST00001701,2026-02-28 18:40:01,UPDATE,Consumer,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000151,CUST00004076,2026-03-15 01:53:29,UPDATE,Enterprise,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000152,CUST00001629,2026-02-02 00:14:46,UPDATE,Enterprise,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000153,CUST00000424,2026-02-08 10:11:34,UPDATE,Small Business,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000154,CUST00000257,2026-02-24 11:32:18,UPDATE,Small Business,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000155,CUST00002575,2026-02-27 17:08:02,UPDATE,Enterprise,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000156,CUST00000143,2026-04-09 17:45:25,UPDATE,Government,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000157,CUST00001378,2026-05-17 14:31:39,UPDATE,Enterprise,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000158,CUST00000950,2026-02-05 10:53:10,UPDATE,Small Business,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000159,CUST00001144,2026-02-24 04:07:36,UPDATE,Enterprise,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000160,CUST00001318,2026-05-01 00:52:50,UPDATE,Government,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000161,CUST00002258,2026-04-30 03:51:22,UPDATE,Consumer,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000162,CUST00003232,2026-02-15 10:17:16,UPDATE,Government,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000163,CUST00002457,2026-05-23 23:56:38,UPDATE,Enterprise,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000164,CUST00001255,2026-04-14 13:31:41,UPDATE,Consumer,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000165,CUST00001080,2026-04-03 12:31:44,UPDATE,Enterprise,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000166,CUST00003155,2026-02-19 00:25:07,UPDATE,Consumer,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000167,CUST00000456,2026-02-28 10:18:40,UPDATE,Consumer,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000168,CUST00000568,2026-05-29 01:13:44,UPDATE,Government,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000169,CUST00001612,2026-04-27 09:12:21,UPDATE,Government,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000170,CUST00001815,2026-02-03 01:45:15,UPDATE,Government,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000171,CUST00002143,2026-03-04 07:13:35,UPDATE,Government,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000172,CUST00000097,2026-02-16 14:09:07,UPDATE,Small Business,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000173,CUST00000908,2026-03-11 11:51:41,UPDATE,Small Business,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000174,CUST00002383,2026-04-03 01:40:00,UPDATE,Government,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000175,CUST00002645,2026-03-08 04:52:23,UPDATE,Enterprise,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000176,CUST00001558,2026-03-24 08:36:23,UPDATE,Consumer,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000177,CUST00003936,2026-02-14 01:24:23,UPDATE,Consumer,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000178,CUST00004366,2026-03-21 00:20:34,UPDATE,Consumer,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000179,CUST00001509,2026-04-06 04:07:08,UPDATE,Enterprise,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000180,CUST00004133,2026-04-10 08:48:38,UPDATE,Government,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000181,CUST00001321,2026-05-30 10:03:10,UPDATE,Small Business,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000182,CUST00002713,2026-04-13 16:12:31,UPDATE,Government,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000183,CUST00000223,2026-03-16 13:13:02,UPDATE,Consumer,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000184,CUST00003534,2026-03-03 04:25:02,UPDATE,Small Business,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000185,CUST00003918,2026-05-07 01:09:49,UPDATE,Government,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000186,CUST00001354,2026-04-17 21:47:14,UPDATE,Small Business,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000187,CUST00001447,2026-04-03 14:54:37,UPDATE,Government,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000188,CUST00000729,2026-03-06 19:55:00,UPDATE,Government,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000189,CUST00000914,2026-04-12 03:16:46,UPDATE,Consumer,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000190,CUST00002209,2026-03-22 03:03:03,UPDATE,Small Business,D,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000191,CUST00003338,2026-05-05 03:48:31,UPDATE,Government,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000192,CUST00004131,2026-04-11 03:48:37,UPDATE,Small Business,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000193,CUST00000336,2026-05-05 02:47:21,UPDATE,Government,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000194,CUST00001647,2026-05-06 04:29:34,UPDATE,Enterprise,A,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000195,CUST00002813,2026-02-21 23:30:06,UPDATE,Enterprise,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000196,CUST00002409,2026-02-24 02:18:47,UPDATE,Government,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000197,CUST00000368,2026-05-27 01:36:32,UPDATE,Enterprise,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000198,CUST00003015,2026-03-13 17:40:26,UPDATE,Small Business,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000199,CUST00001550,2026-04-29 14:07:44,UPDATE,Consumer,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000200,CUST00001399,2026-03-21 05:28:55,UPDATE,Consumer,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000201,CUST00003613,2026-03-27 02:58:34,UPDATE,Government,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000202,CUST00003017,2026-03-01 05:24:37,UPDATE,Small Business,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000203,CUST00000210,2026-04-04 18:34:52,UPDATE,Enterprise,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000204,CUST00002680,2026-02-11 00:11:41,UPDATE,Enterprise,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000205,CUST00002434,2026-04-16 04:42:58,UPDATE,Consumer,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000206,CUST00003307,2026-04-09 07:09:35,UPDATE,Consumer,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000207,CUST00000843,2026-05-04 13:58:25,UPDATE,Government,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000208,CUST00000105,2026-03-31 06:24:59,UPDATE,Enterprise,D,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000209,CUST00002417,2026-02-22 01:45:37,UPDATE,Government,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000210,CUST00000111,2026-03-01 16:46:59,UPDATE,Government,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000211,CUST00001698,2026-03-20 08:07:36,UPDATE,Consumer,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000212,CUST00002348,2026-05-12 13:11:29,UPDATE,Government,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000213,CUST00002420,2026-04-01 20:00:28,UPDATE,Enterprise,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000214,CUST00002570,2026-05-28 04:55:07,UPDATE,Enterprise,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000215,CUST00002607,2026-02-14 04:26:45,UPDATE,Small Business,A,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000216,CUST00000317,2026-02-11 14:20:08,UPDATE,Government,A,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000217,CUST00000818,2026-03-31 19:36:55,UPDATE,Enterprise,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000218,CUST00000849,2026-05-17 23:22:01,UPDATE,Small Business,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000219,CUST00004231,2026-04-25 08:48:06,UPDATE,Consumer,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000220,CUST00001999,2026-05-31 02:42:19,UPDATE,Small Business,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000221,CUST00001210,2026-03-18 00:15:11,UPDATE,Consumer,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000222,CUST00003777,2026-05-30 12:34:53,UPDATE,Enterprise,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000223,CUST00004494,2026-03-16 20:21:27,UPDATE,Small Business,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000224,CUST00001180,2026-02-23 14:33:00,UPDATE,Consumer,D,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000225,CUST00000650,2026-03-21 13:47:18,UPDATE,Small Business,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000226,CUST00002059,2026-05-12 22:24:34,UPDATE,Enterprise,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000227,CUST00001247,2026-03-01 23:57:16,UPDATE,Small Business,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000228,CUST00002748,2026-04-15 00:24:47,UPDATE,Consumer,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000229,CUST00002894,2026-05-07 21:07:20,UPDATE,Consumer,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000230,CUST00003557,2026-02-04 05:27:59,UPDATE,Government,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000231,CUST00002860,2026-04-01 09:59:37,UPDATE,Consumer,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000232,CUST00004452,2026-02-16 23:26:58,UPDATE,Small Business,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000233,CUST00004344,2026-05-01 01:43:13,UPDATE,Enterprise,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000234,CUST00004247,2026-02-16 14:18:17,UPDATE,Government,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000235,CUST00002749,2026-03-30 17:12:23,UPDATE,Consumer,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000236,CUST00000106,2026-03-19 07:32:11,UPDATE,Enterprise,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000237,CUST00000586,2026-05-04 17:25:33,UPDATE,Consumer,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000238,CUST00003836,2026-02-03 07:22:12,UPDATE,Enterprise,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000239,CUST00000005,2026-03-15 21:29:15,UPDATE,Small Business,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000240,CUST00003255,2026-05-25 10:42:06,UPDATE,Government,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000241,CUST00003779,2026-03-03 04:16:33,UPDATE,Consumer,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000242,CUST00002851,2026-04-21 10:45:51,UPDATE,Small Business,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000243,CUST00002949,2026-04-20 06:27:16,UPDATE,Enterprise,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000244,CUST00004047,2026-05-12 18:58:32,UPDATE,Enterprise,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000245,CUST00000460,2026-03-02 09:04:19,UPDATE,Government,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000246,CUST00000025,2026-03-27 09:12:28,UPDATE,Government,A,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000247,CUST00000776,2026-02-27 10:33:09,UPDATE,Government,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000248,CUST00001971,2026-04-10 20:14:44,UPDATE,Enterprise,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000249,CUST00004036,2026-05-01 21:41:58,UPDATE,Government,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000250,CUST00002886,2026-02-15 17:46:26,UPDATE,Small Business,B,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000251,CUST00002342,2026-05-08 05:18:20,UPDATE,Small Business,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000252,CUST00001745,2026-03-28 18:19:01,UPDATE,Consumer,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000253,CUST00003142,2026-04-11 21:34:22,UPDATE,Small Business,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000254,CUST00004221,2026-03-06 07:03:19,UPDATE,Small Business,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000255,CUST00002673,2026-04-15 07:47:49,UPDATE,Consumer,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000256,CUST00003761,2026-05-25 03:36:49,UPDATE,Government,A,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000257,CUST00003871,2026-02-12 05:03:19,UPDATE,Consumer,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000258,CUST00000763,2026-03-06 00:21:15,UPDATE,Consumer,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000259,CUST00001203,2026-05-29 05:36:58,UPDATE,Small Business,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000260,CUST00003257,2026-02-09 16:14:25,UPDATE,Enterprise,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000261,CUST00003915,2026-03-09 19:36:30,UPDATE,Small Business,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000262,CUST00002945,2026-04-04 15:48:44,UPDATE,Enterprise,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000263,CUST00003963,2026-03-22 17:31:20,UPDATE,Small Business,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000264,CUST00000132,2026-02-19 11:59:20,UPDATE,Small Business,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000265,CUST00001230,2026-03-04 05:40:08,UPDATE,Small Business,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000266,CUST00001798,2026-02-11 16:09:07,UPDATE,Government,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000267,CUST00000878,2026-02-08 14:56:12,UPDATE,Government,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000268,CUST00003977,2026-04-26 13:28:07,UPDATE,Enterprise,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000269,CUST00004459,2026-02-07 17:35:22,UPDATE,Small Business,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000270,CUST00000905,2026-05-03 01:09:34,UPDATE,Small Business,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000271,CUST00002227,2026-03-05 05:17:15,UPDATE,Government,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000272,CUST00002274,2026-05-07 10:29:15,UPDATE,Government,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000273,CUST00000093,2026-04-24 17:32:17,UPDATE,Enterprise,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000274,CUST00001481,2026-05-25 05:46:03,UPDATE,Consumer,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000275,CUST00001845,2026-03-27 16:20:04,UPDATE,Government,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000276,CUST00001096,2026-05-19 20:03:07,UPDATE,Small Business,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000277,CUST00003053,2026-02-05 14:06:29,UPDATE,Government,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000278,CUST00002514,2026-02-03 10:28:50,UPDATE,Government,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000279,CUST00004167,2026-03-14 00:05:50,UPDATE,Government,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000280,CUST00002707,2026-03-26 05:34:07,UPDATE,Enterprise,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000281,CUST00003657,2026-03-27 21:53:33,UPDATE,Government,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000282,CUST00004404,2026-03-24 14:25:40,UPDATE,Enterprise,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000283,CUST00001736,2026-05-16 14:57:24,UPDATE,Consumer,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000284,CUST00003851,2026-04-16 03:49:37,UPDATE,Consumer,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000285,CUST00000850,2026-05-12 06:34:42,UPDATE,Enterprise,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000286,CUST00000345,2026-04-15 18:57:40,UPDATE,Government,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000287,CUST00002881,2026-05-14 12:24:20,UPDATE,Small Business,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000288,CUST00000081,2026-02-19 23:33:02,UPDATE,Consumer,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000289,CUST00000067,2026-03-31 18:51:02,UPDATE,Small Business,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000290,CUST00001253,2026-03-05 22:59:47,UPDATE,Small Business,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000291,CUST00003820,2026-04-11 09:47:54,UPDATE,Small Business,B,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000292,CUST00003636,2026-03-09 16:54:50,UPDATE,Consumer,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000293,CUST00001016,2026-04-26 19:03:02,UPDATE,Government,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000294,CUST00002220,2026-04-04 10:54:01,UPDATE,Enterprise,D,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000295,CUST00001965,2026-05-10 07:42:18,UPDATE,Small Business,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000296,CUST00003385,2026-03-03 11:10:42,UPDATE,Government,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000297,CUST00001300,2026-04-10 04:27:39,UPDATE,Consumer,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000298,CUST00003535,2026-05-20 22:33:11,UPDATE,Consumer,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000299,CUST00000797,2026-04-25 22:19:12,UPDATE,Enterprise,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000300,CUST00002810,2026-04-01 21:17:43,UPDATE,Consumer,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000301,CUST00002202,2026-05-21 20:03:03,UPDATE,Consumer,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000302,CUST00004458,2026-03-06 01:45:51,UPDATE,Consumer,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000303,CUST00000571,2026-04-08 13:36:49,UPDATE,Government,D,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000304,CUST00001915,2026-03-30 08:01:22,UPDATE,Government,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000305,CUST00000621,2026-02-05 00:41:48,UPDATE,Government,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000306,CUST00003957,2026-05-16 23:26:06,UPDATE,Consumer,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000307,CUST00002407,2026-04-16 05:34:23,UPDATE,Consumer,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000308,CUST00003283,2026-03-16 20:44:58,UPDATE,Consumer,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000309,CUST00001607,2026-04-22 21:23:27,UPDATE,Government,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000310,CUST00002337,2026-03-01 02:06:18,UPDATE,Consumer,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000311,CUST00001282,2026-02-08 00:43:25,UPDATE,Government,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000312,CUST00004215,2026-03-31 22:13:23,UPDATE,Consumer,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000313,CUST00001086,2026-02-12 01:44:11,UPDATE,Small Business,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000314,CUST00004364,2026-02-13 05:45:07,UPDATE,Consumer,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000315,CUST00000325,2026-05-03 09:09:45,UPDATE,Small Business,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000316,CUST00001075,2026-05-05 23:14:19,UPDATE,Consumer,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000317,CUST00002920,2026-03-27 10:20:39,UPDATE,Small Business,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000318,CUST00001526,2026-05-22 15:43:28,UPDATE,Enterprise,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000319,CUST00002272,2026-04-23 09:45:15,UPDATE,Government,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000320,CUST00002678,2026-02-22 02:31:34,UPDATE,Consumer,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000321,CUST00001068,2026-05-08 11:38:14,UPDATE,Enterprise,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000322,CUST00002900,2026-04-24 18:04:55,UPDATE,Small Business,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000323,CUST00004426,2026-04-16 02:48:15,UPDATE,Consumer,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000324,CUST00004140,2026-02-26 17:54:29,UPDATE,Consumer,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000325,CUST00001905,2026-04-02 10:00:18,UPDATE,Government,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000326,CUST00000022,2026-04-26 14:28:30,UPDATE,Consumer,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000327,CUST00003715,2026-02-14 14:37:40,UPDATE,Small Business,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000328,CUST00000893,2026-04-12 13:01:30,UPDATE,Enterprise,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000329,CUST00001525,2026-05-23 03:12:03,UPDATE,Government,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000330,CUST00000335,2026-05-13 14:25:38,UPDATE,Consumer,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000331,CUST00004259,2026-03-07 10:09:25,UPDATE,Consumer,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000332,CUST00001343,2026-05-08 19:22:56,UPDATE,Government,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000333,CUST00003904,2026-03-30 19:12:22,UPDATE,Consumer,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000334,CUST00003992,2026-02-19 14:00:17,UPDATE,Small Business,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000335,CUST00000996,2026-05-03 20:00:44,UPDATE,Government,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000336,CUST00002275,2026-03-23 22:37:51,UPDATE,Enterprise,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000337,CUST00003173,2026-05-03 01:06:46,UPDATE,Government,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000338,CUST00000379,2026-03-11 07:48:32,UPDATE,Small Business,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000339,CUST00000919,2026-02-21 13:20:39,UPDATE,Government,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000340,CUST00000990,2026-02-07 21:30:30,UPDATE,Consumer,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000341,CUST00003165,2026-04-23 09:13:07,UPDATE,Government,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000342,CUST00003317,2026-04-14 03:01:29,UPDATE,Government,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000343,CUST00003734,2026-04-07 13:52:00,UPDATE,Government,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000344,CUST00001140,2026-03-24 13:27:07,UPDATE,Small Business,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000345,CUST00000413,2026-02-03 15:08:44,UPDATE,Consumer,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000346,CUST00003242,2026-05-17 18:37:23,UPDATE,Small Business,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000347,CUST00002305,2026-03-24 22:53:35,UPDATE,Small Business,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000348,CUST00000225,2026-04-27 18:41:59,UPDATE,Consumer,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000349,CUST00003151,2026-04-24 16:49:01,UPDATE,Consumer,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000350,CUST00002639,2026-05-25 10:58:50,UPDATE,Small Business,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000351,CUST00001565,2026-02-25 21:03:18,UPDATE,Enterprise,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000352,CUST00001310,2026-03-10 01:28:13,UPDATE,Small Business,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000353,CUST00000201,2026-03-30 04:16:49,UPDATE,Enterprise,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000354,CUST00002169,2026-05-14 05:21:13,UPDATE,Enterprise,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000355,CUST00002581,2026-02-25 19:44:01,UPDATE,Consumer,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000356,CUST00003103,2026-02-10 13:17:38,UPDATE,Consumer,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000357,CUST00000124,2026-03-21 08:01:50,UPDATE,Enterprise,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000358,CUST00000563,2026-03-27 13:55:42,UPDATE,Enterprise,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000359,CUST00004019,2026-04-27 07:58:42,UPDATE,Government,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000360,CUST00002056,2026-03-10 07:46:49,UPDATE,Consumer,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000361,CUST00002455,2026-03-05 11:34:54,UPDATE,Enterprise,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000362,CUST00002719,2026-02-03 10:50:25,UPDATE,Enterprise,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000363,CUST00003787,2026-04-08 10:29:37,UPDATE,Small Business,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000364,CUST00000103,2026-02-07 19:09:51,UPDATE,Consumer,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000365,CUST00001697,2026-02-17 02:03:33,UPDATE,Enterprise,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000366,CUST00003770,2026-02-27 03:09:01,UPDATE,Small Business,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000367,CUST00000730,2026-02-01 17:32:16,UPDATE,Consumer,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000368,CUST00000485,2026-04-27 18:10:14,UPDATE,Small Business,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000369,CUST00003238,2026-02-01 09:25:57,UPDATE,Government,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000370,CUST00000044,2026-05-05 21:41:24,UPDATE,Consumer,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000371,CUST00004166,2026-02-14 21:08:01,UPDATE,Consumer,B,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000372,CUST00000842,2026-04-04 08:42:45,UPDATE,Small Business,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000373,CUST00001349,2026-04-13 09:35:36,UPDATE,Consumer,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000374,CUST00004043,2026-02-06 07:46:50,UPDATE,Government,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000375,CUST00002092,2026-05-13 04:11:29,UPDATE,Enterprise,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000376,CUST00004294,2026-04-23 09:28:41,UPDATE,Consumer,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000377,CUST00001077,2026-03-11 15:31:08,UPDATE,Consumer,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000378,CUST00002316,2026-05-19 17:37:11,UPDATE,Government,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000379,CUST00001783,2026-02-18 16:34:50,UPDATE,Consumer,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000380,CUST00003440,2026-04-21 11:24:16,UPDATE,Enterprise,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000381,CUST00004378,2026-02-04 13:21:56,UPDATE,Small Business,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000382,CUST00002284,2026-03-09 15:26:36,UPDATE,Consumer,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000383,CUST00003406,2026-05-02 16:51:34,UPDATE,Consumer,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000384,CUST00000798,2026-02-27 17:04:04,UPDATE,Consumer,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000385,CUST00002933,2026-03-01 09:51:03,UPDATE,Government,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000386,CUST00003873,2026-03-01 11:50:16,UPDATE,Enterprise,D,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000387,CUST00001069,2026-03-08 10:24:45,UPDATE,Small Business,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000388,CUST00001519,2026-04-24 04:05:12,UPDATE,Government,B,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000389,CUST00001091,2026-04-05 13:42:28,UPDATE,Consumer,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000390,CUST00003684,2026-05-01 04:13:23,UPDATE,Government,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000391,CUST00001548,2026-03-20 01:44:12,UPDATE,Enterprise,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000392,CUST00003251,2026-04-14 22:36:43,UPDATE,Government,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000393,CUST00000835,2026-03-24 07:59:29,UPDATE,Consumer,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000394,CUST00004460,2026-03-10 12:31:41,UPDATE,Enterprise,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000395,CUST00002549,2026-04-26 10:41:38,UPDATE,Government,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000396,CUST00003197,2026-02-21 11:09:55,UPDATE,Government,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000397,CUST00000484,2026-05-04 21:06:56,UPDATE,Small Business,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000398,CUST00000079,2026-02-15 08:15:30,UPDATE,Consumer,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000399,CUST00003883,2026-03-18 14:16:37,UPDATE,Enterprise,D,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000400,CUST00002623,2026-04-09 22:59:34,UPDATE,Government,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000401,CUST00001380,2026-03-20 13:07:18,UPDATE,Enterprise,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000402,CUST00001358,2026-03-09 21:27:47,UPDATE,Government,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000403,CUST00003037,2026-05-30 03:28:21,UPDATE,Enterprise,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000404,CUST00004355,2026-03-23 03:08:35,UPDATE,Consumer,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000405,CUST00001002,2026-05-13 16:02:09,UPDATE,Government,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000406,CUST00003196,2026-04-05 14:31:31,UPDATE,Small Business,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000407,CUST00001938,2026-04-02 19:06:26,UPDATE,Government,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000408,CUST00000935,2026-05-23 23:59:59,UPDATE,Government,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000409,CUST00000156,2026-03-22 05:01:26,UPDATE,Enterprise,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000410,CUST00003066,2026-05-13 14:07:30,UPDATE,Small Business,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000411,CUST00000435,2026-02-19 09:29:00,UPDATE,Enterprise,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000412,CUST00001142,2026-02-06 13:21:07,UPDATE,Small Business,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000413,CUST00002559,2026-04-02 22:51:35,UPDATE,Enterprise,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000414,CUST00004091,2026-05-30 05:21:00,UPDATE,Government,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000415,CUST00003711,2026-05-16 05:27:42,UPDATE,Consumer,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000416,CUST00001977,2026-03-17 18:59:18,UPDATE,Small Business,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000417,CUST00002960,2026-03-22 05:28:41,UPDATE,Consumer,B,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000418,CUST00002453,2026-03-12 04:10:35,UPDATE,Consumer,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000419,CUST00000352,2026-04-16 00:17:16,UPDATE,Government,D,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000420,CUST00002058,2026-03-20 09:07:03,UPDATE,Consumer,B,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000421,CUST00000723,2026-03-17 11:37:04,UPDATE,Enterprise,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000422,CUST00003360,2026-03-18 17:51:08,UPDATE,Consumer,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000423,CUST00004388,2026-04-02 09:20:15,UPDATE,Enterprise,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000424,CUST00002727,2026-03-26 00:52:13,UPDATE,Consumer,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000425,CUST00000997,2026-02-21 17:02:34,UPDATE,Small Business,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000426,CUST00000576,2026-04-17 08:20:03,UPDATE,Government,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000427,CUST00000924,2026-02-04 17:40:09,UPDATE,Government,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000428,CUST00003784,2026-03-17 19:10:16,UPDATE,Enterprise,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000429,CUST00001864,2026-02-19 07:37:25,UPDATE,Consumer,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000430,CUST00002292,2026-02-19 20:44:09,UPDATE,Consumer,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000431,CUST00000626,2026-02-25 07:26:45,UPDATE,Enterprise,D,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000432,CUST00001414,2026-03-23 14:11:14,UPDATE,Small Business,C,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000433,CUST00000642,2026-03-23 17:42:24,UPDATE,Enterprise,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000434,CUST00000080,2026-04-29 03:40:47,UPDATE,Government,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000435,CUST00003802,2026-05-08 08:53:22,UPDATE,Enterprise,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000436,CUST00003493,2026-02-14 17:36:47,UPDATE,Enterprise,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000437,CUST00000973,2026-02-19 21:50:20,UPDATE,Consumer,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000438,CUST00002121,2026-04-01 19:56:17,UPDATE,Enterprise,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000439,CUST00002230,2026-02-24 04:46:26,UPDATE,Government,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000440,CUST00000758,2026-03-12 02:11:29,UPDATE,Government,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000441,CUST00003987,2026-04-07 16:34:31,UPDATE,Enterprise,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000442,CUST00003609,2026-05-07 22:42:36,UPDATE,Consumer,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000443,CUST00001018,2026-04-22 08:42:33,UPDATE,Consumer,A,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000444,CUST00002433,2026-05-30 23:03:01,UPDATE,Consumer,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000445,CUST00000740,2026-04-30 16:21:31,UPDATE,Consumer,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000446,CUST00000762,2026-04-17 14:41:03,UPDATE,Small Business,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000447,CUST00002829,2026-04-17 04:05:01,UPDATE,Government,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000448,CUST00003940,2026-04-27 03:26:04,UPDATE,Consumer,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000449,CUST00000879,2026-04-11 09:18:28,UPDATE,Government,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000450,CUST00004487,2026-04-09 10:32:41,UPDATE,Government,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000451,CUST00003208,2026-04-15 18:31:06,UPDATE,Small Business,C,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000452,CUST00000953,2026-05-23 16:28:30,UPDATE,Enterprise,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000453,CUST00002577,2026-03-12 09:24:50,UPDATE,Government,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000454,CUST00002990,2026-02-18 08:27:58,UPDATE,Small Business,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000455,CUST00001918,2026-02-10 05:40:03,UPDATE,Small Business,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000456,CUST00001452,2026-04-26 21:04:43,UPDATE,Government,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000457,CUST00000245,2026-05-02 03:30:20,UPDATE,Consumer,C,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000458,CUST00003098,2026-04-20 17:14:09,UPDATE,Government,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000459,CUST00004486,2026-05-08 10:38:29,UPDATE,Enterprise,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000460,CUST00003630,2026-02-28 04:53:39,UPDATE,Consumer,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000461,CUST00003332,2026-05-19 06:54:59,UPDATE,Small Business,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000462,CUST00004472,2026-05-13 10:21:04,UPDATE,Government,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000463,CUST00002983,2026-02-07 02:02:15,UPDATE,Government,C,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000464,CUST00004232,2026-05-13 13:11:17,UPDATE,Consumer,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000465,CUST00000333,2026-05-03 20:18:20,UPDATE,Government,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000466,CUST00003131,2026-03-29 20:06:40,UPDATE,Consumer,A,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000467,CUST00000655,2026-02-13 13:20:19,UPDATE,Government,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000468,CUST00001192,2026-05-28 16:12:55,UPDATE,Government,B,N,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000469,CUST00001785,2026-02-26 10:24:21,UPDATE,Small Business,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000470,CUST00003696,2026-03-22 15:27:53,UPDATE,Enterprise,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000471,CUST00003577,2026-04-15 19:44:51,UPDATE,Government,B,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000472,CUST00004186,2026-05-31 19:39:46,UPDATE,Enterprise,B,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000473,CUST00003864,2026-02-14 07:07:34,UPDATE,Government,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000474,CUST00004122,2026-04-24 07:29:19,UPDATE,Enterprise,D,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000475,CUST00002153,2026-04-08 05:04:43,UPDATE,Small Business,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000476,CUST00002571,2026-03-24 05:17:13,UPDATE,Enterprise,B,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000477,CUST00002785,2026-03-08 21:17:15,UPDATE,Small Business,D,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000478,CUST00003946,2026-04-08 12:24:53,UPDATE,Government,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000479,CUST00001836,2026-05-23 10:42:29,UPDATE,Consumer,D,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000480,CUST00000868,2026-03-17 14:36:09,UPDATE,Consumer,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000481,CUST00000711,2026-04-17 13:44:43,UPDATE,Consumer,A,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000482,CUST00002507,2026-02-17 15:59:27,UPDATE,Enterprise,C,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000483,CUST00002328,2026-02-08 14:47:59,UPDATE,Enterprise,C,N,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000484,CUST00001709,2026-02-03 19:53:58,UPDATE,Enterprise,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000485,CUST00001270,2026-04-16 07:27:43,UPDATE,Enterprise,B,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000486,CUST00004155,2026-04-27 06:41:28,UPDATE,Government,A,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000487,CUST00002118,2026-05-18 05:48:54,UPDATE,Enterprise,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000488,CUST00003939,2026-04-19 19:29:31,UPDATE,Consumer,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000489,CUST00001043,2026-05-07 20:57:11,UPDATE,Consumer,B,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000490,CUST00000963,2026-02-10 22:42:34,UPDATE,Small Business,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000491,CUST00001689,2026-03-11 04:30:30,UPDATE,Small Business,D,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000492,CUST00002922,2026-02-22 03:46:55,UPDATE,Small Business,A,Y,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000493,CUST00000349,2026-02-06 12:44:28,UPDATE,Enterprise,D,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000494,CUST00000928,2026-05-23 20:40:07,UPDATE,Enterprise,D,Y,annual_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000495,CUST00001189,2026-05-27 02:20:30,UPDATE,Government,D,Y,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000496,CUST00001596,2026-05-11 04:34:06,UPDATE,Consumer,A,N,credit_review,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000497,CUST00000442,2026-04-19 01:30:05,UPDATE,Consumer,C,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000498,CUST00001398,2026-03-30 19:29:23,UPDATE,Consumer,A,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000499,CUST00003025,2026-02-13 07:49:26,UPDATE,Consumer,B,Y,segment_change,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc
+CCDC0000500,CUST00003184,2026-03-01 01:56:35,UPDATE,Small Business,C,N,customer_request,2026-09-11T04:28:53.773949+00:00,data/raw/cdc/customer_cdc.csv,customer_cdc

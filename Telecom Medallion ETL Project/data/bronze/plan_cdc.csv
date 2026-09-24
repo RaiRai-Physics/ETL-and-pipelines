@@ -1,0 +1,16 @@
+cdc_id,plan_id,effective_ts,operation,new_monthly_fee,new_data_gb,change_reason,_ingested_at_utc,_source_file,_source_system
+PCDC00001,PLN018,2026-02-08 15:26:51,UPDATE,36.57,50,promotion,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00002,PLN003,2026-02-07 03:07:55,UPDATE,136.05,999,pricing_update,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00003,PLN002,2026-05-14 11:59:51,UPDATE,117.78,20,plan_refresh,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00004,PLN020,2026-04-01 19:44:32,UPDATE,42.05,20,promotion,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00005,PLN009,2026-02-13 01:44:47,UPDATE,34.29,100,pricing_update,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00006,PLN006,2026-02-12 23:43:04,UPDATE,28.53,20,plan_refresh,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00007,PLN016,2026-02-22 06:48:24,UPDATE,91.46,10,pricing_update,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00008,PLN012,2026-03-22 17:47:32,UPDATE,64.24,50,pricing_update,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00009,PLN010,2026-05-27 11:26:29,UPDATE,37.99,999,pricing_update,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00010,PLN014,2026-05-19 19:05:44,UPDATE,32.37,10,pricing_update,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00011,PLN001,2026-03-15 12:41:12,UPDATE,22.51,999,plan_refresh,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00012,PLN005,2026-04-14 19:09:34,UPDATE,36.41,999,plan_refresh,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00013,PLN011,2026-03-21 23:22:13,UPDATE,85.28,100,plan_refresh,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00014,PLN015,2026-03-22 09:21:08,UPDATE,28.71,10,plan_refresh,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
+PCDC00015,PLN007,2026-04-23 01:04:45,UPDATE,78.09,50,plan_refresh,2026-09-11T04:28:53.783056+00:00,data/raw/cdc/plan_cdc.csv,plan_cdc
