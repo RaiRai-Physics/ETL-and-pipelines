@@ -1,0 +1,21 @@
+plan_id,plan_name,plan_type,monthly_fee,included_voice_minutes,included_sms,included_data_gb,overage_per_gb,active_flag
+PLN001,Plus 1,Postpaid,25.0,500,500,10,15.0,True
+PLN002,Premium 2,Postpaid,110.0,2000,500,20,5.0,True
+PLN003,Unlimited 3,Postpaid,150.0,1000,500,5,10.0,True
+PLN004,Premium 4,Postpaid,25.0,1000,1000,5,5.0,True
+PLN005,Business 5,Business,35.0,99999,99999,100,10.0,False
+PLN006,Plus 6,Postpaid,25.0,2000,1000,20,10.0,True
+PLN007,Starter 7,Business,70.0,2000,99999,10,5.0,True
+PLN008,Plus 8,Postpaid,25.0,1000,500,5,5.0,True
+PLN009,Plus 9,Postpaid,35.0,1000,1000,100,10.0,True
+PLN010,Unlimited 10,Prepaid,35.0,1000,500,10,5.0,True
+PLN011,Unlimited 11,Prepaid,85.0,99999,99999,20,10.0,False
+PLN012,Unlimited 12,Prepaid,70.0,1000,500,999,10.0,True
+PLN013,Premium 13,Prepaid,45.0,500,500,5,10.0,True
+PLN014,Starter 14,Postpaid,35.0,99999,99999,100,15.0,True
+PLN015,Plus 15,Business,25.0,99999,99999,20,10.0,True
+PLN016,Unlimited 16,Prepaid,85.0,2000,500,20,10.0,True
+PLN017,Business 17,Prepaid,85.0,99999,99999,10,10.0,True
+PLN018,Plus 18,Prepaid,35.0,2000,1000,999,10.0,True
+PLN019,Plus 19,Postpaid,35.0,500,99999,20,15.0,True
+PLN020,Premium 20,Postpaid,45.0,500,500,10,5.0,False
