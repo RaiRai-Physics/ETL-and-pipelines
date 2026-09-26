@@ -1,0 +1,4 @@
+device_id,customer_id,device_type,manufacturer,model,imei_like,activation_date,5g_capable_flag,device_status,quarantine_reason
+DEV0000697,CUST_BAD,Iot Router,Apple,Model-24,230417975367204,2024-09-09,False,Active,Missing customer
+DEV0001405,CUST_BAD,Tablet,Samsung,Model-10,271977823060172,2024-09-28,True,Active,Missing customer
+DEV0001503,CUST_BAD,Iot Router,Google,Model-80,488473483398389,2021-02-13,True,Active,Missing customer

@@ -1,0 +1,20 @@
+payment_id,invoice_id,payment_date,payment_amount,payment_method,payment_status,quarantine_reason
+PMT500000359,INV_BAD,2026-06-02,113.61,CARD,Posted,Missing invoice
+PMT500000608,INV_BAD,2026-07-02,159.86,CASH,Posted,Missing invoice
+PMT400000994,INV_BAD,2026-05-16,105.53,ACH,Posted,Missing invoice
+PMT500001025,INV_BAD,2026-06-02,35.14,CHECK,Pending,Missing invoice
+PMT400001623,INV_BAD,2026-06-02,134.85,ACH,Pending,Missing invoice
+PMT500001879,INV_BAD,2026-06-02,62.51,ACH,Failed,Missing invoice
+PMT500002034,INV_BAD,2026-06-19,61.08,ACH,Pending,Missing invoice
+PMT500002544,INV_BAD,2026-06-15,123.07,ACH,Posted,Missing invoice
+PMT400002594,INV_BAD,2026-05-08,109.44,ACH,Posted,Missing invoice
+PMT400002749,INV_BAD,2026-05-08,154.68,CARD,Posted,Missing invoice
+PMT400003075,INV_BAD,2026-05-03,181.6,CARD,Failed,Missing invoice
+PMT500003345,INV_BAD,2026-06-02,86.54,CASH,Posted,Missing invoice
+PMT400003549,INV_BAD,2026-05-20,66.15,ACH,Pending,Missing invoice
+PMT400003687,INV_BAD,2026-05-20,61.14,ACH,Reversed,Missing invoice
+PMT400004230,INV_BAD,2026-06-02,28.83,CARD,Posted,Missing invoice
+PMT500004349,INV_BAD,2026-06-15,167.14,ACH,Posted,Missing invoice
+PMT400004651,INV_BAD,2026-05-08,98.75,CASH,Posted,Missing invoice
+PMT400004827,INV_BAD,2026-05-16,116.05,ACH,Posted,Missing invoice
+PMT400004993,INV_BAD,2026-06-02,100.64,CARD,Posted,Missing invoice

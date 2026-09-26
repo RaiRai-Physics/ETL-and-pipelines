@@ -1,0 +1,59 @@
+call_id,subscriber_id,cell_id,call_start_ts,duration_seconds,call_direction,call_status,roaming_flag,source_system,call_date,quarantine_reason
+CALL0000000003,SUB_BAD,CELL000127,2026-04-14 07:59:00,113.0,MO,Failed,True,switch,2026-04-14,Missing subscriber
+CALL0000000348,SUB_BAD,CELL000251,,55.0,MT,Completed,False,switch,,Missing subscriber
+CALL0000000827,SUB_BAD,CELL000084,2026-04-16 13:14:00,145.0,MT,Failed,False,switch,2026-04-16,Missing subscriber
+CALL0000001720,SUB_BAD,CELL000243,,16.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000002451,SUB_BAD,CELL000189,,135.0,MO,Completed,True,switch,,Missing subscriber
+CALL0000002839,SUB_BAD,CELL000085,,566.0,MT,Failed,True,switch,,Missing subscriber
+CALL0000003414,SUB_BAD,CELL000006,,15.0,MT,Completed,False,switch,,Missing subscriber
+CALL0000004129,SUB_BAD,CELL000204,,104.0,MO,Completed,True,switch,,Missing subscriber
+CALL0000004508,SUB_BAD,CELL000088,,53.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000004511,SUB_BAD,CELL000228,2026-05-26 03:23:00,91.0,MT,Completed,False,switch,2026-05-26,Missing subscriber
+CALL0000004839,SUB_BAD,CELL000233,,302.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000005546,SUB_BAD,CELL000228,2026-04-04 19:46:00,42.0,MO,Dropped,False,switch,2026-04-04,Missing subscriber
+CALL0000005717,SUB_BAD,CELL000033,,197.0,MO,Dropped,False,switch,,Missing subscriber
+CALL0000006003,SUB_BAD,CELL000176,,241.0,MO,Failed,True,switch,,Missing subscriber
+CALL0000006285,SUB_BAD,CELL000206,,17.0,MO,Completed,True,switch,,Missing subscriber
+CALL0000007017,SUB_BAD,CELL000228,2026-05-17 16:27:00,792.0,MO,Completed,False,switch,2026-05-17,Missing subscriber
+CALL0000007023,SUB_BAD,CELL000002,2026-05-11 08:59:00,274.0,MT,Completed,False,switch,2026-05-11,Missing subscriber
+CALL0000007145,SUB_BAD,CELL000042,,227.0,MO,Dropped,False,switch,,Missing subscriber
+CALL0000007749,SUB_BAD,CELL000172,,26.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000007915,SUB_BAD,CELL000142,,55.0,MO,Failed,False,switch,,Missing subscriber
+CALL0000007926,SUB_BAD,CELL000064,,28.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000008764,SUB_BAD,CELL000089,,224.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000009104,SUB_BAD,CELL000204,2026-05-16 12:04:00,264.0,MO,Completed,True,switch,2026-05-16,Missing subscriber
+CALL0000010212,SUB_BAD,CELL000089,2026-04-04 14:17:00,252.0,MO,Completed,False,switch,2026-04-04,Missing subscriber
+CALL0000010576,SUB_BAD,CELL000244,,21.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000010779,SUB_BAD,CELL000209,,229.0,MT,Completed,False,switch,,Missing subscriber
+CALL0000010911,SUB_BAD,CELL000011,2026-04-05 19:48:00,259.0,MO,Completed,False,switch,2026-04-05,Missing subscriber
+CALL0000011005,SUB_BAD,CELL000197,,105.0,MT,Completed,True,switch,,Missing subscriber
+CALL0000011013,SUB_BAD,CELL000176,,96.0,MO,Dropped,True,switch,,Missing subscriber
+CALL0000012148,SUB_BAD,CELL000121,2026-05-08 11:38:00,288.0,MO,Failed,False,switch,2026-05-08,Missing subscriber
+CALL0000012328,SUB_BAD,CELL000183,,72.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000013190,SUB_BAD,CELL000235,,147.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000014120,SUB_BAD,CELL000117,2026-05-29 18:03:00,113.0,MO,Dropped,True,switch,2026-05-29,Missing subscriber
+CALL0000014492,SUB_BAD,CELL000070,,78.0,MT,Completed,False,switch,,Missing subscriber
+CALL0000014737,SUB_BAD,CELL000079,,37.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000014954,SUB_BAD,CELL000112,2026-05-06 02:58:00,594.0,MO,Completed,False,switch,2026-05-06,Missing subscriber
+CALL0000015649,SUB_BAD,CELL000244,,133.0,MO,Failed,True,switch,,Missing subscriber
+CALL0000015700,SUB_BAD,CELL000206,,51.0,MO,Failed,False,switch,,Missing subscriber
+CALL0000015852,SUB_BAD,CELL000049,,303.0,MO,Dropped,False,switch,,Missing subscriber
+CALL0000015884,SUB_BAD,CELL000142,,371.0,MO,Completed,True,switch,,Missing subscriber
+CALL0000016299,SUB_BAD,CELL000213,2026-05-11 17:04:00,150.0,MO,Dropped,False,switch,2026-05-11,Missing subscriber
+CALL0000016520,SUB_BAD,CELL000001,,43.0,MO,Completed,True,switch,,Missing subscriber
+CALL0000016752,SUB_BAD,CELL000126,,159.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000017651,SUB_BAD,CELL000164,2026-05-28 18:15:00,141.0,MO,Completed,False,switch,2026-05-28,Missing subscriber
+CALL0000017752,SUB_BAD,CELL000217,2026-04-30 22:41:00,41.0,MO,Failed,False,switch,2026-04-30,Missing subscriber
+CALL0000018652,SUB_BAD,CELL000099,,137.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000018707,SUB_BAD,CELL000061,2026-05-20 01:06:00,30.0,MO,Completed,False,switch,2026-05-20,Missing subscriber
+CALL0000019874,SUB_BAD,CELL000231,,417.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000020051,SUB_BAD,CELL000006,,342.0,MO,Dropped,False,switch,,Missing subscriber
+CALL0000020307,SUB_BAD,CELL000051,2026-05-03 06:57:00,31.0,MO,Dropped,False,switch,2026-05-03,Missing subscriber
+CALL0000020882,SUB_BAD,CELL000129,,262.0,MO,Failed,False,switch,,Missing subscriber
+CALL0000022878,SUB_BAD,CELL000060,2026-04-16 15:19:00,234.0,MO,Completed,False,switch,2026-04-16,Missing subscriber
+CALL0000023784,SUB_BAD,CELL000028,2026-04-09 16:55:00,122.0,MT,Completed,False,switch,2026-04-09,Missing subscriber
+CALL0000023829,SUB_BAD,CELL000023,2026-05-01 19:44:00,173.0,MO,Failed,True,switch,2026-05-01,Missing subscriber
+CALL0000024278,SUB_BAD,CELL000232,,302.0,MO,Dropped,False,switch,,Missing subscriber
+CALL0000024882,SUB_BAD,CELL000136,,1.0,MO,Completed,False,switch,,Missing subscriber
+CALL0000025075,SUB_BAD,CELL000246,2026-04-30 17:52:00,221.0,MT,Completed,False,switch,2026-04-30,Missing subscriber
+CALL0000027499,SUB_BAD,CELL000065,,53.0,MT,Dropped,False,switch,,Missing subscriber

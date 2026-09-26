@@ -1,0 +1,15 @@
+alarm_id,cell_id,alarm_ts,severity,alarm_type,cleared_ts,alarm_status,alarm_duration_hours,quarantine_reason
+ALM00000031,CELL_BAD,2026-05-08 19:37:32,Major,Temperature,2026-05-09 01:58:32,Cleared,6.35,Missing cell
+ALM00000239,CELL_BAD,2026-05-15 10:25:49,Minor,Sync,2026-05-15 14:26:49,Acknowledged,4.016666666666667,Missing cell
+ALM00000329,CELL_BAD,2026-05-07 01:09:27,Major,Temperature,2026-05-07 02:58:27,Open,1.8166666666666667,Missing cell
+ALM00000363,CELL_BAD,2026-04-23 06:01:24,Minor,Radio,2026-04-23 11:50:24,Cleared,5.816666666666666,Missing cell
+ALM00000441,CELL_BAD,2026-04-21 06:16:07,Warning,Radio,,Open,,Missing cell
+ALM00000754,CELL_BAD,2026-04-21 07:24:54,Minor,Sync,2026-04-21 16:37:54,Cleared,9.216666666666667,Missing cell
+ALM00001023,CELL_BAD,2026-05-21 07:45:46,Critical,Software,2026-05-21 09:47:46,Cleared,2.033333333333333,Missing cell
+ALM00001057,CELL_BAD,2026-04-03 18:25:51,Major,Power,2026-04-03 22:58:51,Acknowledged,4.55,Missing cell
+ALM00001325,CELL_BAD,2026-05-10 22:59:01,Minor,Radio,2026-05-11 02:59:01,Cleared,4.0,Missing cell
+ALM00001351,CELL_BAD,2026-04-04 01:50:42,Major,Software,2026-04-04 02:59:42,Open,1.15,Missing cell
+ALM00002083,CELL_BAD,2026-05-24 07:36:10,Critical,Software,2026-05-24 08:08:10,Cleared,0.5333333333333333,Missing cell
+ALM00002225,CELL_BAD,2026-04-05 23:32:12,Major,Software,2026-04-06 00:53:12,Acknowledged,1.35,Missing cell
+ALM00002401,CELL_BAD,2026-04-18 13:11:49,Critical,Temperature,2026-04-18 18:44:49,Acknowledged,5.55,Missing cell
+ALM00002566,CELL_BAD,2026-04-07 13:20:11,Minor,Software,2026-04-07 17:33:11,Acknowledged,4.216666666666667,Missing cell
