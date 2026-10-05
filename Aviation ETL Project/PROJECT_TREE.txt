@@ -1,0 +1,188 @@
+aviation_medallion_etl_project_v2/
+├── .gitignore
+├── .pytest_cache/
+│   ├── .gitignore
+│   ├── CACHEDIR.TAG
+│   ├── README.md
+│   ├── v/
+│   │   ├── cache/
+│   │   │   ├── nodeids
+├── Dockerfile
+├── Makefile
+├── PROJECT_SUMMARY.json
+├── RAW_DATA_SUMMARY.json
+├── README.md
+├── config/
+│   ├── pipeline_config.json
+├── contracts/
+│   ├── data_contracts.json
+├── dags/
+│   ├── aviation_medallion_dag.py
+├── data/
+│   ├── bronze/
+│   │   ├── python/
+│   │   │   ├── aircraft.csv
+│   │   │   ├── aircraft_cdc.csv
+│   │   │   ├── airports.csv
+│   │   │   ├── baggage.csv
+│   │   │   ├── booking_segments.csv
+│   │   │   ├── bookings.csv
+│   │   │   ├── calendar.csv
+│   │   │   ├── crew.csv
+│   │   │   ├── crew_assignments.csv
+│   │   │   ├── fare_classes.csv
+│   │   │   ├── flight_events.csv
+│   │   │   ├── flight_schedules.csv
+│   │   │   ├── loyalty_cdc.csv
+│   │   │   ├── loyalty_members.csv
+│   │   │   ├── maintenance_events.csv
+│   │   │   ├── passengers.csv
+│   │   │   ├── payments.csv
+│   │   │   ├── refunds.csv
+│   │   │   ├── routes.csv
+│   │   │   ├── tickets.csv
+│   │   │   ├── weather_daily.csv
+│   ├── gold/
+│   │   ├── python/
+│   │   │   ├── dim_aircraft_current.csv
+│   │   │   ├── dim_aircraft_scd2.csv
+│   │   │   ├── dim_airport.csv
+│   │   │   ├── dim_crew.csv
+│   │   │   ├── dim_fare_class.csv
+│   │   │   ├── dim_loyalty_current.csv
+│   │   │   ├── dim_loyalty_scd2.csv
+│   │   │   ├── dim_passenger.csv
+│   │   │   ├── dim_route.csv
+│   │   │   ├── exception_aircraft_aog.csv
+│   │   │   ├── exception_baggage_mishandling.csv
+│   │   │   ├── exception_cancelled_flights.csv
+│   │   │   ├── exception_high_refunds.csv
+│   │   │   ├── exception_long_delays.csv
+│   │   │   ├── exception_payment_mismatches.csv
+│   │   │   ├── fact_baggage.csv
+│   │   │   ├── fact_booking_revenue.csv
+│   │   │   ├── fact_booking_segments.csv
+│   │   │   ├── fact_flights.csv
+│   │   │   ├── fact_maintenance.csv
+│   │   │   ├── mart_aircraft_reliability.csv
+│   │   │   ├── mart_airport_operations.csv
+│   │   │   ├── mart_baggage_performance.csv
+│   │   │   ├── mart_crew_workload.csv
+│   │   │   ├── mart_flight_performance.csv
+│   │   │   ├── mart_loyalty_performance.csv
+│   │   │   ├── mart_passenger_360.csv
+│   │   │   ├── mart_refund_risk.csv
+│   │   │   ├── mart_route_performance.csv
+│   │   │   ├── recon_bookings_vs_payments.csv
+│   ├── quarantine/
+│   │   ├── python/
+│   │   │   ├── bookings_bad_amount.csv
+│   │   │   ├── bookings_invalid_passenger.csv
+│   │   │   ├── crew_assignment_invalid_crew.csv
+│   │   │   ├── crew_assignment_invalid_flight.csv
+│   │   │   ├── events_bad_delay.csv
+│   │   │   ├── events_invalid_flight.csv
+│   │   │   ├── maintenance_bad_labor.csv
+│   │   │   ├── maintenance_invalid_aircraft.csv
+│   │   │   ├── passengers_invalid_loyalty.csv
+│   │   │   ├── payments_bad_amount.csv
+│   │   │   ├── payments_invalid_booking.csv
+│   │   │   ├── refunds_invalid_ticket.csv
+│   │   │   ├── schedules_invalid_aircraft.csv
+│   │   │   ├── schedules_invalid_route.csv
+│   │   │   ├── segments_invalid_booking.csv
+│   │   │   ├── segments_invalid_flight.csv
+│   ├── raw/
+│   │   ├── booking/
+│   │   │   ├── baggage.csv
+│   │   │   ├── booking_segments.csv
+│   │   │   ├── bookings.csv
+│   │   │   ├── tickets.csv
+│   │   ├── cdc/
+│   │   │   ├── aircraft_cdc.csv
+│   │   │   ├── loyalty_cdc.csv
+│   │   ├── maintenance/
+│   │   │   ├── maintenance_events.csv
+│   │   ├── master/
+│   │   │   ├── aircraft.csv
+│   │   │   ├── airports.csv
+│   │   │   ├── crew.csv
+│   │   │   ├── fare_classes.csv
+│   │   │   ├── loyalty_members.csv
+│   │   │   ├── passengers.csv
+│   │   ├── operations/
+│   │   │   ├── crew_assignments.csv
+│   │   │   ├── flight_events.csv
+│   │   │   ├── flight_schedules.csv
+│   │   ├── reference/
+│   │   │   ├── calendar.csv
+│   │   │   ├── routes.csv
+│   │   │   ├── weather_daily.csv
+│   │   ├── revenue/
+│   │   │   ├── payments.csv
+│   │   │   ├── refunds.csv
+│   ├── silver/
+│   │   ├── python/
+│   │   │   ├── aircraft.csv
+│   │   │   ├── aircraft_cdc.csv
+│   │   │   ├── airports.csv
+│   │   │   ├── baggage.csv
+│   │   │   ├── booking_segments.csv
+│   │   │   ├── bookings.csv
+│   │   │   ├── calendar.csv
+│   │   │   ├── crew.csv
+│   │   │   ├── crew_assignments.csv
+│   │   │   ├── fare_classes.csv
+│   │   │   ├── flight_events.csv
+│   │   │   ├── flight_schedules.csv
+│   │   │   ├── loyalty_cdc.csv
+│   │   │   ├── loyalty_members.csv
+│   │   │   ├── maintenance_events.csv
+│   │   │   ├── passengers.csv
+│   │   │   ├── payments.csv
+│   │   │   ├── refunds.csv
+│   │   │   ├── routes.csv
+│   │   │   ├── tickets.csv
+│   │   │   ├── weather_daily.csv
+├── docs/
+│   ├── architecture.md
+│   ├── data_quality_rules.md
+│   ├── runbook.md
+├── metadata/
+│   ├── run_watermarks.json
+├── reports/
+│   ├── python/
+│   │   ├── data_quality_report.csv
+│   │   ├── pipeline_audit_log.csv
+│   │   ├── raw_column_profile.csv
+│   │   ├── raw_table_profile.csv
+├── requirements.txt
+├── run_pyspark_pipeline.sh
+├── run_python_pipeline.sh
+├── sql/
+│   ├── analytics_queries.sql
+│   ├── warehouse_schema.sql
+├── src/
+│   ├── __init__.py
+│   ├── __pycache__/
+│   │   ├── __init__.cpython-313.pyc
+│   ├── common/
+│   │   ├── __init__.py
+│   │   ├── __pycache__/
+│   │   │   ├── __init__.cpython-313.pyc
+│   │   │   ├── utils.cpython-313.pyc
+│   │   ├── utils.py
+│   ├── pyspark_etl/
+│   │   ├── 01_run_medallion_pyspark_etl.py
+│   │   ├── __pycache__/
+│   │   │   ├── 01_run_medallion_pyspark_etl.cpython-313.pyc
+│   ├── python_etl/
+│   │   ├── 00_profile_sources.py
+│   │   ├── 01_run_medallion_etl.py
+│   │   ├── __pycache__/
+│   │   │   ├── 00_profile_sources.cpython-313.pyc
+│   │   │   ├── 01_run_medallion_etl.cpython-313.pyc
+├── tests/
+│   ├── __pycache__/
+│   │   ├── test_utils.cpython-313-pytest-9.0.2.pyc
+│   ├── test_utils.py

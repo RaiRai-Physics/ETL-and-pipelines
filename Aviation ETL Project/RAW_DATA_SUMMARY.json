@@ -1,0 +1,23 @@
+{
+  "data/raw/booking/baggage.csv": 9376,
+  "data/raw/booking/booking_segments.csv": 12000,
+  "data/raw/booking/bookings.csv": 12000,
+  "data/raw/booking/tickets.csv": 12000,
+  "data/raw/cdc/aircraft_cdc.csv": 20,
+  "data/raw/cdc/loyalty_cdc.csv": 300,
+  "data/raw/maintenance/maintenance_events.csv": 800,
+  "data/raw/master/aircraft.csv": 60,
+  "data/raw/master/airports.csv": 10,
+  "data/raw/master/crew.csv": 700,
+  "data/raw/master/fare_classes.csv": 4,
+  "data/raw/master/loyalty_members.csv": 2501,
+  "data/raw/master/passengers.csv": 6001,
+  "data/raw/operations/crew_assignments.csv": 5600,
+  "data/raw/operations/flight_events.csv": 1400,
+  "data/raw/operations/flight_schedules.csv": 1400,
+  "data/raw/reference/calendar.csv": 122,
+  "data/raw/reference/routes.csv": 30,
+  "data/raw/reference/weather_daily.csv": 910,
+  "data/raw/revenue/payments.csv": 9269,
+  "data/raw/revenue/refunds.csv": 800
+}
