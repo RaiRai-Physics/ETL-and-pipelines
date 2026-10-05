@@ -1,6 +1,6 @@
 # Aviation Operations + Revenue Medallion ETL Project
 
-A synthetic, portfolio-ready airline data platform built around a real Bronze → Silver → Gold Medallion architecture.
+A synthetic airline data platform built around a real Bronze → Silver → Gold Medallion architecture.
 
 ## Scenario
 
@@ -124,6 +124,3 @@ pytest -q
 - `mart_refund_risk.csv`
 - `recon_bookings_vs_payments.csv`
 
-## Resume Bullet
-
-Built a production-style airline Medallion ETL platform using Python, PySpark and SQL to ingest operational, booking, payment, baggage and maintenance data; implemented Bronze/Silver/Gold layers, SCD Type 2 dimensions, data-quality quarantine, revenue reconciliation, and analytics marts for on-time performance, route economics, load factor, fleet reliability and passenger behavior.
