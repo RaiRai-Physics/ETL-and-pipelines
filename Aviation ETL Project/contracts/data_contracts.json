@@ -1,0 +1,44 @@
+{
+  "flight_schedules": {
+    "primary_key": [
+      "flight_id"
+    ],
+    "foreign_keys": {
+      "route_id": "routes.route_id",
+      "aircraft_id": "aircraft.aircraft_id"
+    }
+  },
+  "flight_events": {
+    "primary_key": [
+      "flight_event_id"
+    ],
+    "foreign_keys": {
+      "flight_id": "flight_schedules.flight_id"
+    }
+  },
+  "booking_segments": {
+    "primary_key": [
+      "booking_segment_id"
+    ],
+    "foreign_keys": {
+      "booking_id": "bookings.booking_id",
+      "flight_id": "flight_schedules.flight_id"
+    }
+  },
+  "payments": {
+    "primary_key": [
+      "payment_id"
+    ],
+    "foreign_keys": {
+      "booking_id": "bookings.booking_id"
+    }
+  },
+  "maintenance_events": {
+    "primary_key": [
+      "maintenance_event_id"
+    ],
+    "foreign_keys": {
+      "aircraft_id": "aircraft.aircraft_id"
+    }
+  }
+}
