@@ -1,0 +1,2 @@
+pipeline_name,run_timestamp_utc,raw_file_count,raw_total_rows,silver_total_rows,quarantine_total_rows,gold_table_count,status
+aviation_medallion_etl_project,2026-10-05T04:53:05.049447+00:00,21,75303,75301,181,30,SUCCESS

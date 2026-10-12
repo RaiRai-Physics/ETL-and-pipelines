@@ -1,0 +1,145 @@
+table_name,column_name,blank_count,distinct_count,sample_values
+baggage,bag_id,0,9376,BAG0000000001 | BAG0000000002 | BAG0000000003 | BAG0000000004 | BAG0000000005
+baggage,booking_id,0,7521,BKG000000002 | BKG000000003 | BKG000000007 | BKG000000008 | BKG000000009
+baggage,flight_id,0,1395,FLT0000264 | FLT0000442 | FLT0000932 | FLT0001231 | FLT0000386
+baggage,passenger_id,0,4305,PAX00002141 | PAX00003028 | PAX00002993 | PAX00001755 | PAX00005974
+baggage,bag_weight_kg,0,1982,24.81 | 15.41 | 22.32 | 9.70 | 23.64
+baggage,bag_fee,0,4,30.00 | 0.00 | 40.00 | 50.00
+baggage,bag_status,0,5,Loaded | Mishandled | Checked | Delivered | checked
+booking_segments,booking_segment_id,0,12000,BS0000000001 | BS0000000002 | BS0000000003 | BS0000000004 | BS0000000005
+booking_segments,booking_id,0,11980,BKG000000001 | BKG000000002 | BKG000000003 | BKG000000004 | BKG000000005
+booking_segments,flight_id,0,1401,FLT0001135 | FLT0000264 | FLT0000442 | FLT0000763 | FLT0000476
+booking_segments,fare_class,0,4,J | F | W | Y
+booking_segments,seat_number,0,192,29C | 28D | 20F | 20A | 2E
+booking_segments,segment_status,0,5,Flown | confirmed | Cancelled | Confirmed | No Show
+booking_segments,base_fare,0,11110,508.34 | 296.14 | 658.54 | 827.62 | 132.76
+booking_segments,tax_amount,0,7473,52.87 | 30.50 | 67.46 | 108.65 | 18.36
+booking_segments,ancillary_amount,0,7487,105.13 | 17.53 | 101.47 | 105.46 | 54.92
+bookings,booking_id,0,12000,BKG000000001 | BKG000000002 | BKG000000003 | BKG000000004 | BKG000000005
+bookings,passenger_id,0,5198,PAX00004599 | PAX00002141 | PAX00003028 | PAX00001697 | PAX00005551
+bookings,booking_ts,0,7910,2026-08-24 14:00:00 | 2026-09-16 19:00:00 | 2026-09-21 02:00:00 | 2026-07-20 13:45:00 | 2026-06-06 04:30:00
+bookings,booking_channel,0,4,Mobile | Corporate | Web | Agent
+bookings,booking_status,0,4,Cancelled | Confirmed | Changed | confirmed
+bookings,currency,0,1,USD
+bookings,total_booking_amount,0,11301,690.61 | 337.44 | 670.56 | 1065.72 | 136.97
+tickets,ticket_id,0,12000,TKT0000000001 | TKT0000000002 | TKT0000000003 | TKT0000000004 | TKT0000000005
+tickets,booking_id,0,12000,BKG000000001 | BKG000000002 | BKG000000003 | BKG000000004 | BKG000000005
+tickets,passenger_id,0,5199,PAX00004599 | PAX00002141 | PAX00003028 | PAX00001697 | PAX00005551
+tickets,issue_date,0,179,2026-08-24 | 2026-09-16 | 2026-09-21 | 2026-07-20 | 2026-06-06
+tickets,ticket_status,0,5,Issued | Voided | Refunded | issued | Used
+tickets,ticket_amount,0,11221,595.72 | 358.26 | 782.28 | 900.86 | 161.41
+aircraft_cdc,cdc_id,0,20,ACDC000001 | ACDC000002 | ACDC000003 | ACDC000004 | ACDC000005
+aircraft_cdc,aircraft_id,0,20,AC0015 | AC0016 | AC0046 | AC0039 | AC0012
+aircraft_cdc,effective_ts,0,20,2026-09-28 10:04:02 | 2026-11-19 12:06:05 | 2026-09-17 15:52:18 | 2026-11-16 11:39:24 | 2026-09-01 13:53:05
+aircraft_cdc,operation,0,1,UPDATE
+aircraft_cdc,new_aircraft_status,0,4,Active | Maintenance | Retired | Reserve
+aircraft_cdc,change_reason,0,4,maintenance_status | return_to_service | retirement | fleet_rotation
+loyalty_cdc,cdc_id,0,300,LCDC0000001 | LCDC0000002 | LCDC0000003 | LCDC0000004 | LCDC0000005
+loyalty_cdc,loyalty_id,0,300,LOY00001087 | LOY00000633 | LOY00002234 | LOY00001273 | LOY00002095
+loyalty_cdc,effective_ts,0,300,2026-10-02 08:16:42 | 2026-11-06 18:40:06 | 2026-11-20 09:18:04 | 2026-10-20 13:59:18 | 2026-11-05 04:22:44
+loyalty_cdc,operation,0,1,UPDATE
+loyalty_cdc,new_loyalty_tier,0,4,Basic | Platinum | Gold | Silver
+loyalty_cdc,new_active_flag,0,2,N | Y
+loyalty_cdc,change_reason,0,4,elite_upgrade | customer_request | tier_review | activity_review
+maintenance_events,maintenance_event_id,0,800,MX00000001 | MX00000002 | MX00000003 | MX00000004 | MX00000005
+maintenance_events,aircraft_id,0,61,AC0058 | AC0024 | AC0017 | AC0032 | AC0053
+maintenance_events,event_start_ts,0,800,2026-11-10 22:17:38 | 2026-09-28 17:58:11 | 2026-09-08 12:41:12 | 2026-09-09 12:44:28 | 2026-09-07 14:14:29
+maintenance_events,event_end_ts,20,781,2026-11-11 02:17:38 | 2026-09-29 05:58:11 | 2026-09-08 20:41:12 | 2026-09-09 16:44:28 | 2026-09-07 16:14:29
+maintenance_events,maintenance_type,0,5,Unscheduled | AOG | Routine | Inspection | routine
+maintenance_events,ata_chapter,0,10,28 | 34 | 27 | 71 | 24
+maintenance_events,labor_hours,0,761,43.10 | 12.85 | 14.03 | 59.08 | 51.81
+maintenance_events,parts_cost,0,800,35867.72 | 9570.63 | 27197.92 | 75035.03 | 11116.46
+maintenance_events,event_status,0,4,Closed | Deferred | closed | Open
+aircraft,aircraft_id,0,60,AC0001 | AC0002 | AC0003 | AC0004 | AC0005
+aircraft,tail_number,0,60,N88241 | N42629 | N34855 | N29415 | N17994
+aircraft,model_code,0,5,B38M | A320 | B738 | A321 | E175
+aircraft,model_name,0,5,Boeing 737 MAX 8 | Airbus A320 | Boeing 737-800 | Airbus A321 | Embraer 175
+aircraft,seat_capacity,0,5,178 | 180 | 189 | 220 | 76
+aircraft,range_nm,0,5,3500 | 3200 | 3100 | 3650 | 2200
+aircraft,manufacture_year,0,18,2018 | 2012 | 2011 | 2020 | 2014
+aircraft,in_service_date,0,60,2014-09-02 | 2015-12-29 | 2024-05-20 | 2019-08-03 | 2016-04-02
+aircraft,aircraft_status,0,4,Active | Reserve | Maintenance | active
+airports,airport_code,0,10,ATL | DFW | ORD | DEN | LAX
+airports,airport_name,0,10,Atlanta Hartsfield | Dallas Fort Worth | Chicago O'Hare | Denver International | Los Angeles International
+airports,city,0,10,Atlanta | Dallas | Chicago | Denver | Los Angeles
+airports,state,0,10,GA | TX | IL | CO | CA
+airports,country,0,1,US
+airports,timezone_group,0,4,ET | CT | MT | PT
+airports,active_flag,0,3,Y | Yes | 1
+crew,crew_id,0,700,CRW000001 | CRW000002 | CRW000003 | CRW000004 | CRW000005
+crew,crew_name,0,700,Crew Member 1 | Crew Member 2 | Crew Member 3 | Crew Member 4 | Crew Member 5
+crew,role,0,4,Purser | Flight Attendant | First Officer | Captain
+crew,base_airport,0,10,SEA | ORD | ATL | PHX | DFW
+crew,hire_date,0,666,2014-09-14 | 2024-11-10 | 2014-06-22 | 2016-08-23 | 2022-06-15
+crew,employment_status,0,3,Active | Leave | active
+fare_classes,fare_class,0,4,Y | W | J | F
+fare_classes,cabin,0,4,Economy | Premium Economy | Business | First
+fare_classes,refundable_flag,0,2,N | Y
+fare_classes,changeable_flag,0,1,Y
+loyalty_members,loyalty_id,0,2500,LOY00000001 | LOY00000002 | LOY00000003 | LOY00000004 | LOY00000005
+loyalty_members,member_name,0,2500,Traveler 1 | Traveler 2 | Traveler 3 | Traveler 4 | Traveler 5
+loyalty_members,join_date,0,2065,03/06/2018 | 03/16/2023 | 2018-12-24 | 2022-01-10 | 03/15/2025
+loyalty_members,loyalty_tier,409,6,gold | Platinum | Silver |  | Gold
+loyalty_members,home_airport,0,10,ORD | DEN | DFW | MIA | ATL
+loyalty_members,lifetime_miles,0,2495,237308 | 682156 | 613 | 376019 | 407647
+loyalty_members,active_flag,0,3,N | Y | Yes
+passengers,passenger_id,0,6000,PAX00000001 | PAX00000002 | PAX00000003 | PAX00000004 | PAX00000005
+passengers,passenger_name,0,6000,Passenger 1 | Passenger 2 | Passenger 3 | Passenger 4 | Passenger 5
+passengers,date_of_birth,0,5651,03/02/1965 | 1991-10-27 | 02/11/2006 | 1983-03-05 | 1948-02-26
+passengers,gender,0,5,Male | Unknown | Female | F | M
+passengers,email,58,5943,passenger1@example.com | passenger2@example.com | passenger3@example.com | passenger4@example.com | passenger5@example.com
+passengers,country,0,1,US
+passengers,loyalty_id,2675,1828, | LOY00002403 | LOY00001923 | LOY00000576 | LOY00000267
+passengers,active_flag,0,2,Y | N
+crew_assignments,crew_assignment_id,0,5600,CA00000001 | CA00000002 | CA00000003 | CA00000004 | CA00000005
+crew_assignments,flight_id,0,1401,FLT0000001 | FLT0000002 | FLT0000003 | FLT0000004 | FLT0000005
+crew_assignments,crew_id,0,701,CRW000070 | CRW000429 | CRW000221 | CRW000099 | CRW000541
+crew_assignments,role,0,4,Flight Attendant | Captain | Purser | First Officer
+crew_assignments,assignment_status,0,4,Assigned | Removed | assigned | Completed
+flight_events,flight_event_id,0,1400,FE0000001 | FE0000002 | FE0000003 | FE0000004 | FE0000005
+flight_events,flight_id,0,1397,FLT0000001 | FLT0000002 | FLT0000003 | FLT0000004 | FLT0000005
+flight_events,actual_departure_ts,306,1082,2026-09-08 12:22:00 | 2026-11-16 13:36:00 |  | 2026-10-12 09:15:00 | 2026-10-21 05:00:00
+flight_events,actual_arrival_ts,306,1090,2026-09-08 14:20:00 | 2026-11-16 18:23:00 |  | 2026-10-12 14:56:00 | 2026-10-21 07:00:00
+flight_events,departure_delay_minutes,0,123,37 | 36 | 67 | 15 | 0
+flight_events,arrival_delay_minutes,0,131,49 | 42 | 65 | 15 | 19
+flight_events,delay_code,0,7,MX | NONE | LATE_INBOUND | CREW | SECURITY
+flight_events,operational_status,0,2,Scheduled | Cancelled
+flight_schedules,flight_id,0,1400,FLT0000001 | FLT0000002 | FLT0000003 | FLT0000004 | FLT0000005
+flight_schedules,flight_number,0,1289,OA3202 | OA5466 | OA2474 | OA4736 | OA3284
+flight_schedules,route_id,0,30,RTE0011 | RTE0007 | RTE0008 | RTE0015 | RTE0002
+flight_schedules,aircraft_id,0,61,AC0027 | AC0057 | AC0004 | AC0045 | AC0043
+flight_schedules,scheduled_departure_ts,0,1260,2026-09-08 11:45:00 | 2026-11-16 13:00:00 | 2026-09-17 22:00:00 | 2026-10-12 09:00:00 | 2026-10-21 05:00:00
+flight_schedules,scheduled_arrival_ts,0,1386,2026-09-08 13:34:00 | 2026-11-16 17:49:00 | 2026-09-18 01:44:00 | 2026-10-12 14:51:00 | 2026-10-21 06:49:00
+flight_schedules,flight_status,0,3,Scheduled | Cancelled | scheduled
+calendar,date_key,0,122,20260901 | 20260902 | 20260903 | 20260904 | 20260905
+calendar,calendar_date,0,122,2026-09-01 | 2026-09-02 | 2026-09-03 | 2026-09-04 | 2026-09-05
+calendar,year,0,1,2026
+calendar,quarter,0,2,3 | 4
+calendar,month,0,4,9 | 10 | 11 | 12
+calendar,week_of_year,0,18,36 | 37 | 38 | 39 | 40
+calendar,day_of_week,0,7,2 | 3 | 4 | 5 | 6
+calendar,is_weekend,0,2,N | Y
+calendar,is_holiday,0,2,N | Y
+routes,route_id,0,30,RTE0001 | RTE0002 | RTE0003 | RTE0004 | RTE0005
+routes,origin_airport,0,10,ATL | DFW | ORD | DEN | LAX
+routes,destination_airport,0,10,ORD | MIA | LAX | DEN | DFW
+routes,distance_miles,0,30,1813 | 423 | 473 | 1005 | 420
+routes,scheduled_block_minutes,0,27,276 | 102 | 109 | 175 | 211
+weather_daily,airport_code,0,10,ATL | DFW | ORD | DEN | LAX
+weather_daily,weather_date,0,91,2026-09-01 | 2026-09-02 | 2026-09-03 | 2026-09-04 | 2026-09-05
+weather_daily,temperature_c,0,825,30.90 | 25.68 | 16.93 | 25.74 | 9.11
+weather_daily,wind_speed_kts,0,819,35.39 | 44.23 | 14.87 | 38.13 | 38.07
+weather_daily,visibility_miles,0,592,8.08 | 4.50 | 9.31 | 9.25 | 0.26
+weather_daily,weather_condition,0,7,clear | Rain | Fog | Cloudy | Thunderstorm
+payments,payment_id,0,9269,PAY000000002 | PAY000000003 | PAY000000004 | PAY000000005 | PAY000000006
+payments,booking_id,0,9244,BKG000000002 | BKG000000003 | BKG000000004 | BKG000000005 | BKG000000006
+payments,payment_ts,0,6659,2026-09-16 19:00:00 | 2026-09-21 02:00:00 | 2026-07-20 13:45:00 | 2026-06-06 04:30:00 | 2026-08-01 07:45:00
+payments,payment_method,0,5,Visa | Travel Credit | Mastercard | Corporate Account | Amex
+payments,payment_status,0,4,Refunded | Captured | Declined | captured
+payments,payment_amount,0,8836,337.44 | 670.56 | 1065.72 | 136.97 | 627.69
+refunds,refund_id,0,800,RF00000001 | RF00000002 | RF00000003 | RF00000004 | RF00000005
+refunds,ticket_id,0,800,TKT0000009847 | TKT0000007116 | TKT0000006410 | TKT0000000363 | TKT0000003548
+refunds,refund_date,0,106,2026-09-15 | 2026-12-11 | 2026-11-19 | 2026-10-19 | 2026-10-10
+refunds,refund_amount,0,793,42.79 | 159.65 | 271.93 | 169.76 | 202.12
+refunds,refund_reason,0,5,Customer Cancelled | Schedule Change | Medical | Duplicate Charge | Service Recovery
+refunds,refund_status,0,4,processed | Processed | Pending | Rejected
