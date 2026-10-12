@@ -1,0 +1,7 @@
+{
+  "last_successful_run_utc": "2026-10-05T04:53:05.050705+00:00",
+  "flight_watermark": "2026-11-30 22:30:00",
+  "booking_watermark": "2026-11-28 16:30:00",
+  "maintenance_watermark": "2026-11-30 16:04:36",
+  "status": "SUCCESS"
+}
