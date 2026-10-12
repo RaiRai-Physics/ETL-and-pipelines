@@ -1,0 +1,17 @@
+{
+  "project_name": "aviation_medallion_etl_project",
+  "environment": "local",
+  "bronze_path": "data/bronze/python",
+  "silver_path": "data/silver/python",
+  "quarantine_path": "data/quarantine/python",
+  "gold_path": "data/gold/python",
+  "report_path": "reports/python",
+  "metadata_path": "metadata",
+  "on_time_threshold_minutes": 15,
+  "long_delay_threshold_minutes": 60,
+  "high_baggage_mishandle_rate": 0.05,
+  "payment_match_tolerance": 1.0,
+  "high_refund_rate": 0.2,
+  "maintenance_aog_hours_alert": 12,
+  "default_watermark": "1900-01-01 00:00:00"
+}
