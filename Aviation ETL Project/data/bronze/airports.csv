@@ -1,0 +1,11 @@
+airport_code,airport_name,city,state,country,timezone_group,active_flag,_bronze_loaded_at_utc,_source_file
+ATL,Atlanta Hartsfield,Atlanta,GA,US,ET,Y,2026-10-05T04:53:02.895472+00:00,data/raw/master/airports.csv
+DFW,Dallas Fort Worth,Dallas,TX,US,CT,Y,2026-10-05T04:53:02.895472+00:00,data/raw/master/airports.csv
+ORD,Chicago O'Hare,Chicago,IL,US,CT,Y,2026-10-05T04:53:02.895472+00:00,data/raw/master/airports.csv
+DEN,Denver International,Denver,CO,US,MT,Yes,2026-10-05T04:53:02.895472+00:00,data/raw/master/airports.csv
+LAX,Los Angeles International,Los Angeles,CA,US,PT,Y,2026-10-05T04:53:02.895472+00:00,data/raw/master/airports.csv
+SEA,Seattle Tacoma,Seattle,WA,US,PT,1,2026-10-05T04:53:02.895472+00:00,data/raw/master/airports.csv
+JFK,John F Kennedy,New York,NY,US,ET,Y,2026-10-05T04:53:02.895472+00:00,data/raw/master/airports.csv
+MIA,Miami International,Miami,FL,US,ET,Y,2026-10-05T04:53:02.895472+00:00,data/raw/master/airports.csv
+BOS,Boston Logan,Boston,MA,US,ET,Yes,2026-10-05T04:53:02.895472+00:00,data/raw/master/airports.csv
+PHX,Phoenix Sky Harbor,Phoenix,AZ,US,MT,Y,2026-10-05T04:53:02.895472+00:00,data/raw/master/airports.csv

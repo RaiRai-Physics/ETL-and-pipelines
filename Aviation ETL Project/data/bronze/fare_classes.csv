@@ -1,0 +1,5 @@
+fare_class,cabin,refundable_flag,changeable_flag,_bronze_loaded_at_utc,_source_file
+Y,Economy,N,Y,2026-10-05T04:53:02.928470+00:00,data/raw/master/fare_classes.csv
+W,Premium Economy,Y,Y,2026-10-05T04:53:02.928470+00:00,data/raw/master/fare_classes.csv
+J,Business,Y,Y,2026-10-05T04:53:02.928470+00:00,data/raw/master/fare_classes.csv
+F,First,Y,Y,2026-10-05T04:53:02.928470+00:00,data/raw/master/fare_classes.csv
