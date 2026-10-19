@@ -1,0 +1,5 @@
+fare_class,cabin,refundable_flag,changeable_flag
+Y,Economy,False,True
+W,Premium Economy,True,True
+J,Business,True,True
+F,First,True,True

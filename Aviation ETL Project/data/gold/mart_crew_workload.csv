@@ -1,0 +1,701 @@
+crew_id,role,assigned_flights,crew_name,base_airport,employment_status
+CRW000156,Purser,18,Crew Member 156,SEA,Active
+CRW000667,Purser,18,Crew Member 667,LAX,Active
+CRW000271,First Officer,17,Crew Member 271,DFW,Active
+CRW000115,Flight Attendant,16,Crew Member 115,DEN,Active
+CRW000064,First Officer,15,Crew Member 64,ORD,Active
+CRW000063,Purser,15,Crew Member 63,MIA,Active
+CRW000431,First Officer,15,Crew Member 431,PHX,Leave
+CRW000689,Purser,15,Crew Member 689,DFW,Leave
+CRW000301,First Officer,15,Crew Member 301,SEA,Active
+CRW000352,Captain,14,Crew Member 352,BOS,Active
+CRW000507,First Officer,14,Crew Member 507,BOS,Active
+CRW000542,Purser,14,Crew Member 542,SEA,Active
+CRW000534,Purser,14,Crew Member 534,DEN,Active
+CRW000427,First Officer,14,Crew Member 427,BOS,Leave
+CRW000421,First Officer,14,Crew Member 421,LAX,Leave
+CRW000571,Flight Attendant,14,Crew Member 571,PHX,Active
+CRW000570,Purser,14,Crew Member 570,DFW,Leave
+CRW000142,Flight Attendant,14,Crew Member 142,PHX,Leave
+CRW000172,Purser,14,Crew Member 172,SEA,Active
+CRW000245,Captain,14,Crew Member 245,BOS,Active
+CRW000321,Captain,14,Crew Member 321,PHX,Active
+CRW000197,Captain,14,Crew Member 197,DFW,Active
+CRW000050,Flight Attendant,14,Crew Member 50,BOS,Leave
+CRW000496,Flight Attendant,14,Crew Member 496,SEA,Active
+CRW000155,Flight Attendant,13,Crew Member 155,SEA,Leave
+CRW000404,Captain,13,Crew Member 404,ORD,Active
+CRW000562,Flight Attendant,13,Crew Member 562,LAX,Active
+CRW000232,Purser,13,Crew Member 232,ATL,Active
+CRW000287,First Officer,13,Crew Member 287,MIA,Active
+CRW000625,Captain,13,Crew Member 625,SEA,Active
+CRW000313,First Officer,13,Crew Member 313,LAX,Leave
+CRW000327,Flight Attendant,13,Crew Member 327,PHX,Leave
+CRW000186,First Officer,13,Crew Member 186,ATL,Active
+CRW000290,Flight Attendant,13,Crew Member 290,MIA,Active
+CRW000545,First Officer,13,Crew Member 545,DEN,Active
+CRW000323,Purser,13,Crew Member 323,MIA,Leave
+CRW000003,Flight Attendant,13,Crew Member 3,ATL,Active
+CRW000161,Captain,13,Crew Member 161,JFK,Active
+CRW000453,First Officer,13,Crew Member 453,LAX,Active
+CRW000039,Flight Attendant,13,Crew Member 39,BOS,Active
+CRW000175,Purser,13,Crew Member 175,PHX,Leave
+CRW000033,Purser,13,Crew Member 33,MIA,Active
+CRW000664,Captain,13,Crew Member 664,LAX,Active
+CRW000083,Captain,13,Crew Member 83,DFW,Active
+CRW000685,Captain,13,Crew Member 685,BOS,Leave
+CRW000356,Flight Attendant,13,Crew Member 356,DFW,Active
+CRW000344,Captain,13,Crew Member 344,ATL,Active
+CRW000686,Flight Attendant,13,Crew Member 686,DEN,Active
+CRW000078,Purser,13,Crew Member 78,JFK,Leave
+CRW000089,Flight Attendant,13,Crew Member 89,BOS,Active
+CRW000616,Captain,12,Crew Member 616,DFW,Leave
+CRW000242,Flight Attendant,12,Crew Member 242,ORD,Active
+CRW000017,Captain,12,Crew Member 17,LAX,Leave
+CRW000584,Captain,12,Crew Member 584,DFW,Leave
+CRW000146,Purser,12,Crew Member 146,SEA,Active
+CRW000071,Captain,12,Crew Member 71,ORD,Leave
+CRW000561,Flight Attendant,12,Crew Member 561,MIA,Active
+CRW000480,Purser,12,Crew Member 480,DFW,Active
+CRW000037,First Officer,12,Crew Member 37,PHX,Active
+CRW000225,Flight Attendant,12,Crew Member 225,DEN,Leave
+CRW000528,Captain,12,Crew Member 528,DEN,Active
+CRW000097,Captain,12,Crew Member 97,JFK,Active
+CRW000655,Captain,12,Crew Member 655,ORD,Active
+CRW000691,Captain,12,Crew Member 691,DFW,Active
+CRW000320,First Officer,12,Crew Member 320,SEA,Active
+CRW000638,Captain,12,Crew Member 638,MIA,Active
+CRW000668,Purser,12,Crew Member 668,LAX,Active
+CRW000284,Captain,12,Crew Member 284,ORD,Active
+CRW000297,Captain,12,Crew Member 297,ATL,Active
+CRW000220,First Officer,12,Crew Member 220,ORD,Active
+CRW000218,Purser,12,Crew Member 218,DFW,Active
+CRW000393,Captain,11,Crew Member 393,ATL,Leave
+CRW000082,Flight Attendant,11,Crew Member 82,DEN,Active
+CRW000184,Flight Attendant,11,Crew Member 184,SEA,Leave
+CRW000092,Purser,11,Crew Member 92,LAX,Leave
+CRW000111,Captain,11,Crew Member 111,ORD,Leave
+CRW000455,Purser,11,Crew Member 455,ATL,Active
+CRW000025,Captain,11,Crew Member 25,BOS,Leave
+CRW000601,First Officer,11,Crew Member 601,MIA,Leave
+CRW000296,Captain,11,Crew Member 296,DEN,Active
+CRW000438,Purser,11,Crew Member 438,BOS,Active
+CRW000174,Flight Attendant,11,Crew Member 174,MIA,Leave
+CRW000607,Flight Attendant,11,Crew Member 607,DFW,Active
+CRW000122,First Officer,11,Crew Member 122,DFW,Active
+CRW000123,Flight Attendant,11,Crew Member 123,ATL,Leave
+CRW000349,First Officer,11,Crew Member 349,BOS,Active
+CRW000384,First Officer,11,Crew Member 384,SEA,Active
+CRW000678,Flight Attendant,11,Crew Member 678,ATL,Active
+CRW000255,Flight Attendant,11,Crew Member 255,PHX,Active
+CRW000680,Purser,11,Crew Member 680,ATL,Active
+CRW000699,First Officer,11,Crew Member 699,PHX,Active
+CRW000692,Flight Attendant,11,Crew Member 692,DFW,Active
+CRW000049,Captain,11,Crew Member 49,ATL,Active
+CRW000176,Purser,11,Crew Member 176,ORD,Active
+CRW000178,Flight Attendant,11,Crew Member 178,ORD,Leave
+CRW000278,Purser,11,Crew Member 278,BOS,Active
+CRW000487,Purser,11,Crew Member 487,JFK,Leave
+CRW000148,Captain,11,Crew Member 148,MIA,Active
+CRW000214,Captain,11,Crew Member 214,BOS,Leave
+CRW000180,First Officer,11,Crew Member 180,DFW,Active
+CRW000563,Flight Attendant,11,Crew Member 563,JFK,Leave
+CRW000303,Flight Attendant,11,Crew Member 303,DFW,Leave
+CRW000159,Captain,11,Crew Member 159,DEN,Active
+CRW000574,Flight Attendant,11,Crew Member 574,DEN,Active
+CRW000555,First Officer,11,Crew Member 555,PHX,Leave
+CRW000394,Purser,11,Crew Member 394,BOS,Active
+CRW000663,Flight Attendant,11,Crew Member 663,LAX,Active
+CRW000619,Flight Attendant,11,Crew Member 619,PHX,Leave
+CRW000481,Purser,11,Crew Member 481,ATL,Active
+CRW000503,First Officer,11,Crew Member 503,DFW,Active
+CRW000589,Captain,11,Crew Member 589,DFW,Active
+CRW000120,Captain,11,Crew Member 120,DFW,Leave
+CRW000020,Purser,10,Crew Member 20,ORD,Active
+CRW000381,Captain,10,Crew Member 381,JFK,Active
+CRW000007,Captain,10,Crew Member 7,ATL,Leave
+CRW000377,Purser,10,Crew Member 377,ATL,Leave
+CRW000252,Captain,10,Crew Member 252,ATL,Leave
+CRW000596,Captain,10,Crew Member 596,DFW,Active
+CRW000595,Flight Attendant,10,Crew Member 595,ATL,Active
+CRW000602,Captain,10,Crew Member 602,DFW,Leave
+CRW000604,Purser,10,Crew Member 604,PHX,Active
+CRW000609,Purser,10,Crew Member 609,LAX,Leave
+CRW000018,Flight Attendant,10,Crew Member 18,ORD,Active
+CRW000462,Flight Attendant,10,Crew Member 462,DEN,Leave
+CRW000432,Flight Attendant,10,Crew Member 432,DFW,Active
+CRW000047,Purser,10,Crew Member 47,JFK,Leave
+CRW000379,Captain,10,Crew Member 379,ORD,Active
+CRW000368,First Officer,10,Crew Member 368,DFW,Leave
+CRW000383,Flight Attendant,10,Crew Member 383,MIA,Active
+CRW000376,Purser,10,Crew Member 376,SEA,Active
+CRW000386,Captain,10,Crew Member 386,BOS,Active
+CRW000038,First Officer,10,Crew Member 38,DEN,Active
+CRW000239,First Officer,10,Crew Member 239,LAX,Active
+CRW000129,Captain,10,Crew Member 129,PHX,Active
+CRW000360,Flight Attendant,10,Crew Member 360,PHX,Active
+CRW000407,First Officer,10,Crew Member 407,MIA,Active
+CRW000366,Captain,10,Crew Member 366,DFW,Leave
+CRW000133,Flight Attendant,10,Crew Member 133,ATL,Leave
+CRW000408,Flight Attendant,10,Crew Member 408,DEN,Active
+CRW000411,Captain,10,Crew Member 411,SEA,Active
+CRW000429,Captain,10,Crew Member 429,JFK,Active
+CRW000560,Flight Attendant,10,Crew Member 560,LAX,Active
+CRW000114,First Officer,10,Crew Member 114,DFW,Active
+CRW000056,First Officer,10,Crew Member 56,MIA,Active
+CRW000167,First Officer,10,Crew Member 167,MIA,Active
+CRW000419,First Officer,10,Crew Member 419,LAX,Active
+CRW000541,Flight Attendant,10,Crew Member 541,JFK,Active
+CRW000576,Captain,10,Crew Member 576,DFW,Active
+CRW000145,First Officer,10,Crew Member 145,SEA,Active
+CRW000302,Captain,10,Crew Member 302,DFW,Active
+CRW000472,Purser,10,Crew Member 472,ORD,Leave
+CRW000489,Flight Attendant,10,Crew Member 489,DEN,Active
+CRW000493,Flight Attendant,10,Crew Member 493,JFK,Leave
+CRW000445,Purser,10,Crew Member 445,BOS,Active
+CRW000532,Purser,10,Crew Member 532,SEA,Active
+CRW000447,Purser,10,Crew Member 447,JFK,Leave
+CRW000529,Flight Attendant,10,Crew Member 529,JFK,Active
+CRW000192,Captain,10,Crew Member 192,PHX,Active
+CRW000200,First Officer,10,Crew Member 200,DFW,Leave
+CRW000282,Captain,10,Crew Member 282,ATL,Active
+CRW000281,First Officer,10,Crew Member 281,PHX,Leave
+CRW000465,First Officer,10,Crew Member 465,PHX,Active
+CRW000468,Flight Attendant,10,Crew Member 468,SEA,Active
+CRW000294,Flight Attendant,10,Crew Member 294,MIA,Active
+CRW000265,Captain,10,Crew Member 265,LAX,Leave
+CRW000698,Flight Attendant,10,Crew Member 698,DFW,Active
+CRW000324,First Officer,10,Crew Member 324,MIA,Leave
+CRW000195,Flight Attendant,10,Crew Member 195,BOS,Active
+CRW000527,First Officer,10,Crew Member 527,DFW,Active
+CRW000639,Flight Attendant,10,Crew Member 639,DEN,Active
+CRW000350,Purser,10,Crew Member 350,MIA,Active
+CRW000624,First Officer,10,Crew Member 624,MIA,Active
+CRW000073,Flight Attendant,10,Crew Member 73,DFW,Active
+CRW000098,Flight Attendant,10,Crew Member 98,BOS,Leave
+CRW000673,Purser,10,Crew Member 673,LAX,Active
+CRW000074,Captain,10,Crew Member 74,LAX,Active
+CRW000079,First Officer,10,Crew Member 79,DEN,Active
+CRW000096,First Officer,10,Crew Member 96,BOS,Leave
+CRW000106,First Officer,10,Crew Member 106,DFW,Leave
+CRW000103,Flight Attendant,10,Crew Member 103,MIA,Active
+CRW000339,Purser,10,Crew Member 339,PHX,Active
+CRW000351,Captain,9,Crew Member 351,SEA,Active
+CRW000338,First Officer,9,Crew Member 338,ORD,Active
+CRW000343,Captain,9,Crew Member 343,PHX,Active
+CRW000355,First Officer,9,Crew Member 355,DEN,Active
+CRW000358,First Officer,9,Crew Member 358,MIA,Leave
+CRW000359,Purser,9,Crew Member 359,MIA,Active
+CRW000348,First Officer,9,Crew Member 348,ATL,Leave
+CRW000100,Captain,9,Crew Member 100,JFK,Active
+CRW000102,Captain,9,Crew Member 102,MIA,Leave
+CRW000080,First Officer,9,Crew Member 80,ATL,Leave
+CRW000081,Flight Attendant,9,Crew Member 81,LAX,Leave
+CRW000107,Purser,9,Crew Member 107,DEN,Active
+CRW000099,Captain,9,Crew Member 99,SEA,Active
+CRW000051,Flight Attendant,9,Crew Member 51,PHX,Leave
+CRW000105,Captain,9,Crew Member 105,PHX,Leave
+CRW000657,Captain,9,Crew Member 657,PHX,Active
+CRW000661,Flight Attendant,9,Crew Member 661,ATL,Leave
+CRW000672,First Officer,9,Crew Member 672,DFW,Leave
+CRW000677,Captain,9,Crew Member 677,ORD,Active
+CRW000072,First Officer,9,Crew Member 72,PHX,Leave
+CRW000075,First Officer,9,Crew Member 75,MIA,Leave
+CRW000077,Purser,9,Crew Member 77,DEN,Active
+CRW000654,First Officer,9,Crew Member 654,PHX,Leave
+CRW000647,First Officer,9,Crew Member 647,ATL,Active
+CRW000634,Captain,9,Crew Member 634,PHX,Leave
+CRW000011,First Officer,9,Crew Member 11,DFW,Active
+CRW000690,Captain,9,Crew Member 690,ORD,Active
+CRW000653,Purser,9,Crew Member 653,SEA,Leave
+CRW000230,Purser,9,Crew Member 230,LAX,Active
+CRW000517,First Officer,9,Crew Member 517,LAX,Active
+CRW000519,Purser,9,Crew Member 519,BOS,Leave
+CRW000500,Captain,9,Crew Member 500,DFW,Active
+CRW000521,Captain,9,Crew Member 521,JFK,Active
+CRW000525,Captain,9,Crew Member 525,SEA,Active
+CRW000514,Flight Attendant,9,Crew Member 514,LAX,Active
+CRW000188,First Officer,9,Crew Member 188,MIA,Active
+CRW000191,Captain,9,Crew Member 191,ATL,Active
+CRW000312,Purser,9,Crew Member 312,PHX,Active
+CRW000315,Flight Attendant,9,Crew Member 315,PHX,Leave
+CRW000316,Flight Attendant,9,Crew Member 316,DFW,Active
+CRW000272,First Officer,9,Crew Member 272,DFW,Leave
+CRW000333,First Officer,9,Crew Member 333,ATL,Active
+CRW000291,Purser,9,Crew Member 291,JFK,Active
+CRW000299,Captain,9,Crew Member 299,MIA,Active
+CRW000288,Purser,9,Crew Member 288,ATL,Active
+CRW000484,Purser,9,Crew Member 484,JFK,Active
+CRW000491,Purser,9,Crew Member 491,PHX,Leave
+CRW000216,Flight Attendant,9,Crew Member 216,DFW,Active
+CRW000223,Flight Attendant,9,Crew Member 223,LAX,Active
+CRW000209,Flight Attendant,9,Crew Member 209,PHX,Leave
+CRW000318,Captain,9,Crew Member 318,ORD,Leave
+CRW000305,Flight Attendant,9,Crew Member 305,MIA,Active
+CRW000311,Purser,9,Crew Member 311,DFW,Active
+CRW000193,Flight Attendant,9,Crew Member 193,LAX,Leave
+CRW000540,Captain,9,Crew Member 540,PHX,Active
+CRW000552,First Officer,9,Crew Member 552,DFW,Leave
+CRW000558,Captain,9,Crew Member 558,ATL,Active
+CRW000163,Captain,9,Crew Member 163,ORD,Active
+CRW000573,First Officer,9,Crew Member 573,DEN,Active
+CRW000590,Captain,9,Crew Member 590,PHX,Active
+CRW000582,Purser,9,Crew Member 582,LAX,Active
+CRW000569,Captain,9,Crew Member 569,DEN,Leave
+CRW000127,Flight Attendant,9,Crew Member 127,DEN,Active
+CRW000112,Flight Attendant,9,Crew Member 112,LAX,Active
+CRW000361,Captain,9,Crew Member 361,DFW,Active
+CRW000412,Flight Attendant,9,Crew Member 412,MIA,Active
+CRW000413,Purser,9,Crew Member 413,DFW,Leave
+CRW000415,Flight Attendant,9,Crew Member 415,SEA,Leave
+CRW000400,Purser,9,Crew Member 400,JFK,Active
+CRW000066,Purser,9,Crew Member 66,DFW,Active
+CRW000128,Captain,9,Crew Member 128,MIA,Active
+CRW000597,Purser,9,Crew Member 597,BOS,Active
+CRW000599,Captain,9,Crew Member 599,DEN,Active
+CRW000136,Captain,9,Crew Member 136,PHX,Leave
+CRW000140,Flight Attendant,9,Crew Member 140,ORD,Active
+CRW000143,First Officer,9,Crew Member 143,SEA,Leave
+CRW000592,Purser,9,Crew Member 592,SEA,Active
+CRW000160,Captain,9,Crew Member 160,PHX,Leave
+CRW000434,Flight Attendant,9,Crew Member 434,MIA,Active
+CRW000450,Purser,9,Crew Member 450,ATL,Active
+CRW000451,First Officer,9,Crew Member 451,JFK,Active
+CRW000441,Flight Attendant,9,Crew Member 441,SEA,Active
+CRW000443,Purser,9,Crew Member 443,DEN,Active
+CRW000243,Captain,9,Crew Member 243,PHX,Active
+CRW000457,Purser,9,Crew Member 457,LAX,Active
+CRW000460,Purser,9,Crew Member 460,JFK,Active
+CRW000035,Captain,9,Crew Member 35,LAX,Leave
+CRW000679,Purser,9,Crew Member 679,MIA,Active
+CRW000666,Flight Attendant,9,Crew Member 666,ORD,Active
+CRW000695,First Officer,9,Crew Member 695,JFK,Active
+CRW000399,Purser,9,Crew Member 399,PHX,Active
+CRW000693,Captain,9,Crew Member 693,DFW,Leave
+CRW000697,First Officer,8,Crew Member 697,MIA,Leave
+CRW000696,Flight Attendant,8,Crew Member 696,DFW,Active
+CRW000009,First Officer,8,Crew Member 9,PHX,Active
+CRW000650,Captain,8,Crew Member 650,DFW,Active
+CRW000637,Flight Attendant,8,Crew Member 637,DFW,Leave
+CRW000631,Purser,8,Crew Member 631,DEN,Active
+CRW000683,Purser,8,Crew Member 683,MIA,Active
+CRW000684,First Officer,8,Crew Member 684,ORD,Leave
+CRW000675,Flight Attendant,8,Crew Member 675,DFW,Leave
+CRW000040,Purser,8,Crew Member 40,PHX,Leave
+CRW000032,Flight Attendant,8,Crew Member 32,DFW,Leave
+CRW000024,Captain,8,Crew Member 24,BOS,Active
+CRW000026,Flight Attendant,8,Crew Member 26,PHX,Active
+CRW000027,First Officer,8,Crew Member 27,LAX,Active
+CRW000700,Purser,8,Crew Member 700,DEN,Active
+CRW000257,Purser,8,Crew Member 257,DFW,Active
+CRW000260,Captain,8,Crew Member 260,MIA,Active
+CRW000262,Purser,8,Crew Member 262,SEA,Active
+CRW000251,Flight Attendant,8,Crew Member 251,ORD,Active
+CRW000253,Flight Attendant,8,Crew Member 253,JFK,Active
+CRW000240,Purser,8,Crew Member 240,DFW,Leave
+CRW000244,Purser,8,Crew Member 244,PHX,Active
+CRW000461,Captain,8,Crew Member 461,BOS,Active
+CRW000452,Purser,8,Crew Member 452,BOS,Active
+CRW000454,Purser,8,Crew Member 454,ATL,Leave
+CRW000446,Flight Attendant,8,Crew Member 446,DEN,Active
+CRW000436,First Officer,8,Crew Member 436,PHX,Active
+CRW000217,Captain,8,Crew Member 217,BOS,Active
+CRW000221,Purser,8,Crew Member 221,ATL,Active
+CRW000211,Captain,8,Crew Member 211,MIA,Active
+CRW000215,Flight Attendant,8,Crew Member 215,SEA,Leave
+CRW000494,Captain,8,Crew Member 494,MIA,Leave
+CRW000482,Captain,8,Crew Member 482,DEN,Leave
+CRW000486,Flight Attendant,8,Crew Member 486,DEN,Active
+CRW000476,Purser,8,Crew Member 476,ORD,Active
+CRW000477,Flight Attendant,8,Crew Member 477,MIA,Active
+CRW000464,First Officer,8,Crew Member 464,ORD,Active
+CRW000267,First Officer,8,Crew Member 267,JFK,Active
+CRW000269,Captain,8,Crew Member 269,MIA,Active
+CRW000270,Flight Attendant,8,Crew Member 270,BOS,Active
+CRW000256,Purser,8,Crew Member 256,MIA,Active
+CRW000300,Purser,8,Crew Member 300,ORD,Active
+CRW000292,Captain,8,Crew Member 292,SEA,Leave
+CRW000285,First Officer,8,Crew Member 285,DEN,Active
+CRW000273,Captain,8,Crew Member 273,DEN,Active
+CRW000331,Flight Attendant,8,Crew Member 331,DEN,Active
+CRW000322,Flight Attendant,8,Crew Member 322,DEN,Active
+CRW000325,Purser,8,Crew Member 325,DEN,Active
+CRW000181,Flight Attendant,8,Crew Member 181,ATL,Active
+CRW000183,Purser,8,Crew Member 183,JFK,Active
+CRW000515,Captain,8,Crew Member 515,ATL,Active
+CRW000504,Flight Attendant,8,Crew Member 504,MIA,Leave
+CRW000497,Flight Attendant,8,Crew Member 497,DEN,Active
+CRW000498,Captain,8,Crew Member 498,DEN,Active
+CRW000501,Captain,8,Crew Member 501,BOS,Active
+CRW000233,Captain,8,Crew Member 233,MIA,Active
+CRW000226,Captain,8,Crew Member 226,PHX,Active
+CRW000153,Captain,8,Crew Member 153,LAX,Active
+CRW000158,Purser,8,Crew Member 158,LAX,Active
+CRW000557,Purser,8,Crew Member 557,MIA,Active
+CRW000546,Flight Attendant,8,Crew Member 546,ORD,Leave
+CRW000547,Flight Attendant,8,Crew Member 547,PHX,Active
+CRW000539,Captain,8,Crew Member 539,MIA,Active
+CRW000531,Flight Attendant,8,Crew Member 531,MIA,Active
+CRW000204,Captain,8,Crew Member 204,DFW,Leave
+CRW000205,First Officer,8,Crew Member 205,DEN,Active
+CRW000194,First Officer,8,Crew Member 194,JFK,Active
+CRW000304,Flight Attendant,8,Crew Member 304,ATL,Active
+CRW000424,Flight Attendant,8,Crew Member 424,ORD,Active
+CRW000425,Purser,8,Crew Member 425,MIA,Active
+CRW000426,First Officer,8,Crew Member 426,JFK,Active
+CRW000430,Purser,8,Crew Member 430,SEA,Active
+CRW000417,Captain,8,Crew Member 417,BOS,Active
+CRW000418,Purser,8,Crew Member 418,ATL,Active
+CRW000420,First Officer,8,Crew Member 420,PHX,Active
+CRW000422,Flight Attendant,8,Crew Member 422,SEA,Leave
+CRW000423,Purser,8,Crew Member 423,ATL,Active
+CRW000405,First Officer,8,Crew Member 405,ORD,Active
+CRW000365,Captain,8,Crew Member 365,ORD,Active
+CRW000124,Flight Attendant,8,Crew Member 124,JFK,Active
+CRW000113,Purser,8,Crew Member 113,SEA,Active
+CRW000119,First Officer,8,Crew Member 119,ATL,Active
+CRW000585,First Officer,8,Crew Member 585,PHX,Leave
+CRW000591,Flight Attendant,8,Crew Member 591,LAX,Active
+CRW000583,First Officer,8,Crew Member 583,BOS,Active
+CRW000565,Captain,8,Crew Member 565,LAX,Active
+CRW000567,Purser,8,Crew Member 567,BOS,Active
+CRW000169,Captain,8,Crew Member 169,DEN,Active
+CRW000618,First Officer,8,Crew Member 618,JFK,Active
+CRW000623,Purser,8,Crew Member 623,MIA,Leave
+CRW000612,Captain,8,Crew Member 612,SEA,Active
+CRW000613,Purser,8,Crew Member 613,JFK,Active
+CRW000614,Captain,8,Crew Member 614,DEN,Active
+CRW000606,Captain,8,Crew Member 606,ORD,Active
+CRW000598,Captain,8,Crew Member 598,SEA,Active
+CRW000134,First Officer,8,Crew Member 134,DFW,Active
+CRW000121,Captain,8,Crew Member 121,DEN,Active
+CRW000068,Purser,8,Crew Member 68,PHX,Active
+CRW000060,Purser,8,Crew Member 60,LAX,Active
+CRW000062,Captain,8,Crew Member 62,DEN,Active
+CRW000048,First Officer,8,Crew Member 48,PHX,Leave
+CRW000052,First Officer,8,Crew Member 52,JFK,Active
+CRW000055,Flight Attendant,8,Crew Member 55,DEN,Leave
+CRW000108,Purser,8,Crew Member 108,BOS,Active
+CRW000354,Purser,8,Crew Member 354,MIA,Active
+CRW000357,Purser,8,Crew Member 357,DEN,Active
+CRW000342,Flight Attendant,8,Crew Member 342,ORD,Active
+CRW000398,First Officer,8,Crew Member 398,ATL,Active
+CRW000388,Captain,8,Crew Member 388,LAX,Active
+CRW000390,Flight Attendant,8,Crew Member 390,ORD,Leave
+CRW000378,Flight Attendant,8,Crew Member 378,SEA,Active
+CRW000382,Captain,8,Crew Member 382,DFW,Leave
+CRW000021,First Officer,8,Crew Member 21,BOS,Active
+CRW000019,Flight Attendant,7,Crew Member 19,ORD,Leave
+CRW000010,Purser,7,Crew Member 10,PHX,Leave
+CRW000022,Captain,7,Crew Member 22,ORD,Leave
+CRW000023,First Officer,7,Crew Member 23,SEA,Active
+CRW000004,First Officer,7,Crew Member 4,PHX,Active
+CRW000030,First Officer,7,Crew Member 30,DEN,Leave
+CRW000694,Flight Attendant,7,Crew Member 694,BOS,Active
+CRW000041,Flight Attendant,7,Crew Member 41,BOS,Active
+CRW000036,First Officer,7,Crew Member 36,MIA,Leave
+CRW000008,Captain,7,Crew Member 8,JFK,Leave
+CRW000088,Purser,7,Crew Member 88,MIA,Active
+CRW000094,Flight Attendant,7,Crew Member 94,PHX,Active
+CRW000093,Purser,7,Crew Member 93,LAX,Active
+CRW000110,Captain,7,Crew Member 110,BOS,Leave
+CRW000104,First Officer,7,Crew Member 104,PHX,Leave
+CRW000658,First Officer,7,Crew Member 658,ORD,Leave
+CRW000656,Purser,7,Crew Member 656,JFK,Leave
+CRW000605,First Officer,7,Crew Member 605,DEN,Active
+CRW000611,Purser,7,Crew Member 611,PHX,Active
+CRW000330,Flight Attendant,7,Crew Member 330,ATL,Leave
+CRW000326,Purser,7,Crew Member 326,BOS,Active
+CRW000621,Captain,7,Crew Member 621,SEA,Active
+CRW000085,Captain,7,Crew Member 85,MIA,Leave
+CRW000615,Purser,7,Crew Member 615,MIA,Leave
+CRW000087,First Officer,7,Crew Member 87,BOS,Active
+CRW000363,Captain,7,Crew Member 363,ATL,Active
+CRW000364,Captain,7,Crew Member 364,SEA,Active
+CRW000470,Purser,7,Crew Member 470,DEN,Active
+CRW000471,First Officer,7,Crew Member 471,ATL,Active
+CRW000490,Purser,7,Crew Member 490,PHX,Active
+CRW000228,First Officer,7,Crew Member 228,MIA,Active
+CRW000473,Captain,7,Crew Member 473,ORD,Leave
+CRW000495,First Officer,7,Crew Member 495,DFW,Leave
+CRW000298,Flight Attendant,7,Crew Member 298,SEA,Active
+CRW000277,First Officer,7,Crew Member 277,DEN,Active
+CRW000286,Flight Attendant,7,Crew Member 286,PHX,Active
+CRW000279,Purser,7,Crew Member 279,ATL,Active
+CRW000227,Captain,7,Crew Member 227,BOS,Leave
+CRW000485,Captain,7,Crew Member 485,LAX,Leave
+CRW000229,First Officer,7,Crew Member 229,ATL,Active
+CRW000479,Captain,7,Crew Member 479,MIA,Active
+CRW000403,Captain,7,Crew Member 403,JFK,Active
+CRW000406,Purser,7,Crew Member 406,MIA,Active
+CRW000241,Purser,7,Crew Member 241,LAX,Leave
+CRW000295,First Officer,7,Crew Member 295,LAX,Leave
+CRW000346,Purser,7,Crew Member 346,PHX,Active
+CRW000319,Flight Attendant,7,Crew Member 319,ATL,Active
+CRW000266,First Officer,7,Crew Member 266,MIA,Leave
+CRW000263,Captain,7,Crew Member 263,SEA,Active
+CRW000556,Purser,7,Crew Member 556,DFW,Leave
+CRW000144,Flight Attendant,7,Crew Member 144,DFW,Leave
+CRW000147,Purser,7,Crew Member 147,ORD,Leave
+CRW000543,First Officer,7,Crew Member 543,PHX,Active
+CRW000203,Flight Attendant,7,Crew Member 203,LAX,Active
+CRW000533,First Officer,7,Crew Member 533,DEN,Active
+CRW000199,Purser,7,Crew Member 199,BOS,Active
+CRW000548,Purser,7,Crew Member 548,SEA,Active
+CRW000644,Captain,7,Crew Member 644,LAX,Leave
+CRW000645,Flight Attendant,7,Crew Member 645,PHX,Leave
+CRW000649,First Officer,7,Crew Member 649,ATL,Active
+CRW000641,Flight Attendant,7,Crew Member 641,LAX,Active
+CRW000013,Flight Attendant,7,Crew Member 13,MIA,Active
+CRW000659,Captain,7,Crew Member 659,DEN,Active
+CRW000688,First Officer,7,Crew Member 688,LAX,Active
+CRW000652,First Officer,7,Crew Member 652,BOS,Leave
+CRW000635,Flight Attendant,7,Crew Member 635,SEA,Leave
+CRW000682,Purser,7,Crew Member 682,JFK,Active
+CRW000345,Purser,7,Crew Member 345,JFK,Leave
+CRW000341,Captain,7,Crew Member 341,MIA,Active
+CRW000665,First Officer,7,Crew Member 665,DFW,Leave
+CRW000669,First Officer,7,Crew Member 669,ATL,Leave
+CRW000671,Purser,7,Crew Member 671,PHX,Active
+CRW000371,Captain,7,Crew Member 371,BOS,Leave
+CRW000387,Purser,7,Crew Member 387,JFK,Active
+CRW000395,Purser,7,Crew Member 395,PHX,Leave
+CRW000061,Purser,7,Crew Member 61,LAX,Active
+CRW000636,Captain,7,Crew Member 636,DEN,Active
+CRW000627,Captain,7,Crew Member 627,MIA,Active
+CRW000150,Captain,7,Crew Member 150,ORD,Active
+CRW000166,Purser,7,Crew Member 166,JFK,Active
+CRW000554,Purser,7,Crew Member 554,LAX,Leave
+CRW000139,Flight Attendant,7,Crew Member 139,LAX,Leave
+CRW000138,First Officer,7,Crew Member 138,BOS,Active
+CRW000587,Captain,7,Crew Member 587,DEN,Leave
+CRW000141,First Officer,7,Crew Member 141,MIA,Active
+CRW000575,Flight Attendant,7,Crew Member 575,BOS,Leave
+CRW000578,Captain,7,Crew Member 578,MIA,Leave
+CRW000118,Flight Attendant,7,Crew Member 118,ATL,Active
+CRW000116,Captain,7,Crew Member 116,ORD,Active
+CRW000152,Flight Attendant,7,Crew Member 152,DFW,Active
+CRW000154,First Officer,7,Crew Member 154,BOS,Active
+CRW000551,Captain,7,Crew Member 551,LAX,Active
+CRW000550,Captain,7,Crew Member 550,ATL,Active
+CRW000170,Captain,7,Crew Member 170,DFW,Active
+CRW000149,Flight Attendant,7,Crew Member 149,JFK,Leave
+CRW000231,First Officer,7,Crew Member 231,LAX,Leave
+CRW000234,Purser,7,Crew Member 234,SEA,Active
+CRW000524,First Officer,7,Crew Member 524,ORD,Active
+CRW000511,First Officer,7,Crew Member 511,DFW,Active
+CRW000502,Captain,7,Crew Member 502,MIA,Active
+CRW000131,Captain,7,Crew Member 131,DEN,Active
+CRW000499,Flight Attendant,7,Crew Member 499,DEN,Active
+CRW000235,Captain,7,Crew Member 235,BOS,Active
+CRW000198,First Officer,7,Crew Member 198,PHX,Leave
+CRW000196,Purser,7,Crew Member 196,SEA,Leave
+CRW000189,Purser,7,Crew Member 189,PHX,Leave
+CRW000190,Flight Attendant,7,Crew Member 190,ORD,Active
+CRW000179,First Officer,7,Crew Member 179,DFW,Active
+CRW000185,First Officer,7,Crew Member 185,MIA,Active
+CRW000467,Flight Attendant,7,Crew Member 467,ORD,Active
+CRW000466,Captain,7,Crew Member 466,DFW,Active
+CRW000329,Flight Attendant,6,Crew Member 329,BOS,Active
+CRW000594,Captain,6,Crew Member 594,DEN,Active
+CRW000369,Purser,6,Crew Member 369,LAX,Leave
+CRW000373,First Officer,6,Crew Member 373,SEA,Active
+CRW000687,Captain,6,Crew Member 687,SEA,Active
+CRW000385,Purser,6,Crew Member 385,PHX,Leave
+CRW000392,Flight Attendant,6,Crew Member 392,PHX,Active
+CRW000012,Flight Attendant,6,Crew Member 12,ORD,Leave
+CRW000630,Captain,6,Crew Member 630,DEN,Active
+CRW000633,First Officer,6,Crew Member 633,JFK,Active
+CRW000206,Captain,6,Crew Member 206,MIA,Active
+CRW000538,First Officer,6,Crew Member 538,BOS,Active
+CRW000536,Captain,6,Crew Member 536,ORD,Active
+CRW000537,First Officer,6,Crew Member 537,PHX,Active
+CRW000337,Flight Attendant,6,Crew Member 337,ATL,Active
+CRW000125,First Officer,6,Crew Member 125,MIA,Active
+CRW000157,Flight Attendant,6,Crew Member 157,ORD,Active
+CRW000553,Captain,6,Crew Member 553,MIA,Active
+CRW000236,Flight Attendant,6,Crew Member 236,DFW,Active
+CRW000117,Purser,6,Crew Member 117,DEN,Leave
+CRW000177,First Officer,6,Crew Member 177,JFK,Active
+CRW000509,Captain,6,Crew Member 509,BOS,Active
+CRW000182,Captain,6,Crew Member 182,ORD,Active
+CRW000520,Flight Attendant,6,Crew Member 520,DFW,Active
+CRW000513,First Officer,6,Crew Member 513,ATL,Active
+CRW000512,Purser,6,Crew Member 512,JFK,Active
+CRW000168,Purser,6,Crew Member 168,ATL,Leave
+CRW000276,Flight Attendant,6,Crew Member 276,DEN,Leave
+CRW000463,First Officer,6,Crew Member 463,MIA,Active
+CRW000448,Flight Attendant,6,Crew Member 448,ORD,Active
+CRW000249,Captain,6,Crew Member 249,MIA,Active
+CRW000439,Captain,6,Crew Member 439,PHX,Leave
+CRW000474,Purser,6,Crew Member 474,DFW,Active
+CRW000261,First Officer,6,Crew Member 261,ATL,Leave
+CRW000307,First Officer,6,Crew Member 307,LAX,Active
+CRW000310,Flight Attendant,6,Crew Member 310,ATL,Active
+CRW000309,Captain,6,Crew Member 309,ORD,Active
+CRW000317,Captain,6,Crew Member 317,LAX,Leave
+CRW000248,First Officer,6,Crew Member 248,PHX,Active
+CRW000402,First Officer,6,Crew Member 402,DEN,Active
+CRW000416,First Officer,6,Crew Member 416,DEN,Active
+CRW000409,Purser,6,Crew Member 409,BOS,Active
+CRW000449,First Officer,6,Crew Member 449,SEA,Active
+CRW000293,Captain,6,Crew Member 293,DFW,Leave
+CRW000005,First Officer,6,Crew Member 5,PHX,Active
+CRW000042,First Officer,6,Crew Member 42,PHX,Leave
+CRW000029,Flight Attendant,6,Crew Member 29,DEN,Active
+CRW000016,Flight Attendant,6,Crew Member 16,PHX,Active
+CRW000001,Purser,6,Crew Member 1,SEA,Active
+CRW000091,Captain,6,Crew Member 91,LAX,Active
+CRW000059,First Officer,6,Crew Member 59,LAX,Active
+CRW000058,First Officer,6,Crew Member 58,JFK,Active
+CRW000090,First Officer,6,Crew Member 90,LAX,Leave
+CRW000095,Flight Attendant,6,Crew Member 95,JFK,Active
+CRW000603,Captain,6,Crew Member 603,JFK,Active
+CRW000247,Purser,6,Crew Member 247,DEN,Leave
+CRW000367,Purser,6,Crew Member 367,ATL,Active
+CRW000469,Captain,6,Crew Member 469,JFK,Active
+CRW000224,Purser,6,Crew Member 224,BOS,Leave
+CRW000213,Captain,6,Crew Member 213,SEA,Active
+CRW000440,Captain,6,Crew Member 440,PHX,Active
+CRW000280,First Officer,6,Crew Member 280,ORD,Active
+CRW000492,Flight Attendant,6,Crew Member 492,BOS,Active
+CRW000483,First Officer,6,Crew Member 483,PHX,Active
+CRW000210,First Officer,6,Crew Member 210,PHX,Active
+CRW000437,Purser,6,Crew Member 437,PHX,Leave
+CRW000640,First Officer,6,Crew Member 640,ORD,Active
+CRW000374,Captain,6,Crew Member 374,ATL,Leave
+CRW000070,Flight Attendant,6,Crew Member 70,DEN,Leave
+CRW000586,Captain,6,Crew Member 586,DFW,Active
+CRW000580,Flight Attendant,6,Crew Member 580,PHX,Active
+CRW000642,Flight Attendant,6,Crew Member 642,JFK,Active
+CRW000014,Captain,6,Crew Member 14,JFK,Active
+CRW000202,Purser,6,Crew Member 202,SEA,Leave
+CRW000579,First Officer,6,Crew Member 579,DFW,Active
+CRW000581,Purser,6,Crew Member 581,DFW,Active
+CRW000428,Purser,5,Crew Member 428,DEN,Active
+CRW000222,Flight Attendant,5,Crew Member 222,SEA,Leave
+CRW000275,Flight Attendant,5,Crew Member 275,PHX,Active
+CRW000254,Captain,5,Crew Member 254,SEA,Active
+CRW000250,First Officer,5,Crew Member 250,ORD,Leave
+CRW000306,Flight Attendant,5,Crew Member 306,DFW,Active
+CRW000101,Purser,5,Crew Member 101,ATL,Active
+CRW000054,First Officer,5,Crew Member 54,SEA,Leave
+CRW000617,First Officer,5,Crew Member 617,JFK,Active
+CRW000593,Purser,5,Crew Member 593,MIA,Active
+CRW000086,Flight Attendant,5,Crew Member 86,DEN,Active
+CRW000028,Captain,5,Crew Member 28,ATL,Leave
+CRW000006,Purser,5,Crew Member 6,DFW,Leave
+CRW000109,First Officer,5,Crew Member 109,ATL,Leave
+CRW000608,Flight Attendant,5,Crew Member 608,SEA,Leave
+CRW000410,Purser,5,Crew Member 410,DFW,Leave
+CRW000274,Purser,5,Crew Member 274,DFW,Active
+CRW000314,Captain,5,Crew Member 314,JFK,Active
+CRW000347,Purser,5,Crew Member 347,LAX,Leave
+CRW000456,Flight Attendant,5,Crew Member 456,BOS,Active
+CRW000610,Purser,5,Crew Member 610,MIA,Active
+CRW000335,Flight Attendant,5,Crew Member 335,DEN,Active
+CRW000478,Captain,5,Crew Member 478,SEA,Active
+CRW000433,Captain,5,Crew Member 433,JFK,Active
+CRW000289,Purser,5,Crew Member 289,DFW,Active
+CRW000162,Purser,5,Crew Member 162,JFK,Active
+CRW000588,Flight Attendant,5,Crew Member 588,MIA,Active
+CRW000564,Captain,5,Crew Member 564,ORD,Active
+CRW000137,Captain,5,Crew Member 137,MIA,Active
+CRW000572,Captain,5,Crew Member 572,JFK,Active
+CRW000518,Captain,5,Crew Member 518,ORD,Active
+CRW000516,Captain,5,Crew Member 516,DFW,Active
+CRW000187,Captain,5,Crew Member 187,BOS,Active
+CRW000264,Purser,5,Crew Member 264,MIA,Active
+CRW000508,First Officer,5,Crew Member 508,PHX,Leave
+CRW000132,Flight Attendant,5,Crew Member 132,ORD,Active
+CRW000522,Purser,5,Crew Member 522,ATL,Active
+CRW000130,Flight Attendant,5,Crew Member 130,ORD,Active
+CRW000629,Flight Attendant,5,Crew Member 629,ORD,Active
+CRW000015,Purser,5,Crew Member 15,LAX,Active
+CRW000201,Captain,5,Crew Member 201,DFW,Leave
+CRW000530,First Officer,5,Crew Member 530,BOS,Active
+CRW000535,Purser,5,Crew Member 535,LAX,Active
+CRW000069,Flight Attendant,5,Crew Member 69,JFK,Active
+CRW000067,Captain,5,Crew Member 67,SEA,Active
+CRW000626,Purser,5,Crew Member 626,BOS,Leave
+CRW000397,Purser,5,Crew Member 397,DEN,Active
+CRW000336,Captain,5,Crew Member 336,SEA,Active
+CRW000076,First Officer,5,Crew Member 76,JFK,Leave
+CRW000380,First Officer,5,Crew Member 380,DFW,Active
+CRW000389,Captain,5,Crew Member 389,LAX,Active
+CRW000375,Purser,5,Crew Member 375,ATL,Leave
+CRW000660,Captain,5,Crew Member 660,PHX,Active
+CRW000662,Captain,5,Crew Member 662,PHX,Leave
+CRW000676,Flight Attendant,4,Crew Member 676,DEN,Active
+CRW000370,Captain,4,Crew Member 370,PHX,Active
+CRW000681,Flight Attendant,4,Crew Member 681,LAX,Active
+CRW000340,Flight Attendant,4,Crew Member 340,MIA,Active
+CRW000164,First Officer,4,Crew Member 164,BOS,Leave
+CRW000648,First Officer,4,Crew Member 648,MIA,Active
+CRW000651,First Officer,4,Crew Member 651,ATL,Active
+CRW000643,Captain,4,Crew Member 643,MIA,Leave
+CRW000628,First Officer,4,Crew Member 628,DEN,Active
+CRW000043,Purser,4,Crew Member 43,JFK,Leave
+CRW000044,Captain,4,Crew Member 44,DFW,Active
+CRW000045,Purser,4,Crew Member 45,ORD,Active
+CRW000057,First Officer,4,Crew Member 57,DFW,Leave
+CRW000362,Captain,4,Crew Member 362,SEA,Active
+CRW000171,Captain,4,Crew Member 171,BOS,Leave
+CRW000173,First Officer,4,Crew Member 173,JFK,Active
+CRW000151,Flight Attendant,4,Crew Member 151,ORD,Active
+CRW000523,First Officer,4,Crew Member 523,DEN,Active
+CRW000475,Captain,4,Crew Member 475,BOS,Active
+CRW000268,Purser,4,Crew Member 268,BOS,Active
+CRW000259,First Officer,4,Crew Member 259,MIA,Leave
+CRW000505,Flight Attendant,4,Crew Member 505,LAX,Leave
+CRW000126,Purser,4,Crew Member 126,ATL,Active
+CRW000577,Captain,4,Crew Member 577,LAX,Active
+CRW000568,Captain,4,Crew Member 568,PHX,Active
+CRW000328,Captain,4,Crew Member 328,BOS,Active
+CRW000332,Flight Attendant,4,Crew Member 332,MIA,Active
+CRW000053,First Officer,4,Crew Member 53,ORD,Active
+CRW000034,Flight Attendant,4,Crew Member 34,ORD,Active
+CRW000435,Flight Attendant,4,Crew Member 435,ORD,Active
+CRW000414,First Officer,4,Crew Member 414,ORD,Active
+CRW000258,Flight Attendant,4,Crew Member 258,JFK,Leave
+CRW000308,Purser,4,Crew Member 308,DEN,Active
+CRW000353,Flight Attendant,4,Crew Member 353,JFK,Leave
+CRW000458,Purser,4,Crew Member 458,LAX,Active
+CRW000442,Purser,4,Crew Member 442,BOS,Active
+CRW000444,Captain,4,Crew Member 444,SEA,Active
+CRW000212,Purser,4,Crew Member 212,ORD,Active
+CRW000219,Purser,4,Crew Member 219,PHX,Leave
+CRW000208,Purser,4,Crew Member 208,DFW,Active
+CRW000670,First Officer,3,Crew Member 670,DEN,Active
+CRW000396,First Officer,3,Crew Member 396,DEN,Active
+CRW000391,Purser,3,Crew Member 391,BOS,Active
+CRW000372,Captain,3,Crew Member 372,DEN,Leave
+CRW000674,Captain,3,Crew Member 674,SEA,Active
+CRW000600,Flight Attendant,3,Crew Member 600,BOS,Active
+CRW000237,Purser,3,Crew Member 237,SEA,Leave
+CRW000526,Captain,3,Crew Member 526,ATL,Active
+CRW000488,First Officer,3,Crew Member 488,JFK,Active
+CRW000544,Purser,3,Crew Member 544,ATL,Leave
+CRW000646,First Officer,3,Crew Member 646,SEA,Active
+CRW000065,Captain,3,Crew Member 65,MIA,Active
+CRW000632,Purser,3,Crew Member 632,SEA,Active
+CRW000549,First Officer,3,Crew Member 549,LAX,Active
+CRW000135,First Officer,3,Crew Member 135,ATL,Active
+CRW000238,First Officer,3,Crew Member 238,DFW,Active
+CRW000506,Captain,3,Crew Member 506,BOS,Leave
+CRW000031,Flight Attendant,3,Crew Member 31,SEA,Active
+CRW000084,First Officer,3,Crew Member 84,PHX,Active
+CRW000002,Flight Attendant,3,Crew Member 2,ORD,Active
+CRW000283,Captain,3,Crew Member 283,BOS,Active
+CRW000246,Captain,3,Crew Member 246,ORD,Active
+CRW000046,First Officer,3,Crew Member 46,BOS,Active
+CRW000207,Captain,2,Crew Member 207,ORD,Active
+CRW000165,Captain,2,Crew Member 165,JFK,Leave
+CRW000401,Flight Attendant,2,Crew Member 401,ORD,Active
+CRW000510,First Officer,2,Crew Member 510,DEN,Active
+CRW000559,Purser,2,Crew Member 559,DEN,Active
+CRW000459,Flight Attendant,2,Crew Member 459,DEN,Active
+CRW000620,Captain,2,Crew Member 620,BOS,Active
+CRW000566,Flight Attendant,1,Crew Member 566,JFK,Leave
+CRW000622,First Officer,1,Crew Member 622,DEN,Active
+CRW000334,Flight Attendant,1,Crew Member 334,DEN,Leave
