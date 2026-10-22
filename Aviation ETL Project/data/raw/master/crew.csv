@@ -1,0 +1,701 @@
+crew_id,crew_name,role,base_airport,hire_date,employment_status
+CRW000001,Crew Member 1,Purser,SEA,2014-09-14,Active
+CRW000002,Crew Member 2,Flight Attendant,ORD,2024-11-10,Active
+CRW000003,Crew Member 3,Flight Attendant,ATL,2014-06-22,Active
+CRW000004,Crew Member 4,First Officer,PHX,2016-08-23,Active
+CRW000005,Crew Member 5,First Officer,PHX,2022-06-15,Active
+CRW000006,Crew Member 6,Purser,DFW,2024-11-03,Leave
+CRW000007,Crew Member 7,Captain,ATL,2013-01-01,Leave
+CRW000008,Crew Member 8,Captain,JFK,2023-05-31,Leave
+CRW000009,Crew Member 9,First Officer,PHX,2013-10-12,Active
+CRW000010,Crew Member 10,Purser,PHX,2017-12-31,Leave
+CRW000011,Crew Member 11,First Officer,DFW,2014-02-14,Active
+CRW000012,Crew Member 12,Flight Attendant,ORD,2025-09-09,Leave
+CRW000013,Crew Member 13,Flight Attendant,MIA,2011-05-24,Active
+CRW000014,Crew Member 14,Captain,JFK,2012-02-01,active 
+CRW000015,Crew Member 15,Purser,LAX,2023-08-10,Active
+CRW000016,Crew Member 16,Flight Attendant,PHX,2023-10-29,active 
+CRW000017,Crew Member 17,Captain,LAX,2020-08-02,Leave
+CRW000018,Crew Member 18,Flight Attendant,ORD,2023-01-07,Active
+CRW000019,Crew Member 19,Flight Attendant,ORD,2017-03-20,Leave
+CRW000020,Crew Member 20,Purser,ORD,2022-11-26,Active
+CRW000021,Crew Member 21,First Officer,BOS,2018-07-23,Active
+CRW000022,Crew Member 22,Captain,ORD,2022-05-08,Leave
+CRW000023,Crew Member 23,First Officer,SEA,2014-12-25,active 
+CRW000024,Crew Member 24,Captain,BOS,2024-12-23,Active
+CRW000025,Crew Member 25,Captain,BOS,2011-08-05,Leave
+CRW000026,Crew Member 26,Flight Attendant,PHX,2020-06-28,active 
+CRW000027,Crew Member 27,First Officer,LAX,2016-05-26,active 
+CRW000028,Crew Member 28,Captain,ATL,2017-04-12,Leave
+CRW000029,Crew Member 29,Flight Attendant,DEN,2022-01-23,active 
+CRW000030,Crew Member 30,First Officer,DEN,2013-04-23,Leave
+CRW000031,Crew Member 31,Flight Attendant,SEA,2016-07-26,Active
+CRW000032,Crew Member 32,Flight Attendant,DFW,2011-06-26,Leave
+CRW000033,Crew Member 33,Purser,MIA,2012-08-10,Active
+CRW000034,Crew Member 34,Flight Attendant,ORD,2011-01-20,Active
+CRW000035,Crew Member 35,Captain,LAX,2021-02-19,Leave
+CRW000036,Crew Member 36,First Officer,MIA,2025-07-26,Leave
+CRW000037,Crew Member 37,First Officer,PHX,2012-03-11,Active
+CRW000038,Crew Member 38,First Officer,DEN,2019-05-06,Active
+CRW000039,Crew Member 39,Flight Attendant,BOS,2011-11-24,Active
+CRW000040,Crew Member 40,Purser,PHX,2022-10-29,Leave
+CRW000041,Crew Member 41,Flight Attendant,BOS,2014-09-19,Active
+CRW000042,Crew Member 42,First Officer,PHX,2022-06-10,Leave
+CRW000043,Crew Member 43,Purser,JFK,2017-03-28,Leave
+CRW000044,Crew Member 44,Captain,DFW,2019-12-10,Active
+CRW000045,Crew Member 45,Purser,ORD,2017-11-09,Active
+CRW000046,Crew Member 46,First Officer,BOS,2025-04-16,active 
+CRW000047,Crew Member 47,Purser,JFK,2018-03-31,Leave
+CRW000048,Crew Member 48,First Officer,PHX,2019-12-06,Leave
+CRW000049,Crew Member 49,Captain,ATL,2010-07-11,active 
+CRW000050,Crew Member 50,Flight Attendant,BOS,2022-03-03,Leave
+CRW000051,Crew Member 51,Flight Attendant,PHX,2020-02-13,Leave
+CRW000052,Crew Member 52,First Officer,JFK,2012-07-10,active 
+CRW000053,Crew Member 53,First Officer,ORD,2010-09-29,Active
+CRW000054,Crew Member 54,First Officer,SEA,2017-11-28,Leave
+CRW000055,Crew Member 55,Flight Attendant,DEN,2010-07-07,Leave
+CRW000056,Crew Member 56,First Officer,MIA,2023-04-02,Active
+CRW000057,Crew Member 57,First Officer,DFW,2014-01-02,Leave
+CRW000058,Crew Member 58,First Officer,JFK,2024-08-02,Active
+CRW000059,Crew Member 59,First Officer,LAX,2017-07-28,active 
+CRW000060,Crew Member 60,Purser,LAX,2020-10-06,Active
+CRW000061,Crew Member 61,Purser,LAX,2014-04-12,Active
+CRW000062,Crew Member 62,Captain,DEN,2020-12-14,Active
+CRW000063,Crew Member 63,Purser,MIA,2010-12-04,Active
+CRW000064,Crew Member 64,First Officer,ORD,2010-05-12,Active
+CRW000065,Crew Member 65,Captain,MIA,2019-06-11,Active
+CRW000066,Crew Member 66,Purser,DFW,2016-05-28,active 
+CRW000067,Crew Member 67,Captain,SEA,2018-04-18,Active
+CRW000068,Crew Member 68,Purser,PHX,2018-02-16,Active
+CRW000069,Crew Member 69,Flight Attendant,JFK,2012-04-14,Active
+CRW000070,Crew Member 70,Flight Attendant,DEN,2021-11-13,Leave
+CRW000071,Crew Member 71,Captain,ORD,2010-01-26,Leave
+CRW000072,Crew Member 72,First Officer,PHX,2020-03-18,Leave
+CRW000073,Crew Member 73,Flight Attendant,DFW,2016-06-28,active 
+CRW000074,Crew Member 74,Captain,LAX,2018-04-07,Active
+CRW000075,Crew Member 75,First Officer,MIA,2017-07-02,Leave
+CRW000076,Crew Member 76,First Officer,JFK,2010-10-24,Leave
+CRW000077,Crew Member 77,Purser,DEN,2021-08-07,Active
+CRW000078,Crew Member 78,Purser,JFK,2012-03-08,Leave
+CRW000079,Crew Member 79,First Officer,DEN,2024-07-13,Active
+CRW000080,Crew Member 80,First Officer,ATL,2023-11-15,Leave
+CRW000081,Crew Member 81,Flight Attendant,LAX,2013-08-28,Leave
+CRW000082,Crew Member 82,Flight Attendant,DEN,2016-05-18,active 
+CRW000083,Crew Member 83,Captain,DFW,2024-10-01,active 
+CRW000084,Crew Member 84,First Officer,PHX,2012-07-08,Active
+CRW000085,Crew Member 85,Captain,MIA,2020-06-07,Leave
+CRW000086,Crew Member 86,Flight Attendant,DEN,2021-09-01,Active
+CRW000087,Crew Member 87,First Officer,BOS,2011-10-24,active 
+CRW000088,Crew Member 88,Purser,MIA,2023-09-28,active 
+CRW000089,Crew Member 89,Flight Attendant,BOS,2019-06-29,active 
+CRW000090,Crew Member 90,First Officer,LAX,2016-11-09,Leave
+CRW000091,Crew Member 91,Captain,LAX,2015-05-29,active 
+CRW000092,Crew Member 92,Purser,LAX,2016-03-12,Leave
+CRW000093,Crew Member 93,Purser,LAX,2011-08-08,active 
+CRW000094,Crew Member 94,Flight Attendant,PHX,2018-10-23,active 
+CRW000095,Crew Member 95,Flight Attendant,JFK,2011-07-01,Active
+CRW000096,Crew Member 96,First Officer,BOS,2016-05-24,Leave
+CRW000097,Crew Member 97,Captain,JFK,2023-05-12,active 
+CRW000098,Crew Member 98,Flight Attendant,BOS,2013-11-23,Leave
+CRW000099,Crew Member 99,Captain,SEA,2011-09-15,active 
+CRW000100,Crew Member 100,Captain,JFK,2017-12-04,active 
+CRW000101,Crew Member 101,Purser,ATL,2019-02-20,active 
+CRW000102,Crew Member 102,Captain,MIA,2021-02-22,Leave
+CRW000103,Crew Member 103,Flight Attendant,MIA,2012-10-24,Active
+CRW000104,Crew Member 104,First Officer,PHX,2019-11-04,Leave
+CRW000105,Crew Member 105,Captain,PHX,2020-05-23,Leave
+CRW000106,Crew Member 106,First Officer,DFW,2022-07-28,Leave
+CRW000107,Crew Member 107,Purser,DEN,2018-01-24,Active
+CRW000108,Crew Member 108,Purser,BOS,2015-04-12,active 
+CRW000109,Crew Member 109,First Officer,ATL,2016-07-03,Leave
+CRW000110,Crew Member 110,Captain,BOS,2013-06-24,Leave
+CRW000111,Crew Member 111,Captain,ORD,2016-09-08,Leave
+CRW000112,Crew Member 112,Flight Attendant,LAX,2016-11-01,active 
+CRW000113,Crew Member 113,Purser,SEA,2014-09-19,active 
+CRW000114,Crew Member 114,First Officer,DFW,2018-07-25,active 
+CRW000115,Crew Member 115,Flight Attendant,DEN,2024-07-11,Active
+CRW000116,Crew Member 116,Captain,ORD,2025-05-20,Active
+CRW000117,Crew Member 117,Purser,DEN,2014-03-14,Leave
+CRW000118,Crew Member 118,Flight Attendant,ATL,2014-03-04,active 
+CRW000119,Crew Member 119,First Officer,ATL,2012-05-15,Active
+CRW000120,Crew Member 120,Captain,DFW,2016-06-02,Leave
+CRW000121,Crew Member 121,Captain,DEN,2025-07-01,Active
+CRW000122,Crew Member 122,First Officer,DFW,2020-08-16,Active
+CRW000123,Crew Member 123,Flight Attendant,ATL,2023-10-19,Leave
+CRW000124,Crew Member 124,Flight Attendant,JFK,2025-10-11,Active
+CRW000125,Crew Member 125,First Officer,MIA,2019-12-06,Active
+CRW000126,Crew Member 126,Purser,ATL,2020-10-05,Active
+CRW000127,Crew Member 127,Flight Attendant,DEN,2016-10-23,Active
+CRW000128,Crew Member 128,Captain,MIA,2020-01-14,active 
+CRW000129,Crew Member 129,Captain,PHX,2015-12-04,active 
+CRW000130,Crew Member 130,Flight Attendant,ORD,2023-08-10,active 
+CRW000131,Crew Member 131,Captain,DEN,2019-08-14,Active
+CRW000132,Crew Member 132,Flight Attendant,ORD,2018-10-22,Active
+CRW000133,Crew Member 133,Flight Attendant,ATL,2012-06-14,Leave
+CRW000134,Crew Member 134,First Officer,DFW,2019-07-01,Active
+CRW000135,Crew Member 135,First Officer,ATL,2024-09-19,active 
+CRW000136,Crew Member 136,Captain,PHX,2010-01-21,Leave
+CRW000137,Crew Member 137,Captain,MIA,2016-01-22,active 
+CRW000138,Crew Member 138,First Officer,BOS,2014-12-29,Active
+CRW000139,Crew Member 139,Flight Attendant,LAX,2025-04-25,Leave
+CRW000140,Crew Member 140,Flight Attendant,ORD,2016-01-19,Active
+CRW000141,Crew Member 141,First Officer,MIA,2023-03-29,Active
+CRW000142,Crew Member 142,Flight Attendant,PHX,2014-11-28,Leave
+CRW000143,Crew Member 143,First Officer,SEA,2012-10-23,Leave
+CRW000144,Crew Member 144,Flight Attendant,DFW,2022-01-28,Leave
+CRW000145,Crew Member 145,First Officer,SEA,2017-06-16,Active
+CRW000146,Crew Member 146,Purser,SEA,2016-11-01,active 
+CRW000147,Crew Member 147,Purser,ORD,2010-02-16,Leave
+CRW000148,Crew Member 148,Captain,MIA,2015-09-14,Active
+CRW000149,Crew Member 149,Flight Attendant,JFK,2023-05-11,Leave
+CRW000150,Crew Member 150,Captain,ORD,2015-04-04,Active
+CRW000151,Crew Member 151,Flight Attendant,ORD,2014-05-01,Active
+CRW000152,Crew Member 152,Flight Attendant,DFW,2010-08-26,active 
+CRW000153,Crew Member 153,Captain,LAX,2024-05-10,active 
+CRW000154,Crew Member 154,First Officer,BOS,2021-11-23,Active
+CRW000155,Crew Member 155,Flight Attendant,SEA,2020-01-28,Leave
+CRW000156,Crew Member 156,Purser,SEA,2023-01-10,Active
+CRW000157,Crew Member 157,Flight Attendant,ORD,2024-11-12,Active
+CRW000158,Crew Member 158,Purser,LAX,2024-02-05,Active
+CRW000159,Crew Member 159,Captain,DEN,2015-03-06,Active
+CRW000160,Crew Member 160,Captain,PHX,2010-03-25,Leave
+CRW000161,Crew Member 161,Captain,JFK,2024-01-29,active 
+CRW000162,Crew Member 162,Purser,JFK,2017-07-07,active 
+CRW000163,Crew Member 163,Captain,ORD,2013-01-21,Active
+CRW000164,Crew Member 164,First Officer,BOS,2023-09-16,Leave
+CRW000165,Crew Member 165,Captain,JFK,2021-05-29,Leave
+CRW000166,Crew Member 166,Purser,JFK,2010-07-04,Active
+CRW000167,Crew Member 167,First Officer,MIA,2020-11-19,active 
+CRW000168,Crew Member 168,Purser,ATL,2012-06-30,Leave
+CRW000169,Crew Member 169,Captain,DEN,2018-10-09,Active
+CRW000170,Crew Member 170,Captain,DFW,2024-06-21,active 
+CRW000171,Crew Member 171,Captain,BOS,2020-12-03,Leave
+CRW000172,Crew Member 172,Purser,SEA,2021-12-26,active 
+CRW000173,Crew Member 173,First Officer,JFK,2016-10-08,active 
+CRW000174,Crew Member 174,Flight Attendant,MIA,2015-03-01,Leave
+CRW000175,Crew Member 175,Purser,PHX,2024-10-10,Leave
+CRW000176,Crew Member 176,Purser,ORD,2015-02-11,active 
+CRW000177,Crew Member 177,First Officer,JFK,2022-12-29,Active
+CRW000178,Crew Member 178,Flight Attendant,ORD,2014-04-15,Leave
+CRW000179,Crew Member 179,First Officer,DFW,2016-04-18,Active
+CRW000180,Crew Member 180,First Officer,DFW,2025-06-01,active 
+CRW000181,Crew Member 181,Flight Attendant,ATL,2021-05-22,Active
+CRW000182,Crew Member 182,Captain,ORD,2013-02-13,Active
+CRW000183,Crew Member 183,Purser,JFK,2014-08-07,Active
+CRW000184,Crew Member 184,Flight Attendant,SEA,2021-03-01,Leave
+CRW000185,Crew Member 185,First Officer,MIA,2017-01-08,Active
+CRW000186,Crew Member 186,First Officer,ATL,2020-02-04,active 
+CRW000187,Crew Member 187,Captain,BOS,2014-05-12,Active
+CRW000188,Crew Member 188,First Officer,MIA,2020-12-13,Active
+CRW000189,Crew Member 189,Purser,PHX,2020-10-16,Leave
+CRW000190,Crew Member 190,Flight Attendant,ORD,2023-09-21,Active
+CRW000191,Crew Member 191,Captain,ATL,2021-06-06,active 
+CRW000192,Crew Member 192,Captain,PHX,2023-12-13,Active
+CRW000193,Crew Member 193,Flight Attendant,LAX,2017-04-13,Leave
+CRW000194,Crew Member 194,First Officer,JFK,2015-08-21,Active
+CRW000195,Crew Member 195,Flight Attendant,BOS,2010-11-27,Active
+CRW000196,Crew Member 196,Purser,SEA,2020-04-16,Leave
+CRW000197,Crew Member 197,Captain,DFW,2012-06-21,Active
+CRW000198,Crew Member 198,First Officer,PHX,2016-03-22,Leave
+CRW000199,Crew Member 199,Purser,BOS,2015-01-30,Active
+CRW000200,Crew Member 200,First Officer,DFW,2012-10-17,Leave
+CRW000201,Crew Member 201,Captain,DFW,2016-10-17,Leave
+CRW000202,Crew Member 202,Purser,SEA,2017-07-06,Leave
+CRW000203,Crew Member 203,Flight Attendant,LAX,2013-06-12,Active
+CRW000204,Crew Member 204,Captain,DFW,2023-08-21,Leave
+CRW000205,Crew Member 205,First Officer,DEN,2018-11-11,Active
+CRW000206,Crew Member 206,Captain,MIA,2014-05-08,active 
+CRW000207,Crew Member 207,Captain,ORD,2011-04-24,Active
+CRW000208,Crew Member 208,Purser,DFW,2011-10-19,Active
+CRW000209,Crew Member 209,Flight Attendant,PHX,2017-10-06,Leave
+CRW000210,Crew Member 210,First Officer,PHX,2018-07-27,Active
+CRW000211,Crew Member 211,Captain,MIA,2015-06-10,Active
+CRW000212,Crew Member 212,Purser,ORD,2011-09-10,active 
+CRW000213,Crew Member 213,Captain,SEA,2016-10-17,active 
+CRW000214,Crew Member 214,Captain,BOS,2019-09-22,Leave
+CRW000215,Crew Member 215,Flight Attendant,SEA,2022-07-19,Leave
+CRW000216,Crew Member 216,Flight Attendant,DFW,2018-03-07,Active
+CRW000217,Crew Member 217,Captain,BOS,2011-11-28,Active
+CRW000218,Crew Member 218,Purser,DFW,2023-02-01,active 
+CRW000219,Crew Member 219,Purser,PHX,2017-08-14,Leave
+CRW000220,Crew Member 220,First Officer,ORD,2022-04-05,Active
+CRW000221,Crew Member 221,Purser,ATL,2021-03-12,Active
+CRW000222,Crew Member 222,Flight Attendant,SEA,2025-11-05,Leave
+CRW000223,Crew Member 223,Flight Attendant,LAX,2016-07-12,active 
+CRW000224,Crew Member 224,Purser,BOS,2011-04-07,Leave
+CRW000225,Crew Member 225,Flight Attendant,DEN,2015-03-02,Leave
+CRW000226,Crew Member 226,Captain,PHX,2023-03-30,Active
+CRW000227,Crew Member 227,Captain,BOS,2024-12-06,Leave
+CRW000228,Crew Member 228,First Officer,MIA,2014-07-08,active 
+CRW000229,Crew Member 229,First Officer,ATL,2018-05-25,active 
+CRW000230,Crew Member 230,Purser,LAX,2011-01-12,active 
+CRW000231,Crew Member 231,First Officer,LAX,2021-07-12,Leave
+CRW000232,Crew Member 232,Purser,ATL,2013-10-26,Active
+CRW000233,Crew Member 233,Captain,MIA,2023-02-18,active 
+CRW000234,Crew Member 234,Purser,SEA,2014-12-12,active 
+CRW000235,Crew Member 235,Captain,BOS,2016-10-15,Active
+CRW000236,Crew Member 236,Flight Attendant,DFW,2010-04-02,Active
+CRW000237,Crew Member 237,Purser,SEA,2016-05-04,Leave
+CRW000238,Crew Member 238,First Officer,DFW,2013-02-23,active 
+CRW000239,Crew Member 239,First Officer,LAX,2013-07-23,active 
+CRW000240,Crew Member 240,Purser,DFW,2025-05-02,Leave
+CRW000241,Crew Member 241,Purser,LAX,2021-04-02,Leave
+CRW000242,Crew Member 242,Flight Attendant,ORD,2016-11-24,Active
+CRW000243,Crew Member 243,Captain,PHX,2025-02-25,Active
+CRW000244,Crew Member 244,Purser,PHX,2024-05-28,Active
+CRW000245,Crew Member 245,Captain,BOS,2017-09-15,Active
+CRW000246,Crew Member 246,Captain,ORD,2010-11-29,Active
+CRW000247,Crew Member 247,Purser,DEN,2014-09-12,Leave
+CRW000248,Crew Member 248,First Officer,PHX,2013-12-05,Active
+CRW000249,Crew Member 249,Captain,MIA,2010-09-03,Active
+CRW000250,Crew Member 250,First Officer,ORD,2018-07-27,Leave
+CRW000251,Crew Member 251,Flight Attendant,ORD,2018-12-04,Active
+CRW000252,Crew Member 252,Captain,ATL,2015-06-20,Leave
+CRW000253,Crew Member 253,Flight Attendant,JFK,2017-12-14,Active
+CRW000254,Crew Member 254,Captain,SEA,2020-08-18,Active
+CRW000255,Crew Member 255,Flight Attendant,PHX,2015-08-10,Active
+CRW000256,Crew Member 256,Purser,MIA,2010-09-28,Active
+CRW000257,Crew Member 257,Purser,DFW,2019-02-27,Active
+CRW000258,Crew Member 258,Flight Attendant,JFK,2022-05-12,Leave
+CRW000259,Crew Member 259,First Officer,MIA,2011-07-16,Leave
+CRW000260,Crew Member 260,Captain,MIA,2013-06-22,Active
+CRW000261,Crew Member 261,First Officer,ATL,2021-11-21,Leave
+CRW000262,Crew Member 262,Purser,SEA,2013-08-17,active 
+CRW000263,Crew Member 263,Captain,SEA,2013-02-04,active 
+CRW000264,Crew Member 264,Purser,MIA,2017-03-15,active 
+CRW000265,Crew Member 265,Captain,LAX,2015-04-16,Leave
+CRW000266,Crew Member 266,First Officer,MIA,2013-10-04,Leave
+CRW000267,Crew Member 267,First Officer,JFK,2014-09-16,Active
+CRW000268,Crew Member 268,Purser,BOS,2020-04-30,Active
+CRW000269,Crew Member 269,Captain,MIA,2012-03-26,active 
+CRW000270,Crew Member 270,Flight Attendant,BOS,2017-09-27,Active
+CRW000271,Crew Member 271,First Officer,DFW,2018-12-17,Active
+CRW000272,Crew Member 272,First Officer,DFW,2020-08-03,Leave
+CRW000273,Crew Member 273,Captain,DEN,2021-03-16,Active
+CRW000274,Crew Member 274,Purser,DFW,2022-09-01,Active
+CRW000275,Crew Member 275,Flight Attendant,PHX,2018-10-26,active 
+CRW000276,Crew Member 276,Flight Attendant,DEN,2021-07-07,Leave
+CRW000277,Crew Member 277,First Officer,DEN,2015-11-03,Active
+CRW000278,Crew Member 278,Purser,BOS,2010-01-16,Active
+CRW000279,Crew Member 279,Purser,ATL,2012-11-02,Active
+CRW000280,Crew Member 280,First Officer,ORD,2019-05-04,Active
+CRW000281,Crew Member 281,First Officer,PHX,2024-09-27,Leave
+CRW000282,Crew Member 282,Captain,ATL,2024-04-05,Active
+CRW000283,Crew Member 283,Captain,BOS,2015-12-05,Active
+CRW000284,Crew Member 284,Captain,ORD,2015-01-17,active 
+CRW000285,Crew Member 285,First Officer,DEN,2020-01-03,active 
+CRW000286,Crew Member 286,Flight Attendant,PHX,2014-07-13,Active
+CRW000287,Crew Member 287,First Officer,MIA,2021-02-08,active 
+CRW000288,Crew Member 288,Purser,ATL,2018-04-03,Active
+CRW000289,Crew Member 289,Purser,DFW,2019-02-21,Active
+CRW000290,Crew Member 290,Flight Attendant,MIA,2020-02-20,Active
+CRW000291,Crew Member 291,Purser,JFK,2012-12-26,Active
+CRW000292,Crew Member 292,Captain,SEA,2018-08-24,Leave
+CRW000293,Crew Member 293,Captain,DFW,2024-11-15,Leave
+CRW000294,Crew Member 294,Flight Attendant,MIA,2016-02-14,Active
+CRW000295,Crew Member 295,First Officer,LAX,2020-08-05,Leave
+CRW000296,Crew Member 296,Captain,DEN,2010-05-21,Active
+CRW000297,Crew Member 297,Captain,ATL,2023-01-05,Active
+CRW000298,Crew Member 298,Flight Attendant,SEA,2019-11-05,Active
+CRW000299,Crew Member 299,Captain,MIA,2013-08-02,active 
+CRW000300,Crew Member 300,Purser,ORD,2022-09-26,active 
+CRW000301,Crew Member 301,First Officer,SEA,2013-04-21,Active
+CRW000302,Crew Member 302,Captain,DFW,2010-10-23,active 
+CRW000303,Crew Member 303,Flight Attendant,DFW,2010-06-08,Leave
+CRW000304,Crew Member 304,Flight Attendant,ATL,2019-01-10,Active
+CRW000305,Crew Member 305,Flight Attendant,MIA,2016-03-21,Active
+CRW000306,Crew Member 306,Flight Attendant,DFW,2023-05-12,Active
+CRW000307,Crew Member 307,First Officer,LAX,2012-04-07,Active
+CRW000308,Crew Member 308,Purser,DEN,2014-05-26,Active
+CRW000309,Crew Member 309,Captain,ORD,2023-10-05,active 
+CRW000310,Crew Member 310,Flight Attendant,ATL,2015-06-06,Active
+CRW000311,Crew Member 311,Purser,DFW,2024-01-17,Active
+CRW000312,Crew Member 312,Purser,PHX,2012-06-24,Active
+CRW000313,Crew Member 313,First Officer,LAX,2013-08-07,Leave
+CRW000314,Crew Member 314,Captain,JFK,2016-12-04,Active
+CRW000315,Crew Member 315,Flight Attendant,PHX,2015-03-25,Leave
+CRW000316,Crew Member 316,Flight Attendant,DFW,2023-02-17,Active
+CRW000317,Crew Member 317,Captain,LAX,2022-08-18,Leave
+CRW000318,Crew Member 318,Captain,ORD,2014-11-22,Leave
+CRW000319,Crew Member 319,Flight Attendant,ATL,2013-03-13,active 
+CRW000320,Crew Member 320,First Officer,SEA,2023-07-20,active 
+CRW000321,Crew Member 321,Captain,PHX,2013-05-10,Active
+CRW000322,Crew Member 322,Flight Attendant,DEN,2016-07-14,Active
+CRW000323,Crew Member 323,Purser,MIA,2016-01-07,Leave
+CRW000324,Crew Member 324,First Officer,MIA,2012-11-25,Leave
+CRW000325,Crew Member 325,Purser,DEN,2018-05-18,Active
+CRW000326,Crew Member 326,Purser,BOS,2020-12-10,active 
+CRW000327,Crew Member 327,Flight Attendant,PHX,2024-10-29,Leave
+CRW000328,Crew Member 328,Captain,BOS,2013-06-07,Active
+CRW000329,Crew Member 329,Flight Attendant,BOS,2025-05-14,Active
+CRW000330,Crew Member 330,Flight Attendant,ATL,2024-01-02,Leave
+CRW000331,Crew Member 331,Flight Attendant,DEN,2019-05-02,Active
+CRW000332,Crew Member 332,Flight Attendant,MIA,2022-11-22,Active
+CRW000333,Crew Member 333,First Officer,ATL,2011-01-12,active 
+CRW000334,Crew Member 334,Flight Attendant,DEN,2014-06-21,Leave
+CRW000335,Crew Member 335,Flight Attendant,DEN,2023-06-05,Active
+CRW000336,Crew Member 336,Captain,SEA,2010-01-10,Active
+CRW000337,Crew Member 337,Flight Attendant,ATL,2014-08-27,active 
+CRW000338,Crew Member 338,First Officer,ORD,2025-03-07,active 
+CRW000339,Crew Member 339,Purser,PHX,2019-10-12,Active
+CRW000340,Crew Member 340,Flight Attendant,MIA,2022-10-24,active 
+CRW000341,Crew Member 341,Captain,MIA,2016-07-04,Active
+CRW000342,Crew Member 342,Flight Attendant,ORD,2012-02-28,Active
+CRW000343,Crew Member 343,Captain,PHX,2024-09-29,active 
+CRW000344,Crew Member 344,Captain,ATL,2025-12-08,Active
+CRW000345,Crew Member 345,Purser,JFK,2023-01-28,Leave
+CRW000346,Crew Member 346,Purser,PHX,2017-03-19,Active
+CRW000347,Crew Member 347,Purser,LAX,2018-07-20,Leave
+CRW000348,Crew Member 348,First Officer,ATL,2020-07-18,Leave
+CRW000349,Crew Member 349,First Officer,BOS,2018-08-04,Active
+CRW000350,Crew Member 350,Purser,MIA,2016-07-24,active 
+CRW000351,Crew Member 351,Captain,SEA,2010-02-14,active 
+CRW000352,Crew Member 352,Captain,BOS,2017-03-02,Active
+CRW000353,Crew Member 353,Flight Attendant,JFK,2015-01-24,Leave
+CRW000354,Crew Member 354,Purser,MIA,2023-01-21,Active
+CRW000355,Crew Member 355,First Officer,DEN,2024-01-23,active 
+CRW000356,Crew Member 356,Flight Attendant,DFW,2011-06-12,active 
+CRW000357,Crew Member 357,Purser,DEN,2020-04-08,Active
+CRW000358,Crew Member 358,First Officer,MIA,2017-09-17,Leave
+CRW000359,Crew Member 359,Purser,MIA,2017-07-11,Active
+CRW000360,Crew Member 360,Flight Attendant,PHX,2017-01-27,Active
+CRW000361,Crew Member 361,Captain,DFW,2013-09-29,active 
+CRW000362,Crew Member 362,Captain,SEA,2014-12-29,Active
+CRW000363,Crew Member 363,Captain,ATL,2025-03-12,Active
+CRW000364,Crew Member 364,Captain,SEA,2017-08-18,Active
+CRW000365,Crew Member 365,Captain,ORD,2012-05-18,Active
+CRW000366,Crew Member 366,Captain,DFW,2020-09-15,Leave
+CRW000367,Crew Member 367,Purser,ATL,2013-11-02,Active
+CRW000368,Crew Member 368,First Officer,DFW,2019-02-17,Leave
+CRW000369,Crew Member 369,Purser,LAX,2011-05-17,Leave
+CRW000370,Crew Member 370,Captain,PHX,2025-06-14,Active
+CRW000371,Crew Member 371,Captain,BOS,2013-05-19,Leave
+CRW000372,Crew Member 372,Captain,DEN,2024-05-20,Leave
+CRW000373,Crew Member 373,First Officer,SEA,2016-02-17,Active
+CRW000374,Crew Member 374,Captain,ATL,2010-04-01,Leave
+CRW000375,Crew Member 375,Purser,ATL,2012-02-10,Leave
+CRW000376,Crew Member 376,Purser,SEA,2015-03-21,Active
+CRW000377,Crew Member 377,Purser,ATL,2025-02-19,Leave
+CRW000378,Crew Member 378,Flight Attendant,SEA,2013-07-22,Active
+CRW000379,Crew Member 379,Captain,ORD,2022-11-22,active 
+CRW000380,Crew Member 380,First Officer,DFW,2025-12-29,Active
+CRW000381,Crew Member 381,Captain,JFK,2024-09-19,active 
+CRW000382,Crew Member 382,Captain,DFW,2011-05-06,Leave
+CRW000383,Crew Member 383,Flight Attendant,MIA,2016-07-17,Active
+CRW000384,Crew Member 384,First Officer,SEA,2021-11-15,Active
+CRW000385,Crew Member 385,Purser,PHX,2022-11-21,Leave
+CRW000386,Crew Member 386,Captain,BOS,2018-03-23,Active
+CRW000387,Crew Member 387,Purser,JFK,2018-01-11,active 
+CRW000388,Crew Member 388,Captain,LAX,2010-12-13,active 
+CRW000389,Crew Member 389,Captain,LAX,2021-05-31,Active
+CRW000390,Crew Member 390,Flight Attendant,ORD,2022-02-25,Leave
+CRW000391,Crew Member 391,Purser,BOS,2025-11-27,Active
+CRW000392,Crew Member 392,Flight Attendant,PHX,2014-10-21,Active
+CRW000393,Crew Member 393,Captain,ATL,2019-11-27,Leave
+CRW000394,Crew Member 394,Purser,BOS,2013-02-23,Active
+CRW000395,Crew Member 395,Purser,PHX,2024-06-22,Leave
+CRW000396,Crew Member 396,First Officer,DEN,2021-05-06,Active
+CRW000397,Crew Member 397,Purser,DEN,2016-12-09,Active
+CRW000398,Crew Member 398,First Officer,ATL,2016-01-18,Active
+CRW000399,Crew Member 399,Purser,PHX,2020-10-10,active 
+CRW000400,Crew Member 400,Purser,JFK,2023-10-23,active 
+CRW000401,Crew Member 401,Flight Attendant,ORD,2015-03-19,Active
+CRW000402,Crew Member 402,First Officer,DEN,2012-03-28,active 
+CRW000403,Crew Member 403,Captain,JFK,2019-01-30,active 
+CRW000404,Crew Member 404,Captain,ORD,2021-07-13,Active
+CRW000405,Crew Member 405,First Officer,ORD,2012-06-15,active 
+CRW000406,Crew Member 406,Purser,MIA,2021-08-06,Active
+CRW000407,Crew Member 407,First Officer,MIA,2010-08-03,Active
+CRW000408,Crew Member 408,Flight Attendant,DEN,2016-08-14,Active
+CRW000409,Crew Member 409,Purser,BOS,2018-03-05,Active
+CRW000410,Crew Member 410,Purser,DFW,2014-02-28,Leave
+CRW000411,Crew Member 411,Captain,SEA,2014-12-17,Active
+CRW000412,Crew Member 412,Flight Attendant,MIA,2025-08-30,Active
+CRW000413,Crew Member 413,Purser,DFW,2020-02-16,Leave
+CRW000414,Crew Member 414,First Officer,ORD,2025-02-22,Active
+CRW000415,Crew Member 415,Flight Attendant,SEA,2019-04-29,Leave
+CRW000416,Crew Member 416,First Officer,DEN,2016-12-06,Active
+CRW000417,Crew Member 417,Captain,BOS,2014-09-28,active 
+CRW000418,Crew Member 418,Purser,ATL,2018-02-23,Active
+CRW000419,Crew Member 419,First Officer,LAX,2023-04-27,Active
+CRW000420,Crew Member 420,First Officer,PHX,2011-06-07,active 
+CRW000421,Crew Member 421,First Officer,LAX,2023-12-25,Leave
+CRW000422,Crew Member 422,Flight Attendant,SEA,2013-01-08,Leave
+CRW000423,Crew Member 423,Purser,ATL,2014-05-31,Active
+CRW000424,Crew Member 424,Flight Attendant,ORD,2025-09-09,active 
+CRW000425,Crew Member 425,Purser,MIA,2021-09-20,Active
+CRW000426,Crew Member 426,First Officer,JFK,2025-12-21,Active
+CRW000427,Crew Member 427,First Officer,BOS,2016-10-15,Leave
+CRW000428,Crew Member 428,Purser,DEN,2022-01-25,Active
+CRW000429,Crew Member 429,Captain,JFK,2017-06-15,Active
+CRW000430,Crew Member 430,Purser,SEA,2012-04-30,active 
+CRW000431,Crew Member 431,First Officer,PHX,2010-07-03,Leave
+CRW000432,Crew Member 432,Flight Attendant,DFW,2011-02-27,active 
+CRW000433,Crew Member 433,Captain,JFK,2012-07-02,Active
+CRW000434,Crew Member 434,Flight Attendant,MIA,2018-12-28,active 
+CRW000435,Crew Member 435,Flight Attendant,ORD,2020-08-26,Active
+CRW000436,Crew Member 436,First Officer,PHX,2015-02-11,active 
+CRW000437,Crew Member 437,Purser,PHX,2016-04-13,Leave
+CRW000438,Crew Member 438,Purser,BOS,2017-09-12,Active
+CRW000439,Crew Member 439,Captain,PHX,2023-09-25,Leave
+CRW000440,Crew Member 440,Captain,PHX,2010-11-05,Active
+CRW000441,Crew Member 441,Flight Attendant,SEA,2016-07-22,active 
+CRW000442,Crew Member 442,Purser,BOS,2012-03-14,active 
+CRW000443,Crew Member 443,Purser,DEN,2016-08-20,active 
+CRW000444,Crew Member 444,Captain,SEA,2023-10-17,Active
+CRW000445,Crew Member 445,Purser,BOS,2013-10-21,Active
+CRW000446,Crew Member 446,Flight Attendant,DEN,2021-03-01,Active
+CRW000447,Crew Member 447,Purser,JFK,2017-12-26,Leave
+CRW000448,Crew Member 448,Flight Attendant,ORD,2022-08-30,active 
+CRW000449,Crew Member 449,First Officer,SEA,2013-11-23,active 
+CRW000450,Crew Member 450,Purser,ATL,2010-05-02,Active
+CRW000451,Crew Member 451,First Officer,JFK,2020-07-17,Active
+CRW000452,Crew Member 452,Purser,BOS,2021-03-07,Active
+CRW000453,Crew Member 453,First Officer,LAX,2022-10-14,Active
+CRW000454,Crew Member 454,Purser,ATL,2021-11-22,Leave
+CRW000455,Crew Member 455,Purser,ATL,2015-01-23,active 
+CRW000456,Crew Member 456,Flight Attendant,BOS,2012-10-08,Active
+CRW000457,Crew Member 457,Purser,LAX,2019-04-04,Active
+CRW000458,Crew Member 458,Purser,LAX,2014-02-07,active 
+CRW000459,Crew Member 459,Flight Attendant,DEN,2019-05-09,active 
+CRW000460,Crew Member 460,Purser,JFK,2019-05-16,Active
+CRW000461,Crew Member 461,Captain,BOS,2025-08-30,Active
+CRW000462,Crew Member 462,Flight Attendant,DEN,2012-08-13,Leave
+CRW000463,Crew Member 463,First Officer,MIA,2017-05-06,active 
+CRW000464,Crew Member 464,First Officer,ORD,2018-10-10,active 
+CRW000465,Crew Member 465,First Officer,PHX,2010-08-07,active 
+CRW000466,Crew Member 466,Captain,DFW,2015-04-12,Active
+CRW000467,Crew Member 467,Flight Attendant,ORD,2022-08-13,Active
+CRW000468,Crew Member 468,Flight Attendant,SEA,2010-02-21,Active
+CRW000469,Crew Member 469,Captain,JFK,2013-12-02,Active
+CRW000470,Crew Member 470,Purser,DEN,2013-12-15,Active
+CRW000471,Crew Member 471,First Officer,ATL,2011-12-07,Active
+CRW000472,Crew Member 472,Purser,ORD,2012-01-23,Leave
+CRW000473,Crew Member 473,Captain,ORD,2018-11-24,Leave
+CRW000474,Crew Member 474,Purser,DFW,2017-11-27,Active
+CRW000475,Crew Member 475,Captain,BOS,2020-11-14,Active
+CRW000476,Crew Member 476,Purser,ORD,2021-10-24,Active
+CRW000477,Crew Member 477,Flight Attendant,MIA,2010-12-29,Active
+CRW000478,Crew Member 478,Captain,SEA,2019-04-19,Active
+CRW000479,Crew Member 479,Captain,MIA,2023-09-14,active 
+CRW000480,Crew Member 480,Purser,DFW,2018-10-19,Active
+CRW000481,Crew Member 481,Purser,ATL,2023-08-23,Active
+CRW000482,Crew Member 482,Captain,DEN,2025-07-04,Leave
+CRW000483,Crew Member 483,First Officer,PHX,2019-03-09,Active
+CRW000484,Crew Member 484,Purser,JFK,2019-10-01,active 
+CRW000485,Crew Member 485,Captain,LAX,2014-10-22,Leave
+CRW000486,Crew Member 486,Flight Attendant,DEN,2019-08-09,Active
+CRW000487,Crew Member 487,Purser,JFK,2020-12-07,Leave
+CRW000488,Crew Member 488,First Officer,JFK,2021-12-04,Active
+CRW000489,Crew Member 489,Flight Attendant,DEN,2022-11-03,active 
+CRW000490,Crew Member 490,Purser,PHX,2013-10-30,Active
+CRW000491,Crew Member 491,Purser,PHX,2018-06-12,Leave
+CRW000492,Crew Member 492,Flight Attendant,BOS,2015-07-20,Active
+CRW000493,Crew Member 493,Flight Attendant,JFK,2010-03-04,Leave
+CRW000494,Crew Member 494,Captain,MIA,2010-06-14,Leave
+CRW000495,Crew Member 495,First Officer,DFW,2011-05-26,Leave
+CRW000496,Crew Member 496,Flight Attendant,SEA,2019-11-12,Active
+CRW000497,Crew Member 497,Flight Attendant,DEN,2023-04-16,Active
+CRW000498,Crew Member 498,Captain,DEN,2025-04-30,Active
+CRW000499,Crew Member 499,Flight Attendant,DEN,2021-05-14,Active
+CRW000500,Crew Member 500,Captain,DFW,2013-10-27,Active
+CRW000501,Crew Member 501,Captain,BOS,2017-03-26,active 
+CRW000502,Crew Member 502,Captain,MIA,2017-09-23,Active
+CRW000503,Crew Member 503,First Officer,DFW,2024-03-19,Active
+CRW000504,Crew Member 504,Flight Attendant,MIA,2020-08-26,Leave
+CRW000505,Crew Member 505,Flight Attendant,LAX,2020-07-05,Leave
+CRW000506,Crew Member 506,Captain,BOS,2013-01-27,Leave
+CRW000507,Crew Member 507,First Officer,BOS,2020-05-03,Active
+CRW000508,Crew Member 508,First Officer,PHX,2021-03-07,Leave
+CRW000509,Crew Member 509,Captain,BOS,2020-06-26,active 
+CRW000510,Crew Member 510,First Officer,DEN,2023-06-02,active 
+CRW000511,Crew Member 511,First Officer,DFW,2016-09-08,Active
+CRW000512,Crew Member 512,Purser,JFK,2021-06-22,active 
+CRW000513,Crew Member 513,First Officer,ATL,2021-06-29,active 
+CRW000514,Crew Member 514,Flight Attendant,LAX,2023-01-18,active 
+CRW000515,Crew Member 515,Captain,ATL,2010-04-06,Active
+CRW000516,Crew Member 516,Captain,DFW,2016-08-31,active 
+CRW000517,Crew Member 517,First Officer,LAX,2023-05-05,active 
+CRW000518,Crew Member 518,Captain,ORD,2011-06-30,Active
+CRW000519,Crew Member 519,Purser,BOS,2018-09-26,Leave
+CRW000520,Crew Member 520,Flight Attendant,DFW,2017-03-03,Active
+CRW000521,Crew Member 521,Captain,JFK,2018-06-03,Active
+CRW000522,Crew Member 522,Purser,ATL,2024-03-17,active 
+CRW000523,Crew Member 523,First Officer,DEN,2013-05-16,Active
+CRW000524,Crew Member 524,First Officer,ORD,2018-01-25,Active
+CRW000525,Crew Member 525,Captain,SEA,2011-03-06,Active
+CRW000526,Crew Member 526,Captain,ATL,2012-08-05,active 
+CRW000527,Crew Member 527,First Officer,DFW,2012-10-27,Active
+CRW000528,Crew Member 528,Captain,DEN,2025-07-16,Active
+CRW000529,Crew Member 529,Flight Attendant,JFK,2025-01-05,Active
+CRW000530,Crew Member 530,First Officer,BOS,2020-11-12,active 
+CRW000531,Crew Member 531,Flight Attendant,MIA,2022-06-01,Active
+CRW000532,Crew Member 532,Purser,SEA,2025-04-17,active 
+CRW000533,Crew Member 533,First Officer,DEN,2018-09-21,active 
+CRW000534,Crew Member 534,Purser,DEN,2016-11-20,active 
+CRW000535,Crew Member 535,Purser,LAX,2023-12-16,active 
+CRW000536,Crew Member 536,Captain,ORD,2022-03-26,Active
+CRW000537,Crew Member 537,First Officer,PHX,2011-06-10,active 
+CRW000538,Crew Member 538,First Officer,BOS,2022-09-23,Active
+CRW000539,Crew Member 539,Captain,MIA,2025-01-25,Active
+CRW000540,Crew Member 540,Captain,PHX,2015-10-08,Active
+CRW000541,Crew Member 541,Flight Attendant,JFK,2010-04-11,Active
+CRW000542,Crew Member 542,Purser,SEA,2020-09-29,Active
+CRW000543,Crew Member 543,First Officer,PHX,2018-10-19,active 
+CRW000544,Crew Member 544,Purser,ATL,2014-06-01,Leave
+CRW000545,Crew Member 545,First Officer,DEN,2011-06-08,active 
+CRW000546,Crew Member 546,Flight Attendant,ORD,2022-03-17,Leave
+CRW000547,Crew Member 547,Flight Attendant,PHX,2013-11-05,Active
+CRW000548,Crew Member 548,Purser,SEA,2013-06-01,Active
+CRW000549,Crew Member 549,First Officer,LAX,2025-09-03,Active
+CRW000550,Crew Member 550,Captain,ATL,2015-01-06,active 
+CRW000551,Crew Member 551,Captain,LAX,2020-07-18,Active
+CRW000552,Crew Member 552,First Officer,DFW,2010-06-27,Leave
+CRW000553,Crew Member 553,Captain,MIA,2025-09-08,Active
+CRW000554,Crew Member 554,Purser,LAX,2021-01-22,Leave
+CRW000555,Crew Member 555,First Officer,PHX,2015-07-19,Leave
+CRW000556,Crew Member 556,Purser,DFW,2019-08-11,Leave
+CRW000557,Crew Member 557,Purser,MIA,2012-11-16,Active
+CRW000558,Crew Member 558,Captain,ATL,2012-01-22,Active
+CRW000559,Crew Member 559,Purser,DEN,2021-11-28,Active
+CRW000560,Crew Member 560,Flight Attendant,LAX,2016-10-13,Active
+CRW000561,Crew Member 561,Flight Attendant,MIA,2013-04-11,Active
+CRW000562,Crew Member 562,Flight Attendant,LAX,2023-07-11,Active
+CRW000563,Crew Member 563,Flight Attendant,JFK,2015-01-13,Leave
+CRW000564,Crew Member 564,Captain,ORD,2020-08-21,Active
+CRW000565,Crew Member 565,Captain,LAX,2013-08-22,active 
+CRW000566,Crew Member 566,Flight Attendant,JFK,2014-07-06,Leave
+CRW000567,Crew Member 567,Purser,BOS,2017-10-19,Active
+CRW000568,Crew Member 568,Captain,PHX,2011-01-24,active 
+CRW000569,Crew Member 569,Captain,DEN,2011-01-26,Leave
+CRW000570,Crew Member 570,Purser,DFW,2013-02-17,Leave
+CRW000571,Crew Member 571,Flight Attendant,PHX,2018-05-14,Active
+CRW000572,Crew Member 572,Captain,JFK,2013-08-12,Active
+CRW000573,Crew Member 573,First Officer,DEN,2013-12-15,Active
+CRW000574,Crew Member 574,Flight Attendant,DEN,2016-11-06,Active
+CRW000575,Crew Member 575,Flight Attendant,BOS,2017-02-27,Leave
+CRW000576,Crew Member 576,Captain,DFW,2013-09-12,Active
+CRW000577,Crew Member 577,Captain,LAX,2025-01-23,Active
+CRW000578,Crew Member 578,Captain,MIA,2023-12-03,Leave
+CRW000579,Crew Member 579,First Officer,DFW,2022-06-29,Active
+CRW000580,Crew Member 580,Flight Attendant,PHX,2024-04-16,Active
+CRW000581,Crew Member 581,Purser,DFW,2022-08-22,Active
+CRW000582,Crew Member 582,Purser,LAX,2016-07-23,active 
+CRW000583,Crew Member 583,First Officer,BOS,2018-01-31,Active
+CRW000584,Crew Member 584,Captain,DFW,2011-12-16,Leave
+CRW000585,Crew Member 585,First Officer,PHX,2019-11-30,Leave
+CRW000586,Crew Member 586,Captain,DFW,2022-09-13,active 
+CRW000587,Crew Member 587,Captain,DEN,2018-10-29,Leave
+CRW000588,Crew Member 588,Flight Attendant,MIA,2020-04-25,Active
+CRW000589,Crew Member 589,Captain,DFW,2015-01-11,Active
+CRW000590,Crew Member 590,Captain,PHX,2020-11-15,active 
+CRW000591,Crew Member 591,Flight Attendant,LAX,2025-08-11,Active
+CRW000592,Crew Member 592,Purser,SEA,2025-01-25,active 
+CRW000593,Crew Member 593,Purser,MIA,2020-07-16,Active
+CRW000594,Crew Member 594,Captain,DEN,2013-09-19,Active
+CRW000595,Crew Member 595,Flight Attendant,ATL,2013-08-04,Active
+CRW000596,Crew Member 596,Captain,DFW,2016-10-24,Active
+CRW000597,Crew Member 597,Purser,BOS,2024-03-24,Active
+CRW000598,Crew Member 598,Captain,SEA,2019-03-19,Active
+CRW000599,Crew Member 599,Captain,DEN,2010-11-03,Active
+CRW000600,Crew Member 600,Flight Attendant,BOS,2013-10-30,Active
+CRW000601,Crew Member 601,First Officer,MIA,2020-02-17,Leave
+CRW000602,Crew Member 602,Captain,DFW,2023-06-30,Leave
+CRW000603,Crew Member 603,Captain,JFK,2015-06-18,Active
+CRW000604,Crew Member 604,Purser,PHX,2017-05-22,active 
+CRW000605,Crew Member 605,First Officer,DEN,2021-06-01,active 
+CRW000606,Crew Member 606,Captain,ORD,2024-06-16,Active
+CRW000607,Crew Member 607,Flight Attendant,DFW,2012-06-18,Active
+CRW000608,Crew Member 608,Flight Attendant,SEA,2019-11-02,Leave
+CRW000609,Crew Member 609,Purser,LAX,2010-11-09,Leave
+CRW000610,Crew Member 610,Purser,MIA,2022-06-17,Active
+CRW000611,Crew Member 611,Purser,PHX,2014-01-03,Active
+CRW000612,Crew Member 612,Captain,SEA,2011-06-16,active 
+CRW000613,Crew Member 613,Purser,JFK,2021-10-28,Active
+CRW000614,Crew Member 614,Captain,DEN,2017-03-31,Active
+CRW000615,Crew Member 615,Purser,MIA,2023-07-15,Leave
+CRW000616,Crew Member 616,Captain,DFW,2019-11-26,Leave
+CRW000617,Crew Member 617,First Officer,JFK,2020-05-13,Active
+CRW000618,Crew Member 618,First Officer,JFK,2025-06-01,Active
+CRW000619,Crew Member 619,Flight Attendant,PHX,2017-12-23,Leave
+CRW000620,Crew Member 620,Captain,BOS,2023-07-23,active 
+CRW000621,Crew Member 621,Captain,SEA,2017-02-03,Active
+CRW000622,Crew Member 622,First Officer,DEN,2021-03-22,Active
+CRW000623,Crew Member 623,Purser,MIA,2021-01-11,Leave
+CRW000624,Crew Member 624,First Officer,MIA,2020-05-22,active 
+CRW000625,Crew Member 625,Captain,SEA,2010-01-31,Active
+CRW000626,Crew Member 626,Purser,BOS,2018-02-20,Leave
+CRW000627,Crew Member 627,Captain,MIA,2014-07-28,active 
+CRW000628,Crew Member 628,First Officer,DEN,2016-09-29,active 
+CRW000629,Crew Member 629,Flight Attendant,ORD,2018-02-28,active 
+CRW000630,Crew Member 630,Captain,DEN,2024-07-24,active 
+CRW000631,Crew Member 631,Purser,DEN,2015-12-30,Active
+CRW000632,Crew Member 632,Purser,SEA,2010-04-14,Active
+CRW000633,Crew Member 633,First Officer,JFK,2020-03-06,active 
+CRW000634,Crew Member 634,Captain,PHX,2022-01-29,Leave
+CRW000635,Crew Member 635,Flight Attendant,SEA,2022-04-05,Leave
+CRW000636,Crew Member 636,Captain,DEN,2020-11-08,active 
+CRW000637,Crew Member 637,Flight Attendant,DFW,2019-07-23,Leave
+CRW000638,Crew Member 638,Captain,MIA,2019-05-13,Active
+CRW000639,Crew Member 639,Flight Attendant,DEN,2015-06-14,Active
+CRW000640,Crew Member 640,First Officer,ORD,2023-01-23,Active
+CRW000641,Crew Member 641,Flight Attendant,LAX,2022-06-14,Active
+CRW000642,Crew Member 642,Flight Attendant,JFK,2024-08-30,active 
+CRW000643,Crew Member 643,Captain,MIA,2022-08-12,Leave
+CRW000644,Crew Member 644,Captain,LAX,2014-02-27,Leave
+CRW000645,Crew Member 645,Flight Attendant,PHX,2017-08-15,Leave
+CRW000646,Crew Member 646,First Officer,SEA,2012-08-31,active 
+CRW000647,Crew Member 647,First Officer,ATL,2021-08-03,Active
+CRW000648,Crew Member 648,First Officer,MIA,2018-09-19,active 
+CRW000649,Crew Member 649,First Officer,ATL,2023-10-08,active 
+CRW000650,Crew Member 650,Captain,DFW,2011-11-18,Active
+CRW000651,Crew Member 651,First Officer,ATL,2022-05-14,Active
+CRW000652,Crew Member 652,First Officer,BOS,2019-02-22,Leave
+CRW000653,Crew Member 653,Purser,SEA,2018-08-30,Leave
+CRW000654,Crew Member 654,First Officer,PHX,2017-05-19,Leave
+CRW000655,Crew Member 655,Captain,ORD,2024-11-05,Active
+CRW000656,Crew Member 656,Purser,JFK,2013-01-04,Leave
+CRW000657,Crew Member 657,Captain,PHX,2019-02-11,Active
+CRW000658,Crew Member 658,First Officer,ORD,2018-03-02,Leave
+CRW000659,Crew Member 659,Captain,DEN,2023-10-18,Active
+CRW000660,Crew Member 660,Captain,PHX,2022-01-11,Active
+CRW000661,Crew Member 661,Flight Attendant,ATL,2014-03-04,Leave
+CRW000662,Crew Member 662,Captain,PHX,2019-01-10,Leave
+CRW000663,Crew Member 663,Flight Attendant,LAX,2021-07-09,active 
+CRW000664,Crew Member 664,Captain,LAX,2017-09-06,active 
+CRW000665,Crew Member 665,First Officer,DFW,2011-07-25,Leave
+CRW000666,Crew Member 666,Flight Attendant,ORD,2018-12-06,Active
+CRW000667,Crew Member 667,Purser,LAX,2018-09-03,active 
+CRW000668,Crew Member 668,Purser,LAX,2023-05-24,Active
+CRW000669,Crew Member 669,First Officer,ATL,2024-12-21,Leave
+CRW000670,Crew Member 670,First Officer,DEN,2025-10-27,active 
+CRW000671,Crew Member 671,Purser,PHX,2016-12-03,Active
+CRW000672,Crew Member 672,First Officer,DFW,2021-06-25,Leave
+CRW000673,Crew Member 673,Purser,LAX,2016-08-26,active 
+CRW000674,Crew Member 674,Captain,SEA,2017-08-24,Active
+CRW000675,Crew Member 675,Flight Attendant,DFW,2018-02-21,Leave
+CRW000676,Crew Member 676,Flight Attendant,DEN,2019-01-14,Active
+CRW000677,Crew Member 677,Captain,ORD,2020-12-20,Active
+CRW000678,Crew Member 678,Flight Attendant,ATL,2021-07-13,Active
+CRW000679,Crew Member 679,Purser,MIA,2024-04-03,active 
+CRW000680,Crew Member 680,Purser,ATL,2021-09-17,Active
+CRW000681,Crew Member 681,Flight Attendant,LAX,2024-07-01,Active
+CRW000682,Crew Member 682,Purser,JFK,2013-04-15,Active
+CRW000683,Crew Member 683,Purser,MIA,2018-06-03,Active
+CRW000684,Crew Member 684,First Officer,ORD,2010-05-04,Leave
+CRW000685,Crew Member 685,Captain,BOS,2017-05-08,Leave
+CRW000686,Crew Member 686,Flight Attendant,DEN,2012-12-17,active 
+CRW000687,Crew Member 687,Captain,SEA,2014-09-19,Active
+CRW000688,Crew Member 688,First Officer,LAX,2016-01-12,active 
+CRW000689,Crew Member 689,Purser,DFW,2011-02-24,Leave
+CRW000690,Crew Member 690,Captain,ORD,2025-06-25,Active
+CRW000691,Crew Member 691,Captain,DFW,2025-07-19,Active
+CRW000692,Crew Member 692,Flight Attendant,DFW,2016-12-07,active 
+CRW000693,Crew Member 693,Captain,DFW,2015-05-15,Leave
+CRW000694,Crew Member 694,Flight Attendant,BOS,2016-12-23,Active
+CRW000695,Crew Member 695,First Officer,JFK,2015-09-07,active 
+CRW000696,Crew Member 696,Flight Attendant,DFW,2013-12-14,Active
+CRW000697,Crew Member 697,First Officer,MIA,2024-12-05,Leave
+CRW000698,Crew Member 698,Flight Attendant,DFW,2016-01-29,Active
+CRW000699,Crew Member 699,First Officer,PHX,2022-02-21,Active
+CRW000700,Crew Member 700,Purser,DEN,2015-05-08,Active

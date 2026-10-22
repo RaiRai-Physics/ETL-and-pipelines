@@ -1,0 +1,11 @@
+airport_code,airport_name,city,state,country,timezone_group,active_flag
+ATL,Atlanta Hartsfield,Atlanta,GA,US,ET,Y
+DFW,Dallas Fort Worth,Dallas,TX,US,CT,Y
+ORD,Chicago O'Hare,Chicago,IL,US,CT,Y
+DEN,Denver International,Denver,CO,US,MT,Yes
+LAX,Los Angeles International,Los Angeles,CA,US,PT,Y
+SEA,Seattle Tacoma,Seattle,WA,US,PT,1
+JFK,John F Kennedy,New York,NY,US,ET,Y
+MIA,Miami International,Miami,FL,US,ET,Y
+BOS,Boston Logan,Boston,MA,US,ET,Yes
+PHX,Phoenix Sky Harbor,Phoenix,AZ,US,MT,Y

@@ -1,0 +1,5 @@
+fare_class,cabin,refundable_flag,changeable_flag
+Y,Economy,N,Y
+W,Premium Economy,Y,Y
+J,Business,Y,Y
+F,First,Y,Y
