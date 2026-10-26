@@ -1,0 +1,2 @@
+maintenance_event_id,aircraft_id,event_start_ts,event_end_ts,maintenance_type,ata_chapter,labor_hours,parts_cost,event_status,duration_hours,quarantine_reason
+MX00000129,AC_BAD,2026-10-13 05:58:12,2026-10-15 05:58:12,Routine,27,61.86,17465.78,Open,48.0,Missing aircraft

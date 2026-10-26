@@ -1,0 +1,5 @@
+flight_id,flight_number,route_id,aircraft_id,scheduled_departure_ts,scheduled_arrival_ts,flight_status,flight_date,quarantine_reason
+FLT0000125,OA8708,RTE0025,AC_BAD,2026-10-28 12:15:00,2026-10-28 17:50:00,Scheduled,2026-10-28,Missing aircraft
+FLT0000959,OA3424,RTE0025,AC_BAD,2026-09-18 17:15:00,2026-09-18 22:50:00,Cancelled,2026-09-18,Missing aircraft
+FLT0001171,OA9166,RTE0008,AC_BAD,2026-09-18 18:00:00,2026-09-18 21:44:00,Scheduled,2026-09-18,Missing aircraft
+FLT0001368,OA2575,RTE0016,AC_BAD,2026-11-08 14:15:00,2026-11-08 15:44:00,Scheduled,2026-11-08,Missing aircraft

@@ -1,0 +1,10 @@
+passenger_id,passenger_name,date_of_birth,gender,email,country,loyalty_id,active_flag,passenger_hash,quarantine_reason
+PAX00000993,Passenger 993,1986-11-29,Male,passenger993@example.com,US,LOY_BAD,True,cca5d04fe0921766e64b,Missing loyalty member
+PAX00001863,Passenger 1863,1956-11-16,Female,passenger1863@example.com,US,LOY_BAD,True,174cb224b71b80443fb5,Missing loyalty member
+PAX00002141,Passenger 2141,,Unknown,passenger2141@example.com,US,LOY_BAD,True,856e146de8f50c575d9e,Missing loyalty member
+PAX00002652,Passenger 2652,1996-01-13,Female,passenger2652@example.com,US,LOY_BAD,True,90f4bee7611c988aee61,Missing loyalty member
+PAX00003839,Passenger 3839,,Male,passenger3839@example.com,US,LOY_BAD,True,dfa286973b2635058a0f,Missing loyalty member
+PAX00004106,Passenger 4106,1979-10-08,Male,passenger4106@example.com,US,LOY_BAD,False,1ef001aaa8d9385f88e5,Missing loyalty member
+PAX00005535,Passenger 5535,2000-06-02,Female,passenger5535@example.com,US,LOY_BAD,True,bed9299c4c923a2a43ae,Missing loyalty member
+PAX00005647,Passenger 5647,,Male,passenger5647@example.com,US,LOY_BAD,True,507d2fbaf9a1072fb06d,Missing loyalty member
+PAX00005725,Passenger 5725,,Male,passenger5725@example.com,US,LOY_BAD,False,6a22a57bc9ac96e223c7,Missing loyalty member

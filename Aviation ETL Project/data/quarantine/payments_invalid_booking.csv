@@ -1,0 +1,27 @@
+payment_id,booking_id,payment_ts,payment_method,payment_status,payment_amount,quarantine_reason
+PAY000000746,BKG_BAD,2026-09-04 10:15:00,Visa,Declined,525.17,Missing booking
+PAY000001704,BKG_BAD,2026-07-29 07:00:00,Amex,Refunded,204.33,Missing booking
+PAY000001799,BKG_BAD,2026-10-20 08:45:00,Corporate Account,Captured,789.75,Missing booking
+PAY000002632,BKG_BAD,2026-09-04 10:30:00,Amex,Captured,713.31,Missing booking
+PAY000003272,BKG_BAD,2026-07-23 07:15:00,Visa,Captured,276.97,Missing booking
+PAY000003306,BKG_BAD,2026-08-31 12:30:00,Amex,Captured,777.3,Missing booking
+PAY000003608,BKG_BAD,2026-09-30 23:00:00,Mastercard,Captured,654.23,Missing booking
+PAY000003846,BKG_BAD,2026-11-02 15:00:00,Amex,Declined,1055.9,Missing booking
+PAY000004117,BKG_BAD,2026-08-20 15:15:00,Amex,Declined,182.62,Missing booking
+PAY000004780,BKG_BAD,2026-06-29 08:00:00,Visa,Captured,201.15,Missing booking
+PAY000004915,BKG_BAD,2026-09-16 13:45:00,Corporate Account,Declined,126.75,Missing booking
+PAY000005029,BKG_BAD,2026-08-08 11:15:00,Amex,Refunded,735.3,Missing booking
+PAY000006512,BKG_BAD,2026-08-20 17:15:00,Mastercard,Captured,859.1,Missing booking
+PAY000006666,BKG_BAD,2026-08-04 13:00:00,Visa,Captured,967.6,Missing booking
+PAY000006929,BKG_BAD,2026-06-30 21:15:00,Visa,Refunded,347.48,Missing booking
+PAY000007512,BKG_BAD,2026-07-30 20:45:00,Mastercard,Declined,115.99,Missing booking
+PAY000007558,BKG_BAD,2026-09-13 00:15:00,Visa,Declined,1050.34,Missing booking
+PAY000008241,BKG_BAD,2026-10-27 17:15:00,Corporate Account,Refunded,679.14,Missing booking
+PAY000008458,BKG_BAD,2026-09-01 00:30:00,Corporate Account,Refunded,215.72,Missing booking
+PAY000008731,BKG_BAD,2026-09-10 20:30:00,Amex,Captured,649.5,Missing booking
+PAY000008777,BKG_BAD,2026-08-22 04:45:00,Amex,Captured,289.53,Missing booking
+PAY000009369,BKG_BAD,2026-08-14 04:00:00,Mastercard,Captured,379.54,Missing booking
+PAY000009649,BKG_BAD,2026-10-01 19:30:00,Amex,Declined,282.66,Missing booking
+PAY000010313,BKG_BAD,2026-07-24 17:45:00,Visa,Captured,1093.23,Missing booking
+PAY000010950,BKG_BAD,2026-09-07 20:45:00,Amex,Declined,1024.23,Missing booking
+PAY000011874,BKG_BAD,2026-07-06 16:00:00,Mastercard,Captured,1070.68,Missing booking

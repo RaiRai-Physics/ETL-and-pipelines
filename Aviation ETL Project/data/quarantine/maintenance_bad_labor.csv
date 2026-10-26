@@ -1,0 +1,5 @@
+maintenance_event_id,aircraft_id,event_start_ts,event_end_ts,maintenance_type,ata_chapter,labor_hours,parts_cost,event_status,duration_hours,quarantine_reason
+MX00000026,AC0029,2026-11-21 14:15:51,2026-11-21 15:15:51,Aog,29,,30401.21,Closed,1.0,Invalid labor hours
+MX00000067,AC0010,2026-11-23 12:34:35,2026-11-23 16:34:35,Inspection,34,,23950.3,Closed,4.0,Invalid labor hours
+MX00000289,AC0017,2026-10-30 08:27:56,2026-10-31 08:27:56,Aog,52,,35945.56,Deferred,24.0,Invalid labor hours
+MX00000506,AC0020,2026-11-29 01:43:15,2026-11-29 05:43:15,Routine,21,,51092.63,Closed,4.0,Invalid labor hours

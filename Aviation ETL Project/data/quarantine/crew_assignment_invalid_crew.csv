@@ -1,0 +1,12 @@
+crew_assignment_id,flight_id,crew_id,role,assignment_status,quarantine_reason
+CA00001186,FLT0000297,CRW_BAD,First Officer,Completed,Missing crew
+CA00001544,FLT0000386,CRW_BAD,Captain,Assigned,Missing crew
+CA00001545,FLT0000387,CRW_BAD,Captain,Assigned,Missing crew
+CA00001829,FLT0000458,CRW_BAD,First Officer,Assigned,Missing crew
+CA00001900,FLT0000475,CRW_BAD,First Officer,Completed,Missing crew
+CA00002630,FLT0000658,CRW_BAD,Purser,Removed,Missing crew
+CA00002713,FLT0000679,CRW_BAD,Purser,Assigned,Missing crew
+CA00003085,FLT0000772,CRW_BAD,Flight Attendant,Completed,Missing crew
+CA00003103,FLT0000776,CRW_BAD,Captain,Assigned,Missing crew
+CA00003253,FLT0000814,CRW_BAD,Captain,Assigned,Missing crew
+CA00004981,FLT0001246,CRW_BAD,Captain,Removed,Missing crew

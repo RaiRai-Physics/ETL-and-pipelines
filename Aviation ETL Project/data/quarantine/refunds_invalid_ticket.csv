@@ -1,0 +1,2 @@
+refund_id,ticket_id,refund_date,refund_amount,refund_reason,refund_status,quarantine_reason
+RF00000351,TKT_BAD,2026-10-15,139.33,Schedule Change,Processed,Missing ticket

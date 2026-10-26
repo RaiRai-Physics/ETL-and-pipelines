@@ -1,0 +1,5 @@
+flight_event_id,flight_id,actual_departure_ts,actual_arrival_ts,departure_delay_minutes,arrival_delay_minutes,delay_code,operational_status,quarantine_reason
+FE0001133,FLT_BAD,2026-09-01 14:45:00,2026-09-01 17:54:00,0.0,0,CREW,Scheduled,Missing flight schedule
+FE0001205,FLT_BAD,,,85.0,105,CREW,Cancelled,Missing flight schedule
+FE0001219,FLT_BAD,2026-10-21 22:02:00,2026-10-22 02:26:00,17.0,22,WX,Scheduled,Missing flight schedule
+FE0001361,FLT_BAD,2026-10-15 11:16:00,2026-10-15 16:48:00,31.0,40,NONE,Scheduled,Missing flight schedule

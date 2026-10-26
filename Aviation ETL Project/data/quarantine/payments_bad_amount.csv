@@ -1,0 +1,20 @@
+payment_id,booking_id,payment_ts,payment_method,payment_status,payment_amount,quarantine_reason
+PAY000000279,BKG000000279,2026-08-10 14:00:00,Corporate Account,Captured,,Invalid payment amount
+PAY000000642,BKG000000642,2026-08-21 05:30:00,Amex,Declined,,Invalid payment amount
+PAY000001019,BKG000001019,2026-07-03 18:30:00,Travel Credit,Captured,,Invalid payment amount
+PAY000001584,BKG000001584,2026-10-02 16:30:00,Corporate Account,Refunded,,Invalid payment amount
+PAY000003209,BKG000003209,2026-09-09 14:45:00,Corporate Account,Refunded,,Invalid payment amount
+PAY000003768,BKG000003768,2026-08-16 18:45:00,Mastercard,Captured,,Invalid payment amount
+PAY000004371,BKG000004371,2026-07-23 19:00:00,Visa,Captured,,Invalid payment amount
+PAY000004390,BKG000004390,2026-10-07 12:45:00,Corporate Account,Declined,,Invalid payment amount
+PAY000005535,BKG000005535,2026-10-10 08:45:00,Corporate Account,Captured,,Invalid payment amount
+PAY000006165,BKG000006165,2026-10-08 06:45:00,Mastercard,Declined,,Invalid payment amount
+PAY000006173,BKG000006173,2026-11-12 23:45:00,Travel Credit,Captured,,Invalid payment amount
+PAY000008013,BKG000008013,2026-10-29 22:00:00,Travel Credit,Captured,,Invalid payment amount
+PAY000008093,BKG000008093,2026-10-05 01:45:00,Corporate Account,Captured,,Invalid payment amount
+PAY000008585,BKG000008585,2026-08-17 01:30:00,Mastercard,Captured,,Invalid payment amount
+PAY000008605,BKG000008605,2026-10-27 01:15:00,Amex,Captured,,Invalid payment amount
+PAY000008642,BKG000008642,2026-07-27 04:00:00,Amex,Captured,,Invalid payment amount
+PAY000008726,BKG000008726,2026-08-22 17:15:00,Travel Credit,Captured,,Invalid payment amount
+PAY000009239,BKG000009239,2026-09-24 15:30:00,Mastercard,Captured,,Invalid payment amount
+PAY000010890,BKG000010890,2026-09-11 13:15:00,Corporate Account,Captured,,Invalid payment amount

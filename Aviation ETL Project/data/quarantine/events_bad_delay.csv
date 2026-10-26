@@ -1,0 +1,3 @@
+flight_event_id,flight_id,actual_departure_ts,actual_arrival_ts,departure_delay_minutes,arrival_delay_minutes,delay_code,operational_status,quarantine_reason
+FE0000125,FLT0000125,2026-10-28 12:21:00,2026-10-28 17:52:00,,23,NONE,Scheduled,Invalid delay minutes
+FE0001076,FLT0001076,2026-09-26 15:15:00,2026-09-26 20:46:00,,17,LATE_INBOUND,Scheduled,Invalid delay minutes
