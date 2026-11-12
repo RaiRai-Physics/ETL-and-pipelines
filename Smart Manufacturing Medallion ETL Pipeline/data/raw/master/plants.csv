@@ -1,0 +1,6 @@
+plant_id,plant_name,state,region,open_date,rated_daily_capacity_units,active_flag
+PLT001,Asheville Assembly,NC,Southeast,2009-09-23,6000,1
+PLT002,Greenville Components,SC,Southeast,2010-08-09,4000,Y
+PLT003,Columbus Manufacturing,OH,Midwest,2014-10-07,8000,Y
+PLT004,Fort Worth Industrial,TX,South,2015-08-22,6000,Y
+PLT005,Phoenix Precision,AZ,West,2016-01-28,10000,1

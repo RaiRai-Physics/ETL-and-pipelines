@@ -1,0 +1,71 @@
+supplier_id,supplier_name,country,supplier_tier,lead_time_days,on_time_rate,quality_ppm,active_flag
+SUP00001,Summit Industrial 1,USA,preferred ,3,0.9110,1956,Y
+SUP00002,Vertex Industrial 2,DEU,Standard,14,0.9039,1196,Yes
+SUP00003,Northstar Industrial 3,IND,Strategic,30,0.8017,773,1
+SUP00004,Atlas Industrial 4,IND,Standard,5,0.7253,2953,Y
+SUP00005,Global Industrial 5,IND,Preferred,14,0.9081,363,Y
+SUP00006,Atlas Industrial 6,DEU,Backup,30,0.9069,2054,Y
+SUP00007,Summit Industrial 7,DEU,Preferred,bad,0.9326,1561,Y
+SUP00008,Summit Industrial 8,MEX,Strategic,30,0.9069,1098,Y
+SUP00009,Pioneer Industrial 9,DEU,Backup,5,0.7745,2529,Y
+SUP00010,Summit Industrial 10,USA,preferred ,10,0.7610,1215,Yes
+SUP00011,Global Industrial 11,USA,Standard,10,0.9832,186,Y
+SUP00012,Pioneer Industrial 12,MEX,Strategic,21,0.8446,2058,Yes
+SUP00013,Pioneer Industrial 13,USA,Backup,5,0.8713,711,Y
+SUP00014,Vertex Industrial 14,USA,Backup,,bad,1220,Y
+SUP00015,Summit Industrial 15,IND,Strategic,14,0.9616,,Y
+SUP00016,Atlas Industrial 16,DEU,preferred ,10,0.9460,1927,N
+SUP00017,Summit Industrial 17,CHN,preferred ,21,0.8663,1334,Y
+SUP00018,Global Industrial 18,USA,Standard,5,0.7602,373,Y
+SUP00019,Global Industrial 19,USA,Strategic,30,0.7298,586,1
+SUP00020,Atlas Industrial 20,MEX,Strategic,30,0.8445,2918,Yes
+SUP00021,Atlas Industrial 21,DEU,preferred ,10,0.8499,1586,Yes
+SUP00022,Vertex Industrial 22,MEX,preferred ,5,0.9084,275,1
+SUP00023,Atlas Industrial 23,CAN,Standard,10,0.7786,636,Yes
+SUP00024,Summit Industrial 24,CHN,preferred ,bad,0.8220,745,N
+SUP00025,Northstar Industrial 25,DEU,Preferred,7,0.7612,2105,1
+SUP00026,Pioneer Industrial 26,IND,Strategic,10,0.7569,710,Y
+SUP00027,Summit Industrial 27,USA,Standard,10,0.7202,1616,N
+SUP00028,Summit Industrial 28,USA,Strategic,3,0.8219,1462,Y
+SUP00029,Northstar Industrial 29,DEU,Standard,21,0.8368,1234,Y
+SUP00030,Vertex Industrial 30,IND,Strategic,10,0.9068,2710,1
+SUP00031,Global Industrial 31,DEU,Preferred,5,0.8353,1469,Yes
+SUP00032,Vertex Industrial 32,DEU,Standard,bad,0.9094,2948,1
+SUP00033,Global Industrial 33,USA,Standard,,0.7271,2657,N
+SUP00034,Atlas Industrial 34,USA,preferred ,3,0.9859,1997,Y
+SUP00035,Atlas Industrial 35,USA,Strategic,7,0.8250,442,Yes
+SUP00036,Atlas Industrial 36,USA,Strategic,21,0.7809,414,N
+SUP00037,Northstar Industrial 37,USA,Standard,3,0.9197,758,Yes
+SUP00038,Vertex Industrial 38,CHN,preferred ,30,0.9806,2547,Y
+SUP00039,Northstar Industrial 39,CAN,Strategic,3,0.7669,381,Y
+SUP00040,Global Industrial 40,CHN,Standard,14,0.7580,1757,1
+SUP00041,Northstar Industrial 41,USA,Preferred,7,0.9305,2312,Y
+SUP00042,Global Industrial 42,MEX,preferred ,,0.9538,2733,Yes
+SUP00043,Pioneer Industrial 43,USA,Backup,30,0.9932,1909,1
+SUP00044,Global Industrial 44,CAN,Backup,7,0.8191,2667,Y
+SUP00045,Pioneer Industrial 45,DEU,preferred ,10,0.8378,2272,Y
+SUP00046,Global Industrial 46,USA,Strategic,5,0.7665,2455,1
+SUP00047,Global Industrial 47,IND,Standard,3,0.9386,1708,N
+SUP00048,Pioneer Industrial 48,DEU,Strategic,bad,0.8174,2451,Y
+SUP00049,Summit Industrial 49,CHN,Preferred,bad,bad,581,1
+SUP00050,Summit Industrial 50,USA,Strategic,14,0.7644,1327,Y
+SUP00051,Northstar Industrial 51,MEX,preferred ,bad,0.7822,934,Yes
+SUP00052,Summit Industrial 52,USA,preferred ,30,0.7619,260,N
+SUP00053,Summit Industrial 53,USA,Standard,3,0.7228,751,1
+SUP00054,Northstar Industrial 54,USA,preferred ,bad,0.8394,2906,Y
+SUP00055,Pioneer Industrial 55,USA,Standard,14,0.9760,1808,Y
+SUP00056,Atlas Industrial 56,USA,Backup,5,0.7672,2810,N
+SUP00057,Summit Industrial 57,USA,preferred ,14,0.9590,,Y
+SUP00058,Northstar Industrial 58,USA,Standard,,0.9050,1736,N
+SUP00059,Vertex Industrial 59,IND,Backup,21,0.8378,2182,N
+SUP00060,Pioneer Industrial 60,USA,Preferred,7,0.7281,2814,Y
+SUP00061,Global Industrial 61,MEX,preferred ,14,0.8156,1722,N
+SUP00062,Global Industrial 62,CAN,Backup,5,0.9882,2356,Y
+SUP00063,Pioneer Industrial 63,MEX,Preferred,5,0.8879,855,Yes
+SUP00064,Northstar Industrial 64,MEX,preferred ,3,0.8461,2483,N
+SUP00065,Vertex Industrial 65,CHN,Strategic,5,0.8925,2114,Y
+SUP00066,Atlas Industrial 66,USA,preferred ,bad,0.7766,1121,N
+SUP00067,Summit Industrial 67,CHN,Backup,14,0.9056,1104,Y
+SUP00068,Atlas Industrial 68,IND,preferred ,bad,0.7381,2165,Y
+SUP00069,Atlas Industrial 69,CAN,Backup,30,0.9121,1840,N
+SUP00070,Northstar Industrial 70,USA,Standard,10,0.7607,1171,Y

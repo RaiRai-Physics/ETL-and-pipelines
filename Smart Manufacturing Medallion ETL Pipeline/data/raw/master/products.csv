@@ -1,0 +1,121 @@
+product_id,product_name,product_family,standard_cycle_time_sec,standard_cost,list_price,active_flag
+PRD00001,Nova Component 1,Drive Train,63.96,337.05,870.80,Y
+PRD00002,Core Component 2,Electronics,50.13,74.00,337.38,Y
+PRD00003,Nova Component 3,Housing,33.50,561.74,684.08,N
+PRD00004,Prime Component 4,Drive Train,99.79,139.69,198.26,Y
+PRD00005,Nova Component 5,Housing,156.47,27.73,922.92,Y
+PRD00006,Nova Component 6,Drive Train,36.99,293.50,656.25,N
+PRD00007,Nova Component 7,Control Module,45.91,492.81,703.34,Y
+PRD00008,Core Component 8,Electronics,30.72,538.57,1168.31,Y
+PRD00009,Prime Component 9,Housing,82.19,bad,165.17,N
+PRD00010,Alpha Component 10,Packaging,48.07,637.67,494.06,Y
+PRD00011,Core Component 11,Housing,31.47,22.98,648.01,Y
+PRD00012,Alpha Component 12,Housing,23.43,599.06,355.01,Y
+PRD00013,Prime Component 13,Drive Train,47.81,357.75,796.38,Y
+PRD00014,Flex Component 14,Drive Train,79.79,377.36,397.85,N
+PRD00015,Core Component 15,Housing,113.79,215.33,513.94,Y
+PRD00016,Prime Component 16,Packaging,104.65,195.49,974.47,Y
+PRD00017,Flex Component 17,Control Module,36.40,55.70,263.92,Y
+PRD00018,Flex Component 18,Packaging,57.15,81.03,907.47,Y
+PRD00019,Core Component 19,Packaging,46.50,201.22,556.83,Y
+PRD00020,Core Component 20,Drive Train,86.91,448.53,511.54,Y
+PRD00021,Core Component 21,Drive Train,59.15,360.08,1170.09,Y
+PRD00022,Alpha Component 22,Drive Train,39.75,555.94,545.72,N
+PRD00023,Prime Component 23,Control Module,142.85,319.67,369.06,Y
+PRD00024,Nova Component 24,Control Module,57.16,378.95,135.89,Y
+PRD00025,Flex Component 25,Control Module,51.26,455.36,405.95,Y
+PRD00026,Flex Component 26,Packaging,110.29,384.15,304.47,Y
+PRD00027,Flex Component 27,Housing,104.81,305.08,486.64,N
+PRD00028,Core Component 28,Housing,62.42,416.13,482.96,Y
+PRD00029,Core Component 29,Packaging,61.25,45.62,950.97,N
+PRD00030,Flex Component 30,Control Module,55.68,231.18,316.71,Y
+PRD00031,Alpha Component 31,Packaging,146.83,112.79,515.17,Y
+PRD00032,Nova Component 32,Electronics,110.30,160.62,1037.52,N
+PRD00033,Alpha Component 33,Packaging,85.68,480.91,1144.78,Y
+PRD00034,Core Component 34,Packaging,39.89,455.89,1140.95,Y
+PRD00035,Alpha Component 35,Drive Train,44.34,29.47,694.06,N
+PRD00036,Alpha Component 36,Electronics,151.06,88.29,567.86,Y
+PRD00037,Flex Component 37,Drive Train,109.84,214.66,224.87,Y
+PRD00038,Prime Component 38,Packaging,138.87,81.97,399.52,N
+PRD00039,Core Component 39,Control Module,155.86,52.49,44.75,Y
+PRD00040,Core Component 40,Packaging,95.72,40.95,709.69,N
+PRD00041,Prime Component 41,Housing,32.64,570.67,891.08,Y
+PRD00042,Core Component 42,Packaging,83.15,256.27,680.53,N
+PRD00043,Core Component 43,Packaging,71.50,590.63,203.98,Y
+PRD00044,Core Component 44,Electronics,107.02,359.38,87.84,N
+PRD00045,Alpha Component 45,Control Module,122.70,31.61,1176.67,N
+PRD00046,Nova Component 46,Drive Train,63.65,62.53,400.64,Y
+PRD00047,Prime Component 47,Electronics,78.40,595.65,1189.81,Y
+PRD00048,Alpha Component 48,Control Module,26.46,230.91,529.39,Y
+PRD00049,Prime Component 49,Drive Train,48.21,385.04,1181.11,Y
+PRD00050,Prime Component 50,Packaging,94.67,181.19,765.82,Y
+PRD00051,Nova Component 51,Housing,25.23,59.64,505.73,Y
+PRD00052,Flex Component 52,Drive Train,135.10,bad,1115.86,N
+PRD00053,Nova Component 53,Electronics,106.46,389.04,438.41,Y
+PRD00054,Prime Component 54,Housing,54.88,190.87,480.81,Y
+PRD00055,Prime Component 55,Control Module,38.17,80.67,469.82,Y
+PRD00056,Nova Component 56,Housing,55.89,256.67,109.58,Y
+PRD00057,Core Component 57,Packaging,65.88,181.31,410.32,Y
+PRD00058,Core Component 58,Housing,133.27,154.20,228.50,N
+PRD00059,Prime Component 59,Housing,29.87,623.23,1156.48,Y
+PRD00060,Nova Component 60,Control Module,158.04,646.71,897.42,Y
+PRD00061,Core Component 61,Drive Train,64.83,606.43,130.51,N
+PRD00062,Core Component 62,Drive Train,49.53,266.39,704.09,N
+PRD00063,Alpha Component 63,Electronics,91.41,636.42,1010.01,Y
+PRD00064,Prime Component 64,Drive Train,62.08,420.30,364.45,Y
+PRD00065,Nova Component 65,Control Module,116.18,236.40,80.98,Y
+PRD00066,Core Component 66,Housing,102.13,645.86,851.05,Y
+PRD00067,Prime Component 67,Housing,42.96,43.33,1103.36,Y
+PRD00068,Prime Component 68,Electronics,123.95,644.38,542.42,Y
+PRD00069,Flex Component 69,Control Module,155.29,499.75,604.15,N
+PRD00070,Alpha Component 70,Drive Train,126.25,349.43,673.26,N
+PRD00071,Core Component 71,Housing,19.54,59.38,1168.02,Y
+PRD00072,Core Component 72,Drive Train,140.10,564.54,219.51,Y
+PRD00073,Nova Component 73,Packaging,104.10,361.50,682.57,N
+PRD00074,Alpha Component 74,Drive Train,136.03,21.43,1124.99,Y
+PRD00075,Alpha Component 75,Drive Train,132.29,288.04,518.33,N
+PRD00076,Alpha Component 76,Packaging,77.30,219.56,208.51,Y
+PRD00077,Flex Component 77,Drive Train,145.30,374.11,977.40,N
+PRD00078,Core Component 78,Packaging,98.05,144.09,358.38,N
+PRD00079,Alpha Component 79,Drive Train,143.07,223.16,867.85,Y
+PRD00080,Nova Component 80,Control Module,61.05,455.03,439.81,N
+PRD00081,Alpha Component 81,Electronics,66.62,447.14,1087.03,Y
+PRD00082,Prime Component 82,Control Module,18.24,399.65,379.48,N
+PRD00083,Alpha Component 83,Control Module,137.36,646.41,574.81,Y
+PRD00084,Nova Component 84,Control Module,155.64,582.22,306.38,Y
+PRD00085,Prime Component 85,Control Module,77.92,453.58,1149.62,Y
+PRD00086,Flex Component 86,Packaging,135.27,47.65,568.43,Y
+PRD00087,Core Component 87,Housing,67.61,523.59,937.65,N
+PRD00088,Flex Component 88,Electronics,133.17,570.73,970.36,Y
+PRD00089,Alpha Component 89,Drive Train,101.47,148.04,1098.29,Y
+PRD00090,Nova Component 90,Drive Train,18.39,236.64,214.28,Y
+PRD00091,Flex Component 91,Drive Train,105.16,577.07,845.88,Y
+PRD00092,Nova Component 92,Packaging,71.41,94.75,133.99,Y
+PRD00093,Prime Component 93,Control Module,139.12,163.51,1148.82,Y
+PRD00094,Core Component 94,Electronics,61.61,518.25,43.70,Y
+PRD00095,Flex Component 95,Electronics,129.99,565.31,594.58,N
+PRD00096,Flex Component 96,Control Module,102.06,638.97,826.99,N
+PRD00097,Nova Component 97,Control Module,58.29,403.35,571.71,Y
+PRD00098,Alpha Component 98,Control Module,68.49,153.99,510.14,Y
+PRD00099,Flex Component 99,Drive Train,99.71,350.39,410.28,N
+PRD00100,Core Component 100,Drive Train,125.81,317.39,161.62,Y
+PRD00101,Prime Component 101,Drive Train,84.41,430.57,1022.12,Y
+PRD00102,Alpha Component 102,Packaging,91.09,283.04,780.80,Y
+PRD00103,Prime Component 103,Housing,41.09,364.86,258.96,N
+PRD00104,Nova Component 104,Electronics,28.13,239.05,471.21,N
+PRD00105,Flex Component 105,Housing,111.69,105.72,746.60,Y
+PRD00106,Prime Component 106,Control Module,125.68,635.08,745.97,Y
+PRD00107,Core Component 107,Drive Train,41.81,174.47,632.29,Y
+PRD00108,Nova Component 108,Packaging,159.93,51.44,299.07,Y
+PRD00109,Flex Component 109,Control Module,142.56,232.95,960.77,Y
+PRD00110,Nova Component 110,Electronics,139.93,184.92,1071.16,Y
+PRD00111,Core Component 111,Control Module,22.78,455.57,764.69,Y
+PRD00112,Nova Component 112,Control Module,97.63,267.56,552.95,Y
+PRD00113,Prime Component 113,Housing,98.42,434.11,784.53,Y
+PRD00114,Nova Component 114,Electronics,73.30,121.88,1187.05,Y
+PRD00115,Nova Component 115,Packaging,85.35,156.40,913.25,Y
+PRD00116,Prime Component 116,Control Module,54.40,296.22,1006.92,Y
+PRD00117,Nova Component 117,Control Module,25.49,91.91,184.46,N
+PRD00118,Prime Component 118,Drive Train,112.80,277.00,500.96,Y
+PRD00119,Prime Component 119,Electronics,87.81,393.75,642.08,Y
+PRD00120,Nova Component 120,Drive Train,139.52,146.39,830.33,Y
