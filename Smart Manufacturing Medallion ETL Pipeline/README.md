@@ -102,6 +102,4 @@ pytest -q
 - mart_maintenance_backlog.csv
 - recon_work_orders_vs_production.csv
 
-## Resume bullet
 
-Built a Medallion-based industrial data platform using Python, PySpark and SQL to ingest ERP, MES, SCADA, quality, maintenance, supplier and inventory data; implemented SCD Type 2 dimensions, telemetry anomaly detection, OEE, MTBF/MTTR, supplier scorecards, inventory risk, energy intensity, reconciliation, audit logging and data-quality quarantine.
