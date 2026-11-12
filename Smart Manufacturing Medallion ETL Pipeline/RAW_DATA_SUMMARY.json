@@ -1,0 +1,21 @@
+{
+  "data/raw/cdc/machine_cdc.csv": 25,
+  "data/raw/cdc/product_cdc.csv": 35,
+  "data/raw/erp/work_orders.csv": 4500,
+  "data/raw/inventory/energy_usage.csv": 225,
+  "data/raw/inventory/inventory_snapshots.csv": 1650,
+  "data/raw/inventory/supplier_receipts.csv": 2400,
+  "data/raw/iot/machine_telemetry.csv": 64800,
+  "data/raw/maintenance/maintenance_orders.csv": 1600,
+  "data/raw/master/lines.csv": 20,
+  "data/raw/master/machines.csv": 60,
+  "data/raw/master/materials.csv": 180,
+  "data/raw/master/plants.csv": 5,
+  "data/raw/master/products.csv": 120,
+  "data/raw/master/suppliers.csv": 70,
+  "data/raw/mes/downtime_events.csv": 2200,
+  "data/raw/mes/production_runs.csv": 3800,
+  "data/raw/quality/defect_events.csv": 2200,
+  "data/raw/quality/quality_inspections.csv": 3800,
+  "data/raw/reference/calendar.csv": 122
+}
