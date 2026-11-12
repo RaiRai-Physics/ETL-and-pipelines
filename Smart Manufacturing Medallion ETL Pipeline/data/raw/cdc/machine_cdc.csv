@@ -1,0 +1,26 @@
+cdc_id,machine_id,effective_ts,operation,new_machine_status,new_criticality,change_reason
+MCDC000001,MC00022,2026-09-25 22:12:10,UPDATE,Maintenance,High,maintenance_status
+MCDC000002,MC00019,2026-11-21 07:39:15,UPDATE,Maintenance,High,retirement
+MCDC000003,MC00053,2026-10-28 21:48:45,UPDATE,Standby,Critical,maintenance_status
+MCDC000004,MC00051,2026-11-29 00:03:44,UPDATE,Standby,Low,maintenance_status
+MCDC000005,MC00040,2026-10-28 12:50:01,UPDATE,Retired,Critical,condition_review
+MCDC000006,MC00060,2026-09-26 10:25:43,UPDATE,Retired,Critical,maintenance_status
+MCDC000007,MC00016,2026-10-20 19:45:38,UPDATE,Maintenance,Critical,condition_review
+MCDC000008,MC00003,2026-11-15 21:57:19,UPDATE,Active,Low,condition_review
+MCDC000009,MC00033,2026-11-16 17:24:12,UPDATE,Retired,Medium,maintenance_status
+MCDC000010,MC00006,2026-11-27 03:18:56,UPDATE,Maintenance,High,condition_review
+MCDC000011,MC00002,2026-11-23 10:01:33,UPDATE,Maintenance,High,maintenance_status
+MCDC000012,MC00010,2026-11-29 16:13:28,UPDATE,Active,Medium,capacity_change
+MCDC000013,MC00058,2026-11-15 00:47:25,UPDATE,Retired,Critical,maintenance_status
+MCDC000014,MC00035,2026-10-26 15:33:46,UPDATE,Active,Medium,maintenance_status
+MCDC000015,MC00014,2026-09-18 19:25:26,UPDATE,Retired,Low,maintenance_status
+MCDC000016,MC00055,2026-10-06 19:55:41,UPDATE,Active,High,maintenance_status
+MCDC000017,MC00032,2026-10-08 10:00:31,UPDATE,Retired,High,maintenance_status
+MCDC000018,MC00039,2026-10-12 06:19:49,UPDATE,Standby,Medium,retirement
+MCDC000019,MC00009,2026-09-29 17:36:17,UPDATE,Maintenance,Critical,retirement
+MCDC000020,MC00052,2026-11-26 11:38:42,UPDATE,Active,Medium,retirement
+MCDC000021,MC00008,2026-11-22 17:27:23,UPDATE,Retired,Critical,maintenance_status
+MCDC000022,MC00050,2026-11-25 16:14:02,UPDATE,Standby,Critical,condition_review
+MCDC000023,MC00049,2026-10-22 20:57:58,UPDATE,Active,Critical,condition_review
+MCDC000024,MC00054,2026-11-14 04:14:50,UPDATE,Standby,Low,condition_review
+MCDC000025,MC00044,2026-11-09 17:37:01,UPDATE,Active,Low,retirement
