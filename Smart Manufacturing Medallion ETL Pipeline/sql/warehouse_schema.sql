@@ -1,0 +1,3 @@
+CREATE TABLE dim_machine_scd2 (machine_sk VARCHAR, machine_id VARCHAR, machine_status VARCHAR, criticality VARCHAR, effective_start_date DATE, effective_end_date DATE, is_current BOOLEAN);
+CREATE TABLE fact_production_runs (production_run_id VARCHAR, work_order_id VARCHAR, line_id VARCHAR, product_id VARCHAR, run_start_ts TIMESTAMP, good_units NUMBER, scrap_units NUMBER, rework_units NUMBER, runtime_hours NUMBER, scrap_rate NUMBER);
+CREATE TABLE fact_machine_telemetry (telemetry_id VARCHAR, machine_id VARCHAR, reading_ts TIMESTAMP, temperature_c NUMBER, vibration_mm_s NUMBER, power_kw NUMBER, anomaly_flag BOOLEAN);
