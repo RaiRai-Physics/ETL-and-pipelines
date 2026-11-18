@@ -1,0 +1,2 @@
+snapshot_date,plant_id,material_id,on_hand_qty,reserved_qty,on_order_qty,inventory_status,available_qty,material_name,material_category,safety_stock_qty,stockout_flag,below_safety_stock_flag,excess_inventory_flag
+2026-11-30,PLT004,MAT000050,363.0,363,984,Healthy,0.0,Raw Material 50,Chemical,500,True,True,False

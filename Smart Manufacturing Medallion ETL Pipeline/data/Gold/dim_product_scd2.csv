@@ -1,0 +1,156 @@
+product_id,product_name,product_family,standard_cycle_time_sec,standard_cost,list_price,active_flag,effective_start_date,source,effective_end_date,is_current,product_sk
+PRD00001,Nova Component 1,Drive Train,63.96,337.05,870.8,True,2026-01-01,product_master,9999-12-31,True,15ab12f901eeab0d787d
+PRD00002,Core Component 2,Electronics,50.13,74.0,337.38,True,2026-01-01,product_master,9999-12-31,True,bf1ab02c8940fe0ac55c
+PRD00003,Nova Component 3,Housing,33.5,561.74,684.08,False,2026-01-01,product_master,2026-09-16,False,d255a76379b278eeccc1
+PRD00003,Nova Component 3,Housing,33.5,606.77,684.08,False,2026-09-16,product_cdc,9999-12-31,True,442e450e114dfc59d919
+PRD00004,Prime Component 4,Drive Train,99.79,139.69,198.26,True,2026-01-01,product_master,9999-12-31,True,21286e258134c2ab47a2
+PRD00005,Nova Component 5,Housing,156.47,27.73,922.92,True,2026-01-01,product_master,9999-12-31,True,1b6ec3acd97bc4ae7837
+PRD00006,Nova Component 6,Drive Train,36.99,293.5,656.25,False,2026-01-01,product_master,9999-12-31,True,368d241afb6e979e8ac3
+PRD00007,Nova Component 7,Control Module,45.91,492.81,703.34,True,2026-01-01,product_master,9999-12-31,True,a8d8ba5ad8677508d439
+PRD00008,Core Component 8,Electronics,30.72,538.57,1168.31,True,2026-01-01,product_master,9999-12-31,True,5e4d271f9f58b1372d42
+PRD00009,Prime Component 9,Housing,82.19,,165.17,False,2026-01-01,product_master,9999-12-31,True,8b3afad4bb0dc234ec27
+PRD00010,Alpha Component 10,Packaging,48.07,637.67,494.06,True,2026-01-01,product_master,2026-09-14,False,d071f46a00d67571e8a7
+PRD00010,Alpha Component 10,Packaging,48.07,690.42,494.06,False,2026-09-14,product_cdc,9999-12-31,True,15370ada6e9781b388dd
+PRD00011,Core Component 11,Housing,31.47,22.98,648.01,True,2026-01-01,product_master,9999-12-31,True,ac779506aa6e7d65bcf5
+PRD00012,Alpha Component 12,Housing,23.43,599.06,355.01,True,2026-01-01,product_master,2026-09-14,False,8d85dcc0669765d44e95
+PRD00012,Alpha Component 12,Housing,23.43,646.46,355.01,True,2026-09-14,product_cdc,9999-12-31,True,3db6beff9f8a30534fe8
+PRD00013,Prime Component 13,Drive Train,47.81,357.75,796.38,True,2026-01-01,product_master,9999-12-31,True,8bac158fb1868ddf42ee
+PRD00014,Flex Component 14,Drive Train,79.79,377.36,397.85,False,2026-01-01,product_master,9999-12-31,True,ee1650527dc0f739b125
+PRD00015,Core Component 15,Housing,113.79,215.33,513.94,True,2026-01-01,product_master,2026-09-02,False,cd4d2fea7f9c5b500b8a
+PRD00015,Core Component 15,Housing,113.79,208.9,513.94,False,2026-09-02,product_cdc,9999-12-31,True,0fc783bac8dbe0d10d1f
+PRD00016,Prime Component 16,Packaging,104.65,195.49,974.47,True,2026-01-01,product_master,9999-12-31,True,4f881d27f11bbc4796d8
+PRD00017,Flex Component 17,Control Module,36.4,55.7,263.92,True,2026-01-01,product_master,9999-12-31,True,ecc18dccac84ea4cdcdf
+PRD00018,Flex Component 18,Packaging,57.15,81.03,907.47,True,2026-01-01,product_master,9999-12-31,True,91ad3812b831be669dee
+PRD00019,Core Component 19,Packaging,46.5,201.22,556.83,True,2026-01-01,product_master,9999-12-31,True,2b8dd9ff6b2969921ac3
+PRD00020,Core Component 20,Drive Train,86.91,448.53,511.54,True,2026-01-01,product_master,2026-10-20,False,11e2bb8884702a372f03
+PRD00020,Core Component 20,Drive Train,86.91,460.85,511.54,False,2026-10-20,product_cdc,9999-12-31,True,f30f9487c0f4687ee30b
+PRD00021,Core Component 21,Drive Train,59.15,360.08,1170.09,True,2026-01-01,product_master,2026-09-01,False,68362c93c8d028b57beb
+PRD00021,Core Component 21,Drive Train,59.15,335.25,1170.09,True,2026-09-01,product_cdc,9999-12-31,True,238eb2ff092a86028517
+PRD00022,Alpha Component 22,Drive Train,39.75,555.94,545.72,False,2026-01-01,product_master,9999-12-31,True,5abcde7f63cb98c6bcf2
+PRD00023,Prime Component 23,Control Module,142.85,319.67,369.06,True,2026-01-01,product_master,9999-12-31,True,4c74c992dc744abf6e8b
+PRD00024,Nova Component 24,Control Module,57.16,378.95,135.89,True,2026-01-01,product_master,9999-12-31,True,f0f89472ee66d1eab6d8
+PRD00025,Flex Component 25,Control Module,51.26,455.36,405.95,True,2026-01-01,product_master,9999-12-31,True,1e133a46eae3cc0a2d72
+PRD00026,Flex Component 26,Packaging,110.29,384.15,304.47,True,2026-01-01,product_master,2026-09-18,False,b6a2333b6a998d7a6e3a
+PRD00026,Flex Component 26,Packaging,110.29,416.89,304.47,False,2026-09-18,product_cdc,9999-12-31,True,ad12b2f9d36d7ccb1d8e
+PRD00027,Flex Component 27,Housing,104.81,305.08,486.64,False,2026-01-01,product_master,9999-12-31,True,902d1b7c1833be596ff6
+PRD00028,Core Component 28,Housing,62.42,416.13,482.96,True,2026-01-01,product_master,2026-09-21,False,9bc1c40fb44d55a176c8
+PRD00028,Core Component 28,Housing,62.42,451.85,482.96,True,2026-09-21,product_cdc,9999-12-31,True,e3a2dc94325424e75056
+PRD00029,Core Component 29,Packaging,61.25,45.62,950.97,False,2026-01-01,product_master,9999-12-31,True,556472f9d29cadcdf45a
+PRD00030,Flex Component 30,Control Module,55.68,231.18,316.71,True,2026-01-01,product_master,9999-12-31,True,12f5537e099965a181f3
+PRD00031,Alpha Component 31,Packaging,146.83,112.79,515.17,True,2026-01-01,product_master,9999-12-31,True,9300e83d9d645656c9db
+PRD00032,Nova Component 32,Electronics,110.3,160.62,1037.52,False,2026-01-01,product_master,2026-09-14,False,304ad22b380735963c39
+PRD00032,Nova Component 32,Electronics,110.3,163.65,1037.52,False,2026-09-14,product_cdc,9999-12-31,True,0392985a94c91d3e3210
+PRD00033,Alpha Component 33,Packaging,85.68,480.91,1144.78,True,2026-01-01,product_master,9999-12-31,True,5a436171e3385cc55bda
+PRD00034,Core Component 34,Packaging,39.89,455.89,1140.95,True,2026-01-01,product_master,9999-12-31,True,0d6cd0ca9d09221079fe
+PRD00035,Alpha Component 35,Drive Train,44.34,29.47,694.06,False,2026-01-01,product_master,9999-12-31,True,bd66e9abbc16fceb0e7b
+PRD00036,Alpha Component 36,Electronics,151.06,88.29,567.86,True,2026-01-01,product_master,9999-12-31,True,8d5c08fbe99d1834ceea
+PRD00037,Flex Component 37,Drive Train,109.84,214.66,224.87,True,2026-01-01,product_master,2026-10-13,False,b8f111d56075e25747f8
+PRD00037,Flex Component 37,Drive Train,109.84,202.36,224.87,False,2026-10-13,product_cdc,9999-12-31,True,c7ec9199309dfc862b00
+PRD00038,Prime Component 38,Packaging,138.87,81.97,399.52,False,2026-01-01,product_master,2026-09-16,False,a088226d7db29c8ab846
+PRD00038,Prime Component 38,Packaging,138.87,78.87,399.52,False,2026-09-16,product_cdc,9999-12-31,True,f3c7da0277c667dd121c
+PRD00039,Core Component 39,Control Module,155.86,52.49,44.75,True,2026-01-01,product_master,2026-09-15,False,9d3570f9b5b8a5428c35
+PRD00039,Core Component 39,Control Module,155.86,49.41,44.75,False,2026-09-15,product_cdc,9999-12-31,True,0e9cf1578c314ab6971d
+PRD00040,Core Component 40,Packaging,95.72,40.95,709.69,False,2026-01-01,product_master,9999-12-31,True,136084f52d1d4569e049
+PRD00041,Prime Component 41,Housing,32.64,570.67,891.08,True,2026-01-01,product_master,9999-12-31,True,56aebf3c2549bb2a41e1
+PRD00042,Core Component 42,Packaging,83.15,256.27,680.53,False,2026-01-01,product_master,9999-12-31,True,5ee6675e8d7661536ad3
+PRD00043,Core Component 43,Packaging,71.5,590.63,203.98,True,2026-01-01,product_master,2026-11-19,False,e8f3bfd4593207360ba2
+PRD00043,Core Component 43,Packaging,71.5,632.16,203.98,True,2026-11-19,product_cdc,9999-12-31,True,748571f14af7eddc5c2e
+PRD00044,Core Component 44,Electronics,107.02,359.38,87.84,False,2026-01-01,product_master,9999-12-31,True,261f678212641cfba799
+PRD00045,Alpha Component 45,Control Module,122.7,31.61,1176.67,False,2026-01-01,product_master,2026-11-24,False,88233890727a8013c183
+PRD00045,Alpha Component 45,Control Module,122.7,29.29,1176.67,False,2026-11-24,product_cdc,9999-12-31,True,fc417143feebcf8fc475
+PRD00046,Nova Component 46,Drive Train,63.65,62.53,400.64,True,2026-01-01,product_master,9999-12-31,True,61402ea8192fb0d048fa
+PRD00047,Prime Component 47,Electronics,78.4,595.65,1189.81,True,2026-01-01,product_master,2026-09-30,False,97bb52acb6a6a414053e
+PRD00047,Prime Component 47,Electronics,78.4,630.67,1189.81,True,2026-09-30,product_cdc,9999-12-31,True,b81ce8108391d62c6cc3
+PRD00048,Alpha Component 48,Control Module,26.46,230.91,529.39,True,2026-01-01,product_master,9999-12-31,True,82c7442c7fbf926cf513
+PRD00049,Prime Component 49,Drive Train,48.21,385.04,1181.11,True,2026-01-01,product_master,2026-09-18,False,d60ecc2c02aa3cf4e867
+PRD00049,Prime Component 49,Drive Train,48.21,388.0,1181.11,True,2026-09-18,product_cdc,9999-12-31,True,81ec70273bd423cf3f97
+PRD00050,Prime Component 50,Packaging,94.67,181.19,765.82,True,2026-01-01,product_master,2026-09-24,False,f7ebd6c28f9439c4d721
+PRD00050,Prime Component 50,Packaging,94.67,201.62,765.82,True,2026-09-24,product_cdc,9999-12-31,True,31137c11212c8a27168e
+PRD00051,Nova Component 51,Housing,25.23,59.64,505.73,True,2026-01-01,product_master,9999-12-31,True,44214d8763ab78558bde
+PRD00052,Flex Component 52,Drive Train,135.1,,1115.86,False,2026-01-01,product_master,9999-12-31,True,ba33f7d7a53227aa783e
+PRD00053,Nova Component 53,Electronics,106.46,389.04,438.41,True,2026-01-01,product_master,9999-12-31,True,de6f4b694fbc5417862c
+PRD00054,Prime Component 54,Housing,54.88,190.87,480.81,True,2026-01-01,product_master,9999-12-31,True,c1b5974340006e0e0ed3
+PRD00055,Prime Component 55,Control Module,38.17,80.67,469.82,True,2026-01-01,product_master,9999-12-31,True,bf5cbf4673f3ac301248
+PRD00056,Nova Component 56,Housing,55.89,256.67,109.58,True,2026-01-01,product_master,9999-12-31,True,844fe6e99f1f0310aeae
+PRD00057,Core Component 57,Packaging,65.88,181.31,410.32,True,2026-01-01,product_master,9999-12-31,True,cf49a54df68adbf62049
+PRD00058,Core Component 58,Housing,133.27,154.2,228.5,False,2026-01-01,product_master,9999-12-31,True,d129aab414a13f5305d3
+PRD00059,Prime Component 59,Housing,29.87,623.23,1156.48,True,2026-01-01,product_master,9999-12-31,True,ef9d226902fa86dfff87
+PRD00060,Nova Component 60,Control Module,158.04,646.71,897.42,True,2026-01-01,product_master,9999-12-31,True,23d405379155fd359f7d
+PRD00061,Core Component 61,Drive Train,64.83,606.43,130.51,False,2026-01-01,product_master,9999-12-31,True,6bac29d00f9875d9f2d5
+PRD00062,Core Component 62,Drive Train,49.53,266.39,704.09,False,2026-01-01,product_master,2026-10-30,False,72dcb2a4c7e949eb047f
+PRD00062,Core Component 62,Drive Train,49.53,296.32,704.09,False,2026-10-30,product_cdc,9999-12-31,True,791c31bd6732f0a14008
+PRD00063,Alpha Component 63,Electronics,91.41,636.42,1010.01,True,2026-01-01,product_master,2026-09-21,False,184d84fe28f14fed13e4
+PRD00063,Alpha Component 63,Electronics,91.41,706.69,1010.01,True,2026-09-21,product_cdc,9999-12-31,True,2b4797b7127799736dca
+PRD00064,Prime Component 64,Drive Train,62.08,420.3,364.45,True,2026-01-01,product_master,2026-09-14,False,30ff00e16ec05f189bb5
+PRD00064,Prime Component 64,Drive Train,62.08,426.42,364.45,True,2026-09-14,product_cdc,9999-12-31,True,0a435d5ee7597be16d2c
+PRD00065,Nova Component 65,Control Module,116.18,236.4,80.98,True,2026-01-01,product_master,9999-12-31,True,ce71c776328c4fa03ac8
+PRD00066,Core Component 66,Housing,102.13,645.86,851.05,True,2026-01-01,product_master,9999-12-31,True,b4fdcf61ac6a193224ef
+PRD00067,Prime Component 67,Housing,42.96,43.33,1103.36,True,2026-01-01,product_master,2026-11-03,False,ce9e6a47bab0b2aaaa29
+PRD00067,Prime Component 67,Housing,42.96,39.97,1103.36,True,2026-11-03,product_cdc,9999-12-31,True,e6df5dfa9a15c1f8b47b
+PRD00068,Prime Component 68,Electronics,123.95,644.38,542.42,True,2026-01-01,product_master,9999-12-31,True,77c0f5000e7dd39856f9
+PRD00069,Flex Component 69,Control Module,155.29,499.75,604.15,False,2026-01-01,product_master,9999-12-31,True,a0db1820d2bc9970a67b
+PRD00070,Alpha Component 70,Drive Train,126.25,349.43,673.26,False,2026-01-01,product_master,2026-09-11,False,c0f45fc086cc1dd280dd
+PRD00070,Alpha Component 70,Drive Train,126.25,334.63,673.26,True,2026-09-11,product_cdc,9999-12-31,True,4ad40621c16d850c5a89
+PRD00071,Core Component 71,Housing,19.54,59.38,1168.02,True,2026-01-01,product_master,2026-11-17,False,cf0870078a11b710aac5
+PRD00071,Core Component 71,Housing,19.54,58.58,1168.02,False,2026-11-17,product_cdc,9999-12-31,True,9dce11c9575331eb834f
+PRD00072,Core Component 72,Drive Train,140.1,564.54,219.51,True,2026-01-01,product_master,9999-12-31,True,fff454828fd20345a510
+PRD00073,Nova Component 73,Packaging,104.1,361.5,682.57,False,2026-01-01,product_master,9999-12-31,True,65f24f7b7321984033ef
+PRD00074,Alpha Component 74,Drive Train,136.03,21.43,1124.99,True,2026-01-01,product_master,2026-09-18,False,e0b3ee9c7efb4e9599f1
+PRD00074,Alpha Component 74,Drive Train,136.03,21.59,1124.99,True,2026-09-18,product_cdc,9999-12-31,True,6fc660c30e63542d493c
+PRD00075,Alpha Component 75,Drive Train,132.29,288.04,518.33,False,2026-01-01,product_master,9999-12-31,True,417088cd1c3008f9fcb1
+PRD00076,Alpha Component 76,Packaging,77.3,219.56,208.51,True,2026-01-01,product_master,9999-12-31,True,444b5920e65c8d2b072b
+PRD00077,Flex Component 77,Drive Train,145.3,374.11,977.4,False,2026-01-01,product_master,9999-12-31,True,1cc3504472f085e1afa1
+PRD00078,Core Component 78,Packaging,98.05,144.09,358.38,False,2026-01-01,product_master,2026-09-29,False,2a857fdf20f59877f650
+PRD00078,Core Component 78,Packaging,98.05,158.0,358.38,False,2026-09-29,product_cdc,9999-12-31,True,8d250366db9ba5579df6
+PRD00079,Alpha Component 79,Drive Train,143.07,223.16,867.85,True,2026-01-01,product_master,9999-12-31,True,ed97120f9f71db489582
+PRD00080,Nova Component 80,Control Module,61.05,455.03,439.81,False,2026-01-01,product_master,9999-12-31,True,f1e3fbefbcb277663022
+PRD00081,Alpha Component 81,Electronics,66.62,447.14,1087.03,True,2026-01-01,product_master,9999-12-31,True,a96b0b7b797905d39960
+PRD00082,Prime Component 82,Control Module,18.24,399.65,379.48,False,2026-01-01,product_master,9999-12-31,True,dd7d7c79925c7dce32ae
+PRD00083,Alpha Component 83,Control Module,137.36,646.41,574.81,True,2026-01-01,product_master,2026-10-17,False,a63667280cce17bdf3ae
+PRD00083,Alpha Component 83,Control Module,137.36,631.25,574.81,False,2026-10-17,product_cdc,9999-12-31,True,0969f25af23e3ce03482
+PRD00084,Nova Component 84,Control Module,155.64,582.22,306.38,True,2026-01-01,product_master,9999-12-31,True,3733c908dc0ac2e3012c
+PRD00085,Prime Component 85,Control Module,77.92,453.58,1149.62,True,2026-01-01,product_master,9999-12-31,True,ba8609cf83074fffb27f
+PRD00086,Flex Component 86,Packaging,135.27,47.65,568.43,True,2026-01-01,product_master,9999-12-31,True,1b83327328f5d37ec714
+PRD00087,Core Component 87,Housing,67.61,523.59,937.65,False,2026-01-01,product_master,9999-12-31,True,8c13b5c0fb95cb39759f
+PRD00088,Flex Component 88,Electronics,133.17,570.73,970.36,True,2026-01-01,product_master,2026-11-06,False,ecd65257a4890ebfa381
+PRD00088,Flex Component 88,Electronics,133.17,545.88,970.36,True,2026-11-06,product_cdc,9999-12-31,True,679b6171ea0634d9e1ea
+PRD00089,Alpha Component 89,Drive Train,101.47,148.04,1098.29,True,2026-01-01,product_master,9999-12-31,True,46a0e0986526db0ed47b
+PRD00090,Nova Component 90,Drive Train,18.39,236.64,214.28,True,2026-01-01,product_master,9999-12-31,True,9f4347b9e073a4719bcc
+PRD00091,Flex Component 91,Drive Train,105.16,577.07,845.88,True,2026-01-01,product_master,9999-12-31,True,4623699380d564aad185
+PRD00092,Nova Component 92,Packaging,71.41,94.75,133.99,True,2026-01-01,product_master,9999-12-31,True,82f6e36a30ba3b5fc05e
+PRD00093,Prime Component 93,Control Module,139.12,163.51,1148.82,True,2026-01-01,product_master,2026-11-07,False,e12bc4d5f449a301e54d
+PRD00093,Prime Component 93,Control Module,139.12,169.55,1148.82,True,2026-11-07,product_cdc,9999-12-31,True,b174852e199b6b4958f3
+PRD00094,Core Component 94,Electronics,61.61,518.25,43.7,True,2026-01-01,product_master,9999-12-31,True,58409b877fc1b642d03a
+PRD00095,Flex Component 95,Electronics,129.99,565.31,594.58,False,2026-01-01,product_master,2026-10-29,False,1339b6183e612578dfc4
+PRD00095,Flex Component 95,Electronics,129.99,582.73,594.58,False,2026-10-29,product_cdc,9999-12-31,True,780568233dca33c34bf7
+PRD00096,Flex Component 96,Control Module,102.06,638.97,826.99,False,2026-01-01,product_master,9999-12-31,True,e4af261567f8bdc43f5a
+PRD00097,Nova Component 97,Control Module,58.29,403.35,571.71,True,2026-01-01,product_master,9999-12-31,True,b5aad71bc30417d1459b
+PRD00098,Alpha Component 98,Control Module,68.49,153.99,510.14,True,2026-01-01,product_master,9999-12-31,True,e3a8952fbf02e9c30826
+PRD00099,Flex Component 99,Drive Train,99.71,350.39,410.28,False,2026-01-01,product_master,9999-12-31,True,ea407055b31847eaaf32
+PRD00100,Core Component 100,Drive Train,125.81,317.39,161.62,True,2026-01-01,product_master,9999-12-31,True,b972db1d99742e8d5d4f
+PRD00101,Prime Component 101,Drive Train,84.41,430.57,1022.12,True,2026-01-01,product_master,9999-12-31,True,6a893bafa84288bf19aa
+PRD00102,Alpha Component 102,Packaging,91.09,283.04,780.8,True,2026-01-01,product_master,2026-10-05,False,7ba4159310470a82c271
+PRD00102,Alpha Component 102,Packaging,91.09,310.51,780.8,True,2026-10-05,product_cdc,9999-12-31,True,eed1f8789a3a92e88f42
+PRD00103,Prime Component 103,Housing,41.09,364.86,258.96,False,2026-01-01,product_master,9999-12-31,True,0d07cbeab2fc66de3741
+PRD00104,Nova Component 104,Electronics,28.13,239.05,471.21,False,2026-01-01,product_master,9999-12-31,True,1e054e8ce8f0b046c088
+PRD00105,Flex Component 105,Housing,111.69,105.72,746.6,True,2026-01-01,product_master,2026-09-17,False,19b7f6ffa21f413e0e5e
+PRD00105,Flex Component 105,Housing,111.69,109.64,746.6,True,2026-09-17,product_cdc,9999-12-31,True,b84e19579c2a8affb635
+PRD00106,Prime Component 106,Control Module,125.68,635.08,745.97,True,2026-01-01,product_master,2026-09-22,False,73698bddf67a8f6596f7
+PRD00106,Prime Component 106,Control Module,125.68,589.79,745.97,False,2026-09-22,product_cdc,9999-12-31,True,a9615de773b014243a2c
+PRD00107,Core Component 107,Drive Train,41.81,174.47,632.29,True,2026-01-01,product_master,9999-12-31,True,f1b92aeb6062afdf5124
+PRD00108,Nova Component 108,Packaging,159.93,51.44,299.07,True,2026-01-01,product_master,9999-12-31,True,7e767dad76112e2b8662
+PRD00109,Flex Component 109,Control Module,142.56,232.95,960.77,True,2026-01-01,product_master,9999-12-31,True,dc5fd4954eaf83987016
+PRD00110,Nova Component 110,Electronics,139.93,184.92,1071.16,True,2026-01-01,product_master,9999-12-31,True,afddc909e6225f35d8a9
+PRD00111,Core Component 111,Control Module,22.78,455.57,764.69,True,2026-01-01,product_master,9999-12-31,True,eaab27abd34545bd0cac
+PRD00112,Nova Component 112,Control Module,97.63,267.56,552.95,True,2026-01-01,product_master,2026-10-21,False,f0fe6815223c301d42a5
+PRD00112,Nova Component 112,Control Module,97.63,292.7,552.95,False,2026-10-21,product_cdc,9999-12-31,True,d4d0ca6e0f92d7ad9e0b
+PRD00113,Prime Component 113,Housing,98.42,434.11,784.53,True,2026-01-01,product_master,9999-12-31,True,9305d0e06e778e3e2023
+PRD00114,Nova Component 114,Electronics,73.3,121.88,1187.05,True,2026-01-01,product_master,2026-09-02,False,e1002625c8bcab5dab60
+PRD00114,Nova Component 114,Electronics,73.3,126.68,1187.05,False,2026-09-02,product_cdc,9999-12-31,True,f9ce20edfebf61dcfdd9
+PRD00115,Nova Component 115,Packaging,85.35,156.4,913.25,True,2026-01-01,product_master,9999-12-31,True,a752c3f8d72444892581
+PRD00116,Prime Component 116,Control Module,54.4,296.22,1006.92,True,2026-01-01,product_master,9999-12-31,True,2503788b31185407e5bd
+PRD00117,Nova Component 117,Control Module,25.49,91.91,184.46,False,2026-01-01,product_master,9999-12-31,True,45cd1c49757fb25c1179
+PRD00118,Prime Component 118,Drive Train,112.8,277.0,500.96,True,2026-01-01,product_master,9999-12-31,True,dd759ebbeacbd2efa029
+PRD00119,Prime Component 119,Electronics,87.81,393.75,642.08,True,2026-01-01,product_master,2026-09-09,False,8470b37fd7b88f8a966a
+PRD00119,Prime Component 119,Electronics,87.81,404.58,642.08,True,2026-09-09,product_cdc,9999-12-31,True,166c85fdc4ef1e97115f
+PRD00120,Nova Component 120,Drive Train,139.52,146.39,830.33,True,2026-01-01,product_master,9999-12-31,True,7c1a960529af84e9f90d

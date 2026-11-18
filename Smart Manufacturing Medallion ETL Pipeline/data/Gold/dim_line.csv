@@ -1,0 +1,21 @@
+line_id,plant_id,line_name,line_type,rated_units_per_hour,commission_date,active_flag
+LINE0001,PLT001,Asheville Assembly Line 1,Assembly,200,2016-10-30,True
+LINE0002,PLT001,Asheville Assembly Line 2,Assembly,120,2022-02-18,True
+LINE0003,PLT001,Asheville Assembly Line 3,Packaging,100,,True
+LINE0004,PLT001,Asheville Assembly Line 4,Assembly,80,,True
+LINE0005,PLT002,Greenville Components Line 1,Fabrication,80,2014-07-21,True
+LINE0006,PLT002,Greenville Components Line 2,Fabrication,120,,True
+LINE0007,PLT002,Greenville Components Line 3,Machining,80,2012-10-17,False
+LINE0008,PLT002,Greenville Components Line 4,Fabrication,150,2024-08-20,False
+LINE0009,PLT003,Columbus Manufacturing Line 1,Machining,120,2024-07-29,True
+LINE0010,PLT003,Columbus Manufacturing Line 2,Fabrication,100,2020-07-12,True
+LINE0011,PLT003,Columbus Manufacturing Line 3,Fabrication,100,2021-11-14,True
+LINE0012,PLT003,Columbus Manufacturing Line 4,Assembly,200,2013-04-04,True
+LINE0013,PLT004,Fort Worth Industrial Line 1,Packaging,120,,True
+LINE0014,PLT004,Fort Worth Industrial Line 2,Fabrication,80,2021-02-13,True
+LINE0015,PLT004,Fort Worth Industrial Line 3,Assembly,100,2022-06-21,True
+LINE0016,PLT004,Fort Worth Industrial Line 4,Fabrication,150,,True
+LINE0017,PLT005,Phoenix Precision Line 1,Fabrication,80,2024-07-07,False
+LINE0018,PLT005,Phoenix Precision Line 2,Machining,80,,False
+LINE0019,PLT005,Phoenix Precision Line 3,Packaging,120,,True
+LINE0020,PLT005,Phoenix Precision Line 4,Machining,80,,True
